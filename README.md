@@ -1,0 +1,2 @@
+# numeralpacs
+Numeral partial colexifications
