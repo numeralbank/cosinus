@@ -39,25 +39,25 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	COGIDS	NOTE
 38	German	thirty eight	achtunddreißig	a x t + ʊ n -/d + d r ai + s/ts ɪ ç	eight and three -ty-	13 8 10 5	
 39	German	thirty nine	neununddreißig	n oi n + ʊ n -/d + d r ai + s/ts ɪ ç	nine and three -ty-	11 8 10 5	
 40	German	forty	vierzig	f iː r + ts ɪ ç	four -ty-	2 5	
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@pinyin=CHINESE
-#@css=menu:show|database:hide
-#@basics=COGIDS|CONCEPT|DOCULECT|MORPHEMES|NOTE|TOKENS
-#@_selected_doculects=German
-#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@sorted_taxa=German
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@display=filedisplay|glosses
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTE
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=german.tsv
-#@navbar=true
-#@_morphology_mode=partial
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS							
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION							
+#@pinyin=CHINESE							
+#@css=menu:show|database:hide							
+#@basics=COGIDS|CONCEPT|DOCULECT|MORPHEMES|NOTE|TOKENS							
+#@_selected_doculects=German							
+#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty							
+#@sorted_taxa=German							
+#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty							
+#@display=filedisplay|glosses							
+#@missing_marker=Ø							
+#@separator=							
+#@gap_marker=-							
+#@formatter=false							
+#@root_formatter=COGIDS							
+#@note_formatter=NOTE							
+#@pattern_formatter=undefined							
+#@publish=undefined							
+#@_almcol=ALIGNMENT							
+#@filename=german.tsv							
+#@navbar=true							
+#@_morphology_mode=partial							
