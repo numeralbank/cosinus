@@ -15,10 +15,10 @@ def get_word(wf):
 
 def preprocess_data(forms, remove_boundaries=True):
     """
-    Convert
-    :param forms:
-    :param remove_boundaries:
-    :return:
+    Convert wordlist to a data representation that is suitable for Morfessor.
+    :param forms: The wordlist as list of linse.Word objects
+    :param remove_boundaries: Indicates if morpheme boundary annotations should be removed, defaults to true
+    :return: Data ready to be fed to Morfessor
     """
     clean_data = []
 
