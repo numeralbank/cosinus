@@ -1,0 +1,63 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	LOCAL_ID	TOKENS	MORPHEMES	COGIDS	ALIGNMENT	NOTE
+1	Latin	one	unus	uːnʊs		uː n + ʊ s	one nom.m.sg_suff	2 11	uː n + ʊ s	None
+2	Latin	two	duo	dʊɔ		d ʊ ɔ	two	4	d ʊ ɔ	None
+3	Latin	three	tres	treːs		t r eː s	three	1	t r - eː s	None
+4	Latin	four	quattuor	kʷatːʊɔr		kʷ a tː ʊ ɔ r	four	9	kʷ a tː ʊ ɔ r	None
+5	Latin	five	quinque	kʷiːŋkʷɛ		kʷ iː ŋ kʷ ɛ	five	3	kʷ iː ŋ kʷ - ɛ	None
+6	Latin	six	sex	sɛks		s ɛ k s	six	12	s ɛ k - s -	None
+7	Latin	seven	septem	sɛptɛ̃		s ɛ p t ɛ̃/ɛ -/m	seven	13	s ɛ p t ɛ̃/ɛ -/m	None
+8	Latin	eight	octo	ɔktoː		ɔ k t oː	eight	15	ɔ k t oː	None
+9	Latin	nine	novem	nɔwɛ̃		n ɔ w ɛ̃/ɛ -/m	nine	7	n ɔ w ɛ̃/ɛ -/m	None
+10	Latin	ten	decem	dɛkɛ̃		d ɛ k ɛ̃/ɛ -/m	ten	8	d ɛ k ɛ̃/ɛ -/m	None
+11	Latin	eleven	undecim	uːndɛkɪ̃		uː n + d ɛ k ɪ̃/ɛ -/m	one ten	2 8	uː n + d ɛ k ɪ̃/ɛ -/m	None
+12	Latin	twelve	duodecim	dʊɔdɛkɪ̃		d ʊ ɔ + d ɛ k ɪ̃/ɛ -/m	two ten	4 8	d ʊ ɔ + d ɛ k ɪ̃/ɛ -/m	None
+13	Latin	thirteen	tredecim	treːdɛkɪ̃		t r eː -/s + d ɛ k ɪ̃/ɛ -/m	three ten	1 8	t r eː -/s + d ɛ k ɪ̃/ɛ -/m	None
+14	Latin	fourteen	quattuordecim	kʷatːʊɔrdɛkɪ̃		kʷ a tː ʊ ɔ r + d ɛ k ɪ̃/ɛ -/m	four ten	9 8	kʷ a tː ʊ ɔ r + d ɛ k ɪ̃/ɛ -/m	None
+15	Latin	fifteen	quindecim	kʷiːndɛkɪ̃		kʷ iː n/ŋ -/kʷ -/ɛ + d ɛ k ɪ̃/ɛ -/m	five ten	3 8	kʷ iː n/ŋ -/kʷ -/ɛ + d ɛ k ɪ̃/ɛ -/m	None
+16	Latin	sixteen	sedecim	seːdɛkɪ̃		s eː/ɛ -/k -/s + d ɛ k ɪ̃/ɛ -/m	six ten	12 8	s eː/ɛ -/k -/s + d ɛ k ɪ̃/ɛ -/m	None
+17	Latin	seventeen	septendecim	sɛptɛndɛkɪ̃		s ɛ p t ɛ n/m + d ɛ k ɪ̃/ɛ -/m	seven ten	13 8	s ɛ p t ɛ n/m + d ɛ k ɪ̃/ɛ -/m	None
+18	Latin	eighteen	duodeviginti	dʊodeːwiːɡɪntiː		d ʊ ɔ + d eː + w iː g ɪ n t iː	two from twenty	4 10 6	d ʊ ɔ + d eː + w iː g ɪ n t iː	None
+19	Latin	nineteen	undeviginti	ʊndeːwiːɡɪntiː		ʊ/uː n + d eː + w iː g ɪ n t iː	one from twenty	2 10 6	ʊ/uː n + d eː + w iː g ɪ n t iː	None
+20	Latin	twenty	viginti	wiːɡɪntiː		w iː g ɪ n t iː	twenty	6	w iː g ɪ n t iː	None
+21	Latin	twenty one	viginti unus	wiːɡɪntiː_uːnʊs		w iː g ɪ n t iː + uː n + ʊ s	twenty one nom.m.sg_suff	6 2 11	w iː g ɪ n t iː + uː n + ʊ s	None
+22	Latin	twenty two	viginti duo	wiːɡɪntiː_dʊɔ		w iː g ɪ n t iː + d ʊ ɔ	twenty two	6 4	w iː g ɪ n t iː + d ʊ ɔ	None
+23	Latin	twenty three	viginti tres	wiːɡɪntiː_treːs		w iː g ɪ n t iː + t r eː s	twenty three	6 1	w iː g ɪ n t iː + t r - eː s	None
+24	Latin	twenty four	viginti quattuor	wiːɡɪntiː_kʷatːʊɔr		w iː g ɪ n t iː + kʷ a tː ʊ ɔ r	twenty four	6 9	w iː g ɪ n t iː + kʷ a tː ʊ ɔ r	None
+25	Latin	twenty five	viginti quinque	wiːɡɪntiː_kʷiːŋkʷɛ		w iː g ɪ n t iː + kʷ iː ŋ kʷ ɛ	twenty five	6 3	w iː g ɪ n t iː + kʷ iː ŋ kʷ - ɛ	None
+26	Latin	twenty six	viginti sex	wiːɡɪntiː_sɛks		w iː g ɪ n t iː + s ɛ k s	twenty six	6 12	w iː g ɪ n t iː + s ɛ k - s -	None
+27	Latin	twenty seven	viginti septem	wiːɡɪntiː_sɛptɛ̃		w iː g ɪ n t iː + s ɛ p t ɛ̃/ɛ -/m	twenty seven	6 13	w iː g ɪ n t iː + s ɛ p t ɛ̃/ɛ -/m	None
+28	Latin	twenty eight	duodetriginta	dʊodeːtriːɡɪnta		d ʊ ɔ + d eː + t r iː/eː -/s + g ɪ n t aː	two from three tens_suff	4 10 1 5	d ʊ ɔ + d eː + t r iː/eː -/s + g ɪ n t aː	None
+29	Latin	twenty nine	undetriginta	ʊndeːtriːɡɪnta		ʊ/uː n + d eː + t r iː/eː -/s + g ɪ n t aː	one from three tens_suff	2 10 1 5	ʊ/uː n + d eː + t r iː/eː -/s + g ɪ n t aː	None
+30	Latin	thirty	triginta	triːɡɪntaː		t r iː/eː -/s + g ɪ n t aː	three tens_suff	1 5	t r iː/eː -/s + g ɪ n t aː	None
+31	Latin	thirty one	triginta unus	triːɡɪntaː_uːnʊs		t r iː/eː -/s + g ɪ n t aː + uː n + ʊ s	three tens_suff one nom.m.sg_suff	1 5 2 11	t r iː/eː -/s + g ɪ n t aː + uː n + ʊ s	None
+32	Latin	thirty two	triginta duo	triːɡɪntaː_dʊɔ		t r iː/eː -/s + g ɪ n t aː + d ʊ ɔ	three tens_suff two	1 5 4	t r iː/eː -/s + g ɪ n t aː + d ʊ ɔ	None
+33	Latin	thirty three	triginta tres	triːɡɪntaː_treːs		t r iː/eː -/s + g ɪ n t aː + t r eː s	three tens_suff three	1 5 1	t r iː/eː -/s + g ɪ n t aː + t r - eː s	None
+34	Latin	thirty four	triginta quattuor	triːɡɪntaː_kʷatːʊɔr		t r iː/eː -/s + g ɪ n t aː + kʷ a tː ʊ ɔ r	three tens_suff four	1 5 9	t r iː/eː -/s + g ɪ n t aː + kʷ a tː ʊ ɔ r	None
+35	Latin	thirty five	triginta quinque	triːɡɪntaː_kʷiːŋkʷɛ		t r iː/eː -/s + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	three tens_suff five	1 5 3	t r iː/eː -/s + g ɪ n t aː + kʷ iː ŋ kʷ - ɛ	None
+36	Latin	thirty six	triginta sex	triːɡɪntaː_sɛks		t r iː/eː -/s + g ɪ n t aː + s ɛ k s	three tens_suff six	1 5 12	t r iː/eː -/s + g ɪ n t aː + s ɛ k - s -	None
+37	Latin	thirty seven	triginta septem	triːɡɪntaː_sɛptɛ̃		t r iː/eː -/s + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	three tens_suff seven	1 5 13	t r iː/eː -/s + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	None
+38	Latin	thirty eight	duodequadraginta	dʊodeːkʷadraːɡɪntaː		d ʊ ɔ + d eː + kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	two from four a-epenthesis tens_suff	4 10 9 14 5	d ʊ ɔ + d eː + kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	None
+39	Latin	thirty nine	undequadraginta	ʊndeːkʷadraːɡɪntaː		ʊ/uː n + d eː + kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	one from four a-epenthesis tens_suff	2 10 9 14 5	ʊ/uː n + d eː + kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	None
+40	Latin	forty	quadraginta	kʷadraːɡɪntaː		kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	four a-epenthesis tens_suff	9 14 5	kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	None
+#@highlight=TOKENS|ALIGNMENT
+#@sampa=TOKENS
+#@pinyin=
+#@css=menu:show|database:hide
+#@basics=CONCEPT|DOCULECT|NOTE|TOKENS
+#@_selected_doculects=Latin
+#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
+#@sorted_taxa=Latin
+#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
+#@display=filedisplay|settings
+#@missing_marker=Ø
+#@separator=
+#@gap_marker=-
+#@formatter=LOCALID
+#@root_formatter=COGIDS
+#@note_formatter=NOTE
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=latin.tsv
+#@navbar=true
+#@_morphology_mode=full
