@@ -1,0 +1,41 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	COGIDS	NOTE
+1	Hindi	one	ek	e k			@book{koul2008modern, title={Modern Hindi Grammar}, author={Koul, Omkar Nath}, year={2008}, publisher={Dunwoody Press Springfield, USA}}
+2	Hindi	two	do	d o			
+3	Hindi	three	ti:n	t iː n			
+4	Hindi	four	ca:r	tʃ aː r			
+5	Hindi	five	pã:c	p ãː tʃ			
+6	Hindi	six	che	tʃʰ e			
+7	Hindi	seven	sa:t	s aː t			
+8	Hindi	eight	a:ṭh	aː ʈʰ			
+9	Hindi	nine	nav	n ɔ			
+10	Hindi	ten	das	d a s			
+11	Hindi	eleven	gia:rah	g j a r a h			
+12	Hindi	twelve	ba:rah	b aː r a h			
+13	Hindi	thirteen	terah	t e r a h			
+14	Hindi	fourteen	cɔdah	tʃ ɔ d a h			
+15	Hindi	fifteen	pandrah	p a n d r a h			
+16	Hindi	sixteen	solah	s o l a h			
+17	Hindi	seventeen	satrah	s a t r a h			
+18	Hindi	eighteen	aṭha:rah	aː ʈʰ aː r a h			
+19	Hindi	nineteen	unni:s	u n n iː s			
+20	Hindi	twenty	bi:s	b iː s			
+21	Hindi	twenty one	ikki:s	i k k iː s			
+22	Hindi	twenty two	ba:i:s	b aː iː s			
+23	Hindi	twenty three	tei:s	t eiː s			
+24	Hindi	twenty four	cɔbi:s	tʃ ɔ b iː s			
+25	Hindi	twenty five	pacci:s	p a tʃ tʃ iː s			
+26	Hindi	twenty six	chabbi:s	tʃʰ a b b iː s			
+27	Hindi	twenty seven	satta:i:s	s a t t aː iː s			
+28	Hindi	twenty eight	aṭṭha:i:s	a ʈ ʈʰ aː iː s			
+29	Hindi	twenty nine	untti:s	u n t t iː s			
+30	Hindi	thirty	ti:s	t iː s			
+31	Hindi	thirty one	ikatti:s	i k a t t iː s			
+32	Hindi	thirty two	batti:s	b a t t iː s			
+33	Hindi	thirty three	tɛ̃nti:s	t ɛ̃ n t i ː			
+34	Hindi	thirty four	cɔnti:s	tʃ ɔ n t iː s			
+35	Hindi	thirty five	pɛ̃ti:s	p ɛ̃ t iː s			
+36	Hindi	thirty six	chatti:s	tʃʰ a t t iː s			
+37	Hindi	thirty seven	sɛ̃ti:s	s ɛ̃ t iː s			
+38	Hindi	thirty eight	aṛta:li:s	a ɽ t aː l iː s			
+39	Hindi	thirty nine	unta:li:s	u n t aː l iː s			
+40	Hindi	forty	ca:li:s	tʃ aː l iː s			
