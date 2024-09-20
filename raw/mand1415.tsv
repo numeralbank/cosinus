@@ -10,53 +10,53 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	COGIDS	NOTE
 9	Mandarin	nine	jiǔ	tɕ j ou̯ ²¹³	nine	8	
 10	Mandarin	ten	shí	ʂ ʅ ³⁵	ten	1	
 11	Mandarin	eleven	shí yī	ʂ ʅ ³⁵ + i ⁵⁵	ten one	1 5	
-12	Mandarin	twelve	shí	ʂ ʅ ³⁵ + ɚ ⁵¹	ten two	1 2	
-13	Mandarin	thirteen	shí	ʂ ʅ ³⁵ + s a n ⁵⁵	ten three	1 3	
-14	Mandarin	fourteen	shí	ʂ ʅ ³⁵ + s ɿ ⁵¹	ten four	1 4	
-15	Mandarin	fifteen	shí	ʂ ʅ ³⁵ + u ²¹³	ten five	1 10	
-16	Mandarin	sixteen	shí	ʂ ʅ ³⁵ + l j ou̯ ⁵¹	ten six	1 6	
-17	Mandarin	seventeen	shí	ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	ten seven	1 9	
-18	Mandarin	eighteen	shí	ʂ ʅ ³⁵ + p a ⁵⁵	ten eight	1 7	
-19	Mandarin	nineteen	shí	ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	ten nine	1 8	
+12	Mandarin	twelve	shí èr	ʂ ʅ ³⁵ + ɚ ⁵¹	ten two	1 2	
+13	Mandarin	thirteen	shí sān	ʂ ʅ ³⁵ + s a n ⁵⁵	ten three	1 3	
+14	Mandarin	fourteen	shí sì	ʂ ʅ ³⁵ + s ɿ ⁵¹	ten four	1 4	
+15	Mandarin	fifteen	shí wǔ	ʂ ʅ ³⁵ + u ²¹³	ten five	1 10	
+16	Mandarin	sixteen	shí liù	ʂ ʅ ³⁵ + l j ou̯ ⁵¹	ten six	1 6	
+17	Mandarin	seventeen	shí qī	ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	ten seven	1 9	
+18	Mandarin	eighteen	shí bā	ʂ ʅ ³⁵ + p a ⁵⁵	ten eight	1 7	
+19	Mandarin	nineteen	shí jiǔ	ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	ten nine	1 8	
 20	Mandarin	twenty	èr shí	ɚ ⁵¹ + ʂ ʅ ³⁵	two ten	2 1	
-21	Mandarin	twenty one	èr shí yī	ɚ ⁵¹ + ʂ ʅ ³⁵ + i ⁵⁵	two ten one	2 1 5	
-22	Mandarin	twenty two	èr shí èr	ɚ ⁵¹ + ʂ ʅ ³⁵ + ɚ ⁵¹	two ten two	2 1 2	
-23	Mandarin	twenty three	èr shí sān	ɚ ⁵¹ + ʂ ʅ ³⁵ + s a n ⁵⁵	two ten three	2 1 3	
-24	Mandarin	twenty four	èr shí sì	ɚ ⁵¹ + ʂ ʅ ³⁵ + s ɿ ⁵¹	two ten four	2 1 4	
+21	Mandarin	twenty one	èr shí yī	ɚ ⁵¹ + ʂ ʅ ³⁵ + i ⁵⁵	two ten one	2 1 2005	
+22	Mandarin	twenty two	èr shí èr	ɚ ⁵¹ + ʂ ʅ ³⁵ + ɚ ⁵¹	two ten two	2 1 2002	
+23	Mandarin	twenty three	èr shí sān	ɚ ⁵¹ + ʂ ʅ ³⁵ + s a n ⁵⁵	two ten three	2 1 2003	
+24	Mandarin	twenty four	èr shí sì	ɚ ⁵¹ + ʂ ʅ ³⁵ + s ɿ ⁵¹	two ten four	2 1 2004	
 25	Mandarin	twenty five	èr shí wǔ	ɚ ⁵¹ + ʂ ʅ ³⁵ + u ²¹³	two ten five	2 1 10	
-26	Mandarin	twenty six	èr shí liù	ɚ ⁵¹ + ʂ ʅ ³⁵ + l j ou̯ ⁵¹	two ten six	2 1 6	
-27	Mandarin	twenty seven	èr shí qī	ɚ ⁵¹ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	two ten seven	2 1 9	
-28	Mandarin	twenty eight	èr shí bā	ɚ ⁵¹ + ʂ ʅ ³⁵ + p a ⁵⁵	two ten eight	2 1 7	
-29	Mandarin	twenty nine	èr shí jiǔ	ɚ ⁵¹ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	two ten nine	2 1 8	
+26	Mandarin	twenty six	èr shí liù	ɚ ⁵¹ + ʂ ʅ ³⁵ + l j ou̯ ⁵¹	two ten six	2 1 2006	
+27	Mandarin	twenty seven	èr shí qī	ɚ ⁵¹ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	two ten seven	2 1 2009	
+28	Mandarin	twenty eight	èr shí bā	ɚ ⁵¹ + ʂ ʅ ³⁵ + p a ⁵⁵	two ten eight	2 1 2007	
+29	Mandarin	twenty nine	èr shí jiǔ	ɚ ⁵¹ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	two ten nine	2 1 2008	
 30	Mandarin	thirty	sān shí	s a n ⁵⁵ + ʂ ʅ ³⁵	three ten	3 1	
-31	Mandarin	thirty one	sān shí yī	s a n ⁵⁵ + ʂ ʅ ³⁵ + i ⁵⁵	three ten one	3 1 5	
-32	Mandarin	thirty two	sān shí èr	s a n ⁵⁵ + ʂ ʅ ³⁵ + ɚ ⁵¹	three ten two	3 1 2	
-33	Mandarin	thirty three	sān shí sān	s a n ⁵⁵ + ʂ ʅ ³⁵ + s a n ⁵⁵	three ten three	3 1 3	
-34	Mandarin	thirty four	sān shí sì	s a n ⁵⁵ + ʂ ʅ ³⁵ + s ɿ ⁵¹	three ten four	3 1 4	
+31	Mandarin	thirty one	sān shí yī	s a n ⁵⁵ + ʂ ʅ ³⁵ + i ⁵⁵	three ten one	3 1 2005	
+32	Mandarin	thirty two	sān shí èr	s a n ⁵⁵ + ʂ ʅ ³⁵ + ɚ ⁵¹	three ten two	3 1 2002	
+33	Mandarin	thirty three	sān shí sān	s a n ⁵⁵ + ʂ ʅ ³⁵ + s a n ⁵⁵	three ten three	3 1 2003	
+34	Mandarin	thirty four	sān shí sì	s a n ⁵⁵ + ʂ ʅ ³⁵ + s ɿ ⁵¹	three ten four	3 1 2004	
 35	Mandarin	thirty five	sān shí wǔ	s a n ⁵⁵ + ʂ ʅ ³⁵ + u ²¹³	three ten five	3 1 10	
-36	Mandarin	thirty six	sān shí liù	s a n ⁵⁵ + ʂ ʅ ³⁵ + l j ou̯ ⁵¹	three ten six	3 1 6	
-37	Mandarin	thirty seven	sān shí qī	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	three ten seven	3 1 9	
-38	Mandarin	thirty eight	sān shí bā	s a n ⁵⁵ + ʂ ʅ ³⁵ + p a ⁵⁵	three ten eight	3 1 7	
-39	Mandarin	thirty nine	sān shí jiǔ	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	three ten nine	3 1 8	
+36	Mandarin	thirty six	sān shí liù	s a n ⁵⁵ + ʂ ʅ ³⁵ + l j ou̯ ⁵¹	three ten six	3 1 2006	
+37	Mandarin	thirty seven	sān shí qī	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	three ten seven	3 1 2009	
+38	Mandarin	thirty eight	sān shí bā	s a n ⁵⁵ + ʂ ʅ ³⁵ + p a ⁵⁵	three ten eight	3 1 2007	
+39	Mandarin	thirty nine	sān shí jiǔ	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	three ten nine	3 1 2008	
 40	Mandarin	forty	sì shí	s ɿ ⁵¹ + ʂ ʅ ³⁵	four ten	4 1	
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@css=menu:show|database:hide
-#@basics=COGIDS|CONCEPT|DOCULECT|MORPHEMES|NOTE|TOKENS
-#@_selected_doculects=Mandarin
-#@_selected_concepts=three|thirteen|twenty three|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine
-#@sorted_taxa=Mandarin
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@display=filedisplay|glosses
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTE
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=mand1415.tsv
-#@navbar=true
-#@_morphology_mode=full
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS							
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION							
+#@css=menu:show|database:hide							
+#@basics=COGIDS|CONCEPT|DOCULECT|MORPHEMES|NOTE|TOKENS							
+#@_selected_doculects=Mandarin							
+#@_selected_concepts=three|thirteen|twenty three|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine							
+#@sorted_taxa=Mandarin							
+#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty							
+#@display=filedisplay|glosses							
+#@missing_marker=Ø							
+#@separator=							
+#@gap_marker=-							
+#@formatter=false							
+#@root_formatter=COGIDS							
+#@note_formatter=NOTE							
+#@pattern_formatter=undefined							
+#@publish=undefined							
+#@_almcol=ALIGNMENT							
+#@filename=mand1415.tsv							
+#@navbar=true							
+#@_morphology_mode=full							
