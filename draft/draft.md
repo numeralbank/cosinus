@@ -46,7 +46,7 @@ abstract: "Numeral systems across the world's languages vary in fascinating ways
 
 Example for figures is shown in Figure :fig:A.
 
-![This is my caption.](image.png){ width: 400px #:fig:A }
+![This is my caption.](image.png){ width=400px #:fig:A }
 
 Run the code to compile by typing:
 
