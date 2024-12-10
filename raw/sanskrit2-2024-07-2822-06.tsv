@@ -1,0 +1,72 @@
+ID	DOCULECT	CONCEPT	NUMBER	DEVANAGARI_NUMBER	VALUE_	FORM	ORDINAL_NUMBER	TOKENS	MORPHEMES	COGIDS
+1	Sanskrit	eight	8	८	अष्ट	aṣṭa	अष्टम (aṣṭama)	a ʂ ʈ a		
+2	Sanskrit	eighteen	18	१८	अष्टादश	aṣṭādaśa	अष्टादश (aṣṭādaśa)	a ʂ ʈ aː + d a ʃ a	eight ?	1 2
+3	Sanskrit	thirty eight	38	३८	अष्टात्रिंशत्	aṣṭātriṁśat	अष्टात्रिंश (aṣṭātriṁśa)	a ʂ ʈ aː + t r ĩ + ʃ a t	eight ?	1 ?
+4	Sanskrit	twenty eight	28	२८	अष्टाविंशति	aṣṭāviṁśati	अष्टाविंश (aṣṭāviṁśa)	a ʂ ʈ aː + v ĩ + ʃ a t i	eight ?	1 ?
+5	Sanskrit	four	4	४	चतुर्	catur	चतुर्थ (caturtha)	tʃ a t u r		
+6	Sanskrit	foureen	14	१४	चतुर्दश	caturdaśa	चतुर्दश (caturdaśa)	tʃ a t u r + d a ʃ a		
+7	Sanskrit	twenty four	24	२४	चतुर्विंशति	caturviṁśati	चतुर्विंश (caturviṁśa)	tʃ a t u r + v ĩ + ʃ a t i		
+8	Sanskrit	thirty four	34	३४	चतुस्त्रिंशत्	catustriṁśat	चतुस्त्रिंश (catustriṁśa)	tʃ a t u s/r + t r ĩ + ʃ a t		
+9	Sanskrit	forty	40	४०	चत्वारिंशति	catvāriṁśati	चत्वारिंश (catvāriṁśa)	tʃ a t v aː r ĩ + ʃ a t i		
+10	Sanskrit	ten	10	१०	दश	daśa	दशम (daśama)	d a ʃ a		
+11	Sanskrit	twelve	12	१२	द्वादश	dvādaśa	द्वादश (dvādaśa)	d v aː/i + d a ʃ a	two ?	4 ?
+12	Sanskrit	thirty two	32	३२	द्वात्रिंशत्	dvātriṁśat	द्वात्रिंश (dvātriṁśa)	d v aː/i + t r ĩ + ʃ a t	two ?	4 5
+13	Sanskrit	twenty two	22	२२	द्वाविंशति	dvāviṁśati	द्वाविंश (dvāviṁśa)	d v aː/i + v ĩ + ʃ a t i	two ?	4 ?
+14	Sanskrit	two	2	२	द्वि	dvi	द्वितीय (dvitīya)	d v i		
+15	Sanskrit	one	1	१	एक	eka	प्रथम (prathama) अग्रिम (agrima) आदिम (ādima)	e k a	one	6
+16	Sanskrit	eleven	11	११	एकादश	ekādaśa	एकादश (ekādaśa)	e k a + t r ĩ + ʃ a t	one ?	6 7
+17	Sanskrit	thirty nine	39	३९	एकान्नचत्वारिंशत्	ekānnacatvāriṁśat	नवत्रिंश (navatriṁśa)	e k aː/a n/- + n a + tʃ a t v aː r ĩ + ʃ a t	one ?	6 ?
+22	Sanskrit	thirty nine	39	३९	एकोनचत्वारिंशत्	ekonacatvāriṁśat		e k o/a + n a + tʃ a t v aː r ĩ + ʃ a t	one ? ?	6 ? ?
+27	Sanskrit	thirty nine	39	३९	नवत्रिंशत्	navatriṁśat		n a v a + t r ĩ + ʃ a t		
+47	Sanskrit	thirty nine	39	३९	ऊनचत्वारिंशत्	ūnacatvāriṁśat		uː + n a + tʃ a t v aː r ĩ + ʃ a t		
+18	Sanskrit	twenty nine	29	२९	एकान्नत्रिंशत्	ekānnatriṁśat	नवविंश (navaviṁśa)	e k aː/a n/- + n a + t r ĩ + ʃ a t		
+23	Sanskrit	twenty nine	29	२९	एकोनत्रिंशत्	ekonatriṁśat		e k o/a + n a + t r ĩ + ʃ a t	one ? ?	6 ? ?
+28	Sanskrit	twenty nine	29	२९	नवविंशति	navaviṁśati		n a v a + v ĩ + ʃ a t i		
+48	Sanskrit	twenty nine	29	२९	ऊनत्रिंशत्	ūnatriṁśat		uː + n a + t r ĩ ʃ a t		
+19	Sanskrit	nineteen	19	१९	एकान्नविंशति	ekānnaviṁśati	नवदश (navadaśa)	e k aː/a n/- + n a + v ĩ + ʃ a t i	one ? ?	6 ? ?
+24	Sanskrit	nineteen	19	१९	एकोनविंशति	ekonaviṁśati		e k o/a + n a + v ĩ + ʃ a t i	one ? ?	6 ? ?
+26	Sanskrit	nineteen	19	१९	नवदश	navadaśa		n a v a + d a ʃ a		
+49	Sanskrit	nineteen	19	१९	ऊनविंशति	ūnaviṁśati		uː + n a + v ĩ + ʃ a t i		
+20	Sanskrit	thirty one	31	३१	एकत्रिंशत्	ekatriṁśat	एकत्रिंश (ekatriṁśa)	e k aː/a n/- + n a + tʃ a t v aː r ĩ + ʃ a t	one ? ?	6 ? ?
+21	Sanskrit	twenty one	21	२१	एकविंशति	ekaviṁśati	एकविंश (ekaviṁśa)	e k aː/a n/- + n a + v ĩ + ʃ a t i	one ? ?	6 ? ?
+25	Sanskrit	nine	9	९	नव	nava	नवम (navama)	n a v a		
+29	Sanskrit	fifteen	15	१५	पञ्चदश	pañcadaśa	पञ्चदश (pañcadaśa)	p a ɲ tʃ a + d a ʃ a		
+30	Sanskrit	five	5	५	पञ्चन्	pañcan	पञ्चम (pañcama)	p a ɲ tʃ a + t r ĩ + ʃ a t		
+31	Sanskrit	thirty five	35	३५	पञ्चत्रिंशत्	pañcatriṁśat	पञ्चत्रिंश (pañcatriṁśa)	p a ɲ tʃ a + v ĩ + ʃ a t i		
+32	Sanskrit	twenty five	25	२५	पञ्चविंशति	pañcaviṁśati	पञ्चविंश (pañcaviṁśa)	p a ɲ tʃ a + v ĩ + ʃ a t i		
+33	Sanskrit	twenty six	26	२६	षड्विंशति	ṣaḍviṁśati	षड्विंश (ṣaḍviṁśa)	ʂ a ɖ + v ĩ + ʃ a t i		
+34	Sanskrit	seven	7	७	सप्त	sapta	सप्तम (saptama)	s a p t a	seven	3
+35	Sanskrit	seventeen	17	१७	सप्तदश	saptadaśa	सप्तदश (saptadaśa)	s a p t a + d a ʃ a	seven ?	3 ?
+36	Sanskrit	thirty seven	37	३७	सप्तत्रिंशत्	saptatriṁśat	सप्तत्रिंश (saptatriṁśa)	s a p t a + t r ĩ + ʃ a t	seven ?	3 ?
+37	Sanskrit	twenty seven	27	२७	सप्तविंशति	saptaviṁśati	सप्तविंश (saptaviṁśa)	s a p t a + v ĩ + ʃ a t i	seven ?	3 ?
+38	Sanskrit	six	6	६	षष्	ṣaṣ	षष्ठ (ṣaṣṭha)	ʂ a ʂ		
+39	Sanskrit	thirty six	36	३६	षट्त्रिंशत्	ṣaṭtriṁśat	षट्त्रिंश (ṣaṭtriṁśa)	ʂ a ʈ + t r ĩ + ʃ a t		
+40	Sanskrit	sixteen	16	१६	षोडश	ṣoḍaśa	षोडश (ṣoḍaśa)	ʂ o + ɖ a ʃ a		
+41	Sanskrit	zero	0	०	शून्य	śūnya		ʃ uː n j a		
+42	Sanskrit	thirty three	33	३३	त्रयस्त्रिंशत्	trayastriṁśat	त्रयस्त्रिंश (trayastriṁśa)	t r a j a s + t r ĩ + ʃ a t		
+43	Sanskrit	thirteen	13	१३	त्रयोदश	trayodaśa	त्रयोदश (trayodaśa)	t r a j o + d a ʃ a		
+44	Sanskrit	twenty three	23	२३	त्रयोविंशति	trayoviṁśati	त्रयोविंश (trayoviṁśa)	t r a j o + v ĩ + ʃ a t i		
+45	Sanskrit	three	3	३	त्रि	tri	तृतीय (tṛtīya)	t r i		
+46	Sanskrit	thirty	30	३०	त्रिंशति	triṁśati	त्रिंश (triṁśa)	t r ĩ + ʃ a t i		
+50	Sanskrit	twenty	20	२०	विंशति	viṁśati	विंश (viṁśa)	v ĩ + ʃ a t i		
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
+#@css=menu:show|database:hide
+#@basics=COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|TOKENS|VALUE 
+#@_selected_doculects=Sanskrit
+#@_selected_concepts=thirty nine|twenty nine|nineteen|nine
+#@sorted_taxa=Sanskrit
+#@sorted_concepts=eight|eighteen|thirty eight|twenty eight|four|foureen|twenty four|thirty four|forty|ten|twelve|thirty two|twenty two|two|one|eleven|thirty nine|twenty nine|nineteen|thirty one|twenty one|nine|fifteen|five|thirty five|twenty five|twenty six|seven|seventeen|thirty seven|twenty seven|six|thirty six|sixteen|zero|thirty three|thirteen|twenty three|three|thirty|twenty
+#@display=filedisplay|glosses
+#@missing_marker=Ø
+#@separator=	
+#@gap_marker=-
+#@formatter=false
+#@root_formatter=COGIDS
+#@note_formatter=undefined
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=sanskrit2.tsv
+#@navbar=true
+#@_morphology_mode=full
