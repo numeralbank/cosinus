@@ -1,0 +1,62 @@
+ID	DOCULECT	CONCEPT	ORTHOGRAPHIC	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE
+1	Assamese	one	এক	ɛk	ɛ k	one	ɛ k	1	@book{15182, address = {Gauhati, Assam}, author = {Upendranath Goswami}, pages = {xiv+312}, publisher = {Department of Historical and Antiquarian Studies}, 2title = {A study on Kāmrūpī: A dialect of Assamese}, year = {1970}}
+2	Assamese	two	দুই	dui	d u i	two	d u i	2	
+3	Assamese	three	তিনি	tini	t i n i	three	t i n i	3	
+4	Assamese	four	চাৰি	sari	s a ɹ i	four	s a ɹ i	4	
+5	Assamese	five	পাঁচ	pãs	p ã s	five	p ã s	5	
+6	Assamese	six	ছয়	sai	s a i	six	s a i	6	
+7	Assamese	seven	সাত	xat	x a t	seven	x a t	7	
+8	Assamese	eight	আঠ	atʰ	a tʰ	eight	a tʰ	8	
+9	Assamese	nine	ন	nɔ	n ɔ	nine	n ɔ	9	
+10	Assamese	ten	দহ	dɔɦ	d ɔ ɦ	ten	d ɔ ɦ	10	
+11	Assamese	eleven	এঘাৰ	ɛgʰɹɔ	ɛ k + ɹ ɔ	one teen	ɛ k + ɹ ɔ	11 90	
+12	Assamese	twelve	বাৰ	barɔ	b + a r ɔ	two teen	b + a r ɔ	12 90	
+13	Assamese	thirteen	তেৰ	tɛrɔ	t + ɛ r ɔ	three teen	t + ɛ r ɔ	13 90	
+14	Assamese	fourteen	চৈধ্য	sɔiddʰɔ	s ɔ i + d dʰ ɔ	six teen	s ɔ i + d dʰ ɔ	4 91	
+15	Assamese	fifteen	পোন্ধৰ	pɔndʰɔrɔ	p ɔ n + dʰ ɔ + r ɔ	five teen teen	p ɔ n + dʰ ɔ + r ɔ	5 91 10	
+16	Assamese	sixteen	ষোল্ল	xɔllɔ	x ɔ + r ɔ	six teen	x ɔ + r ɔ	6 10	
+17	Assamese	seventeen	সোতৰ	xɔtɔrɔ	x ɔ t + ɔ r ɔ	seven teen	x ɔ t + ɔ r ɔ	7 10	
+18	Assamese	eighteen	ওঁঠৰ	ɔtʰɔrɔ	ɔ tʰ + ɔ r ɔ	eight teen	ɔ tʰ + ɔ r ɔ	8 10	
+19	Assamese	nineteen	ঊনৈছ	unnih	u n + o i h	minus twenty	u n + o i h	99 20	alternate form for 20 in ois
+20	Assamese	twenty	বিছ	bis	b i s	twenty	b i s	98	
+21	Assamese	twenty one	একৈছ	ekois	ɛ k + o i s	one twenty	ɛ k + o i s	1 20	
+22	Assamese	twenty two	বাইছ	bais	b a + i s	twelve tenty	b a + i s	12 20	analysed here as ois not bis due to lack of /b/
+23	Assamese	twenty three	তেইছ	teis	t e + i s	three twenty	t e + i s	3 20	
+24	Assamese	twenty four	চৌব্বিছ	soubbis	s o u + b b i s	four twenty	s o u + b b i s	4 98	bis as the tens place occurs after 23
+25	Assamese	twenty five	পঁচিছ	pɔsis	p ɔ s + i s	five twenty	p ɔ s + i s	5 98	
+26	Assamese	twenty six	ছাব্বিছ	sabbis	s a + b b i s	six twenty	s a + b b i s	6 20	
+27	Assamese	twenty seven	সাতাইছ	xatais	x a t + a i s	seven twenty	x a t + a i s	7 98	
+28	Assamese	twenty eight	আঁঠাইছ	atʰais	a tʰ + a i s	eight twenty	a tʰ + a i s	8 20	
+29	Assamese	twenty nine	উনত্ৰিছ	untɹis	u n + t ɹ i s	minus thirty	u n + t ɹ i s	99 30	
+30	Assamese	thirty	ত্ৰিছ	tɹis	t ɹ i s	thirty	t ɹ i s	30	
+31	Assamese	thirty one	একত্ৰিছ	ɛktɹis	ɛ k + t ɹ i s	one thirty	ɛ k + t ɹ i s	1 30	
+32	Assamese	thirty two	বত্ৰিছ	bɔtɹis	b ɔ + t ɹ i s	two thirty	b ɔ + t ɹ i s	12 30	
+33	Assamese	thirty three	তেত্ৰিছ	tɛtɹis	t ɛ + t ɹ i s	three thirty	t ɛ + t ɹ i s	3 30	
+34	Assamese	thirty four	চৌত্ৰিছ	soutɹis	s o u + t ɹ i s	four thirty	s o u + t ɹ i s	4 30	
+35	Assamese	thirty five	পয়ত্ৰিছ	pɔitɹis	p ɔ i + t ɹ i s	five thirty	p ɔ i + t ɹ i s	5 30	
+36	Assamese	thirty six	ছয়ত্ৰিছ	saintɹis	s a i n + t ɹ i s	six thirty	s a i n + t ɹ i s	6 30	
+37	Assamese	thirty seven	সাতত্ৰিছ	xatɔtɹis	x a t + ɔ t ɹ i s	seven thirty	x a t + ɔ t ɹ i s	7 30	
+38	Assamese	thirty eight	আঠত্ৰিছ	atʰɔtɹis	a tʰ + ɔ t ɹ i s	eight thirty	a tʰ + ɔ t ɹ i s	8 30	
+39	Assamese	thirty nine	ঊনচল্লিছ	unsɔllis	u n + s ɔ l l i s	minus forty	u n + s ɔ l l i s	99 30	
+40	Assamese	forty	চল্লিছ	sɔllis	s ɔ l l i s	forty	s ɔ l l i s	40	
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS									
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION									
+#@css=menu:show|database:hide									
+#@basics=DOCULECT|GLOSS|CONCEPT|IPA|TOKENS|COGID|TAXON|TAXA|PROTO|PROTO_TOKENS|ETYMONID|CHINESE|CONCEPTLIST|ORTHOGRAPHY|WORD|TRANSCRIPTION|SEGMENTS|PARTIALIDS|NOTE|ALIGNMENTS									
+#@_selected_doculects=Assamese									
+#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty									
+#@sorted_taxa=Assamese									
+#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty									
+#@display=filedisplay|ialms|icognates									
+#@missing_marker=Ø									
+#@separator=									
+#@gap_marker=-									
+#@formatter=COGID									
+#@root_formatter=COGIDS									
+#@note_formatter=NOTE									
+#@pattern_formatter=undefined									
+#@publish=undefined									
+#@_almcol=ALIGNMENT									
+#@filename=assa1263.tsv									
+#@navbar=true									
+#@_morphology_mode=full									
