@@ -1,5 +1,5 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE
-1	Assamese	one	এক	ɛk	ɛ k	one	ɛ k	1	@book{15182, address = {Gauhati, Assam}, author = {Upendranath Goswami}, pages = {xiv+312}, publisher = {Department of Historical and Antiquarian Studies}, 2title = {A study on Kāmrūpī: A dialect of Assamese}, year = {1970}}
+1	Assamese	one	এক	ɛk	ɛ k	one	ɛ k	1	
 2	Assamese	two	দুই	dui	d u i	two/dui	d u i	2	
 3	Assamese	three	তিনি	tini	t i n i	three	t i n i	3	
 4	Assamese	four	চাৰি	sari	s a ɹ i	four	s a ɹ i	4	
@@ -9,7 +9,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE
 8	Assamese	eight	আঠ	atʰ	a tʰ	eight	a tʰ	8	
 9	Assamese	nine	ন	nɔ	n ɔ	nine	n ɔ	9	
 10	Assamese	ten	দহ	dɔɦ	d ɔ ɦ	ten	d ɔ ɦ	14	
-11	Assamese	eleven	এঘাৰ	ɛgʰɹɔ	ɛ k + ɹ/r ɔ	one teen	ɛ k + ɹ/r ɔ	1 90	
+11	Assamese	eleven	এঘাৰ	ɛkɹɔ	ɛ k + ɹ/r ɔ	one teen	ɛ k + ɹ/r ɔ	1 90	
 12	Assamese	twelve	বাৰ	barɔ	b a + r ɔ	two/ba teen	b a + r ɔ	12 90	
 13	Assamese	thirteen	তেৰ	tɛrɔ	t + ɛ/- r ɔ	three teen	t + ɛ/- r ɔ	13 90	
 14	Assamese	fourteen	চৈধ্য	sɔiddʰɔ	s ɔ i + d dʰ ɔ	six teen	s ɔ i + d dʰ ɔ	4 91	
