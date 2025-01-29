@@ -1,5 +1,5 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE
-1	Assamese	one	এক	ɛk	ɛ k	one	ɛ k	1	@book{15182, address = {Gauhati, Assam}, author = {Upendranath Goswami}, pages = {xiv+312}, publisher = {Department of Historical and Antiquarian Studies}, 2title = {A study on Kāmrūpī: A dialect of Assamese}, year = {1970}}
+1	Assamese	one	এক	ɛk	ɛ k	one	ɛ k	1	
 2	Assamese	two	দুই	dui	d u i	two/dui	d u i	2	
 3	Assamese	three	তিনি	tini	t i n i	three	t i n i	3	
 4	Assamese	four	চাৰি	sari	s a ɹ i	four	s a ɹ i	4	
