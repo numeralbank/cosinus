@@ -18,7 +18,7 @@ ID	DOCULECT	CONCEPT	ORTHOGRAPHIC	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGID	NOTE
 17	Maltese	17	sbatax	sbataʃ	s b a t + a ʃ	seven ten	s b a t + a ʃ + s b a t + a ʃ	7 10	
 18	Maltese	18	tmintax	tmɪntaʃ	t m ɪ n t + a ʃ	eight ten	t m ɪ n t + a ʃ + t m ɪ n t + a ʃ	8 10	
 19	Maltese	19	dsatax	dzataʃ	d z a t + a ʃ	nine ten	d z a t + a ʃ + d z a t + a ʃ	9 10	
-20	Maltese	20	għoxrin	ʔɔʃr + ɪn	ʔ ɔ ʃ r ɪ n	ten ty	ʔ ɔ ʃ r ɪ n	10 13	ɪn is derived from a pluraliser so "tens"
+20	Maltese	20	għoxrin	ʔɔʃr + ɪn	ʔ ɔ ʃ r ɪ n	ten ty	ʔ ɔ ʃ r ɪ n	10 13	ɪn is derived from a pluraliser so »tens«
 21	Maltese	21	wieħed u għoxrin	wɪħɛd u ʔɔʃrɪn	w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n	one and twenty	w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n + w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n + w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n	1 12 11	
 22	Maltese	22	tnejn u għoxrin	tnɛjn u ʔɔʃrɪn	t n ɛ j n + u + ʔ ɔ ʃ r ɪ n	two and twenty	t n ɛ j n + u + ʔ ɔ ʃ r ɪ n + t n ɛ j n + u + ʔ ɔ ʃ r ɪ n + t n ɛ j n + u + ʔ ɔ ʃ r ɪ n	2 12 11	
 23	Maltese	23	tlieta u għoxrin	tlɪtɐ u ʔɔʃrɪn	t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n	three and twenty	t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n + t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n + t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n	3 12 11	
@@ -39,24 +39,3 @@ ID	DOCULECT	CONCEPT	ORTHOGRAPHIC	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGID	NOTE
 38	Maltese	38	tmienja u tletin	tmɪnjɐ u tlɛtɪn	t m ɪ n j ɐ + u + t l ɛ t + ɪ n	eight and three ty	t m ɪ n j ɐ + u + t l ɛ t + ɪ n + t m ɪ n j ɐ + u + t l ɛ t + ɪ n + t m ɪ n j ɐ + u + t l ɛ t + ɪ n + t m ɪ n j ɐ + u + t l ɛ t + ɪ n	8 12 3 13	
 39	Maltese	39	disgħa u tletin	dɪzʕɐ u tlɛtɪn	d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n	nine and three ty	d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n + d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n + d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n + d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n	9 12 3 13	
 40	Maltese	40	erbgħin	ɛrbʕɪn	ɛ r b ʕ + ɪ n	four ty	ɛ r b ʕ + ɪ n + ɛ r b ʕ + ɪ n	4 13	
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@css=menu:show|database:hide
-#@basics=DOCULECT|GLOSS|CONCEPT|IPA|TOKENS|COGID|TAXON|TAXA|PROTO|PROTO_TOKENS|ETYMONID|CHINESE|CONCEPTLIST|ORTHOGRAPHY|WORD|TRANSCRIPTION|SEGMENTS|PARTIALIDS|NOTE
-#@_selected_doculects=Maltese
-#@_selected_concepts=1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40
-#@sorted_taxa=Maltese
-#@sorted_concepts=1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40
-#@display=filedisplay
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=COGID
-#@root_formatter=false
-#@note_formatter=NOTE
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=numeralpacs - malt1254.tsv
-#@navbar=true
-#@_morphology_mode=full
