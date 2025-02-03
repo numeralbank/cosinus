@@ -1,0 +1,877 @@
+{
+    "by_language": {
+        "German": {
+            "bipa_errors": [
+                "U",
+                ":",
+                "E",
+                "I"
+            ],
+            "general_errors": 58,
+            "replacements": {
+                "+": [
+                    "+"
+                ],
+                "a": [
+                    "a"
+                ],
+                "a\u0303": [
+                    "a\u0303"
+                ],
+                "b": [
+                    "b"
+                ],
+                "c\u0327": [
+                    "c\u0327"
+                ],
+                "d": [
+                    "d"
+                ],
+                "e": [
+                    "e"
+                ],
+                "f": [
+                    "f"
+                ],
+                "g": [
+                    "g"
+                ],
+                "h": [
+                    "h"
+                ],
+                "i": [
+                    "i"
+                ],
+                "j": [
+                    "j"
+                ],
+                "k": [
+                    "k"
+                ],
+                "l": [
+                    "l"
+                ],
+                "n": [
+                    "n"
+                ],
+                "o": [
+                    "o"
+                ],
+                "p": [
+                    "p"
+                ],
+                "r": [
+                    "r"
+                ],
+                "s": [
+                    "s"
+                ],
+                "t": [
+                    "t"
+                ],
+                "u": [
+                    "u"
+                ],
+                "v": [
+                    "v"
+                ],
+                "x": [
+                    "x"
+                ],
+                "y": [
+                    "y"
+                ],
+                "z": [
+                    "z"
+                ],
+                "\u00f8": [
+                    "\u00f8"
+                ],
+                "\u0254": [
+                    "\u0254"
+                ],
+                "\u0259": [
+                    "\u0259"
+                ],
+                "\u025b": [
+                    "\u025b"
+                ],
+                "\u027d": [
+                    "\u027d"
+                ],
+                "\u0283": [
+                    "\u0283"
+                ],
+                "\u0288": [
+                    "\u0288"
+                ]
+            },
+            "sclass_errors": [
+                "U",
+                ":",
+                "E",
+                "I"
+            ],
+            "segments": {
+                ":": 16,
+                "E": 4,
+                "I": 20,
+                "U": 18,
+                "a": 34,
+                "b": 3,
+                "d": 14,
+                "e": 9,
+                "f": 14,
+                "i": 32,
+                "k": 3,
+                "l": 2,
+                "n": 54,
+                "o": 4,
+                "p": 1,
+                "r": 18,
+                "s": 46,
+                "t": 35,
+                "v": 14,
+                "x": 4,
+                "y": 4,
+                "z": 8,
+                "\u00e7": 21,
+                "\u00f8": 1,
+                "\u0259": 3
+            }
+        },
+        "Hindi": {
+            "bipa_errors": [
+                "\u02d0",
+                "\u0303",
+                "\u02b0"
+            ],
+            "general_errors": 45,
+            "replacements": {
+                "+": [
+                    "+"
+                ],
+                "a": [
+                    "a"
+                ],
+                "a\u0303": [
+                    "a\u0303"
+                ],
+                "b": [
+                    "b"
+                ],
+                "c\u0327": [
+                    "c\u0327"
+                ],
+                "d": [
+                    "d"
+                ],
+                "e": [
+                    "e"
+                ],
+                "f": [
+                    "f"
+                ],
+                "g": [
+                    "g"
+                ],
+                "h": [
+                    "h"
+                ],
+                "i": [
+                    "i"
+                ],
+                "j": [
+                    "j"
+                ],
+                "k": [
+                    "k"
+                ],
+                "l": [
+                    "l"
+                ],
+                "n": [
+                    "n"
+                ],
+                "o": [
+                    "o"
+                ],
+                "p": [
+                    "p"
+                ],
+                "r": [
+                    "r"
+                ],
+                "s": [
+                    "s"
+                ],
+                "t": [
+                    "t"
+                ],
+                "u": [
+                    "u"
+                ],
+                "v": [
+                    "v"
+                ],
+                "x": [
+                    "x"
+                ],
+                "y": [
+                    "y"
+                ],
+                "z": [
+                    "z"
+                ],
+                "\u00f8": [
+                    "\u00f8"
+                ],
+                "\u0254": [
+                    "\u0254"
+                ],
+                "\u0259": [
+                    "\u0259"
+                ],
+                "\u025b": [
+                    "\u025b"
+                ],
+                "\u027d": [
+                    "\u027d"
+                ],
+                "\u0283": [
+                    "\u0283"
+                ],
+                "\u0288": [
+                    "\u0288"
+                ]
+            },
+            "sclass_errors": [
+                "\u02d0",
+                "\u0303",
+                "\u02b0"
+            ],
+            "segments": {
+                "+": 26,
+                "a": 32,
+                "b": 7,
+                "d": 4,
+                "e": 4,
+                "g": 1,
+                "h": 8,
+                "i": 25,
+                "j": 1,
+                "k": 4,
+                "l": 4,
+                "n": 9,
+                "o": 2,
+                "p": 4,
+                "r": 7,
+                "s": 27,
+                "t": 34,
+                "u": 3,
+                "\u00e3": 1,
+                "\u0254": 4,
+                "\u025b": 3,
+                "\u027d": 1,
+                "\u0283": 11,
+                "\u0288": 4,
+                "\u02b0": 6,
+                "\u02d0": 36,
+                "\u0303": 3
+            }
+        }
+    },
+    "stats": {
+        "bad_words": [
+            [
+                "German-10_ten-1",
+                "German",
+                "10_ten",
+                "zehn",
+                "t s e <s> : </s> n"
+            ],
+            [
+                "German-11_eleven-1",
+                "German",
+                "11_eleven",
+                "elf",
+                "<s> E </s> l f"
+            ],
+            [
+                "German-13_thirteen-1",
+                "German",
+                "13_thirteen",
+                "dreizehn",
+                "d r a i t s e <s> : </s> n"
+            ],
+            [
+                "German-14_fourteen-1",
+                "German",
+                "14_fourteen",
+                "vierzehn",
+                "f i <s> : </s> r t s e <s> : </s> n"
+            ],
+            [
+                "German-15_fifteen-1",
+                "German",
+                "15_fifteen",
+                "f\u00fcnfzehn",
+                "f y n f t s e <s> : </s> n"
+            ],
+            [
+                "German-16_sixteen-1",
+                "German",
+                "16_sixteen",
+                "sechzehn",
+                "z <s> E </s> \u00e7 t s e <s> : </s> n"
+            ],
+            [
+                "German-17_seventeen-1",
+                "German",
+                "17_seventeen",
+                "siebzehn",
+                "z i <s> : </s> p t s e <s> : </s> n"
+            ],
+            [
+                "German-18_eighteen-1",
+                "German",
+                "18_eighteen",
+                "achtzehn",
+                "a x t s e <s> : </s> n"
+            ],
+            [
+                "German-19_nineteen-1",
+                "German",
+                "19_nineteen",
+                "neunzehn",
+                "n o i n t s e <s> : </s> n"
+            ],
+            [
+                "German-20_twenty-1",
+                "German",
+                "20_twenty",
+                "zwanzig",
+                "t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-21_twentyone-1",
+                "German",
+                "21_twentyone",
+                "einundzwanzig",
+                "a i n <s> U </s> n t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-22_twentytwo-1",
+                "German",
+                "22_twentytwo",
+                "zweiundzwanzig",
+                "t s v a i <s> U </s> n t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-23_twentythree-1",
+                "German",
+                "23_twentythree",
+                "dreiundzwanzig",
+                "d r a i <s> U </s> n t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-24_twentyfour-1",
+                "German",
+                "24_twentyfour",
+                "vierundzwanzig",
+                "f i <s> : </s> r <s> U </s> n t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-25_twentyfive-1",
+                "German",
+                "25_twentyfive",
+                "f\u00fcnfundzwanzig",
+                "f y n f <s> U </s> n t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-26_twentysix-1",
+                "German",
+                "26_twentysix",
+                "sechsundzwanzig",
+                "z <s> E </s> k s <s> U </s> n t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-27_twentyseven-1",
+                "German",
+                "27_twentyseven",
+                "siebenundzwanzig",
+                "z i <s> : </s> b \u0259 n <s> U </s> n t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-28_twentyeight-1",
+                "German",
+                "28_twentyeight",
+                "achtundzwanzig",
+                "a x t <s> U </s> n t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-29_twentynine-1",
+                "German",
+                "29_twentynine",
+                "neunundzwanzig",
+                "n o i n <s> U </s> n t s v a n t s <s> I </s> \u00e7"
+            ],
+            [
+                "German-30_thirty-1",
+                "German",
+                "30_thirty",
+                "drei\u00dfig",
+                "d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-31_thirtyone-1",
+                "German",
+                "31_thirtyone",
+                "einunddrei\u00dfig",
+                "a i n <s> U </s> n d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-32_thirtytwo-1",
+                "German",
+                "32_thirtytwo",
+                "zweiunddrei\u00dfig",
+                "t s v a i <s> U </s> n d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-33_thirtythree-1",
+                "German",
+                "33_thirtythree",
+                "dreiunddrei\u00dfig",
+                "d r a i <s> U </s> n d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-34_thirtyfour-1",
+                "German",
+                "34_thirtyfour",
+                "vierunddrei\u00dfig",
+                "f i <s> : </s> r <s> U </s> n d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-35_thirtyfive-1",
+                "German",
+                "35_thirtyfive",
+                "f\u00fcnfunddrei\u00dfig",
+                "f y n f <s> U </s> n d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-36_thirtysix-1",
+                "German",
+                "36_thirtysix",
+                "sechsunddrei\u00dfig",
+                "z <s> E </s> k s <s> U </s> n d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-37_thirtyseven-1",
+                "German",
+                "37_thirtyseven",
+                "siebenunddrei\u00dfig",
+                "z i <s> : </s> b \u0259 n <s> U </s> n d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-38_thirtyeight-1",
+                "German",
+                "38_thirtyeight",
+                "achtunddrei\u00dfig",
+                "a x t <s> U </s> n d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-39_thirtynine-1",
+                "German",
+                "39_thirtynine",
+                "neununddrei\u00dfig",
+                "n o i n <s> U </s> n d r a i s <s> I </s> \u00e7"
+            ],
+            [
+                "German-4_four-1",
+                "German",
+                "4_four",
+                "vier",
+                "f i <s> : </s> r"
+            ],
+            [
+                "German-7_seven-1",
+                "German",
+                "7_seven",
+                "sieben",
+                "z i <s> : </s> b \u0259 n"
+            ],
+            [
+                "Hindi-12_twelve-1",
+                "Hindi",
+                "12_twelve",
+                "ba:rah",
+                "b a <s> \u02d0 </s> + r a h"
+            ],
+            [
+                "Hindi-18_eighteen-1",
+                "Hindi",
+                "18_eighteen",
+                "a\u1e6dha:rah",
+                "a <s> \u02d0 </s> \u0288 <s> \u02b0 </s> a <s> \u02d0 </s> + r a h"
+            ],
+            [
+                "Hindi-19_nineteen-1",
+                "Hindi",
+                "19_nineteen",
+                "unni:s",
+                "u n n i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-20_twenty-1",
+                "Hindi",
+                "20_twenty",
+                "bi:s",
+                "b i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-21_twentyone-1",
+                "Hindi",
+                "21_twentyone",
+                "ikki:s",
+                "i k + k i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-22_twentytwo-1",
+                "Hindi",
+                "22_twentytwo",
+                "ba:i:s",
+                "b a <s> \u02d0 </s> + i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-23_twentythree-1",
+                "Hindi",
+                "23_twentythree",
+                "tei:s",
+                "t e i <s> \u02d0 </s> + s"
+            ],
+            [
+                "Hindi-24_twentyfour-1",
+                "Hindi",
+                "24_twentyfour",
+                "c\u0254bi:s",
+                "t \u0283 \u0254 + b i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-25_twentyfive-1",
+                "Hindi",
+                "25_twentyfive",
+                "pacci:s",
+                "p a t \u0283 + t \u0283 i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-26_twentysix-1",
+                "Hindi",
+                "26_twentysix",
+                "chabbi:s",
+                "t \u0283 <s> \u02b0 </s> a b + b i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-27_twentyseven-1",
+                "Hindi",
+                "27_twentyseven",
+                "satta:i:s",
+                "s a t t a <s> \u02d0 </s> + i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-28_twentyeight-1",
+                "Hindi",
+                "28_twentyeight",
+                "a\u1e6d\u1e6dha:i:s",
+                "a \u0288 \u0288 <s> \u02b0 </s> a <s> \u02d0 </s> + i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-29_twentynine-1",
+                "Hindi",
+                "29_twentynine",
+                "untti:s",
+                "u n t + t i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-30_thirty-1",
+                "Hindi",
+                "30_thirty",
+                "ti:s",
+                "t i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-31_thirtyone-1",
+                "Hindi",
+                "31_thirtyone",
+                "ikatti:s",
+                "i k a t + t i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-32_thirtytwo-1",
+                "Hindi",
+                "32_thirtytwo",
+                "batti:s",
+                "b a t + t i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-33_thirtythree-1",
+                "Hindi",
+                "33_thirtythree",
+                "t\u025b\u0303nti:s",
+                "t \u025b <s> \u0303 </s> n + t i <s> \u02d0 </s>"
+            ],
+            [
+                "Hindi-34_thirtyfour-1",
+                "Hindi",
+                "34_thirtyfour",
+                "c\u0254nti:s",
+                "t \u0283 \u0254 n + t i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-35_thirtyfive-1",
+                "Hindi",
+                "35_thirtyfive",
+                "p\u025b\u0303ti:s",
+                "p \u025b <s> \u0303 </s> + t i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-36_thirtysix-1",
+                "Hindi",
+                "36_thirtysix",
+                "chatti:s",
+                "t \u0283 <s> \u02b0 </s> a t + t i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-37_thirtyseven-1",
+                "Hindi",
+                "37_thirtyseven",
+                "s\u025b\u0303ti:s",
+                "s \u025b <s> \u0303 </s> t + i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-38_thirtyeight-1",
+                "Hindi",
+                "38_thirtyeight",
+                "a\u1e5bta:li:s",
+                "a \u027d t a <s> \u02d0 </s> l + i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-39_thirtynine-1",
+                "Hindi",
+                "39_thirtynine",
+                "unta:li:s",
+                "u n + t a <s> \u02d0 </s> l i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-3_three-1",
+                "Hindi",
+                "3_three",
+                "ti:n",
+                "t i <s> \u02d0 </s> n"
+            ],
+            [
+                "Hindi-40_forty-1",
+                "Hindi",
+                "40_forty",
+                "ca:li:s",
+                "t \u0283 a <s> \u02d0 </s> l i <s> \u02d0 </s> s"
+            ],
+            [
+                "Hindi-4_four-1",
+                "Hindi",
+                "4_four",
+                "ca:r",
+                "t \u0283 a <s> \u02d0 </s> r"
+            ],
+            [
+                "Hindi-5_five-1",
+                "Hindi",
+                "5_five",
+                "p\u00e3:c",
+                "p \u00e3 <s> \u02d0 </s> t \u0283"
+            ],
+            [
+                "Hindi-6_six-1",
+                "Hindi",
+                "6_six",
+                "che",
+                "t \u0283 <s> \u02b0 </s> e"
+            ],
+            [
+                "Hindi-7_seven-1",
+                "Hindi",
+                "7_seven",
+                "sa:t",
+                "s a <s> \u02d0 </s> t"
+            ],
+            [
+                "Hindi-8_eight-1",
+                "Hindi",
+                "8_eight",
+                "a:\u1e6dh",
+                "a <s> \u02d0 </s> \u0288 <s> \u02b0 </s>"
+            ]
+        ],
+        "bad_words_count": 61,
+        "bipa_errors": [
+            "U",
+            "\u02d0",
+            ":",
+            "\u02b0",
+            "E",
+            "\u0303",
+            "I"
+        ],
+        "general_errors": 103,
+        "invalid_words": [],
+        "invalid_words_count": 0,
+        "inventory_size": 26.0,
+        "replacements": {
+            "+": [
+                "+"
+            ],
+            "a": [
+                "a"
+            ],
+            "a\u0303": [
+                "a\u0303"
+            ],
+            "b": [
+                "b"
+            ],
+            "c\u0327": [
+                "c\u0327"
+            ],
+            "d": [
+                "d"
+            ],
+            "e": [
+                "e"
+            ],
+            "f": [
+                "f"
+            ],
+            "g": [
+                "g"
+            ],
+            "h": [
+                "h"
+            ],
+            "i": [
+                "i"
+            ],
+            "j": [
+                "j"
+            ],
+            "k": [
+                "k"
+            ],
+            "l": [
+                "l"
+            ],
+            "n": [
+                "n"
+            ],
+            "o": [
+                "o"
+            ],
+            "p": [
+                "p"
+            ],
+            "r": [
+                "r"
+            ],
+            "s": [
+                "s"
+            ],
+            "t": [
+                "t"
+            ],
+            "u": [
+                "u"
+            ],
+            "v": [
+                "v"
+            ],
+            "x": [
+                "x"
+            ],
+            "y": [
+                "y"
+            ],
+            "z": [
+                "z"
+            ],
+            "\u00f8": [
+                "\u00f8"
+            ],
+            "\u0254": [
+                "\u0254"
+            ],
+            "\u0259": [
+                "\u0259"
+            ],
+            "\u025b": [
+                "\u025b"
+            ],
+            "\u027d": [
+                "\u027d"
+            ],
+            "\u0283": [
+                "\u0283"
+            ],
+            "\u0288": [
+                "\u0288"
+            ]
+        },
+        "sclass_errors": [
+            "U",
+            "\u02d0",
+            ":",
+            "\u02b0",
+            "E",
+            "\u0303",
+            "I"
+        ],
+        "segments": {
+            "+": 26,
+            ":": 16,
+            "E": 4,
+            "I": 20,
+            "U": 18,
+            "a": 66,
+            "b": 10,
+            "d": 18,
+            "e": 13,
+            "f": 14,
+            "g": 1,
+            "h": 8,
+            "i": 57,
+            "j": 1,
+            "k": 7,
+            "l": 6,
+            "n": 63,
+            "o": 6,
+            "p": 5,
+            "r": 25,
+            "s": 73,
+            "t": 69,
+            "u": 3,
+            "v": 14,
+            "x": 4,
+            "y": 4,
+            "z": 8,
+            "\u00e3": 1,
+            "\u00e7": 21,
+            "\u00f8": 1,
+            "\u0254": 4,
+            "\u0259": 3,
+            "\u025b": 3,
+            "\u027d": 1,
+            "\u0283": 11,
+            "\u0288": 4,
+            "\u02b0": 6,
+            "\u02d0": 36,
+            "\u0303": 3
+        }
+    }
+}
