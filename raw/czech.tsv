@@ -1,0 +1,41 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
+1	Czech	one	jeden	j ɛ d ɛ n	j ɛ d ɛ n	one	1	Czech
+2	Czech	two	dva	d v a	d v a	two	2	Czech
+3	Czech	three	tři	t r̝ ɪ	t r̝ ɪ	three	3	Czech
+4	Czech	four	čtyři	tʃ t ɪ r̝ ɪ	tʃ t ɪ r̝ ɪ	four	4	Czech
+5	Czech	five	pět	p j ɛ t	p j ɛ t	five	5	Czech
+6	Czech	six	šest	ʃ ɛ s t	ʃ ɛ s t	six	6	Czech
+7	Czech	seven	sedm	s ɛ d m	s ɛ d m	seven	7	Czech
+8	Czech	eight	osm	o s m	o s m	eight	8	Czech
+9	Czech	nine	devět	d ɛ v j ɛ t	d ɛ v j ɛ t	nine	9	Czech
+10	Czech	ten	deset	d ɛ s ɛ t	d ɛ s ɛ t	ten	10	Czech
+11	Czech	eleven	jedenáct	j ɛ d ɛ n aː ts t	j ɛ d ɛ + n aː ts t	one teen	1 11	Czech
+12	Czech	twelve	dvanáct	d v a n aː ts t	d v a + n aː ts t	two teen	2 11	Czech
+13	Czech	thirteen	třináct	t r̝ ɪ n aː ts t	t r̝ ɪ + n aː ts t	three teen	3 11	Czech
+14	Czech	fourteen	čtrnáct	tʃ t r n aː ts t	tʃ t r + n aː ts t	four teen	4 11	Czech
+15	Czech	fifteen	patnáct	p a t n aː ts t	p a t + n aː ts t	five teen	5 11	Czech
+16	Czech	sixteen	šestnáct	ʃ ɛ s t n aː ts t	ʃ ɛ s t + n aː ts t	six teen	6 11	Czech
+17	Czech	seventeen	sedmnáct	s ɛ d m n aː ts t	s ɛ d m + n aː ts t	seven teen	7 11	Czech
+18	Czech	eighteen	osmnáct	o s m n aː ts t	o s m + n aː ts t	eight teen	8 11	Czech
+19	Czech	nineteen	devatenáct	d ɛ v a t ɛ n aː ts t	d ɛ v a t ɛ + n aː ts t	nine teen	9 11	Czech
+20	Czech	twenty	dvacet	d v a ts ɛ t	d v a + ts ɛ t	two ten	2 10	Czech
+21	Czech	twenty one	dvacet jedna	d v a ts ɛ t j ɛ d n a	d v a + ts ɛ t + j ɛ d n a	two ten one	2 10 1	Czech
+22	Czech	twenty two	dvacet dva	d v a ts ɛ t d v a	d v a + ts ɛ t + d v a	two ten two	2 10 2	Czech
+23	Czech	twenty three	dvacet tři	d v a ts ɛ t t r̝ ɪ	d v a + ts ɛ t + t r̝ ɪ	two ten three	2 10 3	Czech
+24	Czech	twenty four	dvacet čtyři	d v a ts ɛ t tʃ t ɪ r̝ ɪ	d v a + ts ɛ t + tʃ t ɪ r̝ ɪ	two ten four	2 10 4	Czech
+25	Czech	twenty five	dvacet pět	d v a ts ɛ t p j ɛ t	d v a + ts ɛ t + p j ɛ t	two ten five	2 10 5	Czech
+26	Czech	twenty six	dvacet šest	d v a ts ɛ t ʃ ɛ s t	d v a + ts ɛ t + ʃ ɛ s t	two ten six	2 10 6	Czech
+27	Czech	twenty seven	dvacet sedm	d v a ts ɛ t s e d m	d v a + ts ɛ t + s e d m	two ten seven	2 10 7	Czech
+28	Czech	twenty eight	dvacet osm	d v a ts ɛ t o s m	d v a + ts ɛ t + o s m	two ten eight	2 10 8	Czech
+29	Czech	twenty nine	dvacet devět	d v a ts ɛ t d ɛ v j ɛ t	d v a + ts ɛ t + d ɛ v j ɛ t	two ten nine	2 10 9	Czech
+30	Czech	thirty	třicet	t r̝ ɪ ts ɛ t	t r̝ ɪ + ts ɛ t	three ten	3 10	Czech
+31	Czech	thirty one	třicet jedna	t r̝ ɪ ts ɛ t j ɛ d n a	t r̝ ɪ + ts ɛ t + j ɛ d n a	three ten one	3 10 1	Czech
+32	Czech	thirty two	třicet dva	t r̝ ɪ ts ɛ t d v a	t r̝ ɪ + ts ɛ t + d v a	three ten two	3 10 2	Czech
+33	Czech	thirty three	třicet tři	t r̝ ɪ ts ɛ t t r̝ ɪ	t r̝ ɪ + ts ɛ t + t r̝ ɪ	three ten three	3 10 3	Czech
+34	Czech	thirty four	třicet čtyři	t r̝ ɪ ts ɛ t tʃ t ɪ r̝ ɪ	t r̝ ɪ + ts ɛ t + tʃ t ɪ r̝ ɪ	three ten four	3 10 4	Czech
+35	Czech	thirty five	třicet pět	t r̝ ɪ ts ɛ t p j ɛ t	t r̝ ɪ + ts ɛ t + p j ɛ t	three ten five	3 10 5	Czech
+36	Czech	thirty six	třicet šest	t r̝ ɪ ts ɛ t ʃ ɛ s t	t r̝ ɪ + ts ɛ t + ʃ ɛ s t	three ten six	3 10 6	Czech
+37	Czech	thirty seven	třicet sedm	t r̝ ɪ ts ɛ t s e d m	t r̝ ɪ + ts ɛ t + s e d m	three ten seven	3 10 7	Czech
+38	Czech	thirty eight	třicet osm	t r̝ ɪ ts ɛ t o s m	t r̝ ɪ + t s ɛ t + o s m	three ten eight	3 10 8	Czech
+39	Czech	thirty nine	třicet devět	t r̝ ɪ ts ɛ t d ɛ v j ɛ t	t r̝ ɪ + ts ɛ t + d ɛ v j ɛ t	three ten nine	3 10 9	Czech
+40	Czech	forty	čtyřicet	tʃ t ɪ r̝ ɪ ts ɛ t	tʃ t ɪ r̝ ɪ + ts ɛ t	four ten	4 10	Czech
