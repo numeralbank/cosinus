@@ -1,0 +1,82 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCES
+1	Scottish Gaelic	one	aon	ɯ̃ːn	ɯ̃ː n	one	ɯ̃ː n	1		LearnGaelic2021
+2	Scottish Gaelic	two	dhà	ɣaː	ɣ/d aː	two	ɣ/d aː	2		LearnGaelic2021
+3	Scottish Gaelic	three	trì	triː	t r iː	three	t r iː	3		LearnGaelic2021
+4	Scottish Gaelic	four	ceithir	kʲehɪrʲ	kʲ e h ɪ rʲ	four	kʲ e h ɪ rʲ	4		LearnGaelic2021
+5	Scottish Gaelic	five	còig	koːgʲ	k oː gʲ	five	k oː gʲ	5		LearnGaelic2021
+6	Scottish Gaelic	six	sia	ʃia	ʃ i a	six	ʃ i a	6		LearnGaelic2021
+7	Scottish Gaelic	seven	seachd	ʃɛxg	ʃ ɛ x g	seven	ʃ ɛ x g	7		LearnGaelic2021
+8	Scottish Gaelic	eight	ochd	ɔxg	ɔ x g	eight	ɔ x g	8		LearnGaelic2021
+9	Scottish Gaelic	nine	naoi 	ŋɯj	ŋ ɯ j	nine	ŋ ɯ j	9		LearnGaelic2021
+10	Scottish Gaelic	ten	deich	dʲeç	dʲ e ç	ten	dʲ e ç	10		LearnGaelic2021
+11	Scottish Gaelic	eleven	aon-deug	ɯ̃ːndʲiəg	ɯ̃ː n + dʲ i ə g	one teen	ɯ̃ː n + dʲ i ə g	1 11		LearnGaelic2021
+12	Scottish Gaelic	twelve	dhà-dheug	ɣaːjiəg	ɣ/d aː + j/dʲ i ə g	two teen	ɣ/d aː + j/dʲ i ə g	2 11		LearnGaelic2021
+13	Scottish Gaelic	thirteen	trì-deug	triːdʲiəg	t r iː + dʲ i ə g	three teen	t r iː + dʲ i ə g	3 11		LearnGaelic2021
+14	Scottish Gaelic	fourteen	ceithir-deug	kʲehɪrʲdʲiəg	kʲ e h ɪ rʲ + dʲ i ə g	four teen	kʲ e h ɪ rʲ + dʲ i ə g	4 11		LearnGaelic2021
+15	Scottish Gaelic	fifteen	còig-deug	koːgʲdʲiəg	k oː gʲ + dʲ i ə g	five teen	k oː gʲ + dʲ i ə g	5 11		LearnGaelic2021
+16	Scottish Gaelic	sixteen	sia-deug	ʃiadʲiəg	ʃ i a + dʲ i ə g	six teen	ʃ i a + dʲ i ə g	6 11		LearnGaelic2021
+17	Scottish Gaelic	seventeen	seachd-deug	ʃɛxgdʲiəg	ʃ ɛ x g + dʲ i ə g	seven teen	ʃ ɛ x g + dʲ i ə g	7 11		LearnGaelic2021
+18	Scottish Gaelic	eighteen	ochd-deug	ɔxgdʲiəg	ɔ x g + dʲ i ə g	eight teen	ɔ x g + dʲ i ə g	8 11		LearnGaelic2021
+19	Scottish Gaelic	nineteen	naoi-deug	ŋɯjdʲiəg	ŋ ɯ j + dʲ i ə g	nine teen	ŋ ɯ j + dʲ i ə g	9 11		LearnGaelic2021
+20	Scottish Gaelic	twenty	fichead	fiçəd	f i ç + ə d	twenty -ty	f i ç + ə d	20 12		LearnGaelic2021
+21	Scottish Gaelic	twenty one	fichead ’s a h-aon	fiçədsəhɯ̃ːn	f i ç + ə d + -/a -/ɣ -/ə s + ə + h/- ɯ̃ː n	twenty -ty and numeral_particle one	f i ç + ə d + -/a -/ɣ -/ə s + ə + h/- ɯ̃ː n	20 12 15 16 1		LearnGaelic2021
+22	Scottish Gaelic	twenty one	aon air fhichead	ɯ̃ːnɛrʲiçəd	ɯ̃ː n + ɛ rʲ + -/f i ç + ə d	one on twenty -ty	ɯ̃ː n + ɛ rʲ + -/f i ç + ə d	1 13 20 12		LearnGaelic2021
+23	Scottish Gaelic	twenty two	fichead 's a dhà	fiçədsəɣaː	f i ç + ə d + -/a -/ɣ -/ə s + ə + ɣ/d aː	twenty -ty and numeral_particle two	f i ç + ə d + -/a -/ɣ -/ə s + ə + ɣ/d aː	20 12 15 16 2		LearnGaelic2021
+24	Scottish Gaelic	twenty two	dhà air fhichead	ɣaːɛrʲiçəd	ɣ/d aː + ɛ rʲ + -/f i ç + ə d	two on twenty -ty	ɣ/d aː + ɛ rʲ + -/f i ç + ə d	2 13 20 12		LearnGaelic2021
+25	Scottish Gaelic	twenty three	fichead 's a trì	fiçədsətriː	f i ç + ə d + -/a -/ɣ -/ə s + ə + t r iː	twenty -ty and numeral_particle three	f i ç + ə d + -/a -/ɣ -/ə s + ə + t r iː	20 12 15 16 3		LearnGaelic2021
+26	Scottish Gaelic	twenty three	trì air fhichead	triːɛrʲiçəd	t r iː + ɛ rʲ + -/f i ç + ə d	three on twenty -ty	t r iː + ɛ rʲ + -/f i ç + ə d	3 13 20 12		LearnGaelic2021
+27	Scottish Gaelic	twenty four	fichead 's a ceithir	fiçədsəkʲehɪrʲ	f i ç + ə d + -/a -/ɣ -/ə s + ə + kʲ e h ɪ rʲ	twenty -ty and numeral_particle four	f i ç + ə d + -/a -/ɣ -/ə s + ə + kʲ e h ɪ rʲ	20 12 15 16 4		LearnGaelic2021
+28	Scottish Gaelic	twenty four	ceithir air fhichead	kʲehɪrʲɛrʲiçəd	kʲ e h ɪ rʲ + ɛ rʲ + -/f i ç + ə d	four on twenty -ty	kʲ e h ɪ rʲ + ɛ rʲ + -/f i ç + ə d	4 13 20 12		LearnGaelic2021
+29	Scottish Gaelic	twenty five	fichead 's a còig	fiçədsəkoːgʲ	f i ç + ə d + -/a -/ɣ -/ə s + ə + k oː gʲ	twenty -ty and numeral_particle five	f i ç + ə d + -/a -/ɣ -/ə s + ə + k oː gʲ	20 12 15 16 5		LearnGaelic2021
+30	Scottish Gaelic	twenty five	còig air fhichead	koːgʲɛrʲiçəd	k oː gʲ + ɛ rʲ + -/f i ç + ə d	five on twenty -ty	k oː gʲ + ɛ rʲ + -/f i ç + ə d	5 13 20 12		LearnGaelic2021
+31	Scottish Gaelic	twenty six	fichead 's a sia	fiçədsəʃia	f i ç + ə d + -/a -/ɣ -/ə s + ə + ʃ i a	twenty -ty and numeral_particle six	f i ç + ə d + -/a -/ɣ -/ə s + ə + ʃ i a	20 12 15 16 6		LearnGaelic2021
+32	Scottish Gaelic	twenty six	sia air fhichead	ʃiaɛrʲiçəd	ʃ i a + ɛ rʲ + -/f i ç + ə d	six on twenty -ty	ʃ i a + ɛ rʲ + -/f i ç + ə d	6 13 20 12		LearnGaelic2021
+33	Scottish Gaelic	twenty seven	fichead 's a seachd	fiçədsəʃɛxg	f i ç + ə d + -/a -/ɣ -/ə s + ə + ʃ ɛ x g	twenty -ty and numeral_particle seven	f i ç + ə d + -/a -/ɣ -/ə s + ə + ʃ ɛ x g	20 12 15 16 7		LearnGaelic2021
+34	Scottish Gaelic	twenty seven	seachd air fhichead	ʃɛxgɛrʲiçəd	ʃ ɛ x g + ɛ rʲ + -/f i ç + ə d	seven on twenty -ty	ʃ ɛ x g + ɛ rʲ + -/f i ç + ə d	7 13 20 12		LearnGaelic2021
+35	Scottish Gaelic	twenty eight	fichead 's a h-ochd	fiçədsəhɔxg	f i ç + ə d + -/a -/ɣ -/ə s + ə + h/- ɔ x g	twenty -ty and numeral_particle eight	f i ç + ə d + -/a -/ɣ -/ə s + ə + h/- ɔ x g	20 12 15 16 8		LearnGaelic2021
+36	Scottish Gaelic	twenty eight	ochd air fhichead	ɔxgɛrʲiçəd	ɔ x g + ɛ rʲ + -/f i ç + ə d	eight on twenty -ty	ɔ x g + ɛ rʲ + -/f i ç + ə d	8 13 20 12		LearnGaelic2021
+37	Scottish Gaelic	twenty nine	fichead 's a naoi	fiçədsəŋɯj	f i ç + ə d + -/a -/ɣ -/ə s + ə + ŋ ɯ j	twenty -ty and numeral_particle nine	f i ç + ə d + -/a -/ɣ -/ə s + ə + ŋ ɯ j	20 12 15 16 9		LearnGaelic2021
+38	Scottish Gaelic	twenty nine	naoi air fhichead	ŋɯjɛrʲiçəd	ŋ ɯ j + ɛ rʲ + -/f i ç + ə d	nine on twenty -ty	ŋ ɯ j + ɛ rʲ + -/f i ç + ə d	9 13 20 12		LearnGaelic2021
+39	Scottish Gaelic	thirty	trithead	triçəd	t r i/iː + ç/- ə d	three -ty	t r i/iː + ç/- ə d	3 12		LearnGaelic2021
+40	Scottish Gaelic	thirty	deich air fhichead	dʲeçɛrʲiçəd	dʲ e ç + ɛ rʲ + -/f i ç + ə d	ten on twenty -ty	dʲ e ç + ɛ rʲ + -/f i ç + ə d	10 13 20 12		LearnGaelic2021
+41	Scottish Gaelic	thirty one	trithead 's a haon	triçədsəhɯ̃ːn	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + h/- ɯ̃ː n	three -ty and numeral_particle one	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + h/- ɯ̃ː n	3 12 15 16 1		LearnGaelic2021
+42	Scottish Gaelic	thirty one	aon-deug air fhichead	ɯ̃ːndʲiəgɛrʲiçəd	ɯ̃ː n + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	one teen on twenty -ty	ɯ̃ː n + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	1 11 13 20 12		LearnGaelic2021
+43	Scottish Gaelic	thirty two	trithead 's a dhà	triçədsəɣaː	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + ɣ/d aː	three -ty and numeral_particle two	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + ɣ/d aː	3 12 15 16 2		LearnGaelic2021
+44	Scottish Gaelic	thirty two	dhà-dheug air fhichead	ɣaːjiəgɛrʲiçəd	ɣ/d aː + j/dʲ i ə g + ɛ rʲ + -/f i ç + ə d	two teen on twenty -ty	ɣ/d aː + j/dʲ i ə g + ɛ rʲ + -/f i ç + ə d	2 11 13 20 12		LearnGaelic2021
+45	Scottish Gaelic	thirty three	trithead 's a trì	triçədsətriː	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + t r iː	three -ty and numeral_particle three	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + t r iː	3 12 15 16 3		LearnGaelic2021
+46	Scottish Gaelic	thirty three	trì-deug air fhichead	triːdʲiəgɛrʲiçəd	t r iː + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	three teen on twenty -ty	t r iː + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	3 11 13 20 12		LearnGaelic2021
+47	Scottish Gaelic	thirty four	trithead 's a ceithir	triçədsəkʲehɪrʲ	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + kʲ e h ɪ rʲ	three -ty and numeral_particle four	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + kʲ e h ɪ rʲ	3 12 15 16 4		LearnGaelic2021
+48	Scottish Gaelic	thirty four	ceithir-deug air fhichead	kʲehɪrʲdʲiəgɛrʲiçəd	kʲ e h ɪ rʲ + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	four teen on twenty -ty	kʲ e h ɪ rʲ + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	4 11 13 20 12		LearnGaelic2021
+49	Scottish Gaelic	thirty five	trithead 's a còig	triçədsəkoːgʲ	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + k oː gʲ	three -ty and numeral_particle five	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + k oː gʲ	3 12 15 16 5		LearnGaelic2021
+50	Scottish Gaelic	thirty five	còig-deug air fhichead	koːgʲdʲiəgɛrʲiçəd	k oː gʲ + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	five teen on twenty -ty	k oː gʲ + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	5 11 13 20 12		LearnGaelic2021
+51	Scottish Gaelic	thirty six	trithead 's a sia	triçədsəʃia	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + ʃ i a	three -ty and numeral_particle six	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + ʃ i a	3 12 15 16 6		LearnGaelic2021
+52	Scottish Gaelic	thirty six	sia-deug air fhichead	ʃiadʲiəgɛrʲiçəd	ʃ i a + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	six teen on twenty -ty	ʃ i a + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	6 11 13 20 12		LearnGaelic2021
+53	Scottish Gaelic	thirty seven	trithead 's a seachd	triçədsəʃɛxg	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + ʃ ɛ x g	three -ty and numeral_particle seven	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + ʃ ɛ x g	3 12 15 16 7		LearnGaelic2021
+54	Scottish Gaelic	thirty seven	seachd-deug air fhichead	ʃɛxgdʲiəgɛrʲiçəd	ʃ ɛ x g + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	seven teen on twenty -ty	ʃ ɛ x g + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	7 11 13 20 12		LearnGaelic2021
+55	Scottish Gaelic	thirty eight	trithead 's a h-ochd	triçədsəhɔxg	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + h/- ɔ x g	three -ty and numeral_particle eight	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + h/- ɔ x g	3 12 15 16 8		LearnGaelic2021
+56	Scottish Gaelic	thirty eight	ochd-deug air fhichead	ɔxgdʲiəgɛrʲiçəd	ɔ x g + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	eight teen on twenty -ty	ɔ x g + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	8 11 13 20 12		LearnGaelic2021
+57	Scottish Gaelic	thirty nine	trithead 's a naoi	triçədsəŋɯj	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + ŋ ɯ j	three -ty and numeral_particle nine	t r i/iː + ç/- ə d + -/a -/ɣ -/ə s + ə + ŋ ɯ j	3 12 15 16 9		LearnGaelic2021
+58	Scottish Gaelic	thirty nine	naoi-deug air fhichead	ŋɯjdʲiəgɛrʲiçəd	ŋ ɯ j + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	nine teen on twenty -ty	ŋ ɯ j + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	9 11 13 20 12		LearnGaelic2021
+59	Scottish Gaelic	forty	dà fhichead	daːiçəd	d aː + -/f i ç + ə d	two twenty -ty	d aː + -/f i ç + ə d	2 20 12		LearnGaelic2021
+60	Scottish Gaelic	forty	ceathrad	kʲɛrəd	kʲ ɛ/e -/h -/ɪ r/rʲ + ə d	four -ty	kʲ ɛ/e -/h -/ɪ r/rʲ + ə d	4 12		LearnGaelic2021
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
+#@css=menu:show|database:hide
+#@basics=ALIGNMENT|COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTE|SOURCES|TOKENS|VALUE
+#@_selected_doculects=Scottish Gaelic
+#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
+#@sorted_taxa=Scottish Gaelic
+#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
+#@display=filedisplay|glosses
+#@missing_marker=Ø
+#@separator=
+#@gap_marker=-
+#@formatter=false
+#@root_formatter=COGIDS
+#@note_formatter=NOTE
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=scottish_gaelic.tsv
+#@navbar=true
+#@_morphology_mode=full
