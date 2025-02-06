@@ -1,0 +1,41 @@
+ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
+1	French	ONE	1	un	œ̃	œ̃	one	1	French
+2	French	TWO	2	deux	dø	d ø	two	2	French
+3	French	THREE	3	trois	tʁwɑ	t ʁ w ɑ	three	3	French
+4	French	FOUR	4	quatre	katʁ	k a t ʁ	four	4	French
+5	French	FIVE	5	cinq	sɛ̃k	s ɛ̃ k	five	5	French
+6	French	SIX	6	six	sis	s i s	six	6	French
+7	French	SEVEN	7	sept	sɛt	s ɛ t	seven	7	French
+8	French	EIGHT	8	huit	ɥit	ɥ i t	eight	8	French
+9	French	NINE	9	neuf	nœf	n œ f	nine	9	French
+10	French	TEN	10	dix	dis	d i s	ten	10	French
+11	French	ELEVEN	11	onze	ɔ̃z	ɔ̃ z	eleven	11	French
+12	French	TWELVE	12	douze	duz	d u z	twelve	12	French
+13	French	THIRTEEN	13	treize	tʁɛz	t ʁ ɛ z	thirteen	13	French
+14	French	FOURTEEN	14	quatorze	katɔʁz	k a t ɔ ʁ z	fourteen	14	French
+15	French	FIFTEEN	15	quinze	kɛ̃z	k ɛ̃ z	fifteen	15	French
+16	French	SIXTEEN	16	seize	sɛz	s ɛ z	sixteen	16	French
+17	French	SEVENTEEN	17	dix-sept	disɛt	d i -/s + s ɛ t	ten seven	10 7	French
+18	French	EIGHTEEN	18	dix-huit	dizɥit	d i z/s + ɥ i t	ten eight	10 8	French
+19	French	NINETEEN	19	dix-neuf	diznœf	d i z/s + n œ f	ten nine	10 9	French
+20	French	TWENTY	20	vingt	vɛ̃	v ɛ̃	twenty	20	French
+21	French	TWENTY ONE	21	vingt et un	vɛ̃teœ̃	v ɛ̃ t/- + e + œ̃	twenty and one	20 18 1	French
+22	French	TWENTY TWO	22	vingt-deux	vɛ̃dø	v ɛ̃ t/- + d ø	twenty two	20 2	French
+23	French	TWENTY THREE	23	vingt-trois	vɛ̃tʁwɑ	v ɛ̃ t/- + t ʁ w ɑ	twenty three	20 3	French
+24	French	TWENTY FOUR	24	vingt-quatre	vɛ̃tkatʁ	v ɛ̃ t/- + k a t ʁ	twenty four	20 4	French
+25	French	TWENTY FIVE	25	vingt-cinq	vɛ̃tsɛ̃k	v ɛ̃ t/- + s ɛ̃ k	twenty five	20 5	French
+26	French	TWENTY SIX	26	vingt-six	vɛ̃tsis	v ɛ̃ t/- + s i s	twenty six	20 6	French
+27	French	TWENTY SEVEN	27	vingt-sept	vɛ̃tsɛt	v ɛ̃ t/- + s ɛ t	twenty seven	20 7	French
+28	French	TWENTY EIGHT	28	vingt-huit	vɛ̃tɥit	v ɛ̃ t/- + ɥ i t	twenty eight	20 8	French
+29	French	TWENTY NINE	29	vingt-neuf	vɛ̃nœf	v ɛ̃ t/- + n œ f	twenty nine	20 9	French
+30	French	THIRTY	30	trente	tʁɑ̃t	t ʁ -/w -/ɑ + ɑ̃ t	three tenstep	3 17	French
+31	French	THIRTY ONE	31	trente et un	tʁɑ̃teœ̃	t ʁ -/w -/ɑ + ɑ̃ t + e + œ̃	three tenstep and one	3 17 18 1	French
+32	French	THIRTY TWO	32	trente-deux	tʁɑ̃tdø	t ʁ -/w -/ɑ + ɑ̃ t + d ø	three tenstep two	3 17 2	French
+33	French	THIRTY THREE	33	trente-trois	tʁɑ̃t tʁwɑ	t ʁ -/w -/ɑ + ɑ̃ t + t ʁ w ɑ	three tenstep three	3 17 3	French
+34	French	THIRTY FOUR	34	trente-quatre	tʁɑ̃tkatʁ	t ʁ -/w -/ɑ + ɑ̃ t + k a t ʁ	three tenstep four	3 17 4	French
+35	French	THIRTY FIVE	35	trente-cinq	tʁɑ̃tsɛ̃k	t ʁ -/w -/ɑ + ɑ̃ t + s ɛ̃ k	three tenstep five	3 17 5	French
+36	French	THIRTY SIX	36	trente-six	tʁɑ̃tsis	t ʁ -/w -/ɑ + ɑ̃ t + s i s	three tenstep six	3 17 6	French
+37	French	THIRTY SEVEN	37	trente-sept	tʁɑ̃tsɛt	t ʁ -/w -/ɑ + ɑ̃ t + s ɛ t	three tenstep seven	3 17 7	French
+38	French	THIRTY EIGHT	38	trente-huit	tʁɑ̃tɥit	t ʁ -/w -/ɑ + ɑ̃ t + ɥ i t	three tenstep eight	3 17 8	French
+39	French	THIRTY NINE	39	trente-neuf	tʁɑ̃tnœf	t ʁ -/w -/ɑ + ɑ̃ t + n œ f	three tenstep nine	3 17 9	French
+40	French	FORTY	40	quarante	kaʁɑ̃t	k a -/t ʁ + ɑ̃ t	four tenstep	4 17	French
