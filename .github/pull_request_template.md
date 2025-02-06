@@ -1,0 +1,4 @@
+- [ ] move the TSV file from `todo` to `done`
+- [ ] add the language in `etc/languages.csv`
+- [ ] add all relevant sources (and double-check if they are referenced correctly in both the language file and your numeral forms file)
+- [ ] open a pull request to contribute your data
