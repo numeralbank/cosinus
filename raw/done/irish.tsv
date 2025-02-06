@@ -40,24 +40,3 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCES
 39	Irish	thirty nine	tríocha a naoi	tʲɾʲiːxən̪ˠiː	tʲ ɾʲ iː + -/ə x ə + -/ə + n̪ˠ iː	three -ty numeral_particle nine	tʲ ɾʲ iː + -/ə x ə + -/ə + n̪ˠ iː	3 12 16 9		Dellert2020 Focloir_Scoile1998 Heggarty2024
 40	Irish	forty	daichead	d̪ˠaçəd̪ˠ	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ	two twenty suff.gen.sg.	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ	2 20 21		Focloir_Scoile1998 Heggarty2024 Teanglann2025
 41	Irish	forty	ceathracha	cahɾˠəxə	c a h -/ə ɾˠ/ɾʲ + ə x ə	four -ty	c a h -/ə ɾˠ/ɾʲ + ə x ə	4 12		Focloir_Scoile1998
-#@highlight=TOKENS|ALIGNMENT
-#@sampa=TOKENS
-#@css=menu:show|database:hide
-#@basics=ALIGNMENT|COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTE|SOURCES|TOKENS|VALUE
-#@_selected_doculects=Irish
-#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@sorted_taxa=Irish
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@display=filedisplay|settings|glosses
-#@missing_marker=Ø
-#@separator=
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTE
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=irish.tsv
-#@navbar=true
-#@_morphology_mode=full

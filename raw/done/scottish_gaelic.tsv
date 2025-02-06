@@ -59,24 +59,3 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCES
 58	Scottish Gaelic	thirty nine	naoi-deug air fhichead	ŋɯjdʲiəgɛrʲiçəd	ŋ ɯ j + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	nine teen on twenty -ty	ŋ ɯ j + dʲ i ə g + ɛ rʲ + -/f i ç + ə d	9 11 13 20 12		LearnGaelic2021
 59	Scottish Gaelic	forty	dà fhichead	daːiçəd	d aː + -/f i ç + ə d	two twenty -ty	d aː + -/f i ç + ə d	2 20 12		LearnGaelic2021
 60	Scottish Gaelic	forty	ceathrad	kʲɛrəd	kʲ ɛ/e -/h -/ɪ r/rʲ + ə d	four -ty	kʲ ɛ/e -/h -/ɪ r/rʲ + ə d	4 12		LearnGaelic2021
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@css=menu:show|database:hide
-#@basics=ALIGNMENT|COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTE|SOURCES|TOKENS|VALUE
-#@_selected_doculects=Scottish Gaelic
-#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@sorted_taxa=Scottish Gaelic
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@display=filedisplay|glosses
-#@missing_marker=Ø
-#@separator=
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTE
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=scottish_gaelic.tsv
-#@navbar=true
-#@_morphology_mode=full
