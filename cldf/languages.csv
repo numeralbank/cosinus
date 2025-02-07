@@ -1,3 +1,9 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Sources,FileName
 German,German,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European,List2025,german
 Hindi,Hindi,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European,Hindi,hind1269
+Maltese,Maltese,malt1254,Maltese,mlt,Eurasia,35.8884,14.4508,Afro-Asiatic,Maltese,maltese
+Latin,Latin,lati1261,Latin,lat,Eurasia,41.9026,12.4502,Indo-European,Dellert2020;Rubenbauer1995,latin
+Czech,Czech,czec1258,Czech,ces,Eurasia,49.873398,15.10437,Indo-European,Czech,czech
+Irish,Irish,iris1253,Irish,gle,Eurasia,53.2186,-7.61509,Indo-European,Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025,irish
+Scottish_Gaelic,Scottish Gaelic,scot1245,Scottish Gaelic,gla,Eurasia,56.7574,-5.24366,Indo-European,LearnGaelic2021,scottish_gaelic
+French,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European,French,french
