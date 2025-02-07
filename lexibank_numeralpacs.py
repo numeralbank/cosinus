@@ -42,7 +42,7 @@ class Dataset(pylexibank.Dataset):
                 try:
                     args.writer.add_form_with_segments(
                         Language_ID=data["DOCULECT"],
-                        Parameter_ID=concepts[data["CONCEPT"]],
+                        Parameter_ID=concepts[data["CONCEPT"].lower()],
                         Value=data["FORM"],
                         Form=data["FORM"],
                         Segments=[{"_": "+"}.get(x, x) for x in data["TOKENS"].replace(" ", "")],
@@ -51,4 +51,8 @@ class Dataset(pylexibank.Dataset):
                 except ValueError:
                     args.log.error(
                         f"Problem/missing data in:\n  LANGUAGE: {data['DOCULECT']}\n  CONCEPT: {data['CONCEPT']}\n  FORM: {data['FORM']}"
+                    )
+                except KeyError as e:
+                    args.log.error(
+                        f"Problem w/ concept or doculect mapping:\n  LANGUAGE: {data['DOCULECT']}\n  CONCEPT: {data['CONCEPT']}\n  FORM: {data['FORM']}"
                     )
