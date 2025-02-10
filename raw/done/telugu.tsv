@@ -1,0 +1,62 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
+1	Telugu	one	okati	okʌʈi	o k ʌ ʈ i	one	1	telugu
+2	Telugu	two	rendu	renɖu	r e n ɖ u	two	2	telugu
+3	Telugu	three	mudu	muːɖu	m uː ɖ u	three	3	telugu
+4	Telugu	four	nalugu	naːlugu	n aː l u g u	four	4	telugu
+5	Telugu	five	ayidu	ʌjidu	ʌ j i d u	five	5	telugu
+6	Telugu	six	aru	aːɾu	aː ɾ u	six	6	telugu
+7	Telugu	seven	edu	eːɖu	eː ɖ u	seven	7	telugu
+8	Telugu	eight	enimidi	enimidi	e n i m i d i	eight	8	telugu
+9	Telugu	nine	tommidi	tomːidi	t o mː i d i	nine	9	telugu
+10	Telugu	ten	padi	pʌdi	p ʌ d i	ten	10 	telugu
+11	Telugu	eleven	padakondu	pʌdʌkonɖu	p ʌ d ʌ/i + k o n ɖ u	ten plusone	10 12	telugu
+12	Telugu	twelve	pannendu	pʌnenɖu	p ʌ n/d -/i + -/r e n ɖ u	ten two	10 2	telugu
+13	Telugu	thirteen	padamudu	pʌdʌmuɖu	p ʌ d ʌ/i + m u/uː ɖ u	ten three	10 3	telugu
+14	Telugu	fourteen	padhnalugu	pʌdnaːlugu	p ʌ d -/i + n aː l u g u	ten four	10 4	telugu
+15	Telugu	fifteen	padanayidu	pʌdʌ nʌjidu	p ʌ d ʌ/i + h/- ʌ j i d u	ten five	5 10	telugu
+16	Telugu	sixteen	padaharu	pʌdʌha:ru	p ʌ d ʌ/i + h/- aː ɾ u	ten six	10 6	telugu
+17	Telugu	seventeen	padihedu	pʌdihe:du	p ʌ d i + h/- eː ɖ u	ten seven	10 7	telugu
+18	Telugu	eighteen	padhenimidi	pʌdhenimidi	p ʌ d -/i + h/- e n i m i d i	ten eight	10 8	telugu
+19	Telugu	nineteen	pantommidi	pʌndomidi	p ʌ n/d -/i + d/t o mː i d i	ten nine	10 9	telugu
+20	Telugu	twenty	iravai	iɾavaɪ̯	i ɾ a + v/p aɪ̯/ʌ -/d -/i	twice ten	11 10	telugu
+21	Telugu	twenty one	iravai okati	iɾavaɪ̯ okʌʈi	i ɾ a + v/p aɪ̯/ʌ -/d -/i + o k ʌ ʈ i	twice ten one	11 10 1	telugu
+22	Telugu	twenty two	iravai rendu	iɾavaɪ̯ renɖu	i ɾ a + v/p aɪ̯/ʌ -/d -/i + r e n ɖ u	twice ten two	11 10 2	telugu
+23	Telugu	twenty three	iravai mudu	iɾavaɪ̯ muːɖu	i ɾ a + v/p aɪ̯/ʌ -/d -/i + m uː ɖ u	twice ten three	11 10 3	telugu
+24	Telugu	twenty four	iravai nalugu	iɾavaɪ̯ naːlugu	i ɾ a + v/p aɪ̯/ʌ -/d -/i + n aː l u g u	twice ten four	11 10 4	telugu
+25	Telugu	twenty five	iravai ayidu	iɾavaɪ̯ ʌjidu	i ɾ a + v/p aɪ̯/ʌ -/d -/i + ʌ j i d u	twice ten five	11 10 5	telugu
+26	Telugu	twenty six	iravai aru	iɾavaɪ̯ aːɾu	i ɾ a + v/p aɪ̯/ʌ -/d -/i + aː ɾ u	twice ten six	11 10 6	telugu
+27	Telugu	twenty seven	iravai edu	iɾavaɪ̯ eːɖu	i ɾ a + v/p aɪ̯/ʌ -/d -/i + eː ɖ u	twice ten seven	11 10 7	telugu
+28	Telugu	twenty eight	iravai enimidi	iɾavaɪ̯ enimidi	i ɾ a + v/p aɪ̯/ʌ -/d -/i + e n i m i d i	twice ten eight	11 10 8 	telugu
+29	Telugu	twenty nine	iravai tommidi	iɾavaɪ̯ tomːidi	i ɾ a + v/p aɪ̯/ʌ -/d -/i + t o mː i d i	twice ten nine	11 10 9	telugu
+30	Telugu	thirty	muppai	mupːaɪ̯	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i	three ten	3 10	telugu
+31	Telugu	thirty one	muppai okati	mupːaɪ̯ okʌʈi	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + o k ʌ ʈ i	three ten one	3 10 1	telugu
+32	Telugu	thirty two	muppai rendu	mupːaɪ̯ renɖu	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + r e n ɖ u	three ten two	3 10 2	telugu
+33	Telugu	thirty three	muppai mudu	mupːaɪ̯ muːɖu	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + m uː ɖ u	three ten three	3 10 3	telugu
+34	Telugu	thirty four	muppai nalugu	mupːaɪ̯ naːlugu	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + n aː l u g u	three ten four	3 10 4	telugu
+35	Telugu	thirty five	muppai ayidu	mupːaɪ̯ ʌjidu	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + ʌ j i d u	three ten five	3 10 5	telugu
+36	Telugu	thirty six	muppai aru	mupːaɪ̯ aːɾu	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + aː ɾ u	three ten six	3 10 6	telugu
+37	Telugu	thirty seven	muppai edu	mupːaɪ̯ eːɖu	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + eː ɖ u	three ten seven	3 10 7	telugu
+38	Telugu	thirty eight	muppai enimidi	mupːaɪ̯ enimidi	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + e n i m i d i	three ten eight	3 10 8	telugu
+39	Telugu	thirty nine	muppai tommidi	mupːaɪ̯ tomːidi	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + t o mː i d i	three ten nine	3 10 9	telugu
+40	Telugu	forty	nalabhai	na:lʌbaɪ̯	n aː l ʌ/u -/g -/u + b/p aɪ̯/ʌ -/d -/i	four ten	4 10	telugu
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
+#@css=menu:show|database:hide
+#@basics=COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|SOURCE|TOKENS|VALUE
+#@_selected_doculects=Telugu
+#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
+#@sorted_taxa=Telugu
+#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
+#@display=filedisplay|settings|glosses|patterns
+#@missing_marker=Ø
+#@separator=	
+#@gap_marker=-
+#@formatter=false
+#@root_formatter=COGIDS
+#@note_formatter=undefined
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=telugu.tsv
+#@navbar=true
+#@_morphology_mode=full
