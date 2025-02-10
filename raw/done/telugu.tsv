@@ -39,24 +39,3 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 38	Telugu	thirty eight	muppai enimidi	mupːaɪ̯ enimidi	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + e n i m i d i	three ten eight	3 10 8	Telugu
 39	Telugu	thirty nine	muppai tommidi	mupːaɪ̯ tomːidi	m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + t o mː i d i	three ten nine	3 10 9	Telugu
 40	Telugu	forty	nalabhai	na:lʌbaɪ̯	n aː l ʌ/u -/g -/u + b/p aɪ̯/ʌ -/d -/i	four ten	4 10	Telugu
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@css=menu:show|database:hide
-#@basics=DOCULECT|GLOSS|CONCEPT|IPA|TOKENS|COGID|TAXON|TAXA|PROTO|PROTO_TOKENS|ETYMONID|CHINESE|CONCEPTLIST|ORTHOGRAPHY|WORD|TRANSCRIPTION|SEGMENTS|PARTIALIDS|NOTE
-#@_selected_doculects=Telugu
-#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@sorted_taxa=Telugu
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@display=filedisplay|glosses
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=undefined
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=telugu.tsv
-#@navbar=true
-#@_morphology_mode=full
