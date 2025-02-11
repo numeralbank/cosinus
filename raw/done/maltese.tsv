@@ -1,41 +1,41 @@
 ID	DOCULECT	CONCEPT	ORTHOGRAPHIC	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGID	SOURCE	NOTE
-1	Maltese	1	wieħed	wɪħɛd	w ɪ ħ ɛ d	one	w ɪ ħ ɛ d	1	Maltese	
-2	Maltese	2	tnejn	tnɛjn	t n ɛ j n	two	t n ɛ j n	2	Maltese	
-3	Maltese	3	tlieta	tlɪtɐ	t l ɪ t ɐ	three	t l ɪ t ɐ	3	Maltese	
-4	Maltese	4	erbgħa	ɛrbʔɐ	ɛ r b ʔ ɐ	four	ɛ r b ʔ ɐ	4	Maltese	
-5	Maltese	5	ħamsa	ħamsɐ	ħ a m s ɐ	five	ħ a m s ɐ	5	Maltese	
-6	Maltese	6	sitta	sɪttɐ	s ɪ t t ɐ	six	s ɪ t t ɐ	6	Maltese	
-7	Maltese	7	seba'	sɛbɐʔ	s ɛ b ɐ ʔ	seven	s ɛ b ɐ ʔ	7	Maltese	
-8	Maltese	8	tmienja	tmɪnjɐ	t m ɪ n j ɐ	eight	t m ɪ n j ɐ	8	Maltese	
-9	Maltese	9	disgħa	dɪzʕɐ	d ɪ z ʕ ɐ	nine	d ɪ z ʕ ɐ	9	Maltese	
-10	Maltese	10	għaxra	ʔaʃrɐ	ʔ a ʃ r ɐ	ten	ʔ a ʃ r ɐ	10	Maltese	
-11	Maltese	11	ħdax	ħdaʃ	ħ d + a ʃ	one ten	ħ d + a ʃ + ħ d + a ʃ	1 10	Maltese	
-12	Maltese	12	tnax	tnaʃ	t n + a ʃ	two ten	t n + a ʃ + t n + a ʃ	2 10	Maltese	
-13	Maltese	13	tlettax	tlɛttaʃ	t l ɛ t t + a ʃ	three ten	t l ɛ t t + a ʃ + t l ɛ t t + a ʃ	3 10	Maltese	
-14	Maltese	14	erbatax	ɛrbataʃ	ɛ r b a t + a ʃ	four ten	ɛ r b a t + a ʃ + ɛ r b a t + a ʃ	4 10	Maltese	
-15	Maltese	15	ħmistax	ħmɪstaʃ	ħ m ɪ s t + a ʃ	five ten	ħ m ɪ s t + a ʃ + ħ m ɪ s t + a ʃ	5 10	Maltese	
-16	Maltese	16	sittax	sɪttaʃ	s ɪ t t + a ʃ	six ten	s ɪ t t + a ʃ + s ɪ t t + a ʃ	6 10	Maltese	
-17	Maltese	17	sbatax	sbataʃ	s b a t + a ʃ	seven ten	s b a t + a ʃ + s b a t + a ʃ	7 10	Maltese	
-18	Maltese	18	tmintax	tmɪntaʃ	t m ɪ n t + a ʃ	eight ten	t m ɪ n t + a ʃ + t m ɪ n t + a ʃ	8 10	Maltese	
-19	Maltese	19	dsatax	dzataʃ	d z a t + a ʃ	nine ten	d z a t + a ʃ + d z a t + a ʃ	9 10	Maltese	
-20	Maltese	20	għoxrin	ʔɔʃr + ɪn	ʔ ɔ ʃ r ɪ n	ten ty	ʔ ɔ ʃ r ɪ n	10 13	Maltese	ɪn is derived from a pluraliser so »tens«
-21	Maltese	21	wieħed u għoxrin	wɪħɛd u ʔɔʃrɪn	w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n	one and twenty	w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n + w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n + w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n	1 12 11	Maltese	
-22	Maltese	22	tnejn u għoxrin	tnɛjn u ʔɔʃrɪn	t n ɛ j n + u + ʔ ɔ ʃ r ɪ n	two and twenty	t n ɛ j n + u + ʔ ɔ ʃ r ɪ n + t n ɛ j n + u + ʔ ɔ ʃ r ɪ n + t n ɛ j n + u + ʔ ɔ ʃ r ɪ n	2 12 11	Maltese	
-23	Maltese	23	tlieta u għoxrin	tlɪtɐ u ʔɔʃrɪn	t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n	three and twenty	t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n + t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n + t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n	3 12 11	Maltese	
-24	Maltese	24	erbgħa u għoxrin	ɛrbʔɐ u ʔɔʃrɪn	ɛ r b ʔ ɐ + u + ʔ ɔ ʃ r ɪ n	four and twenty	ɛ r b ʔ ɐ + u + ʔ ɔ ʃ r ɪ n + ɛ r b ʔ ɐ + u + ʔ ɔ ʃ r ɪ n + ɛ r b ʔ ɐ + u + ʔ ɔ ʃ r ɪ n	4 12 11	Maltese	
-25	Maltese	25	ħamsa u għoxrin	ħamsɐ u ʔɔʃrɪn	ħ a m s ɐ + u + ʔ ɔ ʃ r ɪ n	five and twenty	ħ a m s ɐ + u + ʔ ɔ ʃ r ɪ n + ħ a m s ɐ + u + ʔ ɔ ʃ r ɪ n + ħ a m s ɐ + u + ʔ ɔ ʃ r ɪ n	5 12 11	Maltese	
-26	Maltese	26	sitta u għoxrin	sɪttɐ u ʔɔʃrɪn	s ɪ t t ɐ + u + ʔ ɔ ʃ r ɪ n	six and twenty	s ɪ t t ɐ + u + ʔ ɔ ʃ r ɪ n + s ɪ t t ɐ + u + ʔ ɔ ʃ r ɪ n + s ɪ t t ɐ + u + ʔ ɔ ʃ r ɪ n	6 12 11	Maltese	
-27	Maltese	27	seba' u għoxrin	sɛbɐʔ u ʔɔʃrɪn	s ɛ b ɐ ʔ + u + ʔ ɔ ʃ r ɪ n	seven and twenty	s ɛ b ɐ ʔ + u + ʔ ɔ ʃ r ɪ n + s ɛ b ɐ ʔ + u + ʔ ɔ ʃ r ɪ n + s ɛ b ɐ ʔ + u + ʔ ɔ ʃ r ɪ n	7 12 11	Maltese	
-28	Maltese	28	tmienja u għoxrin	tmɪnjɐ u ʔɔʃrɪn	t m ɪ n j ɐ + u + ʔ ɔ ʃ r ɪ n	eight and twenty	t m ɪ n j ɐ + u + ʔ ɔ ʃ r ɪ n + t m ɪ n j ɐ + u + ʔ ɔ ʃ r ɪ n + t m ɪ n j ɐ + u + ʔ ɔ ʃ r ɪ n	8 12 11	Maltese	
-29	Maltese	29	disgħa u għoxrin	dɪzʕɐ u ʔɔʃrɪn	d ɪ z ʕ ɐ + u + ʔ ɔ ʃ r ɪ n	nine and twenty	d ɪ z ʕ ɐ + u + ʔ ɔ ʃ r ɪ n + d ɪ z ʕ ɐ + u + ʔ ɔ ʃ r ɪ n + d ɪ z ʕ ɐ + u + ʔ ɔ ʃ r ɪ n	9 12 11	Maltese	
-30	Maltese	30	tletin	tlɛtɪn	t l ɛ t + ɪ n	three ty	t l ɛ t + ɪ n + t l ɛ t + ɪ n	3 13	Maltese	
-31	Maltese	31	wieħed u tletin	wɪħɛd u tlɛtɪn	w ɪ ħ ɛ d + u + t l ɛ t + ɪ n	one and three ty	w ɪ ħ ɛ d + u + t l ɛ t + ɪ n + w ɪ ħ ɛ d + u + t l ɛ t + ɪ n + w ɪ ħ ɛ d + u + t l ɛ t + ɪ n + w ɪ ħ ɛ d + u + t l ɛ t + ɪ n	1 12 3 13	Maltese	
-32	Maltese	32	tnejn u tletin	tnɛjn u tlɛtɪn	t n ɛ j n + u + t l ɛ t + ɪ n	two and three ty	t n ɛ j n + u + t l ɛ t + ɪ n + t n ɛ j n + u + t l ɛ t + ɪ n + t n ɛ j n + u + t l ɛ t + ɪ n + t n ɛ j n + u + t l ɛ t + ɪ n	2 12 3 13	Maltese	
-33	Maltese	33	tlieta u tletin	tlɪtɐ u tlɛtɪn	t l ɪ t ɐ + u + t l ɛ t + ɪ n	three and three ty	t l ɪ t ɐ + u + t l ɛ t + ɪ n + t l ɪ t ɐ + u + t l ɛ t + ɪ n + t l ɪ t ɐ + u + t l ɛ t + ɪ n + t l ɪ t ɐ + u + t l ɛ t + ɪ n	3 12 3 13	Maltese	
-34	Maltese	34	erbgħa u tletin	ɛrbʔɐ u tlɛtɪn	ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n	four and three ty	ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n + ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n + ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n + ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n	4 12 3 13	Maltese	
-35	Maltese	35	ħamsa u tletin	ħamsɐ u tlɛtɪn	ħ a m s ɐ + u + t l ɛ t + ɪ n	five and three ty	ħ a m s ɐ + u + t l ɛ t + ɪ n + ħ a m s ɐ + u + t l ɛ t + ɪ n + ħ a m s ɐ + u + t l ɛ t + ɪ n + ħ a m s ɐ + u + t l ɛ t + ɪ n	5 12 3 13	Maltese	
-36	Maltese	36	sitta u tletin	sɪttɐ u tlɛtɪn	s ɪ t t ɐ + u + t l ɛ t + ɪ n	six and three ty	s ɪ t t ɐ + u + t l ɛ t + ɪ n + s ɪ t t ɐ + u + t l ɛ t + ɪ n + s ɪ t t ɐ + u + t l ɛ t + ɪ n + s ɪ t t ɐ + u + t l ɛ t + ɪ n	6 12 3 13	Maltese	
-37	Maltese	37	seba' u tletin	sɛbɐʔ u tlɛtɪn	s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n	seven and three ty	s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n + s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n + s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n + s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n	7 12 3 13	Maltese	
-38	Maltese	38	tmienja u tletin	tmɪnjɐ u tlɛtɪn	t m ɪ n j ɐ + u + t l ɛ t + ɪ n	eight and three ty	t m ɪ n j ɐ + u + t l ɛ t + ɪ n + t m ɪ n j ɐ + u + t l ɛ t + ɪ n + t m ɪ n j ɐ + u + t l ɛ t + ɪ n + t m ɪ n j ɐ + u + t l ɛ t + ɪ n	8 12 3 13	Maltese	
-39	Maltese	39	disgħa u tletin	dɪzʕɐ u tlɛtɪn	d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n	nine and three ty	d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n + d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n + d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n + d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n	9 12 3 13	Maltese	
-40	Maltese	40	erbgħin	ɛrbʕɪn	ɛ r b ʕ + ɪ n	four ty	ɛ r b ʕ + ɪ n + ɛ r b ʕ + ɪ n	4 13	Maltese	
+1	Maltese	one	wieħed	wɪħɛd	w ɪ ħ ɛ d	one	w ɪ ħ ɛ d	1	Maltese
+2	Maltese	two	tnejn	tnɛjn	t n ɛ j n	two	t n ɛ j n	2	Maltese
+3	Maltese	three	tlieta	tlɪtɐ	t l ɪ t ɐ	three	t l ɪ t ɐ	3	Maltese
+4	Maltese	four	erbgħa	ɛrbʔɐ	ɛ r b ʔ ɐ	four	ɛ r b ʔ ɐ	4	Maltese
+5	Maltese	five	ħamsa	ħamsɐ	ħ a m s ɐ	five	ħ a m s ɐ	5	Maltese
+6	Maltese	six	sitta	sɪttɐ	s ɪ t t ɐ	six	s ɪ t t ɐ	6	Maltese
+7	Maltese	seven	seba'	sɛbɐʔ	s ɛ b ɐ ʔ	seven	s ɛ b ɐ ʔ	7	Maltese
+8	Maltese	eight	tmienja	tmɪnjɐ	t m ɪ n j ɐ	eight	t m ɪ n j ɐ	8	Maltese
+9	Maltese	nine	disgħa	dɪzʕɐ	d ɪ z ʕ ɐ	nine	d ɪ z ʕ ɐ	9	Maltese
+10	Maltese	ten	għaxra	ʔaʃrɐ	ʔ a ʃ r ɐ	ten	ʔ a ʃ r ɐ	10	Maltese
+11	Maltese	eleven	ħdax	ħdaʃ	ħ d + a ʃ	one ten	ħ d + a ʃ + ħ d + a ʃ	1 10	Maltese
+12	Maltese	twelve	tnax	tnaʃ	t n + a ʃ	two ten	t n + a ʃ + t n + a ʃ	2 10	Maltese
+13	Maltese	thirteen	tlettax	tlɛttaʃ	t l ɛ t t + a ʃ	three ten	t l ɛ t t + a ʃ + t l ɛ t t + a ʃ	3 10	Maltese
+14	Maltese	fourteen	erbatax	ɛrbataʃ	ɛ r b a t + a ʃ	four ten	ɛ r b a t + a ʃ + ɛ r b a t + a ʃ	4 10	Maltese
+15	Maltese	fifteen	ħmistax	ħmɪstaʃ	ħ m ɪ s t + a ʃ	five ten	ħ m ɪ s t + a ʃ + ħ m ɪ s t + a ʃ	5 10	Maltese
+16	Maltese	sixteen	sittax	sɪttaʃ	s ɪ t t + a ʃ	six ten	s ɪ t t + a ʃ + s ɪ t t + a ʃ	6 10	Maltese
+17	Maltese	seventeen	sbatax	sbataʃ	s b a t + a ʃ	seven ten	s b a t + a ʃ + s b a t + a ʃ	7 10	Maltese
+18	Maltese	eighteen	tmintax	tmɪntaʃ	t m ɪ n t + a ʃ	eight ten	t m ɪ n t + a ʃ + t m ɪ n t + a ʃ	8 10	Maltese
+19	Maltese	nineteen	dsatax	dzataʃ	d z a t + a ʃ	nine ten	d z a t + a ʃ + d z a t + a ʃ	9 10	Maltese
+20	Maltese	twenty	għoxrin	ʔɔʃr + ɪn	ʔ ɔ ʃ r ɪ n	ten ty	ʔ ɔ ʃ r ɪ n	10 13	Maltese	ɪn is derived from a pluraliser so »tens«
+21	Maltese	twenty one	wieħed u għoxrin	wɪħɛd u ʔɔʃrɪn	w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n	one and twenty	w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n + w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n + w ɪ ħ ɛ d + u + ʔ ɔ ʃ r ɪ n	1 12 11	Maltese
+22	Maltese	twenty two	tnejn u għoxrin	tnɛjn u ʔɔʃrɪn	t n ɛ j n + u + ʔ ɔ ʃ r ɪ n	two and twenty	t n ɛ j n + u + ʔ ɔ ʃ r ɪ n + t n ɛ j n + u + ʔ ɔ ʃ r ɪ n + t n ɛ j n + u + ʔ ɔ ʃ r ɪ n	2 12 11	Maltese
+23	Maltese	twenty three	tlieta u għoxrin	tlɪtɐ u ʔɔʃrɪn	t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n	three and twenty	t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n + t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n + t l ɪ t ɐ + u + ʔ ɔ ʃ r ɪ n	3 12 11	Maltese
+24	Maltese	twenty four	erbgħa u għoxrin	ɛrbʔɐ u ʔɔʃrɪn	ɛ r b ʔ ɐ + u + ʔ ɔ ʃ r ɪ n	four and twenty	ɛ r b ʔ ɐ + u + ʔ ɔ ʃ r ɪ n + ɛ r b ʔ ɐ + u + ʔ ɔ ʃ r ɪ n + ɛ r b ʔ ɐ + u + ʔ ɔ ʃ r ɪ n	4 12 11	Maltese
+25	Maltese	twenty five	ħamsa u għoxrin	ħamsɐ u ʔɔʃrɪn	ħ a m s ɐ + u + ʔ ɔ ʃ r ɪ n	five and twenty	ħ a m s ɐ + u + ʔ ɔ ʃ r ɪ n + ħ a m s ɐ + u + ʔ ɔ ʃ r ɪ n + ħ a m s ɐ + u + ʔ ɔ ʃ r ɪ n	5 12 11	Maltese
+26	Maltese	twenty six	sitta u għoxrin	sɪttɐ u ʔɔʃrɪn	s ɪ t t ɐ + u + ʔ ɔ ʃ r ɪ n	six and twenty	s ɪ t t ɐ + u + ʔ ɔ ʃ r ɪ n + s ɪ t t ɐ + u + ʔ ɔ ʃ r ɪ n + s ɪ t t ɐ + u + ʔ ɔ ʃ r ɪ n	6 12 11	Maltese
+27	Maltese	twenty seven	seba' u għoxrin	sɛbɐʔ u ʔɔʃrɪn	s ɛ b ɐ ʔ + u + ʔ ɔ ʃ r ɪ n	seven and twenty	s ɛ b ɐ ʔ + u + ʔ ɔ ʃ r ɪ n + s ɛ b ɐ ʔ + u + ʔ ɔ ʃ r ɪ n + s ɛ b ɐ ʔ + u + ʔ ɔ ʃ r ɪ n	7 12 11	Maltese
+28	Maltese	twenty eight	tmienja u għoxrin	tmɪnjɐ u ʔɔʃrɪn	t m ɪ n j ɐ + u + ʔ ɔ ʃ r ɪ n	eight and twenty	t m ɪ n j ɐ + u + ʔ ɔ ʃ r ɪ n + t m ɪ n j ɐ + u + ʔ ɔ ʃ r ɪ n + t m ɪ n j ɐ + u + ʔ ɔ ʃ r ɪ n	8 12 11	Maltese
+29	Maltese	twenty nine	disgħa u għoxrin	dɪzʕɐ u ʔɔʃrɪn	d ɪ z ʕ ɐ + u + ʔ ɔ ʃ r ɪ n	nine and twenty	d ɪ z ʕ ɐ + u + ʔ ɔ ʃ r ɪ n + d ɪ z ʕ ɐ + u + ʔ ɔ ʃ r ɪ n + d ɪ z ʕ ɐ + u + ʔ ɔ ʃ r ɪ n	9 12 11	Maltese
+30	Maltese	thirty	tletin	tlɛtɪn	t l ɛ t + ɪ n	three ty	t l ɛ t + ɪ n + t l ɛ t + ɪ n	3 13	Maltese
+31	Maltese	thirty one	wieħed u tletin	wɪħɛd u tlɛtɪn	w ɪ ħ ɛ d + u + t l ɛ t + ɪ n	one and three ty	w ɪ ħ ɛ d + u + t l ɛ t + ɪ n + w ɪ ħ ɛ d + u + t l ɛ t + ɪ n + w ɪ ħ ɛ d + u + t l ɛ t + ɪ n + w ɪ ħ ɛ d + u + t l ɛ t + ɪ n	1 12 3 13	Maltese
+32	Maltese	thirty two	tnejn u tletin	tnɛjn u tlɛtɪn	t n ɛ j n + u + t l ɛ t + ɪ n	two and three ty	t n ɛ j n + u + t l ɛ t + ɪ n + t n ɛ j n + u + t l ɛ t + ɪ n + t n ɛ j n + u + t l ɛ t + ɪ n + t n ɛ j n + u + t l ɛ t + ɪ n	2 12 3 13	Maltese
+33	Maltese	thirty three	tlieta u tletin	tlɪtɐ u tlɛtɪn	t l ɪ t ɐ + u + t l ɛ t + ɪ n	three and three ty	t l ɪ t ɐ + u + t l ɛ t + ɪ n + t l ɪ t ɐ + u + t l ɛ t + ɪ n + t l ɪ t ɐ + u + t l ɛ t + ɪ n + t l ɪ t ɐ + u + t l ɛ t + ɪ n	3 12 3 13	Maltese
+34	Maltese	thirty four	erbgħa u tletin	ɛrbʔɐ u tlɛtɪn	ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n	four and three ty	ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n + ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n + ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n + ɛ r b ʔ ɐ + u + t l ɛ t + ɪ n	4 12 3 13	Maltese
+35	Maltese	thirty five	ħamsa u tletin	ħamsɐ u tlɛtɪn	ħ a m s ɐ + u + t l ɛ t + ɪ n	five and three ty	ħ a m s ɐ + u + t l ɛ t + ɪ n + ħ a m s ɐ + u + t l ɛ t + ɪ n + ħ a m s ɐ + u + t l ɛ t + ɪ n + ħ a m s ɐ + u + t l ɛ t + ɪ n	5 12 3 13	Maltese
+36	Maltese	thirty six	sitta u tletin	sɪttɐ u tlɛtɪn	s ɪ t t ɐ + u + t l ɛ t + ɪ n	six and three ty	s ɪ t t ɐ + u + t l ɛ t + ɪ n + s ɪ t t ɐ + u + t l ɛ t + ɪ n + s ɪ t t ɐ + u + t l ɛ t + ɪ n + s ɪ t t ɐ + u + t l ɛ t + ɪ n	6 12 3 13	Maltese
+37	Maltese	thirty seven	seba' u tletin	sɛbɐʔ u tlɛtɪn	s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n	seven and three ty	s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n + s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n + s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n + s ɛ b ɐ ʔ + u + t l ɛ t + ɪ n	7 12 3 13	Maltese
+38	Maltese	thirty eight	tmienja u tletin	tmɪnjɐ u tlɛtɪn	t m ɪ n j ɐ + u + t l ɛ t + ɪ n	eight and three ty	t m ɪ n j ɐ + u + t l ɛ t + ɪ n + t m ɪ n j ɐ + u + t l ɛ t + ɪ n + t m ɪ n j ɐ + u + t l ɛ t + ɪ n + t m ɪ n j ɐ + u + t l ɛ t + ɪ n	8 12 3 13	Maltese
+39	Maltese	thirty nine	disgħa u tletin	dɪzʕɐ u tlɛtɪn	d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n	nine and three ty	d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n + d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n + d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n + d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n	9 12 3 13	Maltese
+40	Maltese	forty	erbgħin	ɛrbʕɪn	ɛ r b ʕ + ɪ n	four ty	ɛ r b ʕ + ɪ n + ɛ r b ʕ + ɪ n	4 13	Maltese

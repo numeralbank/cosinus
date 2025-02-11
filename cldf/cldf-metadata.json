@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/calc-project/numeralpacs",
             "rdf:type": "prov:Entity",
-            "dc:created": "0609e4a",
+            "dc:created": "244611a",
             "dc:title": "Repository"
         },
         {
@@ -55,8 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 79,
+            "dc:extent": 340,
             "tableSchema": {
                 "columns": [
                     {
@@ -125,6 +124,10 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Morphemes"
                     }
                 ],
                 "foreignKeys": [
@@ -159,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 2,
+            "dc:extent": 8,
             "tableSchema": {
                 "columns": [
                     {
