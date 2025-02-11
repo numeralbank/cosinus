@@ -11,10 +11,16 @@ class CustomLanguage(pylexibank.Language):
     FileName = attr.ib(default=None)
 
 
+@attr.s
+class CustomLexeme(pylexibank.Lexeme):
+    Morphemes = attr.ib(default=None)
+
+
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "numeralpacs"
     writer_options = dict(keep_languages=False, keep_parameters=False)
+    lexeme_class = CustomLexeme
     language_class = CustomLanguage
 
     form_spec = pylexibank.FormSpec(
@@ -45,7 +51,8 @@ class Dataset(pylexibank.Dataset):
                         Parameter_ID=concepts[data["CONCEPT"].lower()],
                         Value=data["FORM"],
                         Form=data["FORM"],
-                        Segments=[{"_": "+"}.get(x, x) for x in data["TOKENS"].replace(" ", "")],
+                        Segments=data["TOKENS"].split(),
+                        Morphemes=data["MORPHEMES"],
                         Source=sources[data["DOCULECT"]],
                     )
                 except ValueError:
