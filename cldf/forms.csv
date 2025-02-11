@@ -1,4 +1,84 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Morphemes
+Aymara-1_one-1,,Aymara,1_one,maja,maja,m a j a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,one
+Aymara-2_two-1,,Aymara,2_two,paja,paja,p a j a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two
+Aymara-3_three-1,,Aymara,3_three,kimsa,kimsa,k i m s a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three
+Aymara-4_four-1,,Aymara,4_four,pusi,pusi,p u s i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,four
+Aymara-5_five-1,,Aymara,5_five,pʰisqa,pʰisqa,pʰ i s q a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,five
+Aymara-6_six-1,,Aymara,6_six,suχta,suχta,s u χ t a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,six
+Aymara-7_seven-1,,Aymara,7_seven,paqaʎqu,paqaʎqu,p a -/j -/a + q a ʎ q u,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two five
+Aymara-8_eight-1,,Aymara,8_eight,kimsaqaʎqu,kimsaqaʎqu,k i m s a + q a ʎ q u,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three five
+Aymara-9_nine-1,,Aymara,9_nine,ʎaːtunka,ʎaːtunka,ʎ aː + t u n k a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,nearly ten
+Aymara-10_ten-1,,Aymara,10_ten,tunka,tunka,t u n k a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten
+Aymara-11_eleven-1,,Aymara,11_eleven,tunka majani,tunka majani,t u n k a + m a j a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten one ENUMERATOR
+Aymara-12_twelve-1,,Aymara,12_twelve,tunka pajani,tunka pajani,t u n k a + p a j a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten two ENUMERATOR
+Aymara-13_thirteen-1,,Aymara,13_thirteen,tunka kimsani,tunka kimsani,t u n k a + k i m s a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten three ENUMERATOR
+Aymara-14_fourteen-1,,Aymara,14_fourteen,tunka pusini,tunka pusini,t u n k a + p u s i + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten four ENUMERATOR
+Aymara-15_fifteen-1,,Aymara,15_fifteen,tunka pʰisqani,tunka pʰisqani,t u n k a + pʰ i s q a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten five ENUMERATOR
+Aymara-16_sixteen-1,,Aymara,16_sixteen,tunka suχtani,tunka suχtani,t u n k a + s u χ t a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten six ENUMERATOR
+Aymara-17_seventeen-1,,Aymara,17_seventeen,tunka paqaʎquni,tunka paqaʎquni,t u n k a + p a -/j -/a + q a ʎ q u + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten two five ENUMERATOR
+Aymara-18_eighteen-1,,Aymara,18_eighteen,tunka kimsaqaʎquni,tunka kimsaqaʎquni,t u n k a + k i m s a + q a ʎ q u + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten three five ENUMERATOR
+Aymara-19_nineteen-1,,Aymara,19_nineteen,tunka ʎaːtunkani,tunka ʎaːtunkani,t u n k a + ʎ aː + t u n k a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,ten nearly ten ENUMERATOR
+Aymara-20_twenty-1,,Aymara,20_twenty,paː tunka,paː tunka,p aː/a -/j -/a + t u n k a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten
+Aymara-21_twentyone-1,,Aymara,21_twentyone,paː tunka majani,paː tunka majani,p aː/a -/j -/a + t u n k a + m a j a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten one ENUMERATOR
+Aymara-22_twentytwo-1,,Aymara,22_twentytwo,paː tunka pajani,paː tunka pajani,p aː/a -/j -/a + t u n k a + p a j a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten two ENUMERATOR
+Aymara-23_twentythree-1,,Aymara,23_twentythree,paː tunka kimsani,paː tunka kimsani,p aː/a -/j -/a + t u n k a + k i m s a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten three ENUMERATOR
+Aymara-24_twentyfour-1,,Aymara,24_twentyfour,paː tunka pusini,paː tunka pusini,p aː/a -/j -/a + t u n k a + p u s i + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten four ENUMERATOR
+Aymara-25_twentyfive-1,,Aymara,25_twentyfive,paː tunka pʰisqani,paː tunka pʰisqani,p aː/a -/j -/a + t u n k a + pʰ i s q a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten five ENUMERATOR
+Aymara-26_twentysix-1,,Aymara,26_twentysix,paː tunka suχtani,paː tunka suχtani,p aː/a -/j -/a + t u n k a + s u χ t a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten six ENUMERATOR
+Aymara-27_twentyseven-1,,Aymara,27_twentyseven,paː tunka paqaʎquni,paː tunka paqaʎquni,p aː/a -/j -/a + t u n k a + p a -/j -/a + q a ʎ q u + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten two five ENUMERATOR
+Aymara-28_twentyeight-1,,Aymara,28_twentyeight,paː tunka kimsaqaʎquni,paː tunka kimsaqaʎquni,p aː/a -/j -/a + t u n k a + k i m s a + q a ʎ q u + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten three five ENUMERATOR
+Aymara-29_twentynine-1,,Aymara,29_twentynine,paː tunka ʎaːtunkani,paː tunka ʎaːtunkani,p aː/a -/j -/a + t u n k a + ʎ aː + t u n k a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,two ten nearly ten ENUMERATOR
+Aymara-30_thirty-1,,Aymara,30_thirty,kimsa tunka,kimsa tunka,k i m s a + t u n k a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten
+Aymara-31_thirtyone-1,,Aymara,31_thirtyone,kimsa tunka majani,kimsa tunka majani,k i m s a + t u n k a + m a j a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten one ENUMERATOR
+Aymara-32_thirtytwo-1,,Aymara,32_thirtytwo,kimsa tunka pajani,kimsa tunka pajani,k i m s a + t u n k a + p a j a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten two ENUMERATOR
+Aymara-33_thirtythree-1,,Aymara,33_thirtythree,kimsa tunka kimsani,kimsa tunka kimsani,k i m s a + t u n k a + k i m s a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten three ENUMERATOR
+Aymara-34_thirtyfour-1,,Aymara,34_thirtyfour,kimsa tunka pusini,kimsa tunka pusini,k i m s a + t u n k a + p u s i + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten four ENUMERATOR
+Aymara-35_thirtyfive-1,,Aymara,35_thirtyfive,kimsa tunka pʰisqani,kimsa tunka pʰisqani,k i m s a + t u n k a + pʰ i s q a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten five ENUMERATOR
+Aymara-36_thirtysix-1,,Aymara,36_thirtysix,kimsa tunka suχtani,kimsa tunka suχtani,k i m s a + t u n k a + s u χ t a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten six ENUMERATOR
+Aymara-37_thirtyseven-1,,Aymara,37_thirtyseven,kimsa tunka paqaʎquni,kimsa tunka paqaʎquni,k i m s a + t u n k a + p a -/j -/a + q a ʎ q u + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten two five ENUMERATOR
+Aymara-38_thirtyeight-1,,Aymara,38_thirtyeight,kimsa tunka kimsaqaʎquni,kimsa tunka kimsaqaʎquni,k i m s a + t u n k a + k i m s a + q a ʎ q u + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten three five ENUMERATOR
+Aymara-39_thirtynine-1,,Aymara,39_thirtynine,kimsa tunka ʎaːtunkani,kimsa tunka ʎaːtunkani,k i m s a + t u n k a + ʎ aː + t u n k a + n i,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,three ten nearly ten ENUMERATOR
+Aymara-40_forty-1,,Aymara,40_forty,pusi tunka,pusi tunka,p u s i + t u n k a,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,,,,,four ten
+Cavinena-1_one-1,,Cavinena,1_one,peaɟa,peaɟa,p e a ɟ a,,Cavineña1;Cavineña2,,,,,one
+Cavinena-2_two-1,,Cavinena,2_two,beta,beta,b e t a,,Cavineña1;Cavineña2,,,,,two
+Cavinena-3_three-1,,Cavinena,3_three,kimiɕa,kimiɕa,k i m i ɕ a,,Cavineña1;Cavineña2,,,,,three
+Cavinena-4_four-1,,Cavinena,4_four,pʊɕi,pʊɕi,p ʊ ɕ i,,Cavineña1;Cavineña2,,,,,four
+Cavinena-5_five-1,,Cavinena,5_five,piɕika,piɕika,p i ɕ i k a,,Cavineña1;Cavineña2,,,,,five
+Cavinena-6_six-1,,Cavinena,6_six,ɕʊkʊta,ɕʊkʊta,ɕ ʊ k ʊ t a,,Cavineña1;Cavineña2,,,,,six
+Cavinena-7_seven-1,,Cavinena,7_seven,pakarʊkʊ,pakarʊkʊ,p a + k a r ʊ k ʊ,,Cavineña1;Cavineña2,,,,,two five
+Cavinena-8_eight-1,,Cavinena,8_eight,kimisakarʊkʊ,kimisakarʊkʊ,k i m i s/ɕ a + k a r ʊ k ʊ,,Cavineña1;Cavineña2,,,,,three five
+Cavinena-9_nine-1,,Cavinena,9_nine,pʊskʊrʊkʊ,pʊskʊrʊkʊ,p ʊ s/ɕ -/i + k ʊ/a r ʊ k ʊ,,Cavineña1;Cavineña2,,,,,four five
+Cavinena-10_ten-1,,Cavinena,10_ten,tʊŋka,tʊŋka,t ʊ ŋ k a,,Cavineña1;Cavineña2,,,,,ten
+Cavinena-11_eleven-1,,Cavinena,11_eleven,peaɟa tʊŋka peaɟa earakana,peaɟa tʊŋka peaɟa earakana,p e a ɟ a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,one ten one unit
+Cavinena-12_twelve-1,,Cavinena,12_twelve,peaɟa tʊŋka beta earakana,peaɟa tʊŋka beta earakana,p e a ɟ a + t ʊ ŋ k a + b e t a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,one ten two unit
+Cavinena-13_thirteen-1,,Cavinena,13_thirteen,peaɟa tʊŋka kimiɕa earakana,peaɟa tʊŋka kimiɕa earakana,p e a ɟ a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,one ten three unit
+Cavinena-14_fourteen-1,,Cavinena,14_fourteen,peaɟa tʊŋka pʊɕi earakana,peaɟa tʊŋka pʊɕi earakana,p e a ɟ a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a,,Cavineña1;Cavineña2,,,,,one ten four unit
+Cavinena-15_fifteen-1,,Cavinena,15_fifteen,peaɟa tʊŋka piɕika earakana,peaɟa tʊŋka piɕika earakana,p e a ɟ a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,one ten five unit
+Cavinena-16_sixteen-1,,Cavinena,16_sixteen,peaɟa tʊŋka ɕʊkʊta earakana,peaɟa tʊŋka ɕʊkʊta earakana,p e a ɟ a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,one ten six unit
+Cavinena-17_seventeen-1,,Cavinena,17_seventeen,peaɟa tʊŋka pakarʊkʊ earakana,peaɟa tʊŋka pakarʊkʊ earakana,p e a ɟ a + t ʊ ŋ k a + p a + k a r ʊ k ʊ + e a r a k a n a,,Cavineña1;Cavineña2,,,,,one ten two five unit
+Cavinena-18_eighteen-1,,Cavinena,18_eighteen,peaɟa tʊŋka kimisakarʊkʊ earakana,peaɟa tʊŋka kimisakarʊkʊ earakana,p e a ɟ a + t ʊ ŋ k a + k i m i s/ɕ a + k a r ʊ k ʊ + e a r a k a n a,,Cavineña1;Cavineña2,,,,,one ten three five unit
+Cavinena-19_nineteen-1,,Cavinena,19_nineteen,peaɟa tʊŋka pʊskʊrʊkʊ earakana,peaɟa tʊŋka pʊskʊrʊkʊ earakana,p e a ɟ a + t ʊ ŋ k a + p ʊ s/ɕ -/i + k ʊ/a r ʊ k ʊ + e a r a k a n a,,Cavineña1;Cavineña2,,,,,one ten four five unit
+Cavinena-20_twenty-1,,Cavinena,20_twenty,beta tʊŋka,beta tʊŋka,b e t a + t ʊ ŋ k a,,Cavineña1;Cavineña2,,,,,two ten
+Cavinena-21_twentyone-1,,Cavinena,21_twentyone,beta tʊŋka peaɟa earakana,beta tʊŋka peaɟa earakana,b e t a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,two ten one unit
+Cavinena-22_twentytwo-1,,Cavinena,22_twentytwo,beta tʊŋka beta earakana,beta tʊŋka beta earakana,b e t a + t ʊ ŋ k a + b e t a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,two ten two unit
+Cavinena-23_twentythree-1,,Cavinena,23_twentythree,beta tʊŋka kimiɕa earakana,beta tʊŋka kimiɕa earakana,b e t a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,two ten three unit
+Cavinena-24_twentyfour-1,,Cavinena,24_twentyfour,beta tʊŋka pʊɕi earakana,beta tʊŋka pʊɕi earakana,b e t a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a,,Cavineña1;Cavineña2,,,,,two ten four unit
+Cavinena-25_twentyfive-1,,Cavinena,25_twentyfive,beta tʊŋka piɕika earakana,beta tʊŋka piɕika earakana,b e t a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,two ten five unit
+Cavinena-26_twentysix-1,,Cavinena,26_twentysix,beta tʊŋka ɕʊkʊta earakana,beta tʊŋka ɕʊkʊta earakana,b e t a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,two ten six unit
+Cavinena-27_twentyseven-1,,Cavinena,27_twentyseven,beta tʊŋka pakarʊkʊ earakana,beta tʊŋka pakarʊkʊ earakana,b e t a + t ʊ ŋ k a + p a + k a r ʊ k ʊ + e a r a k a n a,,Cavineña1;Cavineña2,,,,,two ten two five unit
+Cavinena-28_twentyeight-1,,Cavinena,28_twentyeight,beta tʊŋka kimisakarʊkʊ earakana,beta tʊŋka kimisakarʊkʊ earakana,b e t a + t ʊ ŋ k a + k i m i s/ɕ a + k a r ʊ k ʊ + e a r a k a n a,,Cavineña1;Cavineña2,,,,,two ten three five unit
+Cavinena-29_twentynine-1,,Cavinena,29_twentynine,beta tʊŋka pʊskʊrʊkʊ earakana,beta tʊŋka pʊskʊrʊkʊ earakana,b e t a + t ʊ ŋ k a + p ʊ s/ɕ -/i + k ʊ/a r ʊ k ʊ + e a r a k a n a,,Cavineña1;Cavineña2,,,,,two ten four five unit
+Cavinena-30_thirty-1,,Cavinena,30_thirty,kimiɕa tʊŋka,kimiɕa tʊŋka,k i m i ɕ a + t ʊ ŋ k a,,Cavineña1;Cavineña2,,,,,three ten
+Cavinena-31_thirtyone-1,,Cavinena,31_thirtyone,kimiɕa tʊŋka peaɟa earakana,kimiɕa tʊŋka peaɟa earakana,k i m i ɕ a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,three ten one unit
+Cavinena-32_thirtytwo-1,,Cavinena,32_thirtytwo,kimiɕa tʊŋka beta earakana,kimiɕa tʊŋka beta earakana,k i m i ɕ a + t ʊ ŋ k a + b e t a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,three ten two unit
+Cavinena-33_thirtythree-1,,Cavinena,33_thirtythree,kimiɕa tʊŋka kimiɕa earakana,kimiɕa tʊŋka kimiɕa earakana,k i m i ɕ a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,three ten three unit
+Cavinena-34_thirtyfour-1,,Cavinena,34_thirtyfour,kimiɕa tʊŋka pʊɕi earakana,kimiɕa tʊŋka pʊɕi earakana,k i m i ɕ a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a,,Cavineña1;Cavineña2,,,,,three ten four unit
+Cavinena-35_thirtyfive-1,,Cavinena,35_thirtyfive,kimiɕa tʊŋka piɕika earakana,kimiɕa tʊŋka piɕika earakana,k i m i ɕ a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,three ten five unit
+Cavinena-36_thirtysix-1,,Cavinena,36_thirtysix,kimiɕa tʊŋka ɕʊkʊta earakana,kimiɕa tʊŋka ɕʊkʊta earakana,k i m i ɕ a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a,,Cavineña1;Cavineña2,,,,,three ten six unit
+Cavinena-37_thirtyseven-1,,Cavinena,37_thirtyseven,kimiɕa tʊŋka pakarʊkʊ earakana,kimiɕa tʊŋka pakarʊkʊ earakana,k i m i ɕ a + t ʊ ŋ k a + p a + k a r ʊ k ʊ + e a r a k a n a,,Cavineña1;Cavineña2,,,,,three ten two five unit
+Cavinena-38_thirtyeight-1,,Cavinena,38_thirtyeight,kimiɕa tʊŋka kimisakarʊkʊ earakana,kimiɕa tʊŋka kimisakarʊkʊ earakana,k i m i ɕ a + t ʊ ŋ k a + k i m i s/ɕ a + k a r ʊ k ʊ + e a r a k a n a,,Cavineña1;Cavineña2,,,,,three ten three five unit
+Cavinena-39_thirtynine-1,,Cavinena,39_thirtynine,kimiɕa tʊŋka pʊskʊrʊkʊ earakana,kimiɕa tʊŋka pʊskʊrʊkʊ earakana,k i m i ɕ a + t ʊ ŋ k a + p ʊ s/ɕ -/i + k ʊ/a r ʊ k ʊ + e a r a k a n a,,Cavineña1;Cavineña2,,,,,three ten four five unit
+Cavinena-40_forty-1,,Cavinena,40_forty,pʊɕi tʊŋka,pʊɕi tʊŋka,p ʊ ɕ i + t ʊ ŋ k a,,Cavineña1;Cavineña2,,,,,four ten
 Czech-1_one-1,,Czech,1_one,jɛdɛn,jɛdɛn,j ɛ d ɛ n,,Czech,,,,,one
 Czech-2_two-1,,Czech,2_two,dva,dva,d v a,,Czech,,,,,two
 Czech-3_three-1,,Czech,3_three,tr̝ɪ,tr̝ɪ,t r̝ ɪ,,Czech,,,,,three
@@ -158,6 +238,46 @@ Hindi-37_thirtyseven-1,,Hindi,37_thirtyseven,sɛ̃ti:s,sɛ̃ti:s,s ɛ̃ t + iː 
 Hindi-38_thirtyeight-1,,Hindi,38_thirtyeight,aṛta:li:s,aṛta:li:s,a ɽ t aː l + iː s,,Hindi,,,,,eight thirty
 Hindi-39_thirtynine-1,,Hindi,39_thirtynine,unta:li:s,unta:li:s,u n + t aː l iː s,,Hindi,,,,,minus forty
 Hindi-40_forty-1,,Hindi,40_forty,ca:li:s,ca:li:s,tʃ aː l iː s,,Hindi,,,,,forty
+Huallaga_Quechua-1_one-1,,Huallaga_Quechua,1_one,huk,huk,h u k,,HuallagaQuechua1;HuallagaQuechua2,,,,,one
+Huallaga_Quechua-2_two-1,,Huallaga_Quechua,2_two,iʃkaj,iʃkaj,i ʃ k a j,,HuallagaQuechua1;HuallagaQuechua2,,,,,two
+Huallaga_Quechua-3_three-1,,Huallaga_Quechua,3_three,kimsa,kimsa,k i m s a,,HuallagaQuechua1;HuallagaQuechua2,,,,,three
+Huallaga_Quechua-4_four-1,,Huallaga_Quechua,4_four,tʃusku,tʃusku,tʃ u s k u,,HuallagaQuechua1;HuallagaQuechua2,,,,,four
+Huallaga_Quechua-5_five-1,,Huallaga_Quechua,5_five,pitʃqa,pitʃqa,p i tʃ q a,,HuallagaQuechua1;HuallagaQuechua2,,,,,five
+Huallaga_Quechua-6_six-1,,Huallaga_Quechua,6_six,soqta,soqta,s o q t a,,HuallagaQuechua1;HuallagaQuechua2,,,,,six
+Huallaga_Quechua-7_seven-1,,Huallaga_Quechua,7_seven,qantʃis,qantʃis,q a n tʃ i s,,HuallagaQuechua1;HuallagaQuechua2,,,,,seven
+Huallaga_Quechua-8_eight-1,,Huallaga_Quechua,8_eight,pusaq,pusaq,p u s a q,,HuallagaQuechua1;HuallagaQuechua2,,,,,eight
+Huallaga_Quechua-9_nine-1,,Huallaga_Quechua,9_nine,isqon,isqon,i s q o n,,HuallagaQuechua1;HuallagaQuechua2,,,,,nine
+Huallaga_Quechua-10_ten-1,,Huallaga_Quechua,10_ten,tʃuŋka,tʃuŋka,tʃ u ŋ k a,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten
+Huallaga_Quechua-11_eleven-1,,Huallaga_Quechua,11_eleven,tʃuŋka huk,tʃuŋka huk,tʃ u ŋ k a + h u k,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten one
+Huallaga_Quechua-12_twelve-1,,Huallaga_Quechua,12_twelve,tʃuŋka iʃkaj,tʃuŋka iʃkaj,tʃ u ŋ k a + i ʃ k a j,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten two
+Huallaga_Quechua-13_thirteen-1,,Huallaga_Quechua,13_thirteen,tʃuŋka kimsa,tʃuŋka kimsa,tʃ u ŋ k a + k i m s a,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten three
+Huallaga_Quechua-14_fourteen-1,,Huallaga_Quechua,14_fourteen,tʃuŋka tʃusku,tʃuŋka tʃusku,tʃ u ŋ k a + tʃ u s k u,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten four
+Huallaga_Quechua-15_fifteen-1,,Huallaga_Quechua,15_fifteen,tʃuŋka pitʃqa,tʃuŋka pitʃqa,tʃ u ŋ k a + p i tʃ q a,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten five
+Huallaga_Quechua-16_sixteen-1,,Huallaga_Quechua,16_sixteen,tʃuŋka soqta,tʃuŋka soqta,tʃ u ŋ k a + s o q t a,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten six
+Huallaga_Quechua-17_seventeen-1,,Huallaga_Quechua,17_seventeen,tʃuŋka qantʃis,tʃuŋka qantʃis,tʃ u ŋ k a + q a n tʃ i s,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten seven
+Huallaga_Quechua-18_eighteen-1,,Huallaga_Quechua,18_eighteen,tʃuŋka pusaq,tʃuŋka pusaq,tʃ u ŋ k a + p u s a q,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten eight
+Huallaga_Quechua-19_nineteen-1,,Huallaga_Quechua,19_nineteen,tʃuŋka isqon,tʃuŋka isqon,tʃ u ŋ k a + i s q o n,,HuallagaQuechua1;HuallagaQuechua2,,,,,ten nine
+Huallaga_Quechua-20_twenty-1,,Huallaga_Quechua,20_twenty,iʃkaj tʃuŋka,iʃkaj tʃuŋka,i ʃ k a j + tʃ u ŋ k a,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten
+Huallaga_Quechua-21_twentyone-1,,Huallaga_Quechua,21_twentyone,iʃkaj tʃuŋka huk,iʃkaj tʃuŋka huk,i ʃ k a j + tʃ u ŋ k a + h u k,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten one
+Huallaga_Quechua-22_twentytwo-1,,Huallaga_Quechua,22_twentytwo,iʃkaj tʃuŋka iʃkaj,iʃkaj tʃuŋka iʃkaj,i ʃ k a j + tʃ u ŋ k a + i ʃ k a j,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten two
+Huallaga_Quechua-23_twentythree-1,,Huallaga_Quechua,23_twentythree,iʃkaj tʃuŋka kimsa,iʃkaj tʃuŋka kimsa,i ʃ k a j + tʃ u ŋ k a + k i m s a,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten three
+Huallaga_Quechua-24_twentyfour-1,,Huallaga_Quechua,24_twentyfour,iʃkaj tʃuŋka tʃusku,iʃkaj tʃuŋka tʃusku,i ʃ k a j + tʃ u ŋ k a + tʃ u s k u,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten four
+Huallaga_Quechua-25_twentyfive-1,,Huallaga_Quechua,25_twentyfive,iʃkaj tʃuŋka pitʃqa,iʃkaj tʃuŋka pitʃqa,i ʃ k a j + tʃ u ŋ k a + p i tʃ q a,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten five
+Huallaga_Quechua-26_twentysix-1,,Huallaga_Quechua,26_twentysix,iʃkaj tʃuŋka soqta,iʃkaj tʃuŋka soqta,i ʃ k a j + tʃ u ŋ k a + s o q t a,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten six
+Huallaga_Quechua-27_twentyseven-1,,Huallaga_Quechua,27_twentyseven,iʃkaj tʃuŋka qantʃis,iʃkaj tʃuŋka qantʃis,i ʃ k a j + tʃ u ŋ k a + q a n tʃ i s,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten seven
+Huallaga_Quechua-28_twentyeight-1,,Huallaga_Quechua,28_twentyeight,iʃkaj tʃuŋka pusaq,iʃkaj tʃuŋka pusaq,i ʃ k a j + tʃ u ŋ k a + p u s a q,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten eight
+Huallaga_Quechua-29_twentynine-1,,Huallaga_Quechua,29_twentynine,iʃkaj tʃuŋka isqon,iʃkaj tʃuŋka isqon,i ʃ k a j + tʃ u ŋ k a + i s q o n,,HuallagaQuechua1;HuallagaQuechua2,,,,,two ten nine
+Huallaga_Quechua-30_thirty-1,,Huallaga_Quechua,30_thirty,kimsa tʃuŋka,kimsa tʃuŋka,k i m s a + tʃ u ŋ k a,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten
+Huallaga_Quechua-31_thirtyone-1,,Huallaga_Quechua,31_thirtyone,kimsa tʃuŋka huk,kimsa tʃuŋka huk,k i m s a + tʃ u ŋ k a + h u k,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten one
+Huallaga_Quechua-32_thirtytwo-1,,Huallaga_Quechua,32_thirtytwo,kimsa tʃuŋka iʃkaj,kimsa tʃuŋka iʃkaj,k i m s a + tʃ u ŋ k a + i ʃ k a j,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten two
+Huallaga_Quechua-33_thirtythree-1,,Huallaga_Quechua,33_thirtythree,kimsa tʃuŋka kimsa,kimsa tʃuŋka kimsa,k i m s a + tʃ u ŋ k a + k i m s a,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten three
+Huallaga_Quechua-34_thirtyfour-1,,Huallaga_Quechua,34_thirtyfour,kimsa tʃuŋka tʃusku,kimsa tʃuŋka tʃusku,k i m s a + tʃ u ŋ k a + tʃ u s k u,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten four
+Huallaga_Quechua-35_thirtyfive-1,,Huallaga_Quechua,35_thirtyfive,kimsa tʃuŋka pitʃqa,kimsa tʃuŋka pitʃqa,k i m s a + tʃ u ŋ k a + p i tʃ q a,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten five
+Huallaga_Quechua-36_thirtysix-1,,Huallaga_Quechua,36_thirtysix,kimsa tʃuŋka soqta,kimsa tʃuŋka soqta,k i m s a + tʃ u ŋ k a + s o q t a,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten six
+Huallaga_Quechua-37_thirtyseven-1,,Huallaga_Quechua,37_thirtyseven,kimsa tʃuŋka qantʃis,kimsa tʃuŋka qantʃis,k i m s a + tʃ u ŋ k a + q a n tʃ i s,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten seven
+Huallaga_Quechua-38_thirtyeight-1,,Huallaga_Quechua,38_thirtyeight,kimsa tʃuŋka pusaq,kimsa tʃuŋka pusaq,k i m s a + tʃ u ŋ k a + p u s a q,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten eight
+Huallaga_Quechua-39_thirtynine-1,,Huallaga_Quechua,39_thirtynine,kimsa tʃuŋka isqon,kimsa tʃuŋka isqon,k i m s a + tʃ u ŋ k a + i s q o n,,HuallagaQuechua1;HuallagaQuechua2,,,,,three ten nine
+Huallaga_Quechua-40_forty-1,,Huallaga_Quechua,40_forty,tʃusku tʃuŋka,tʃusku tʃuŋka,tʃ u s k u + tʃ u ŋ k a,,HuallagaQuechua1;HuallagaQuechua2,,,,,four ten
 Irish-1_one-1,,Irish,1_one,eːnˠ,eːnˠ,eː nˠ,,Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025,,,,,one
 Irish-2_two-1,,Irish,2_two,d̪ˠoː,d̪ˠoː,d̪ˠ oː,,Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025,,,,,two
 Irish-3_three-1,,Irish,3_three,tʲɾʲiː,tʲɾʲiː,tʲ ɾʲ iː,,Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025,,,,,three
@@ -279,6 +399,86 @@ Maltese-37_thirtyseven-1,,Maltese,37_thirtyseven,sɛbɐʔ u tlɛtɪn,sɛbɐʔ u 
 Maltese-38_thirtyeight-1,,Maltese,38_thirtyeight,tmɪnjɐ u tlɛtɪn,tmɪnjɐ u tlɛtɪn,t m ɪ n j ɐ + u + t l ɛ t + ɪ n,,Maltese,,,,,eight and three ty
 Maltese-39_thirtynine-1,,Maltese,39_thirtynine,dɪzʕɐ u tlɛtɪn,dɪzʕɐ u tlɛtɪn,d ɪ z ʕ ɐ + u + t l ɛ t + ɪ n,,Maltese,,,,,nine and three ty
 Maltese-40_forty-1,,Maltese,40_forty,ɛrbʕɪn,ɛrbʕɪn,ɛ r b ʕ + ɪ n,,Maltese,,,,,four ty
+Mapudungun-1_one-1,,Mapudungun,1_one,kiɲe,kiɲe,k i ɲ e,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,one
+Mapudungun-2_two-1,,Mapudungun,2_two,epu,epu,e p u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two
+Mapudungun-3_three-1,,Mapudungun,3_three,kɘla,kɘla,k ɘ l a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three
+Mapudungun-4_four-1,,Mapudungun,4_four,meli,meli,m e l i,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,four
+Mapudungun-5_five-1,,Mapudungun,5_five,keʧu,keʧu,k e ʧ u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,five
+Mapudungun-6_six-1,,Mapudungun,6_six,kaju,kaju,k a j u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,six
+Mapudungun-7_seven-1,,Mapudungun,7_seven,ʐeɣle,ʐeɣle,ʐ e ɣ l e,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,seven
+Mapudungun-8_eight-1,,Mapudungun,8_eight,puʐa,puʐa,p u ʐ a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,eight
+Mapudungun-9_nine-1,,Mapudungun,9_nine,ajʎa,ajʎa,a j ʎ a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,nine
+Mapudungun-10_ten-1,,Mapudungun,10_ten,maʐi,maʐi,m a ʐ i,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten
+Mapudungun-11_eleven-1,,Mapudungun,11_eleven,maʐi kiɲe,maʐi kiɲe,m a ʐ i + k i ɲ e,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten one
+Mapudungun-12_twelve-1,,Mapudungun,12_twelve,maʐi epu,maʐi epu,m a ʐ i + e p u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten two
+Mapudungun-13_thirteen-1,,Mapudungun,13_thirteen,maʐi kɘla,maʐi kɘla,m a ʐ i + k ɘ l a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten three
+Mapudungun-14_fourteen-1,,Mapudungun,14_fourteen,maʐi meli,maʐi meli,m a ʐ i + m e l i,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten four
+Mapudungun-15_fifteen-1,,Mapudungun,15_fifteen,maʐi keʧu,maʐi keʧu,m a ʐ i + k e ʧ u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten five
+Mapudungun-16_sixteen-1,,Mapudungun,16_sixteen,maʐi kaju,maʐi kaju,m a ʐ i + k a j u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten six
+Mapudungun-17_seventeen-1,,Mapudungun,17_seventeen,maʐi ʐeɣle,maʐi ʐeɣle,m a ʐ i + ʐ e ɣ l e,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten seven
+Mapudungun-18_eighteen-1,,Mapudungun,18_eighteen,maʐi puʐa,maʐi puʐa,m a ʐ i + p u ʐ a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten eight
+Mapudungun-19_nineteen-1,,Mapudungun,19_nineteen,maʐi ajʎa,maʐi ajʎa,m a ʐ i + a j ʎ a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,ten nine
+Mapudungun-20_twenty-1,,Mapudungun,20_twenty,epu maʐi,epu maʐi,e p u + m a ʐ i,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten
+Mapudungun-21_twentyone-1,,Mapudungun,21_twentyone,epu maʐi kiɲe,epu maʐi kiɲe,e p u + m a ʐ i + k i ɲ e,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten one
+Mapudungun-22_twentytwo-1,,Mapudungun,22_twentytwo,epu maʐi epu,epu maʐi epu,e p u + m a ʐ i + e p u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten two
+Mapudungun-23_twentythree-1,,Mapudungun,23_twentythree,epu maʐi kɘla,epu maʐi kɘla,e p u + m a ʐ i + k ɘ l a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten three
+Mapudungun-24_twentyfour-1,,Mapudungun,24_twentyfour,epu maʐi meli,epu maʐi meli,e p u + m a ʐ i + m e l i,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten four
+Mapudungun-25_twentyfive-1,,Mapudungun,25_twentyfive,epu maʐi keʧu,epu maʐi keʧu,e p u + m a ʐ i + k e ʧ u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten five
+Mapudungun-26_twentysix-1,,Mapudungun,26_twentysix,epu maʐi kaju,epu maʐi kaju,e p u + m a ʐ i + k a j u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten six
+Mapudungun-27_twentyseven-1,,Mapudungun,27_twentyseven,epu maʐi ʐeɣle,epu maʐi ʐeɣle,e p u + m a ʐ i + ʐ e ɣ l e,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten seven
+Mapudungun-28_twentyeight-1,,Mapudungun,28_twentyeight,epu maʐi puʐa,epu maʐi puʐa,e p u + m a ʐ i + p u ʐ a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten eight
+Mapudungun-29_twentynine-1,,Mapudungun,29_twentynine,epu maʐi ajʎa,epu maʐi ajʎa,e p u + m a ʐ i + a j ʎ a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,two ten nine
+Mapudungun-30_thirty-1,,Mapudungun,30_thirty,kɘla maʐi,kɘla maʐi,k ɘ l a + m a ʐ i,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten
+Mapudungun-31_thirtyone-1,,Mapudungun,31_thirtyone,kɘla maʐi kiɲe,kɘla maʐi kiɲe,k ɘ l a + m a ʐ i + k i ɲ e,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten one
+Mapudungun-32_thirtytwo-1,,Mapudungun,32_thirtytwo,kɘla maʐi epu,kɘla maʐi epu,k ɘ l a + m a ʐ i + e p u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten two
+Mapudungun-33_thirtythree-1,,Mapudungun,33_thirtythree,kɘla maʐi kɘla,kɘla maʐi kɘla,k ɘ l a + m a ʐ i + k ɘ l a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten three
+Mapudungun-34_thirtyfour-1,,Mapudungun,34_thirtyfour,kɘla maʐi meli,kɘla maʐi meli,k ɘ l a + m a ʐ i + m e l i,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten four
+Mapudungun-35_thirtyfive-1,,Mapudungun,35_thirtyfive,kɘla maʐi keʧu,kɘla maʐi keʧu,k ɘ l a + m a ʐ i + k e ʧ u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten five
+Mapudungun-36_thirtysix-1,,Mapudungun,36_thirtysix,kɘla maʐi kaju,kɘla maʐi kaju,k ɘ l a + m a ʐ i + k a j u,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten six
+Mapudungun-37_thirtyseven-1,,Mapudungun,37_thirtyseven,kɘla maʐi ʐeɣle,kɘla maʐi ʐeɣle,k ɘ l a + m a ʐ i + ʐ e ɣ l e,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten seven
+Mapudungun-38_thirtyeight-1,,Mapudungun,38_thirtyeight,kɘla maʐi puʐa,kɘla maʐi puʐa,k ɘ l a + m a ʐ i + p u ʐ a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten eight
+Mapudungun-39_thirtynine-1,,Mapudungun,39_thirtynine,kɘla maʐi ajʎa,kɘla maʐi ajʎa,k ɘ l a + m a ʐ i + a j ʎ a,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,three ten nine
+Mapudungun-40_forty-1,,Mapudungun,40_forty,meli maʐi,meli maʐi,m e l i + m a ʐ i,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,,,,,four ten
+Paraguayan_Guarani-1_one-1,,Paraguayan_Guarani,1_one,peteĩ,peteĩ,p e t e ĩ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,one
+Paraguayan_Guarani-2_two-1,,Paraguayan_Guarani,2_two,mokõi,mokõi,m o k õ i,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two
+Paraguayan_Guarani-3_three-1,,Paraguayan_Guarani,3_three,ᵐbohapɨ,ᵐbohapɨ,ᵐb o h a p ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three
+Paraguayan_Guarani-4_four-1,,Paraguayan_Guarani,4_four,iɾuⁿdɨ,iɾuⁿdɨ,i ɾ u ⁿd ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,four
+Paraguayan_Guarani-5_five-1,,Paraguayan_Guarani,5_five,po,po,p o,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,five
+Paraguayan_Guarani-6_six-1,,Paraguayan_Guarani,6_six,poteĩ,poteĩ,p o + -/p -/e t e ĩ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,five one
+Paraguayan_Guarani-7_seven-1,,Paraguayan_Guarani,7_seven,pokõi,pokõi,p o + -/m -/o k õ i,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,five two
+Paraguayan_Guarani-8_eight-1,,Paraguayan_Guarani,8_eight,poapɨ,poapɨ,p o + -/ᵐb -/o -/h a p ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,five three
+Paraguayan_Guarani-9_nine-1,,Paraguayan_Guarani,9_nine,poɾuⁿdɨ,poɾuⁿdɨ,p o + -/i ɾ u ⁿd ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,five four
+Paraguayan_Guarani-10_ten-1,,Paraguayan_Guarani,10_ten,pa,pa,p a,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten
+Paraguayan_Guarani-11_eleven-1,,Paraguayan_Guarani,11_eleven,pateĩ,pateĩ,p a + -/p -/e t e ĩ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten one
+Paraguayan_Guarani-12_twelve-1,,Paraguayan_Guarani,12_twelve,pakõi,pakõi,p a + -/m -/o k õ i,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten two
+Paraguayan_Guarani-13_thirteen-1,,Paraguayan_Guarani,13_thirteen,paʔapɨ,paʔapɨ,p a + ʔ + -/ᵐb -/o -/h a p ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten INSERTION three
+Paraguayan_Guarani-14_fourteen-1,,Paraguayan_Guarani,14_fourteen,paɾuⁿdɨ,paɾuⁿdɨ,p a + -/i ɾ u ⁿd ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten four
+Paraguayan_Guarani-15_fifteen-1,,Paraguayan_Guarani,15_fifteen,papo,papo,p a + p o,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten five
+Paraguayan_Guarani-16_sixteen-1,,Paraguayan_Guarani,16_sixteen,papoteĩ,papoteĩ,p a + p o + -/p -/e t e ĩ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten five one
+Paraguayan_Guarani-17_seventeen-1,,Paraguayan_Guarani,17_seventeen,papokõi,papokõi,p a + p o + -/m -/o k õ i,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten five two
+Paraguayan_Guarani-18_eighteen-1,,Paraguayan_Guarani,18_eighteen,papoapɨ,papoapɨ,p a + p o + -/ᵐb -/o -/h a p ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten five three
+Paraguayan_Guarani-19_nineteen-1,,Paraguayan_Guarani,19_nineteen,papoɾuⁿdɨ,papoɾuⁿdɨ,p a + p o + -/i ɾ u ⁿd ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,ten five four
+Paraguayan_Guarani-20_twenty-1,,Paraguayan_Guarani,20_twenty,mokõipa,mokõipa,m o k õ i + p a,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten
+Paraguayan_Guarani-21_twentyone-1,,Paraguayan_Guarani,21_twentyone,mokõipa peteĩ,mokõipa peteĩ,m o k õ i + p a + p e t e ĩ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten one
+Paraguayan_Guarani-22_twentytwo-1,,Paraguayan_Guarani,22_twentytwo,mokõipa mokõi,mokõipa mokõi,m o k õ i + p a + m o k õ i,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten two
+Paraguayan_Guarani-23_twentythree-1,,Paraguayan_Guarani,23_twentythree,mokõipa ᵐbohapɨ,mokõipa ᵐbohapɨ,m o k õ i + p a + ᵐb o h a p ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten three
+Paraguayan_Guarani-24_twentyfour-1,,Paraguayan_Guarani,24_twentyfour,mokõipa iɾuⁿdɨ,mokõipa iɾuⁿdɨ,m o k õ i + p a + i ɾ u ⁿd ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten four
+Paraguayan_Guarani-25_twentyfive-1,,Paraguayan_Guarani,25_twentyfive,mokõipa po,mokõipa po,m o k õ i + p a + p o,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten five
+Paraguayan_Guarani-26_twentysix-1,,Paraguayan_Guarani,26_twentysix,mokõipa poteĩ,mokõipa poteĩ,m o k õ i + p a + p o + -/p -/e t e ĩ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten five one
+Paraguayan_Guarani-27_twentyseven-1,,Paraguayan_Guarani,27_twentyseven,mokõipa pokõi,mokõipa pokõi,m o k õ i + p a + p o + -/m -/o k õ i,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten five two
+Paraguayan_Guarani-28_twentyeight-1,,Paraguayan_Guarani,28_twentyeight,mokõipa poapɨ,mokõipa poapɨ,m o k õ i + p a + p o + -/ᵐb -/o -/h a p ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten five three
+Paraguayan_Guarani-29_twentynine-1,,Paraguayan_Guarani,29_twentynine,mokõipa poɾuⁿdɨ,mokõipa poɾuⁿdɨ,m o k õ i + p a + p o + -/i ɾ u ⁿd ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,two ten five four
+Paraguayan_Guarani-30_thirty-1,,Paraguayan_Guarani,30_thirty,ᵐbohapɨpa,ᵐbohapɨpa,ᵐb o h a p ɨ + p a,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten
+Paraguayan_Guarani-31_thirtyone-1,,Paraguayan_Guarani,31_thirtyone,ᵐbohapɨpa  peteĩ,ᵐbohapɨpa  peteĩ,ᵐb o h a p ɨ + p a + p e t e ĩ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten one
+Paraguayan_Guarani-32_thirtytwo-1,,Paraguayan_Guarani,32_thirtytwo,ᵐbohapɨpa  mokõi,ᵐbohapɨpa  mokõi,ᵐb o h a p ɨ + p a + m o k õ i,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten two
+Paraguayan_Guarani-33_thirtythree-1,,Paraguayan_Guarani,33_thirtythree,ᵐbohapɨpa ᵐbohapɨ,ᵐbohapɨpa ᵐbohapɨ,ᵐb o h a p ɨ + p a + ᵐb o h a p ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten three
+Paraguayan_Guarani-34_thirtyfour-1,,Paraguayan_Guarani,34_thirtyfour,ᵐbohapɨpa iɾuⁿdɨ,ᵐbohapɨpa iɾuⁿdɨ,ᵐb o h a p ɨ + p a + i ɾ u ⁿd ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten four
+Paraguayan_Guarani-35_thirtyfive-1,,Paraguayan_Guarani,35_thirtyfive,ᵐbohapɨpa po,ᵐbohapɨpa po,ᵐb o h a p ɨ + p a + p o,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten five
+Paraguayan_Guarani-36_thirtysix-1,,Paraguayan_Guarani,36_thirtysix,ᵐbohapɨpa poteĩ,ᵐbohapɨpa poteĩ,ᵐb o h a p ɨ + p a + p o + -/p -/e t e ĩ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten five one
+Paraguayan_Guarani-37_thirtyseven-1,,Paraguayan_Guarani,37_thirtyseven,ᵐbohapɨpa pokõi,ᵐbohapɨpa pokõi,ᵐb o h a p ɨ + p a + p o + -/m -/o k õ i,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten five two
+Paraguayan_Guarani-38_thirtyeight-1,,Paraguayan_Guarani,38_thirtyeight,ᵐbohapɨpa poapɨ,ᵐbohapɨpa poapɨ,ᵐb o h a p ɨ + p a + p o + -/ᵐb -/o -/h a p ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten five three
+Paraguayan_Guarani-39_thirtynine-1,,Paraguayan_Guarani,39_thirtynine,ᵐbohapɨpa poɾuⁿdɨ,ᵐbohapɨpa poɾuⁿdɨ,ᵐb o h a p ɨ + p a + p o + -/i ɾ u ⁿd ɨ,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,three ten five four
+Paraguayan_Guarani-40_forty-1,,Paraguayan_Guarani,40_forty,iɾuⁿdɨpa,iɾuⁿdɨpa,i ɾ u ⁿd ɨ + p a,,ParaguayanGuarani1;ParaguayanGuarani2,,,,,four ten
 Scottish_Gaelic-1_one-1,,Scottish_Gaelic,1_one,ɯ̃ːn,ɯ̃ːn,ɯ̃ː n,,LearnGaelic2021,,,,,one
 Scottish_Gaelic-2_two-1,,Scottish_Gaelic,2_two,ɣaː,ɣaː,ɣ/d aː,,LearnGaelic2021,,,,,two
 Scottish_Gaelic-3_three-1,,Scottish_Gaelic,3_three,triː,triː,t r iː,,LearnGaelic2021,,,,,three
@@ -339,3 +539,85 @@ Scottish_Gaelic-39_thirtynine-1,,Scottish_Gaelic,39_thirtynine,triçədsəŋɯj,
 Scottish_Gaelic-39_thirtynine-2,,Scottish_Gaelic,39_thirtynine,ŋɯjdʲiəgɛrʲiçəd,ŋɯjdʲiəgɛrʲiçəd,ŋ ɯ j + dʲ i ə g + ɛ rʲ + -/f i ç + ə d,,LearnGaelic2021,,,,,nine teen on twenty -ty
 Scottish_Gaelic-40_forty-1,,Scottish_Gaelic,40_forty,daːiçəd,daːiçəd,d aː + -/f i ç + ə d,,LearnGaelic2021,,,,,two twenty -ty
 Scottish_Gaelic-40_forty-2,,Scottish_Gaelic,40_forty,kʲɛrəd,kʲɛrəd,kʲ ɛ/e -/h -/ɪ r/rʲ + ə d,,LearnGaelic2021,,,,,four -ty
+Telugu-1_one-1,,Telugu,1_one,okʌʈi,okʌʈi,o k ʌ ʈ i,,Telugu,,,,,one
+Telugu-2_two-1,,Telugu,2_two,renɖu,renɖu,r e n ɖ u,,Telugu,,,,,two
+Telugu-3_three-1,,Telugu,3_three,muːɖu,muːɖu,m uː ɖ u,,Telugu,,,,,three
+Telugu-4_four-1,,Telugu,4_four,naːlugu,naːlugu,n aː l u g u,,Telugu,,,,,four
+Telugu-5_five-1,,Telugu,5_five,ʌjidu,ʌjidu,ʌ j i d u,,Telugu,,,,,five
+Telugu-6_six-1,,Telugu,6_six,aːɾu,aːɾu,aː ɾ u,,Telugu,,,,,six
+Telugu-7_seven-1,,Telugu,7_seven,eːɖu,eːɖu,eː ɖ u,,Telugu,,,,,seven
+Telugu-8_eight-1,,Telugu,8_eight,enimidi,enimidi,e n i m i d i,,Telugu,,,,,eight
+Telugu-9_nine-1,,Telugu,9_nine,tomːidi,tomːidi,t o mː i d i,,Telugu,,,,,nine
+Telugu-10_ten-1,,Telugu,10_ten,pʌdi,pʌdi,p ʌ d i,,Telugu,,,,,ten
+Telugu-11_eleven-1,,Telugu,11_eleven,pʌdʌkonɖu,pʌdʌkonɖu,p ʌ d ʌ/i + k o n ɖ u,,Telugu,,,,,ten plusone
+Telugu-12_twelve-1,,Telugu,12_twelve,pʌnenɖu,pʌnenɖu,p ʌ n/d -/i + -/r e n ɖ u,,Telugu,,,,,ten two
+Telugu-13_thirteen-1,,Telugu,13_thirteen,pʌdʌmuɖu,pʌdʌmuɖu,p ʌ d ʌ/i + m u/uː ɖ u,,Telugu,,,,,ten three
+Telugu-14_fourteen-1,,Telugu,14_fourteen,pʌdnaːlugu,pʌdnaːlugu,p ʌ d -/i + n aː l u g u,,Telugu,,,,,ten four
+Telugu-15_fifteen-1,,Telugu,15_fifteen,pʌdʌ nʌjidu,pʌdʌ nʌjidu,p ʌ d ʌ/i + h/- ʌ j i d u,,Telugu,,,,,ten five
+Telugu-16_sixteen-1,,Telugu,16_sixteen,pʌdʌha:ru,pʌdʌha:ru,p ʌ d ʌ/i + h/- aː ɾ u,,Telugu,,,,,ten six
+Telugu-17_seventeen-1,,Telugu,17_seventeen,pʌdihe:du,pʌdihe:du,p ʌ d i + h/- eː ɖ u,,Telugu,,,,,ten seven
+Telugu-18_eighteen-1,,Telugu,18_eighteen,pʌdhenimidi,pʌdhenimidi,p ʌ d -/i + h/- e n i m i d i,,Telugu,,,,,ten eight
+Telugu-19_nineteen-1,,Telugu,19_nineteen,pʌndomidi,pʌndomidi,p ʌ n/d -/i + d/t o mː i d i,,Telugu,,,,,ten nine
+Telugu-20_twenty-1,,Telugu,20_twenty,iɾavaɪ̯,iɾavaɪ̯,i ɾ a + v/p aɪ̯/ʌ -/d -/i,,Telugu,,,,,twice ten
+Telugu-21_twentyone-1,,Telugu,21_twentyone,iɾavaɪ̯ okʌʈi,iɾavaɪ̯ okʌʈi,i ɾ a + v/p aɪ̯/ʌ -/d -/i + o k ʌ ʈ i,,Telugu,,,,,twice ten one
+Telugu-22_twentytwo-1,,Telugu,22_twentytwo,iɾavaɪ̯ renɖu,iɾavaɪ̯ renɖu,i ɾ a + v/p aɪ̯/ʌ -/d -/i + r e n ɖ u,,Telugu,,,,,twice ten two
+Telugu-23_twentythree-1,,Telugu,23_twentythree,iɾavaɪ̯ muːɖu,iɾavaɪ̯ muːɖu,i ɾ a + v/p aɪ̯/ʌ -/d -/i + m uː ɖ u,,Telugu,,,,,twice ten three
+Telugu-24_twentyfour-1,,Telugu,24_twentyfour,iɾavaɪ̯ naːlugu,iɾavaɪ̯ naːlugu,i ɾ a + v/p aɪ̯/ʌ -/d -/i + n aː l u g u,,Telugu,,,,,twice ten four
+Telugu-25_twentyfive-1,,Telugu,25_twentyfive,iɾavaɪ̯ ʌjidu,iɾavaɪ̯ ʌjidu,i ɾ a + v/p aɪ̯/ʌ -/d -/i + ʌ j i d u,,Telugu,,,,,twice ten five
+Telugu-26_twentysix-1,,Telugu,26_twentysix,iɾavaɪ̯ aːɾu,iɾavaɪ̯ aːɾu,i ɾ a + v/p aɪ̯/ʌ -/d -/i + aː ɾ u,,Telugu,,,,,twice ten six
+Telugu-27_twentyseven-1,,Telugu,27_twentyseven,iɾavaɪ̯ eːɖu,iɾavaɪ̯ eːɖu,i ɾ a + v/p aɪ̯/ʌ -/d -/i + eː ɖ u,,Telugu,,,,,twice ten seven
+Telugu-28_twentyeight-1,,Telugu,28_twentyeight,iɾavaɪ̯ enimidi,iɾavaɪ̯ enimidi,i ɾ a + v/p aɪ̯/ʌ -/d -/i + e n i m i d i,,Telugu,,,,,twice ten eight
+Telugu-29_twentynine-1,,Telugu,29_twentynine,iɾavaɪ̯ tomːidi,iɾavaɪ̯ tomːidi,i ɾ a + v/p aɪ̯/ʌ -/d -/i + t o mː i d i,,Telugu,,,,,twice ten nine
+Telugu-30_thirty-1,,Telugu,30_thirty,mupːaɪ̯,mupːaɪ̯,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i,,Telugu,,,,,three ten
+Telugu-31_thirtyone-1,,Telugu,31_thirtyone,mupːaɪ̯ okʌʈi,mupːaɪ̯ okʌʈi,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + o k ʌ ʈ i,,Telugu,,,,,three ten one
+Telugu-32_thirtytwo-1,,Telugu,32_thirtytwo,mupːaɪ̯ renɖu,mupːaɪ̯ renɖu,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + r e n ɖ u,,Telugu,,,,,three ten two
+Telugu-33_thirtythree-1,,Telugu,33_thirtythree,mupːaɪ̯ muːɖu,mupːaɪ̯ muːɖu,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + m uː ɖ u,,Telugu,,,,,three ten three
+Telugu-34_thirtyfour-1,,Telugu,34_thirtyfour,mupːaɪ̯ naːlugu,mupːaɪ̯ naːlugu,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + n aː l u g u,,Telugu,,,,,three ten four
+Telugu-35_thirtyfive-1,,Telugu,35_thirtyfive,mupːaɪ̯ ʌjidu,mupːaɪ̯ ʌjidu,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + ʌ j i d u,,Telugu,,,,,three ten five
+Telugu-36_thirtysix-1,,Telugu,36_thirtysix,mupːaɪ̯ aːɾu,mupːaɪ̯ aːɾu,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + aː ɾ u,,Telugu,,,,,three ten six
+Telugu-37_thirtyseven-1,,Telugu,37_thirtyseven,mupːaɪ̯ eːɖu,mupːaɪ̯ eːɖu,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + eː ɖ u,,Telugu,,,,,three ten seven
+Telugu-38_thirtyeight-1,,Telugu,38_thirtyeight,mupːaɪ̯ enimidi,mupːaɪ̯ enimidi,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + e n i m i d i,,Telugu,,,,,three ten eight
+Telugu-39_thirtynine-1,,Telugu,39_thirtynine,mupːaɪ̯ tomːidi,mupːaɪ̯ tomːidi,m u/uː -/ɖ -/u + pː/p aɪ̯/ʌ -/d -/i + t o mː i d i,,Telugu,,,,,three ten nine
+Telugu-40_forty-1,,Telugu,40_forty,na:lʌbaɪ̯,na:lʌbaɪ̯,n aː l ʌ/u -/g -/u + b/p aɪ̯/ʌ -/d -/i,,Telugu,,,,,four ten
+Wayuu-1_one-1,,Wayuu,1_one,waneː,waneː,w a n eː,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,one
+Wayuu-1_one-2,,Wayuu,1_one,waneːʃia,waneːʃia,w a n eː + ʃ i a,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,one MASCULINE
+Wayuu-1_one-3,,Wayuu,1_one,waneːsia,waneːsia,w a n eː + s i a,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,one FEMININE
+Wayuu-2_two-1,,Wayuu,2_two,piama,piama,p i a m a,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two
+Wayuu-3_three-1,,Wayuu,3_three,apɨnɨin,apɨnɨin,a p ɨ n ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three
+Wayuu-4_four-1,,Wayuu,4_four,pienʧi,pienʧi,p i e n ʧ i,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,four
+Wayuu-5_five-1,,Wayuu,5_five,haʔrai,haʔrai,h a ʔ r a -/ɺ i,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,five
+Wayuu-6_six-1,,Wayuu,6_six,aipirua,aipirua,a i p i r u a,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,six
+Wayuu-7_seven-1,,Wayuu,7_seven,akaraiʃi,akaraiʃi,a k a r a i ʃ i,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,seven
+Wayuu-8_eight-1,,Wayuu,8_eight,mekiːsaɺɨ,mekiːsaɺɨ,m e k iː + s a ɺ ɨ,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,? ?
+Wayuu-9_nine-1,,Wayuu,9_nine,mekieʔetasaɺɨ,mekieʔetasaɺɨ,m e k i/iː + e ʔ e t a + s a ɺ ɨ,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,? ? ?
+Wayuu-10_ten-1,,Wayuu,10_ten,poʔɺoː,poʔɺoː,p o ʔ ɺ oː,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten
+Wayuu-11_eleven-1,,Wayuu,11_eleven,poʔɺoː waneːʃimɨin,poʔɺoː waneːʃimɨin,p o ʔ ɺ oː + w a n eː + ʃ i -/a + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten one MASCULINE ALLATIVE
+Wayuu-12_twelve-1,,Wayuu,12_twelve,poʔɺoː piamamɨin,poʔɺoː piamamɨin,p o ʔ ɺ oː + p i a m a + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten two ALLATIVE
+Wayuu-13_thirteen-1,,Wayuu,13_thirteen,poʔɺoː apɨnɨinmɨin,poʔɺoː apɨnɨinmɨin,p o ʔ ɺ oː + a p ɨ n ɨ i n + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten three ALLATIVE
+Wayuu-14_fourteen-1,,Wayuu,14_fourteen,poʔɺoː pienʧimɨin,poʔɺoː pienʧimɨin,p o ʔ ɺ oː + p i e n ʧ i + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten four ALLATIVE
+Wayuu-15_fifteen-1,,Wayuu,15_fifteen,poʔɺoː haʔraɺimɨin,poʔɺoː haʔraɺimɨin,p o ʔ ɺ oː + h a ʔ r a ɺ i + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten five ALLATIVE
+Wayuu-16_sixteen-1,,Wayuu,16_sixteen,poʔɺoː aipiruamɨin,poʔɺoː aipiruamɨin,p o ʔ ɺ oː + a i p i r u a + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten six ALLATIVE
+Wayuu-17_seventeen-1,,Wayuu,17_seventeen,poʔɺoː akaraiʃimɨin,poʔɺoː akaraiʃimɨin,p o ʔ ɺ oː + a k a r a i ʃ i + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten seven ALLATIVE
+Wayuu-18_eighteen-1,,Wayuu,18_eighteen,poʔɺoː mekiːsaɺɨmɨin,poʔɺoː mekiːsaɺɨmɨin,p o ʔ ɺ oː + m e k iː + s a ɺ ɨ + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten ? ? ALLATIVE
+Wayuu-19_nineteen-1,,Wayuu,19_nineteen,poʔɺoː mekieʔetasaɺɨmɨin,poʔɺoː mekieʔetasaɺɨmɨin,p o ʔ ɺ oː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,ten ? ? ? ALLATIVE
+Wayuu-20_twenty-1,,Wayuu,20_twenty,piama ʃikiː,piama ʃikiː,p i a m a + ʃ i k iː,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten
+Wayuu-21_twentyone-1,,Wayuu,21_twentyone,piama ʃikiː waneːʃimɨin,piama ʃikiː waneːʃimɨin,p i a m a + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten one MASCULINE ALLATIVE
+Wayuu-22_twentytwo-1,,Wayuu,22_twentytwo,piama ʃikiː piamamɨin,piama ʃikiː piamamɨin,p i a m a + ʃ i k iː + p i a m a + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten two ALLATIVE
+Wayuu-23_twentythree-1,,Wayuu,23_twentythree,piama ʃikiː apɨnɨinmɨin,piama ʃikiː apɨnɨinmɨin,p i a m a + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten three ALLATIVE
+Wayuu-24_twentyfour-1,,Wayuu,24_twentyfour,piama ʃikiː pienʧimɨin,piama ʃikiː pienʧimɨin,p i a m a + ʃ i k iː + p i e n ʧ i + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten four ALLATIVE
+Wayuu-25_twentyfive-1,,Wayuu,25_twentyfive,piama ʃikiː haʔraɺimɨin,piama ʃikiː haʔraɺimɨin,p i a m a + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten five ALLATIVE
+Wayuu-26_twentysix-1,,Wayuu,26_twentysix,piama ʃikiː aipiruamɨin,piama ʃikiː aipiruamɨin,p i a m a + ʃ i k iː + a i p i r u a + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten six ALLATIVE
+Wayuu-27_twentyseven-1,,Wayuu,27_twentyseven,piama ʃikiː akaraiʃimɨin,piama ʃikiː akaraiʃimɨin,p i a m a + ʃ i k iː + a k a r a i ʃ i + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten seven ALLATIVE
+Wayuu-28_twentyeight-1,,Wayuu,28_twentyeight,piama ʃikiː mekiːsaɺɨmɨin,piama ʃikiː mekiːsaɺɨmɨin,p i a m a + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten ? ? ALLATIVE
+Wayuu-29_twentynine-1,,Wayuu,29_twentynine,piama ʃikiː mekieʔetasaɺɨmɨin,piama ʃikiː mekieʔetasaɺɨmɨin,p i a m a + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,two ten ? ? ? ALLATIVE
+Wayuu-30_thirty-1,,Wayuu,30_thirty,apɨnɨin ʃikiː,apɨnɨin ʃikiː,a p ɨ n ɨ i n + ʃ i k iː,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten
+Wayuu-31_thirtyone-1,,Wayuu,31_thirtyone,apɨnɨin ʃikiː waneːʃimɨin,apɨnɨin ʃikiː waneːʃimɨin,a p ɨ n ɨ i n + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten one MASCULINE ALLATIVE
+Wayuu-32_thirtytwo-1,,Wayuu,32_thirtytwo,apɨnɨin ʃikiː piamamɨin,apɨnɨin ʃikiː piamamɨin,a p ɨ n ɨ i n + ʃ i k iː + p i a m a + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten two ALLATIVE
+Wayuu-33_thirtythree-1,,Wayuu,33_thirtythree,apɨnɨin ʃikiː apɨnɨinmɨin,apɨnɨin ʃikiː apɨnɨinmɨin,a p ɨ n ɨ i n + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten three ALLATIVE
+Wayuu-34_thirtyfour-1,,Wayuu,34_thirtyfour,apɨnɨin ʃikiː pienʧimɨin,apɨnɨin ʃikiː pienʧimɨin,a p ɨ n ɨ i n + ʃ i k iː + p i e n ʧ i + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten four ALLATIVE
+Wayuu-35_thirtyfive-1,,Wayuu,35_thirtyfive,apɨnɨin ʃikiː haʔraɺimɨin,apɨnɨin ʃikiː haʔraɺimɨin,a p ɨ n ɨ i n + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten five ALLATIVE
+Wayuu-36_thirtysix-1,,Wayuu,36_thirtysix,apɨnɨin ʃikiː aipiruamɨin,apɨnɨin ʃikiː aipiruamɨin,a p ɨ n ɨ i n + ʃ i k iː + a i p i r u a + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten six ALLATIVE
+Wayuu-37_thirtyseven-1,,Wayuu,37_thirtyseven,apɨnɨin ʃikiː akaraiʃimɨin,apɨnɨin ʃikiː akaraiʃimɨin,a p ɨ n ɨ i n + ʃ i k iː + a k a r a i ʃ i + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten seven ALLATIVE
+Wayuu-38_thirtyeight-1,,Wayuu,38_thirtyeight,apɨnɨin ʃikiː mekiːsaɺɨmɨin,apɨnɨin ʃikiː mekiːsaɺɨmɨin,a p ɨ n ɨ i n + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten ? ? ALLATIVE
+Wayuu-39_thirtynine-1,,Wayuu,39_thirtynine,apɨnɨin ʃikiː mekieʔetasaɺɨmɨin,apɨnɨin ʃikiː mekieʔetasaɺɨmɨin,a p ɨ n ɨ i n + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,three ten ? ? ? ALLATIVE
+Wayuu-40_forty-1,,Wayuu,40_forty,pienʧi ʃikiː,pienʧi ʃikiː,p i e n ʧ i + ʃ i k iː,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,,,,,four ten
