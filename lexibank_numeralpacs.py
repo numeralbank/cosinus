@@ -11,10 +11,16 @@ class CustomLanguage(pylexibank.Language):
     FileName = attr.ib(default=None)
 
 
+@attr.s
+class CustomLexeme(pylexibank.Lexeme):
+    Morphemes = attr.ib(default=None)
+
+
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "numeralpacs"
     writer_options = dict(keep_languages=False, keep_parameters=False)
+    lexeme_class = CustomLexeme
     language_class = CustomLanguage
 
     form_spec = pylexibank.FormSpec(
@@ -42,13 +48,18 @@ class Dataset(pylexibank.Dataset):
                 try:
                     args.writer.add_form_with_segments(
                         Language_ID=data["DOCULECT"],
-                        Parameter_ID=concepts[data["CONCEPT"]],
+                        Parameter_ID=concepts[data["CONCEPT"].lower()],
                         Value=data["FORM"],
                         Form=data["FORM"],
-                        Segments=[{"_": "+"}.get(x, x) for x in data["TOKENS"].replace(" ", "")],
+                        Segments=data["TOKENS"].split(),
+                        Morphemes=data["MORPHEMES"],
                         Source=sources[data["DOCULECT"]],
                     )
                 except ValueError:
                     args.log.error(
                         f"Problem/missing data in:\n  LANGUAGE: {data['DOCULECT']}\n  CONCEPT: {data['CONCEPT']}\n  FORM: {data['FORM']}"
+                    )
+                except KeyError as e:
+                    args.log.error(
+                        f"Problem w/ concept or doculect mapping:\n  LANGUAGE: {data['DOCULECT']}\n  CONCEPT: {data['CONCEPT']}\n  FORM: {data['FORM']}"
                     )
