@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/calc-project/numeralpacs",
             "rdf:type": "prov:Entity",
-            "dc:created": "afe86c0",
+            "dc:created": "fbb17de",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 622,
+            "dc:extent": 623,
             "tableSchema": {
                 "columns": [
                     {
