@@ -11,31 +11,31 @@ ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 10	Italian	TEN	10	dieci	diet͡ʃi	d i e t͡ʃ i	ten	10	Dellert2020
 11	Italian	ELEVEN	11	ùndici	undit͡ʃi	u n + d i -/e t͡ʃ i	one ten	1 10	Dellert2020
 12	Italian	TWELVE	12	dodici	dodit͡ʃi	d o/u -/e + d i -/e t͡ʃ i	two ten	2 10	Dellert2020
-13	Italian	THIRTEEN	13	tredici	tredit͡ʃi	t r e + d i -/e t͡ʃ i	three ten	3 10	Dellert2020, Manczak1985
-14	Italian	FOURTEEN	14	quattordici	kwatːordit͡ʃi	k w a tː -/r o r/- + d i -/e t͡ʃ i	four ten	4 10	Dellert2020, Manczak1985
-15	Italian	FIFTEEN	15	quindici	kwindit͡ʃi	k/t͡ʃ w/- i n -/k -/w -/e + d i -/e t͡ʃ i	five ten	5 10	Dellert2020, Manczak1985
-16	Italian	SIXTEEN	16	sedici	sedit͡ʃi	s e -/i + d i -/e t͡ʃ i	six ten	6 10	Dellert2020, Manczak1985
-17	Italian	SEVENTEEN	17	diciassette	dit͡ʃasːet:e	d i -/e t͡ʃ -/i + a + sː/s e tː e	ten link seven	10 16 7	Dellert2020, Manczak1985, Comrie2011
-18	Italian	EIGHTEEN	18	diciotto	dit͡ʃotːo	d i -/e t͡ʃ -/i + o tː o	ten eight	10 8	Dellert2020, Manczak1985
-19	Italian	NINETEEN	19	diciannove	dit͡ʃanːove	d i -/e t͡ʃ -/i + a + nː/n o v e	ten link nine	10 16 9	Dellert2020, Manczak1985, Comrie2011
+13	Italian	THIRTEEN	13	tredici	tredit͡ʃi	t r e + d i -/e t͡ʃ i	three ten	3 10	Dellert2020;Manczak1985
+14	Italian	FOURTEEN	14	quattordici	kwatːordit͡ʃi	k w a tː -/r o r/- + d i -/e t͡ʃ i	four ten	4 10	Dellert2020;Manczak1985
+15	Italian	FIFTEEN	15	quindici	kwindit͡ʃi	k/t͡ʃ w/- i n -/k -/w -/e + d i -/e t͡ʃ i	five ten	5 10	Dellert2020;Manczak1985
+16	Italian	SIXTEEN	16	sedici	sedit͡ʃi	s e -/i + d i -/e t͡ʃ i	six ten	6 10	Dellert2020;Manczak1985
+17	Italian	SEVENTEEN	17	diciassette	dit͡ʃasːet:e	d i -/e t͡ʃ -/i + a + sː/s e tː e	ten link seven	10 16 7	Dellert2020;Manczak1985;Comrie2011
+18	Italian	EIGHTEEN	18	diciotto	dit͡ʃotːo	d i -/e t͡ʃ -/i + o tː o	ten eight	10 8	Dellert2020;Manczak1985
+19	Italian	NINETEEN	19	diciannove	dit͡ʃanːove	d i -/e t͡ʃ -/i + a + nː/n o v e	ten link nine	10 16 9	Dellert2020;Manczak1985;Comrie2011
 20	Italian	TWENTY	20	venti	venti	v e n t i	twenty	13	Dellert2020
-21	Italian	TWENTY ONE	21	ventuno	ventuːno	v e n t -/i + uː/u n + o	twenty one mask_flex	13 1 15	Dellert2020, Manczak1985
-22	Italian	TWENTY TWO	22	ventidue	ventiduːe	v e n t i + d u e	twenty two	13 2	Dellert2020, Manczak1985
-23	Italian	TWENTY THREE	23	ventitré	ventitre	v e n t i + t r e	twenty three	13 3	Dellert2020, Manczak1985
-24	Italian	TWENTY FOUR	24	ventiquattro	ventikwatːro	v e n t i + k w a tː r o	twenty four	13 4	Dellert2020, Manczak1985
-25	Italian	TWENTY FIVE	25	venticinque	ventit͡ʃinkwe	v e n t i + t͡ʃ i n k w e	twenty five	13 5	Dellert2020, Manczak1985
-26	Italian	TWENTY SIX	26	ventisei	ventisei	v e n t i + s e i	twenty six	13 6	Dellert2020, Manczak1985
-27	Italian	TWENTY SEVEN	27	ventisette	ventisetːe	v e n t i + s e tː e	twenty seven	13 7	Dellert2020, Manczak1985
-28	Italian	TWENTY EIGHT	28	ventotto	ventiotːo	v e n t i + o tː o	twenty eight	13 8	Dellert2020, Manczak1985
-29	Italian	TWENTY NINE	29	ventinove	ventinove	v e n t i + n o v e	twenty nine	13 9	Dellert2020, Manczak1985
+21	Italian	TWENTY ONE	21	ventuno	ventuːno	v e n t -/i + uː/u n + o	twenty one mask_flex	13 1 15	Dellert2020;Manczak1985
+22	Italian	TWENTY TWO	22	ventidue	ventiduːe	v e n t i + d u e	twenty two	13 2	Dellert2020;Manczak1985
+23	Italian	TWENTY THREE	23	ventitré	ventitre	v e n t i + t r e	twenty three	13 3	Dellert2020;Manczak1985
+24	Italian	TWENTY FOUR	24	ventiquattro	ventikwatːro	v e n t i + k w a tː r o	twenty four	13 4	Dellert2020;Manczak1985
+25	Italian	TWENTY FIVE	25	venticinque	ventit͡ʃinkwe	v e n t i + t͡ʃ i n k w e	twenty five	13 5	Dellert2020;Manczak1985
+26	Italian	TWENTY SIX	26	ventisei	ventisei	v e n t i + s e i	twenty six	13 6	Dellert2020;Manczak1985
+27	Italian	TWENTY SEVEN	27	ventisette	ventisetːe	v e n t i + s e tː e	twenty seven	13 7	Dellert2020;Manczak1985
+28	Italian	TWENTY EIGHT	28	ventotto	ventiotːo	v e n t i + o tː o	twenty eight	13 8	Dellert2020;Manczak1985
+29	Italian	TWENTY NINE	29	ventinove	ventinove	v e n t i + n o v e	twenty nine	13 9	Dellert2020;Manczak1985
 30	Italian	THIRTY	30	trenta	trenta	t r e + -/a n t a	three tenstep	3 14	Dellert2020
-31	Italian	THIRTY ONE	31	trentuno	trentuːno	t r e + -/a n t -/a + uː/u n + o	three tenstep one mask_flex	3 14 1 15	Dellert2020, Manczak1985
-32	Italian	THIRTY TWO	32	trentadue	trentaduːe	t r e + -/a n t a + d u e	three tenstep two	3 14 2	Dellert2020, Manczak1985
-33	Italian	THIRTY THREE	33	trentatré	trentatre	t r e + -/a n t a + t r e	three tenstep three	3 14 3	Dellert2020, Manczak1985
-34	Italian	THIRTY FOUR	34	trentaquattro	trentakwatːro	t r e + -/a n t a + k w a tː r o	three tenstep four	3 14 4	Dellert2020, Manczak1985
-35	Italian	THIRTY FIVE	35	trentacinque	trentat͡ʃinkwe	t r e + -/a n t a + t͡ʃ i n k w e	three tenstep five	3 14 5	Dellert2020, Manczak1985
-36	Italian	THIRTY SIX	36	trentasei	trentasei	t r e + -/a n t a + s e i	three tenstep six	3 14 6	Dellert2020, Manczak1985
-37	Italian	THIRTY SEVEN	37	trentasette	trentasetːe	t r e + -/a n t a + s e tː e	three tenstep seven	3 14 7	Dellert2020, Manczak1985
-38	Italian	THIRTY EIGHT	38	trentotto	trentaotːo	t r e + -/a n t a + o tː o	three tenstep eight	3 14 8	Dellert2020, Manczak1985
-39	Italian	THIRTY NINE	39	trentanove	trentanove	t r e + -/a n t a + n o v e	three tenstep nine	3 14 9	Dellert2020, Manczak1985
+31	Italian	THIRTY ONE	31	trentuno	trentuːno	t r e + -/a n t -/a + uː/u n + o	three tenstep one mask_flex	3 14 1 15	Dellert2020;Manczak1985
+32	Italian	THIRTY TWO	32	trentadue	trentaduːe	t r e + -/a n t a + d u e	three tenstep two	3 14 2	Dellert2020;Manczak1985
+33	Italian	THIRTY THREE	33	trentatré	trentatre	t r e + -/a n t a + t r e	three tenstep three	3 14 3	Dellert2020;Manczak1985
+34	Italian	THIRTY FOUR	34	trentaquattro	trentakwatːro	t r e + -/a n t a + k w a tː r o	three tenstep four	3 14 4	Dellert2020;Manczak1985
+35	Italian	THIRTY FIVE	35	trentacinque	trentat͡ʃinkwe	t r e + -/a n t a + t͡ʃ i n k w e	three tenstep five	3 14 5	Dellert2020;Manczak1985
+36	Italian	THIRTY SIX	36	trentasei	trentasei	t r e + -/a n t a + s e i	three tenstep six	3 14 6	Dellert2020;Manczak1985
+37	Italian	THIRTY SEVEN	37	trentasette	trentasetːe	t r e + -/a n t a + s e tː e	three tenstep seven	3 14 7	Dellert2020;Manczak1985
+38	Italian	THIRTY EIGHT	38	trentotto	trentaotːo	t r e + -/a n t a + o tː o	three tenstep eight	3 14 8	Dellert2020;Manczak1985
+39	Italian	THIRTY NINE	39	trentanove	trentanove	t r e + -/a n t a + n o v e	three tenstep nine	3 14 9	Dellert2020;Manczak1985
 40	Italian	FORTY	40	quaranta	kwaranta	k w a -/tː r -/o + a n t a	four tenstep	4 14	Dellert2020
