@@ -1,0 +1,41 @@
+ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
+1	Spanish	ONE	1	uno	uno	u n + o	one mask_flex	1 23	OpenDictData2025span
+2	Spanish	TWO	2	dos	dos	d/ð o s	two	2	OpenDictData2025span
+3	Spanish	THREE	3	tres	tɾes	t ɾ e s	three	3	OpenDictData2025span
+4	Spanish	FOUR	4	cuatro	kwatɾo	k w a t ɾ o	four	4	OpenDictData2025span
+5	Spanish	FIVE	5	cinco	θiŋko	θ i ŋ k o	five	5	OpenDictData2025span
+6	Spanish	SIX	6	seis	seis	s e i s	six	6	OpenDictData2025span
+7	Spanish	SEVEN	7	siete	sjete	s j e t e	seven	7	OpenDictData2025span
+8	Spanish	EIGHT	8	ocho	otʃo	o tʃ o	eight	8	OpenDictData2025span
+9	Spanish	NINE	9	nueve	nweβe	n w e β e	nine	9	OpenDictData2025span
+10	Spanish	TEN	10	diez	djeθ	d j e θ	ten	10	OpenDictData2025span
+11	Spanish	ELEVEN	11	once	onθe	o n θ e	eleven	11	OpenDictData2025span
+12	Spanish	TWELVE	12	doce	doθe	d o θ e	twelve	12	OpenDictData2025span
+13	Spanish	THIRTEEN	13	trece	tɾeθe	t ɾ e θ e	thirteen	13	OpenDictData2025span
+14	Spanish	FOURTEEN	14	catorce	katoɾθe	k a t o ɾ θ e	fourteen	14	OpenDictData2025span
+15	Spanish	FIFTEEN	15	quince	kinθe	k i n θ e	fifteen	15	OpenDictData2025span
+16	Spanish	SIXTEEN	16	dieciséis	djeθiseis	d j e θ + i + s e i s	ten and six	10 21 6	OpenDictData2025span
+17	Spanish	SEVENTEEN	17	diecisiete	djeθisjete	d j e θ + i + s j e t e	ten and seven	10 21 7	OpenDictData2025span
+18	Spanish	EIGHTEEN	18	dieciocho	djeθiotʃo	d j e θ + i + o tʃ o	ten and eight	10 21 8	OpenDictData2025span
+19	Spanish	NINETEEN	19	diecinueve	djeθinweβe	d j e θ + i + n w e β e	ten and nine	10 21 9	OpenDictData2025span
+20	Spanish	TWENTY	20	veinte	beinte	b e i n t e	twenty	20	OpenDictData2025span
+21	Spanish	TWENTY ONE	21	veintiuno	beintjuno	b e i n t -/e + j/i + u n + o	twenty and one mask_flex	20 21 1 23	OpenDictData2025span
+22	Spanish	TWENTY TWO	22	veintidós	beinti'ðos	b e i n t -/e + i + ð o s	twenty and two	20 21 2	OpenDictData2025span
+23	Spanish	TWENTY THREE	23	veintitrés	beintitɾes	b e i n t -/e + i + t ɾ e s	twenty and three	20 21 3	OpenDictData2025span
+24	Spanish	TWENTY FOUR	24	veinticuatro	beintikwatɾo	b e i n t -/e + i + k w a t ɾ o	twenty and four	20 21 4	OpenDictData2025span
+25	Spanish	TWENTY FIVE	25	veinticinco	beintiθiŋko	b e i n t -/e + i + θ i ŋ k o	twenty and five	20 21 5	OpenDictData2025span
+26	Spanish	TWENTY SIX	26	veintiséis	beinti'seis	b e i n t -/e + i + s e i s	twenty and six	20 21 6	OpenDictData2025span
+27	Spanish	TWENTY SEVEN	27	veintisiete	beintisjete	b e i n t -/e + i + s j e t e	twenty and seven	20 21 7	OpenDictData2025span
+28	Spanish	TWENTY EIGHT	28	veintiocho	beintiotʃo	b e i n t -/e + i + o tʃ o	twenty and eight	20 21 8	OpenDictData2025span
+29	Spanish	TWENTY NINE	29	veintinueve	beintinweβe	b e i n t -/e + i + n w e β e	twenty and nine	20 21 9	OpenDictData2025span
+30	Spanish	THIRTY	30	treinta	tɾeinta	t ɾ e -/s + i/e n t a	three tenstep	3 19	OpenDictData2025span
+31	Spanish	THIRTY ONE	31	treinta y uno	tɾeintaiuno	t ɾ e -/s + i/e n t a + i + u n + o	three tenstep and one mask_flex	3 19 21 1 23	OpenDictData2025span, Manczak1985
+32	Spanish	THIRTY TWO	32	treinta y dos	tɾeintaiðos	t ɾ e -/s + i/e n t a + i + ð o s	three tenstep and two	3 19 21 2	OpenDictData2025span, Manczak1985
+33	Spanish	THIRTY THREE	33	treinta y tres	tɾeintaitɾes	t ɾ e -/s + i/e n t a + i + t ɾ e s	three tenstep and three	3 19 21 3	OpenDictData2025span, Manczak1985
+34	Spanish	THIRTY FOUR	34	treinta y cuatro	tɾeintaikwatɾo	t ɾ e -/s + i/e n t a + i + k w a t ɾ o	three tenstep and four	3 19 21 4	OpenDictData2025span, Manczak1985
+35	Spanish	THIRTY FIVE	35	treinta y cinco	tɾeintaiθiŋko	t ɾ e -/s + i/e n t a + i + θ i ŋ k o	three tenstep and five	3 19 21 5	OpenDictData2025span, Manczak1985
+36	Spanish	THIRTY SIX	36	treinta y seis	tɾeintaiseis	t ɾ e -/s + i/e n t a + i + s e i s	three tenstep and six	3 19 21 6	OpenDictData2025span, Manczak1985
+37	Spanish	THIRTY SEVEN	37	treinta y siete	tɾeintaisjete	t ɾ e -/s + i/e n t a + i + s j e t e	three tenstep and seven	3 19 21 7	OpenDictData2025span, Manczak1985
+38	Spanish	THIRTY EIGHT	38	treinta y ocho	tɾeintaiotʃo	t ɾ e -/s + i/e n t a + i + o tʃ o	three tenstep and eight	3 19 21 8	OpenDictData2025span, Manczak1985
+39	Spanish	THIRTY NINE	39	treinta y nueve	tɾeintainweβe	t ɾ e -/s + i/e n t a + i + n w e β e	three tenstep and nine	3 19 21 9	OpenDictData2025span, Manczak1985
+40	Spanish	FORTY	40	cuarenta	kwaɾenta	k w a -/t ɾ -/o + e n t a	four tenstep	4 19	OpenDictData2025span
