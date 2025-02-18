@@ -1,41 +1,41 @@
-ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	COGIDS	NOTE
-1	German	one	eins	ai n s	one	3	
-2	German	two	zwei	ts v ai	two	14	
-3	German	three	drei	d r ai	three	10	
-4	German	four	vier	f iː r	four	2	
-5	German	five	fünf	f y n f	five	4	
-6	German	six	sechs	z e k s	six	9	
-7	German	seven	sieben	z iː b ə n	seven	7	
-8	German	eight	acht	a x t	eight	13	
-9	German	nine	neun	n oi n	nine	11	
-10	German	ten	zehn	ts eː n	ten	1	
-11	German	eleven	elf	ɛ l f	eleven	16	
-12	German	twelve	zwölf	ts v ø l f	twelve	6	
-13	German	thirteen	dreizehn	d r ai + ts eː n	three ten	15 1	
-14	German	fourteen	vierzehn	f iː r + ts eː n	four ten	2 1	
-15	German	fifteen	fünfzehn	f y n f + ts eː n	five ten	4 1	
-16	German	sixteen	sechzehn	z ɛ !ç/k -/s + ts eː n	six ten	9 1	
-17	German	seventeen	siebzehn	z iː p/b -/ə -/n + ts eː n	seven ten	7 1	
-18	German	eighteen	achtzehn	a x -/t + ts eː n	eight ten	13 1	
-19	German	nineteen	neunzehn	n oi n + ts eː n	nine ten	11 1	
-20	German	twenty	zwanzig	ts v a n + ts ɪ ç	twen -ty-	12 5	
-21	German	twenty one	einundzwanzig	ai n -/s + ʊ n -/d + ts v a n + ts ɪ ç	one and twen -ty-	3 8 12 5	
-22	German	twenty two	zweiundzwanzig	ts v ai + ʊ n -/d + ts v a n + ts ɪ ç	two and twen -ty-	14 8 12 5	
-23	German	twenty three	dreiundzwanzig	d r ai + ʊ n -/d + ts v a n + ts ɪ ç	three and twen -ty-	10 8 12 5	
-24	German	twenty four	vierundzwanzig	f iː r + ʊ n -/d + ts v a n + ts ɪ ç	four and twen -ty-	2 8 12 5	
-25	German	twenty five	fünfundzwanzig	f y n f + ʊ n -/d + ts v a n + ts ɪ ç	five and twen -ty-	4 8 12 5	
-26	German	twenty six	sechsundzwanzig	z ɛ k s + ʊ n -/d + ts v a n + ts ɪ ç	six and twen -ty-	9 8 12 5	
-27	German	twenty seven	siebenundzwanzig	z iː b ə n + ʊ n -/d + ts v a n + ts ɪ ç	seven and twen -ty-	7 8 12 5	
-28	German	twenty eight	achtundzwanzig	a x t + ʊ n -/d + ts v a n + ts ɪ ç	eight and twen -ty-	13 8 12 5	
-29	German	twenty nine	neunundzwanzig	n oi n + ʊ n -/d + ts v a n + ts ɪ ç	nine and twen -ty-	11 8 12 5	
-30	German	thirty	dreißig	d r ai + s/ts ɪ ç	trhee -ty-	10 5	
-31	German	thirty one	einunddreißig	ai n -/s + ʊ n -/d + d r ai + s/ts ɪ ç	one and three -ty-	3 8 10 5	
-32	German	thirty two	zweiunddreißig	ts v ai + ʊ n -/d + d r ai + s/ts ɪ ç	two and three -ty-	14 8 10 5	
-33	German	thirty three	dreiunddreißig	d r ai + ʊ n -/d + d r ai + s/ts ɪ ç	three and three -ty-	10 8 10 5	
-34	German	thirty four	vierunddreißig	f iː r + ʊ n -/d + d r ai + s/ts ɪ ç	four and three -ty-	2 8 10 5	
-35	German	thirty five	fünfunddreißig	f y n f + ʊ n -/d + d r ai + s/ts ɪ ç	five and three -ty-	4 8 10 5	
-36	German	thirty six	sechsunddreißig	z ɛ k s + ʊ n -/d + d r ai + s/ts ɪ ç	six and three -ty-	9 8 10 5	
-37	German	thirty seven	siebenunddreißig	z iː b ə n + ʊ n -/d + d r ai + s/ts ɪ ç	seven and three -ty-	7 8 10 5	
-38	German	thirty eight	achtunddreißig	a x t + ʊ n -/d + d r ai + s/ts ɪ ç	eight and three -ty-	13 8 10 5	
-39	German	thirty nine	neununddreißig	n oi n + ʊ n -/d + d r ai + s/ts ɪ ç	nine and three -ty-	11 8 10 5	
-40	German	forty	vierzig	f iː r + ts ɪ ç	four -ty-	2 5	
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
+1	German	one	eins	aɪ n s	one	3	List2025
+2	German	two	zwei	ts v aɪ	two	14	List2025
+3	German	three	drei	d r aɪ	three	10	List2025
+4	German	four	vier	f iː r	four	2	List2025
+5	German	five	fünf	f ʏ n f	five	4	List2025
+6	German	six	sechs	z ɛ k s	six	9	List2025
+7	German	seven	sieben	z iː b ə n	seven	7	List2025
+8	German	eight	acht	a x t	eight	13	List2025
+9	German	nine	neun	n oɪ n	nine	11	List2025
+10	German	ten	zehn	ts eː n	ten	1	List2025
+11	German	eleven	elf	ɛ l f	eleven	16	List2025
+12	German	twelve	zwölf	ts v œ l f	twelve	6	List2025
+13	German	thirteen	dreizehn	d r aɪ + ts eː n	three ten	15 1	List2025
+14	German	fourteen	vierzehn	f iː r + ts eː n	four ten	2 1	List2025
+15	German	fifteen	fünfzehn	f ʏ n f + ts eː n	five ten	4 1	List2025
+16	German	sixteen	sechzehn	z ɛ ç/k -/s + ts eː n	six ten	9 1	List2025
+17	German	seventeen	siebzehn	z iː p/b -/ə -/n + ts eː n	seven ten	7 1	List2025
+18	German	eighteen	achtzehn	a x -/t + ts eː n	eight ten	13 1	List2025
+19	German	nineteen	neunzehn	n oɪ n + ts eː n	nine ten	11 1	List2025
+20	German	twenty	zwanzig	ts v a n + ts ɪ ç	twen -ty-	12 5	List2025
+21	German	twenty one	einundzwanzig	aɪ n -/s + ʊ n -/d + ts v a n + ts ɪ ç	one and twen -ty-	3 8 12 5	List2025
+22	German	twenty two	zweiundzwanzig	ts v aɪ + ʊ n -/d + ts v a n + ts ɪ ç	two and twen -ty-	14 8 12 5	List2025
+23	German	twenty three	dreiundzwanzig	d r aɪ + ʊ n -/d + ts v a n + ts ɪ ç	three and twen -ty-	10 8 12 5	List2025
+24	German	twenty four	vierundzwanzig	f iː r + ʊ n -/d + ts v a n + ts ɪ ç	four and twen -ty-	2 8 12 5	List2025
+25	German	twenty five	fünfundzwanzig	f ʏ n f + ʊ n -/d + ts v a n + ts ɪ ç	five and twen -ty-	4 8 12 5	List2025
+26	German	twenty six	sechsundzwanzig	z ɛ k s + ʊ n -/d + ts v a n + ts ɪ ç	six and twen -ty-	9 8 12 5	List2025
+27	German	twenty seven	siebenundzwanzig	z iː b ə n + ʊ n -/d + ts v a n + ts ɪ ç	seven and twen -ty-	7 8 12 5	List2025
+28	German	twenty eight	achtundzwanzig	a x t + ʊ n -/d + ts v a n + ts ɪ ç	eight and twen -ty-	13 8 12 5	List2025
+29	German	twenty nine	neunundzwanzig	n oɪ n + ʊ n -/d + ts v a n + ts ɪ ç	nine and twen -ty-	11 8 12 5	List2025
+30	German	thirty	dreißig	d r aɪ + s/ts ɪ ç	three -ty-	10 5	List2025
+31	German	thirty one	einunddreißig	aɪ n -/s + ʊ n -/d + d r aɪ + s/ts ɪ ç	one and three -ty-	3 8 10 5	List2025
+32	German	thirty two	zweiunddreißig	ts v aɪ + ʊ n -/d + d r aɪ + s/ts ɪ ç	two and three -ty-	14 8 10 5	List2025
+33	German	thirty three	dreiunddreißig	d r aɪ + ʊ n -/d + d r aɪ + s/ts ɪ ç	three and three -ty-	10 8 10 5	List2025
+34	German	thirty four	vierunddreißig	f iː r + ʊ n -/d + d r aɪ + s/ts ɪ ç	four and three -ty-	2 8 10 5	List2025
+35	German	thirty five	fünfunddreißig	f ʏ n f + ʊ n -/d + d r aɪ + s/ts ɪ ç	five and three -ty-	4 8 10 5	List2025
+36	German	thirty six	sechsunddreißig	z ɛ k s + ʊ n -/d + d r aɪ + s/ts ɪ ç	six and three -ty-	9 8 10 5	List2025
+37	German	thirty seven	siebenunddreißig	z iː b ə n + ʊ n -/d + d r aɪ + s/ts ɪ ç	seven and three -ty-	7 8 10 5	List2025
+38	German	thirty eight	achtunddreißig	a x t + ʊ n -/d + d r aɪ + s/ts ɪ ç	eight and three -ty-	13 8 10 5	List2025
+39	German	thirty nine	neununddreißig	n oɪ n + ʊ n -/d + d r aɪ + s/ts ɪ ç	nine and three -ty-	11 8 10 5	List2025
+40	German	forty	vierzig	f iː r + ts ɪ ç	four -ty-	2 5	List2025
