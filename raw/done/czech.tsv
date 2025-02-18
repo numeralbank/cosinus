@@ -25,7 +25,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 24	Czech	twenty four	dvacet čtyři	dvatsɛt tʃtɪr̝ɪ	d v a + -/d -/ɛ ts/s ɛ t + tʃ t ɪ r̝ ɪ	two ten four	2 10 4	Czech
 25	Czech	twenty five	dvacet pět	dvatsɛt pjɛt	d v a + -/d -/ɛ ts/s ɛ t + p j ɛ t	two ten five	2 10 5	Czech
 26	Czech	twenty six	dvacet šest	dvatsɛt ʃɛst	d v a + -/d -/ɛ ts/s ɛ t + ʃ ɛ s t	two ten six	2 10 6	Czech
-27	Czech	twenty seven	dvacet sedm	dvatsɛt sedm	d v a + -/d -/ɛ ts/s ɛ t + s e d m	two ten seven	2 10 7	Czech
+27	Czech	twenty seven	dvacet sedm	dvatsɛt sɛdm	d v a + -/d -/ɛ ts/s ɛ t + s ɛ d m	two ten seven	2 10 7	Czech
 28	Czech	twenty eight	dvacet osm	dvatsɛt osm	d v a + -/d -/ɛ ts/s ɛ t + o s m	two ten eight	2 10 8	Czech
 29	Czech	twenty nine	dvacet devět	dvatsɛt dɛvjɛt	d v a + -/d -/ɛ ts/s ɛ t + d ɛ v j ɛ t	two ten nine	2 10 9	Czech
 30	Czech	thirty	třicet	tr̝ɪtsɛt	t r̝ ɪ + -/d -/ɛ ts/s ɛ t	three ten	3 10	Czech
@@ -35,7 +35,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 34	Czech	thirty four	třicet čtyři	tr̝ɪtsɛt tʃtɪr̝ɪ	t r̝ ɪ + -/d -/ɛ ts/s ɛ t + tʃ t ɪ r̝ ɪ	three ten four	3 10 4	Czech
 35	Czech	thirty five	třicet pět	tr̝ɪtsɛt pjɛt	t r̝ ɪ + -/d -/ɛ ts/s ɛ t + p j ɛ t	three ten five	3 10 5	Czech
 36	Czech	thirty six	třicet šest	tr̝ɪtsɛt ʃɛst	t r̝ ɪ + -/d -/ɛ ts/s ɛ t + ʃ ɛ s t	three ten six	3 10 6	Czech
-37	Czech	thirty seven	třicet sedm	tr̝ɪtsɛt sedm	t r̝ ɪ + -/d -/ɛ ts/s ɛ t + s e d m	three ten seven	3 10 7	Czech
+37	Czech	thirty seven	třicet sedm	tr̝ɪtsɛt sɛdm	t r̝ ɪ + -/d -/ɛ ts/s ɛ t + s ɛ d m	three ten seven	3 10 7	Czech
 38	Czech	thirty eight	třicet osm	tr̝ɪtsɛt osm	t r̝ ɪ + -/d -/ɛ ts/s ɛ t + o s m	three ten eight	3 10 8	Czech
 39	Czech	thirty nine	třicet devět	tr̝ɪtsɛt dɛvjɛt	t r̝ ɪ + -/d -/ɛ ts/s ɛ t + d ɛ v j ɛ t	three ten nine	3 10 9	Czech
 40	Czech	forty	čtyřicet	tʃtɪr̝ɪtsɛt	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t	four ten	4 10	Czech
