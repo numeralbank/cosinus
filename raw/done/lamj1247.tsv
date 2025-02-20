@@ -1,0 +1,62 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE
+1	Lamjung_Yolmo	one	tɕíi	t ɕ í i	one	t ɕ í i	1
+2	Lamjung_Yolmo	two	ɲíi	ɲ í i	two	ɲ í i	2
+3	Lamjung_Yolmo	three	súm	s ú m	three	s ú m	3
+4	Lamjung_Yolmo	four	ʑì	ʑ ì	four	ʑ ì	4
+5	Lamjung_Yolmo	five	ŋá	ŋ á	five	ŋ á	5
+6	Lamjung_Yolmo	six	ʈùu	ʈ ù u	six	ʈ ù u	6
+7	Lamjung_Yolmo	seven	tìn	t ì n	seven	t ì n	7
+8	Lamjung_Yolmo	eight	kyèe	k y è e	eight	k y è e	8
+9	Lamjung_Yolmo	nine	kù	k ù	nine	k ù	9
+10	Lamjung_Yolmo	ten	tɕú	t ɕ ú	ten	t ɕ ú	10
+11	Lamjung_Yolmo	eleven	tɕúuʑi	t ɕ ú u/- + -/t ʑ/ɕ -/í i	ten one	t ɕ ú u + ʑ i + t ɕ ú u + ʑ i	10 1
+12	Lamjung_Yolmo	twelve	tɕíŋii	t ɕ í/ú + ŋ/ɲ i/í i	ten two	t ɕ í + ŋ i i + t ɕ í + ŋ i i	10 2
+13	Lamjung_Yolmo	thirteen	tɕúusum	t ɕ ú u/- + s u/ú m	ten three	t ɕ ú u + s u m + t ɕ ú u + s u m	10 3
+14	Lamjung_Yolmo	fourteen	tɕúpɕi	t ɕ ú p/- + ɕ/ʑ i/ì	ten four	t ɕ ú p + ɕ i + t ɕ ú p + ɕ i	10 4
+15	Lamjung_Yolmo	fifteen	tɕéeŋa	t ɕ é/ú e/- + ŋ a/á	ten five	t ɕ é e + ŋ a + t ɕ é e + ŋ a	10 5
+16	Lamjung_Yolmo	sixteen	tɕíiru	t ɕ í/ú i/- + r/ʈ -/ù u	ten six	t ɕ í i + r u + t ɕ í i + r u	10 6
+17	Lamjung_Yolmo	seventeen	tɕúptin	t ɕ ú p/- + t i/ì n	ten seven	t ɕ ú p + t i n + t ɕ ú p + t i n	10 7
+18	Lamjung_Yolmo	eighteen	tɕápkye	t ɕ á/ú p/- + k y -/è e	ten eight	t ɕ á p + k y e + t ɕ á p + k y e	10 8
+19	Lamjung_Yolmo	nineteen	tɕúrku	t ɕ ú r/- + k u/ù	ten nine	t ɕ ú r + k u + t ɕ ú r + k u	10 9
+20	Lamjung_Yolmo	twenty	khál ɕíi	k h á l + -/t ɕ í i	twenty one	k h á l + ɕ í i + k h á l + ɕ í i	11 1	vigesimal
+41	Lamjung_Yolmo	twenty	ɲídʑu	ɲ í -/i + d/t ʑ/ɕ u/ú	two ten	ɲ í + d ʑ u + ɲ í + d ʑ u	2 10	decimal
+21	Lamjung_Yolmo	twenty one	khál tɕíi tɕíi	k h á l + t ɕ í i + t ɕ í i	twenty one one	k h á l + t ɕ í i + t ɕ í i + k h á l + t ɕ í i + t ɕ í i + k h á l + t ɕ í i + t ɕ í i	11 1 1	vigesimal
+42	Lamjung_Yolmo	twenty one	ɲídʑu tɕíi	ɲ í -/i + d/t ʑ/ɕ u/ú + t ɕ í i	two ten one	ɲ í + d ʑ u + t ɕ í i + ɲ í + d ʑ u + t ɕ í i + ɲ í + d ʑ u + t ɕ í i	2 10 1	decimal
+22	Lamjung_Yolmo	twenty two	khál tɕíi ɲíi	k h á l + t ɕ í i + ɲ í i	twenty one two	k h á l + t ɕ í i + ɲ í i + k h á l + t ɕ í i + ɲ í i + k h á l + t ɕ í i + ɲ í i	11 1 2	vigesimal
+43	Lamjung_Yolmo	twenty two	ɲídʑu ɲíi	ɲ í -/i + d/t ʑ/ɕ u/ú + ɲ í i	two ten two	ɲ í + d ʑ u + ɲ í i + ɲ í + d ʑ u + ɲ í i + ɲ í + d ʑ u + ɲ í i	2 10 2	decimal
+23	Lamjung_Yolmo	twenty three	khál tɕíi súm	k h á l + t ɕ í i + s ú m	twenty one three	k h á l + t ɕ í i + s ú m + k h á l + t ɕ í i + s ú m + k h á l + t ɕ í i + s ú m	11 1 3	vigesimal
+44	Lamjung_Yolmo	twenty three	ɲídʑu súm	ɲ í -/i + d/t ʑ/ɕ u/ú + s ú m	two ten three	ɲ í + d ʑ u + s ú m + ɲ í + d ʑ u + s ú m + ɲ í + d ʑ u + s ú m	2 10 3	decimal
+24	Lamjung_Yolmo	twenty four	khál tɕíi ʑì	k h á l + t ɕ í i + ʑ ì	twenty one four	k h á l + t ɕ í i + ʑ ì + k h á l + t ɕ í i + ʑ ì + k h á l + t ɕ í i + ʑ ì	11 1 4	vigesimal
+45	Lamjung_Yolmo	twenty four	ɲídʑu ʑì	ɲ í -/i + d/t ʑ/ɕ u/ú + ʑ ì	two ten four	ɲ í + d ʑ u + ʑ ì + ɲ í + d ʑ u + ʑ ì + ɲ í + d ʑ u + ʑ ì	2 10 4	decimal
+25	Lamjung_Yolmo	twenty five	khál tɕíi ŋá	k h á l + t ɕ í i + ŋ á	twenty one five	k h á l + t ɕ í i + ŋ á + k h á l + t ɕ í i + ŋ á + k h á l + t ɕ í i + ŋ á	11 1 5	vigesimal
+46	Lamjung_Yolmo	twenty five	ɲídʑu ŋá	ɲ í -/i + d/t ʑ/ɕ u/ú + ŋ á	two ten five	ɲ í + d ʑ u + ŋ á + ɲ í + d ʑ u + ŋ á + ɲ í + d ʑ u + ŋ á	2 10 5	decimal
+26	Lamjung_Yolmo	twenty six	khál tɕíi ʈúu	k h á l + t ɕ í i + ʈ ú/ù u	twenty one six	k h á l + t ɕ í i + ʈ ú u + k h á l + t ɕ í i + ʈ ú u + k h á l + t ɕ í i + ʈ ú u	11 1 6	vigesimal
+47	Lamjung_Yolmo	twenty six	ɲídʑu ʈùu	ɲ í -/i + d/t ʑ/ɕ u/ú + ʈ ù u	two ten six	ɲ í + d ʑ u + ʈ ù u + ɲ í + d ʑ u + ʈ ù u + ɲ í + d ʑ u + ʈ ù u	2 10 6	decimal
+27	Lamjung_Yolmo	twenty seven	kál tɕíi tìn	k -/h á l + t ɕ í i + t ì n	twenty one seven	k á l + t ɕ í i + t ì n + k á l + t ɕ í i + t ì n + k á l + t ɕ í i + t ì n	11 1 7	vigesimal. possible typo in source
+48	Lamjung_Yolmo	twenty seven	ɲídʑu tìn	ɲ í -/i + d/t ʑ/ɕ u/ú + t ì n	two ten seven	ɲ í + d ʑ u + t ì n + ɲ í + d ʑ u + t ì n + ɲ í + d ʑ u + t ì n	2 10 7	decimal
+28	Lamjung_Yolmo	twenty eight	khál tɕíi kyèe	k h á l + t ɕ í i + k y è e	twenty one eight	k h á l + t ɕ í i + k y è e + k h á l + t ɕ í i + k y è e + k h á l + t ɕ í i + k y è e	11 1 8	vigesimal
+49	Lamjung_Yolmo	twenty eight	ɲídʑu kyèe	ɲ í -/i + d/t ʑ/ɕ u/ú + k y è e	two ten eight	ɲ í + d ʑ u + k y è e + ɲ í + d ʑ u + k y è e + ɲ í + d ʑ u + k y è e	2 10 8	decimal
+29	Lamjung_Yolmo	twenty nine	khál tɕíi kù	k h á l + t ɕ í i + k ù	twenty one nine	k h á l + t ɕ í i + k ù + k h á l + t ɕ í i + k ù + k h á l + t ɕ í i + k ù	11 1 9	vigesimal
+50	Lamjung_Yolmo	twenty nine	ɲídʑu kù	ɲ í -/i + d/t ʑ/ɕ u/ú + k ù	two ten nine	ɲ í + d ʑ u + k ù + ɲ í + d ʑ u + k ù + ɲ í + d ʑ u + k ù	2 10 9	decimal
+30	Lamjung_Yolmo	thirty	khál tɕíi tɕú	k h á l + t ɕ í i + t ɕ ú	twenty one ten	k h á l + t ɕ í i + t ɕ ú + k h á l + t ɕ í i + t ɕ ú + k h á l + t ɕ í i + t ɕ ú	11 1 10	vigesimal
+51	Lamjung_Yolmo	thirty	súmdʑu 	s ú m + d/t ʑ/ɕ u/ú	three ten	s ú m + d ʑ u + s ú m + d ʑ u	3 10	decimal
+31	Lamjung_Yolmo	thirty one	kháldʑi tɕídʑi	k h á l + d/t ʑ/ɕ -/í i + t ɕ í/ú + d/t ʑ/ɕ -/í i	twenty one ten one	k h á l + d ʑ i + t ɕ í + d ʑ i + k h á l + d ʑ i + t ɕ í + d ʑ i + k h á l + d ʑ i + t ɕ í + d ʑ i + k h á l + d ʑ i + t ɕ í + d ʑ i	11 1 10 1	vigesimal
+52	Lamjung_Yolmo	thirty one	súmdʑu tɕíi	s ú m + d/t ʑ/ɕ u/ú + t ɕ í i	three ten one	s ú m + d ʑ u + t ɕ í i + s ú m + d ʑ u + t ɕ í i + s ú m + d ʑ u + t ɕ í i	3 10 1	decimal
+32	Lamjung_Yolmo	thirty two	kháldʑi tɕíɲi	k h á l + d/t ʑ/ɕ -/í i + t ɕ í/ú + ɲ -/í i	twenty one ten two	k h á l + d ʑ i + t ɕ í + ɲ i + k h á l + d ʑ i + t ɕ í + ɲ i + k h á l + d ʑ i + t ɕ í + ɲ i + k h á l + d ʑ i + t ɕ í + ɲ i	11 1 10 2	vigesimal
+53	Lamjung_Yolmo	thirty two	súmdʑu ɲíi	s ú m + d/t ʑ/ɕ u/ú + ɲ í i	three ten two	s ú m + d ʑ u + ɲ í i + s ú m + d ʑ u + ɲ í i + s ú m + d ʑ u + ɲ í i	3 10 2	decimal
+33	Lamjung_Yolmo	thirty three	kháldʑi tɕúpsum	k h á l + d/t ʑ/ɕ -/í i + t ɕ ú p/- + s u/ú m	twenty one ten three	k h á l + d ʑ i + t ɕ ú p + s u m + k h á l + d ʑ i + t ɕ ú p + s u m + k h á l + d ʑ i + t ɕ ú p + s u m + k h á l + d ʑ i + t ɕ ú p + s u m	11 1 10 3	vigesimal
+54	Lamjung_Yolmo	thirty three	súmdʑu súm	s ú m + d/t ʑ/ɕ u/ú + s ú m	three ten three	s ú m + d ʑ u + s ú m + s ú m + d ʑ u + s ú m + s ú m + d ʑ u + s ú m	3 10 3	decimal
+34	Lamjung_Yolmo	thirty four	kháldʑi tɕúpɕi	k h á l + d/t ʑ/ɕ -/í i + t ɕ ú p/- + ɕ/ʑ i/ì	twenty one ten four	k h á l + d ʑ i + t ɕ ú p + ɕ i + k h á l + d ʑ i + t ɕ ú p + ɕ i + k h á l + d ʑ i + t ɕ ú p + ɕ i + k h á l + d ʑ i + t ɕ ú p + ɕ i	11 1 10 4	vigesimal
+55	Lamjung_Yolmo	thirty four	súmdʑu ʑì	s ú m + d/t ʑ/ɕ u/ú + ʑ ì	three ten four	s ú m + d ʑ u + ʑ ì + s ú m + d ʑ u + ʑ ì + s ú m + d ʑ u + ʑ ì	3 10 4	decimal
+35	Lamjung_Yolmo	thirty five	kháldʑi tɕéeŋa	k h á l + d/t ʑ/ɕ -/í i + t ɕ é/ú e/- + ŋ a/á	twenty one ten five	k h á l + d ʑ i + t ɕ é e + ŋ a + k h á l + d ʑ i + t ɕ é e + ŋ a + k h á l + d ʑ i + t ɕ é e + ŋ a + k h á l + d ʑ i + t ɕ é e + ŋ a	11 1 10 5	vigesimal
+56	Lamjung_Yolmo	thirty five	súmdʑu ŋá	s ú m + d/t ʑ/ɕ u/ú + ŋ á	three ten five	s ú m + d ʑ u + ŋ á + s ú m + d ʑ u + ŋ á + s ú m + d ʑ u + ŋ á	3 10 5	decimal
+36	Lamjung_Yolmo	thirty six	kháldʑi tɕíiru	k h á l + d/t ʑ/ɕ -/í i + t ɕ í/ú i/- + r/ʈ -/ù u	twenty one ten six	k h á l + d ʑ i + t ɕ í i + r u + k h á l + d ʑ i + t ɕ í i + r u + k h á l + d ʑ i + t ɕ í i + r u + k h á l + d ʑ i + t ɕ í i + r u	11 1 10 6	vigesimal
+57	Lamjung_Yolmo	thirty six	súmdʑu ʈùu	s ú m + d/t ʑ/ɕ u/ú + ʈ ù u	three ten six	s ú m + d ʑ u + ʈ ù u + s ú m + d ʑ u + ʈ ù u + s ú m + d ʑ u + ʈ ù u	3 10 6	decimal
+37	Lamjung_Yolmo	thirty seven	kháldʑi tɕúptin	k h á l + d/t ʑ/ɕ -/í i + t ɕ ú p/- + t i/ì n	twenty one ten seven	k h á l + d ʑ i + t ɕ ú p + t i n + k h á l + d ʑ i + t ɕ ú p + t i n + k h á l + d ʑ i + t ɕ ú p + t i n + k h á l + d ʑ i + t ɕ ú p + t i n	11 1 10 7	vigesimal
+58	Lamjung_Yolmo	thirty seven	súmdʑu tìn	s ú m + d/t ʑ/ɕ u/ú + t ì n	three ten seven	s ú m + d ʑ u + t ì n + s ú m + d ʑ u + t ì n + s ú m + d ʑ u + t ì n	3 10 7	decimal
+38	Lamjung_Yolmo	thirty eight	kháldʑi tɕápkye	k h á l + d/t ʑ/ɕ -/í i + t ɕ á/ú p/- + k y -/è e	twenty one ten eight	k h á l + d ʑ i + t ɕ á p + k y e + k h á l + d ʑ i + t ɕ á p + k y e + k h á l + d ʑ i + t ɕ á p + k y e + k h á l + d ʑ i + t ɕ á p + k y e	11 1 10 8	vigesimal
+59	Lamjung_Yolmo	thirty eight	súmdʑu kyèe	s ú m + d/t ʑ/ɕ u/ú + k y è e	three ten eight	s ú m + d ʑ u + k y è e + s ú m + d ʑ u + k y è e + s ú m + d ʑ u + k y è e	3 10 8	decimal
+39	Lamjung_Yolmo	thirty nine	kháldʑi tɕúrku	k h á l + d/t ʑ/ɕ -/í i + t ɕ ú r/- + k u/ù	twenty one ten nine	k h á l + d ʑ i + t ɕ ú r + k u + k h á l + d ʑ i + t ɕ ú r + k u + k h á l + d ʑ i + t ɕ ú r + k u + k h á l + d ʑ i + t ɕ ú r + k u	11 1 10 19	vigesimal
+60	Lamjung_Yolmo	thirty nine	súmdʑu kù	s ú m + d/t ʑ/ɕ u/ú + k ù	three ten nine	s ú m + d ʑ u + k ù + s ú m + d ʑ u + k ù + s ú m + d ʑ u + k ù	3 10 9	decimal
+40	Lamjung_Yolmo	forty	khál ɲíi	k h á l + ɲ í i	twenty two	k h á l + ɲ í i + k h á l + ɲ í i	11 2	vigesimal
+61	Lamjung_Yolmo	forty	ɕíptɕu	ɕ/ʑ í/ì p/- + t ɕ u/ú	four ten	ɕ í p + t ɕ u + ɕ í p + t ɕ u	4 10	decimal
