@@ -45,10 +45,14 @@ class Dataset(pylexibank.Dataset):
         for file in sorted(self.raw_dir.glob("done/*.tsv")):
             table = self.raw_dir.read_csv(file, delimiter="\t", dicts=True)
 
-            try:
+            if args.dev:
+                # only log problems in dev mode; don't raise exceptions
                 validate_language(table, sources[table[0]["DOCULECT"]], log=args.log)
-            except ValueError as e:
-                args.log.error(str(e)+ " Skipping language...")
+            else:
+                try:
+                    validate_language(table, sources[table[0]["DOCULECT"]])
+                except ValueError as e:
+                    args.log.error(str(e)+ " Skipping language...")
 
             for data in pylexibank.progressbar(table):
                 try:
