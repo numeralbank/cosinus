@@ -38,25 +38,4 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	COGIDS	NOTE
 37	Mandarin	thirty seven	sān shí qī	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	three ten seven	3 1 2009	
 38	Mandarin	thirty eight	sān shí bā	s a n ⁵⁵ + ʂ ʅ ³⁵ + p a ⁵⁵	three ten eight	3 1 2007	
 39	Mandarin	thirty nine	sān shí jiǔ	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	three ten nine	3 1 2008	
-40	Mandarin	forty	sì shí	s ɿ ⁵¹ + ʂ ʅ ³⁵	four ten	4 1	
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@css=menu:show|database:hide
-#@basics=COGIDS|CONCEPT|DOCULECT|MORPHEMES|NOTE|TOKENS
-#@_selected_doculects=Mandarin
-#@_selected_concepts=three|thirteen|twenty three|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine
-#@sorted_taxa=Mandarin
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@display=filedisplay|glosses
-#@missing_marker=Ø
-#@separator=
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTE
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=mand1415.tsv
-#@navbar=true
-#@_morphology_mode=full
+40	Mandarin	forty	sì shí	s ɿ ⁵¹ + ʂ ʅ ³⁵	four ten	4 1
