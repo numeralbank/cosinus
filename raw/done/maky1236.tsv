@@ -1,62 +1,41 @@
-ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE
-1	Makyam (Khalai)	one	kʰuat⁴⁴	kʰ ua t ⁴⁴	one	kʰ ua t ⁴⁴	1	@mastersthesis{sawu2016descriptive, title={Descriptive Phonology of Makyam Naga}, author={{Naw Sawu}}, school = {Payap University}, address={Chiang Mai}, note={Retrieved from https://inter. payap. ac. th/international-graduate/linguistics-ma/graduatestheses}, year={2016}}
-2	Makyam (Khalai)	two	nat⁴⁴	n a t ⁴⁴	two	n a t ⁴⁴	2	
-3	Makyam (Khalai)	three	θam³³	θ a m ³³	three	θ a m ³³	3	
-4	Makyam (Khalai)	four	pʰə³¹ li³³	pʰ ə ³¹ + l i ³³	PFX1 four	pʰ ə ³¹ + l i ³³	50 4	
-5	Makyam (Khalai)	five	pʰə³¹ ŋa³³	pʰ ə ³¹ + ŋ a ³³	PFX1 five	pʰ ə ³¹ + ŋ a ³³	50 5	
-6	Makyam (Khalai)	six	kʰə³¹ zɔk³¹	kʰ ə ³¹ + z ɔ k ³¹	PFX2 six	kʰ ə ³¹ + z ɔ k ³¹	51 6	
-7	Makyam (Khalai)	seven	kʰə³¹ ɲɛk³³	kʰ ə ³¹ + ɲ ɛ k ³³	PFX2 seven	kʰ ə ³¹ + ɲ ɛ k ³³	51 7	
-8	Makyam (Khalai)	eight	tʰə³¹ wat³³	tʰ ə ³¹ + w a t ³³	PFX3 eight	tʰ ə ³¹ + w a t ³³	52 8	
-9	Makyam (Khalai)	nine	kʰuan⁴⁴ pɔŋ³¹	kʰ ua n ⁴⁴ + p ɔ ŋ ³¹	PFX4 nine	kʰ ua n ⁴⁴ + p ɔ ŋ ³¹	53 9	
-10	Makyam (Khalai)	ten	sap⁵²	s a p ⁵²	ten	s a p ⁵²	10	
-11	Makyam (Khalai)	eleven	sap⁴⁴ kə⁴⁴ kʰuat⁵²	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ua t ⁵²	ten and one	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ua t ⁵²	10 54 1	
-12	Makyam (Khalai)	twelve	sap⁴⁴ kə⁴⁴ nat⁵²	s a p ⁴⁴ + k ə ⁴⁴ + n a t ⁵²	ten and two	s a p ⁴⁴ + k ə ⁴⁴ + n a t ⁵²	10 54 2	
-13	Makyam (Khalai)	thirteen	sap⁴⁴ kə⁴⁴ θam³³	s a p ⁴⁴ + k ə ⁴⁴ + θ a m ³³	ten and three	s a p ⁴⁴ + k ə ⁴⁴ + θ a m ³³	10 54 3	
-14	Makyam (Khalai)	fourteen	sap⁴⁴ kə⁴⁴ pʰəli³³	s a p ⁴⁴ + k ə ⁴⁴ + pʰ ə + l i ³³	ten and PFX1 four	s a p ⁴⁴ + k ə ⁴⁴ + pʰ ə + l i ³³	10 54 50 4	
-15	Makyam (Khalai)	fifteen	sap⁴⁴ kə⁴⁴ pʰə³¹ ŋa³³	s a p ⁴⁴ + k ə ⁴⁴ + pʰ ə ³¹ + ŋ a ³³	ten and PFX1 five	s a p ⁴⁴ + k ə ⁴⁴ + pʰ ə ³¹ + ŋ a ³³	10 54 50 5	
-16	Makyam (Khalai)	sixteen	sap⁴⁴ kə⁴⁴ kʰə³¹ zɔk³¹	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ə ³¹ + z ɔ k ³¹	ten and PFX2 six	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ə ³¹ + z ɔ k ³¹	10 54 51 6	
-17	Makyam (Khalai)	seventeen	sap⁴⁴ kə⁴⁴ kʰə³¹ ɲɛk³¹	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹	ten and PFX2 seven	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹	10 54 51 7	
-18	Makyam (Khalai)	eighteen	sap⁴⁴ kə⁴⁴ tʰə³¹ wat³¹	s a p ⁴⁴ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹	ten and PFX3 eight	s a p ⁴⁴ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹	10 54 52 8	
-19	Makyam (Khalai)	nineteen	kʰy³³ man⁴⁴ kʰuan⁴⁴ pɔŋ³¹	kʰ y ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴ + p ɔ ŋ ³¹	twenty minus PFX4 nine	kʰ y ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴ + p ɔ ŋ ³¹	20 53 53 9	twenty minus
-20	Makyam (Khalai)	twenty	kʰy³³	kʰ y ³³	twenty	kʰ y ³³	20	
-21	Makyam (Khalai)	twenty one	kʰy³³ kə⁴⁴ kʰuat⁵²	kʰ y ³³ + k ə ⁴⁴ + kʰ ua t ⁵²	twenty and one	kʰ y ³³ + k ə ⁴⁴ + kʰ ua t ⁵²	20 54 1	
-22	Makyam (Khalai)	twenty two	khy³³ kə⁴⁴ nat⁵²	k h y ³³ + k ə ⁴⁴ + n a t ⁵²	twenty and two	k h y ³³ + k ə ⁴⁴ + n a t ⁵²	20 54 2	
-23	Makyam (Khalai)	twenty three	kʰy³³ kə⁴⁴ θam³³	kʰ y ³³ + k ə ⁴⁴ + θ a m ³³	twenty and three	kʰ y ³³ + k ə ⁴⁴ + θ a m ³³	20 54 3	
-24	Makyam (Khalai)	twenty four	kʰy³³ kə⁴⁴ pʰali³³	kʰ y ³³ + k ə ⁴⁴ + pʰ a + l i ³³	twenty and PFX1 four	kʰ y ³³ + k ə ⁴⁴ + pʰ a + l i ³³	20 54 50 4	
-25	Makyam (Khalai)	twenty five	kʰy³³ kə⁴⁴ pʰəŋa³³	kʰ y ³³ + k ə ⁴⁴ + pʰ ə + ŋ a ³³	twenty and PFX1 five	kʰ y ³³ + k ə ⁴⁴ + pʰ ə + ŋ a ³³	20 54 50 5	
-26	Makyam (Khalai)	twenty six	kʰy³³ kə⁴⁴ kʰə³¹ ʒok³¹	kʰ y ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ʒ o k ³¹	twenty and PFX2 six	kʰ y ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ʒ o k ³¹	20 54 51 6	
-27	Makyam (Khalai)	twenty seven	kʰy³³ kə⁴⁴ kʰə³¹ ɲɛk³¹	kʰ y ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹	twenty and PFX2 seven	kʰ y ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹	20 54 51 7	
-28	Makyam (Khalai)	twenty eight	kʰy³³ kə⁴⁴ tʰə³¹ wat³¹	kʰ y ³³ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹	twenty and PFX3 eight	kʰ y ³³ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹	20 54 52 8	
-29	Makyam (Khalai)	twenty nine	ly³³ θam³³ man⁴⁴ kʰuan⁴⁴	l y ³³ + θ a m ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴	tens three minus one	l y ³³ + θ a m ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴	55 3 53 1	thirty minus
-30	Makyam (Khalai)	thirty	ly³³ θam³³	l y ³³ + θ a m ³³	tens three	l y ³³ + θ a m ³³	55 3	
-31	Makyam (Khalai)	thirty one	ly³³ θam³³ kə⁴⁴ kʰuat⁵²	l y ³³ + θ a m ³³ + k ə ⁴⁴ + kʰ ua t ⁵²	tens three and one	l y ³³ + θ a m ³³ + k ə ⁴⁴ + kʰ ua t ⁵²	55 3 54 1	
-32	Makyam (Khalai)	thirty two	ly³³ θam³³ kə⁴⁴ nat⁵²	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + n a t ⁵²	tens three and two	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + n a t ⁵²	55 3 54 2	
-33	Makyam (Khalai)	thirty three	ly³³ θam³³ kə⁴⁴ θam³³	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + θ a m ³³	tens three and three	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + θ a m ³³	55 3 54 3	
-34	Makyam (Khalai)	thirty four	ly³³ θam³³ kə⁴⁴ pʰali³³	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + pʰ ə + l i ³³	tens three and PFX1 four	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + pʰ ə + l i ³³	55 3 54 50 4	
-35	Makyam (Khalai)	thirty five	ly³³ θam³³ kə⁴⁴ pʰəŋa³³	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + pʰ ə + ŋ a ³³	tens three and PFX1 five	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + pʰ ə + ŋ a ³³	55 3 54 50 5	
-36	Makyam (Khalai)	thirty six	ly³³ θam³³ kə⁴⁴ kʰə³¹ ʒok³¹	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + kʰ ə ³¹ + ʒ o k ³¹	tens three and PFX2 six	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + kʰ ə ³¹ + ʒ o k ³¹	55 3 54 51 6	
-37	Makyam (Khalai)	thirty seven	ly³³ θam³³ kə⁴⁴ kʰə³¹ ɲɛk³¹	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + kʰ ə ³¹ + ɲ ɛ k ³¹	tens three and PFX2 seven	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + kʰ ə ³¹ + ɲ ɛ k ³¹	55 3 54 51 7	
-38	Makyam (Khalai)	thirty eight	ly³³ θam³³ kə⁴⁴ tʰə³¹ wat³¹	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + tʰ ə ³¹ + w a t ³¹	tens three and PFX3 eight	l y ³³ + θ a m ³³ + k ə ⁴⁴ + + tʰ ə ³¹ + w a t ³¹	55 3 54 52 8	
-39	Makyam (Khalai)	thirty nine	ly³³ pʰə³³ li³³ man⁴⁴ kʰuan⁴⁴	l y ³³ + pʰ ə ³³ + l i ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴	tens PFX1 four minus one	l y ³³ + pʰ ə ³³ + l i ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴	55 3 54 53 9	
-40	Makyam (Khalai)	forty	ly³³ pʰə³³ li³³	l y ³³ + pʰ ə ³³ + l i ³³	tens PFX1 four	l y ³³ + pʰ ə ³³ + l i ³³	55 50 4	
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@css=menu:show|database:hide
-#@basics=DOCULECT|GLOSS|CONCEPT|IPA|TOKENS|COGID|TAXON|TAXA|PROTO|PROTO_TOKENS|ETYMONID|CHINESE|CONCEPTLIST|ORTHOGRAPHY|WORD|TRANSCRIPTION|SEGMENTS|PARTIALIDS|NOTE
-#@_selected_doculects=Makyam (Khalai)
-#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@sorted_taxa=Makyam (Khalai)
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@display=filedisplay
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTE
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=data for Christoph - maky1236(1).tsv
-#@navbar=true
-#@_morphology_mode=full
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
+1	Makyam_Khalai	one	kʰuat⁴⁴	kʰ ua t ⁴⁴	one	kʰ ua t ⁴⁴	1	""	Makyam
+2	Makyam_Khalai	two	nat⁴⁴	n a t ⁴⁴	two	n a t ⁴⁴	2		Makyam
+3	Makyam_Khalai	three	θam³³	θ a m ³³	three	θ a m ³³	3		Makyam
+4	Makyam_Khalai	four	pʰə³¹ li³³	pʰ ə ³¹ + l i ³³	PFX1 four	pʰ ə ³¹ + l i ³³	50 4		Makyam
+5	Makyam_Khalai	five	pʰə³¹ ŋa³³	pʰ ə ³¹ + ŋ a ³³	PFX1 five	pʰ ə ³¹ + ŋ a ³³	50 5		Makyam
+6	Makyam_Khalai	six	kʰə³¹ zɔk³¹	kʰ ə ³¹ + z ɔ k ³¹	PFX2 six	kʰ ə ³¹ + z ɔ k ³¹	51 6		Makyam
+7	Makyam_Khalai	seven	kʰə³¹ ɲɛk³³	kʰ ə ³¹ + ɲ ɛ k ³³	PFX2 seven	kʰ ə ³¹ + ɲ ɛ k ³³	51 7		Makyam
+8	Makyam_Khalai	eight	tʰə³¹ wat³³	tʰ ə ³¹ + w a t ³³	PFX3 eight	tʰ ə ³¹ + w a t ³³	52 8		Makyam
+9	Makyam_Khalai	nine	kʰuan⁴⁴ pɔŋ³¹	kʰ ua n ⁴⁴ + p ɔ ŋ ³¹	PFX4 nine	kʰ ua n ⁴⁴ + p ɔ ŋ ³¹	99 9		Makyam
+10	Makyam_Khalai	ten	sap⁵²	s a p ⁵²/⁴⁴	ten	s a p ⁵²	10		Makyam
+11	Makyam_Khalai	eleven	sap⁴⁴ kə⁴⁴ kʰuat⁵²	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ua t ⁵²/⁴⁴	ten and one	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ua t ⁵²	10 54 1		Makyam
+12	Makyam_Khalai	twelve	sap⁴⁴ kə⁴⁴ nat⁵²	s a p ⁴⁴ + k ə ⁴⁴ + n a t ⁵²/⁴⁴	ten and two	s a p ⁴⁴ + k ə ⁴⁴ + n a t ⁵²	10 54 2		Makyam
+13	Makyam_Khalai	thirteen	sap⁴⁴ kə⁴⁴ θam³³	s a p ⁴⁴ + k ə ⁴⁴ + θ a m ³³	ten and three	s a p ⁴⁴ + k ə ⁴⁴ + θ a m ³³	10 54 3		Makyam
+14	Makyam_Khalai	fourteen	sap⁴⁴ kə⁴⁴ pʰəli³³	s a p ⁴⁴ + k ə ⁴⁴ + pʰ ə -/³¹ + l i ³³	ten and PFX1 four	s a p ⁴⁴ + k ə ⁴⁴ + pʰ ə + l i ³³	10 54 50 4		Makyam
+15	Makyam_Khalai	fifteen	sap⁴⁴ kə⁴⁴ pʰə³¹ ŋa³³	s a p ⁴⁴ + k ə ⁴⁴ + pʰ ə ³¹ + ŋ a ³³	ten and PFX1 five	s a p ⁴⁴ + k ə ⁴⁴ + pʰ ə ³¹ + ŋ a ³³	10 54 50 5		Makyam
+16	Makyam_Khalai	sixteen	sap⁴⁴ kə⁴⁴ kʰə³¹ zɔk³¹	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ə ³¹ + z ɔ k ³¹	ten and PFX2 six	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ə ³¹ + z ɔ k ³¹	10 54 51 6		Makyam
+17	Makyam_Khalai	seventeen	sap⁴⁴ kə⁴⁴ kʰə³¹ ɲɛk³¹	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹/³³	ten and PFX2 seven	s a p ⁴⁴ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹	10 54 51 7		Makyam
+18	Makyam_Khalai	eighteen	sap⁴⁴ kə⁴⁴ tʰə³¹ wat³¹	s a p ⁴⁴ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹/³³	ten and PFX3 eight	s a p ⁴⁴ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹	10 54 52 8		Makyam
+19	Makyam_Khalai	nineteen	kʰy³³ man⁴⁴ kʰuan⁴⁴ pɔŋ³¹	kʰ y ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴ + p ɔ ŋ ³¹	twenty minus PFX4 nine	kʰ y ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴ + p ɔ ŋ ³¹	20 53 99 9	twenty minus	Makyam
+20	Makyam_Khalai	twenty	kʰy³³	kʰ y ³³	twenty	kʰ y ³³	20		Makyam
+21	Makyam_Khalai	twenty one	kʰy³³ kə⁴⁴ kʰuat⁵²	kʰ y ³³ + k ə ⁴⁴ + kʰ ua t ⁵²/⁴⁴	twenty and one	kʰ y ³³ + k ə ⁴⁴ + kʰ ua t ⁵²	20 54 1		Makyam
+22	Makyam_Khalai	twenty two	kʰy³³ kə⁴⁴ nat⁵²	kʰ y ³³ + k ə ⁴⁴ + n a t ⁵²/⁴⁴	twenty and two	k h y ³³ + k ə ⁴⁴ + n a t ⁵²	20 54 2		Makyam
+23	Makyam_Khalai	twenty three	kʰy³³ kə⁴⁴ θam³³	kʰ y ³³ + k ə ⁴⁴ + θ a m ³³	twenty and three	kʰ y ³³ + k ə ⁴⁴ + θ a m ³³	20 54 3		Makyam
+24	Makyam_Khalai	twenty four	kʰy³³ kə⁴⁴ pʰali³³	kʰ y ³³ + k ə ⁴⁴ + pʰ a/ə -/³¹ + l i ³³	twenty and PFX1 four	kʰ y ³³ + k ə ⁴⁴ + pʰ a + l i ³³	20 54 50 4		Makyam
+25	Makyam_Khalai	twenty five	kʰy³³ kə⁴⁴ pʰəŋa³³	kʰ y ³³ + k ə ⁴⁴ + pʰ ə -/³¹ + ŋ a ³³	twenty and PFX1 five	kʰ y ³³ + k ə ⁴⁴ + pʰ ə + ŋ a ³³	20 54 50 5		Makyam
+26	Makyam_Khalai	twenty six	kʰy³³ kə⁴⁴ kʰə³¹ ʒok³¹	kʰ y ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ʒ/z o/ɔ k ³¹	twenty and PFX2 six	kʰ y ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ʒ o k ³¹	20 54 51 6		Makyam
+27	Makyam_Khalai	twenty seven	kʰy³³ kə⁴⁴ kʰə³¹ ɲɛk³¹	kʰ y ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹/³³	twenty and PFX2 seven	kʰ y ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹	20 54 51 7		Makyam
+28	Makyam_Khalai	twenty eight	kʰy³³ kə⁴⁴ tʰə³¹ wat³¹	kʰ y ³³ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹/³³	twenty and PFX3 eight	kʰ y ³³ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹	20 54 52 8		Makyam
+29	Makyam_Khalai	twenty nine	ly³³ θam³³ man⁴⁴ kʰuan⁴⁴	l y ³³ + θ a m ³³ + m a n ⁴⁴ + kʰ ua n/t ⁴⁴	tens three minus one	l y ³³ + θ a m ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴	55 3 53 1	thirty minus	Makyam
+30	Makyam_Khalai	thirty	ly³³ θam³³	l y ³³ + θ a m ³³	tens three	l y ³³ + θ a m ³³	55 3		Makyam
+31	Makyam_Khalai	thirty one	ly³³ θam³³ kə⁴⁴ kʰuat⁵²	l y ³³ + θ a m ³³ + k ə ⁴⁴ + kʰ ua t ⁵²/⁴⁴	tens three and one	l y ³³ + θ a m ³³ + k ə ⁴⁴ + kʰ ua t ⁵²	55 3 54 1		Makyam
+32	Makyam_Khalai	thirty two	ly³³ θam³³ kə⁴⁴ nat⁵²	l y ³³ + θ a m ³³ + k ə ⁴⁴ + n a t ⁵²/⁴⁴	tens three and two	l y ³³ + θ a m ³³ + k ə ⁴⁴ + n a t ⁵²	55 3 54 2		Makyam
+33	Makyam_Khalai	thirty three	ly³³ θam³³ kə⁴⁴ θam³³	l y ³³ + θ a m ³³ + k ə ⁴⁴ + θ a m ³³	tens three and three	l y ³³ + θ a m ³³ + k ə ⁴⁴ + θ a m ³³	55 3 54 3		Makyam
+34	Makyam_Khalai	thirty four	ly³³ θam³³ kə⁴⁴ pʰali³³	l y ³³ + θ a m ³³ + k ə ⁴⁴ + pʰ ə -/³¹ + l i ³³	tens three and PFX1 four	l y ³³ + θ a m ³³ + k ə ⁴⁴ + pʰ ə + l i ³³	55 3 54 50 4		Makyam
+35	Makyam_Khalai	thirty five	ly³³ θam³³ kə⁴⁴ pʰəŋa³³	l y ³³ + θ a m ³³ + k ə ⁴⁴ + pʰ ə -/³¹ + ŋ a ³³	tens three and PFX1 five	l y ³³ + θ a m ³³ + k ə ⁴⁴ + pʰ ə + ŋ a ³³	55 3 54 50 5		Makyam
+36	Makyam_Khalai	thirty six	ly³³ θam³³ kə⁴⁴ kʰə³¹ ʒok³¹	l y ³³ + θ a m ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ʒ/z o/ɔ k ³¹	tens three and PFX2 six	l y ³³ + θ a m ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ʒ o k ³¹	55 3 54 51 6		Makyam
+37	Makyam_Khalai	thirty seven	ly³³ θam³³ kə⁴⁴ kʰə³¹ ɲɛk³¹	l y ³³ + θ a m ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹/³³	tens three and PFX2 seven	l y ³³ + θ a m ³³ + k ə ⁴⁴ + kʰ ə ³¹ + ɲ ɛ k ³¹	55 3 54 51 7		Makyam
+38	Makyam_Khalai	thirty eight	ly³³ θam³³ kə⁴⁴ tʰə³¹ wat³¹	l y ³³ + θ a m ³³ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹/³³	tens three and PFX3 eight	l y ³³ + θ a m ³³ + k ə ⁴⁴ + tʰ ə ³¹ + w a t ³¹	55 3 54 52 8		Makyam
+39	Makyam_Khalai	thirty nine	ly³³ pʰə³³ li³³ man⁴⁴ kʰuan⁴⁴	l y ³³ + pʰ ə ³³/³¹ + l i ³³ + m a n ⁴⁴ + kʰ ua n/t ⁴⁴	tens PFX1 four minus one	l y ³³ + pʰ ə ³³ + l i ³³ + m a n ⁴⁴ + kʰ ua n ⁴⁴	55 50 4 53 1		Makyam
+40	Makyam_Khalai	forty	ly³³ pʰə³³ li³³	l y ³³ + pʰ ə ³³/³¹ + l i ³³	tens PFX1 four	l y ³³ + pʰ ə ³³ + l i ³³	55 50 4		Makyam
