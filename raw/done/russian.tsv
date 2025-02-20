@@ -7,7 +7,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES
 6	Russian	six	шесть	ʃʲestʲ	ʃʲ e s tʲ	8	six
 7	Russian	seven	семь	sʲemʲ	sʲ e mʲ	10	seven
 8	Russian	eight	восемь	vosʲemʲ	v o sʲ e mʲ	11	eight
-9	Russian	nine	девять	dʲevʲatʲ	dʲ e vʲ a tʲ	7	five
+9	Russian	nine	девять	dʲevʲatʲ	dʲ e vʲ a tʲ	19	nine
 10	Russian	ten	десять	dʲesʲatʲ	dʲ e sʲ a tʲ	2	ten
 11	Russian	eleven	одиннадцать	odinnadtsatʲ	o dʲ i n + n a + d/dʲ -/e ts/sʲ a tʲ	9 3 2	one on ten
 12	Russian	twelve	двенадцать	dvʲenadtsatʲ	d vʲ/v e/a + n a + d/dʲ -/e ts/sʲ a tʲ	4 3 2	two on ten
@@ -15,9 +15,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES
 14	Russian	fourteen	четырнадцать	tʃʲetɨrnadtsatʲ	tʃʲ e t ɨ r/rʲ -/e + n a + d/dʲ -/e ts/sʲ a tʲ	13 3 2	four on ten
 15	Russian	fifteen	пятнадцать	pʲatʲnadtsatʲ	pʲ a tʲ + n a + d/dʲ -/e ts/sʲ a tʲ	7 3 2	five on ten
 16	Russian	sixteen	шестьнадцать	ʃʲestʲnadtsatʲ	ʃʲ e s tʲ + n a + d/dʲ -/e ts/sʲ a tʲ	8 3 2	six on ten
-17	Russian	seventeen	семьнадцать	sʲemnadtsatʲ	sʲ e m + n a + d/dʲ -/e ts/sʲ a tʲ	 3 2	 on ten
+17	Russian	seventeen	семьнадцать	sʲemnadtsatʲ	sʲ e m/mʲ + n a + d/dʲ -/e ts/sʲ a tʲ	10 3 2	seven on ten
 18	Russian	eighteen	восемьнадцать	vosʲemnadtsatʲ	v o sʲ e m/mʲ + n a + d/dʲ -/e ts/sʲ a tʲ	11 3 2	eight on ten
-19	Russian	nineteen	девятьнадцать	dʲevʲatʲnadtsatʲ	dʲ e vʲ a tʲ + n a + d/dʲ -/e ts/sʲ a tʲ	7 3 2	five on ten
+19	Russian	nineteen	девятьнадцать	dʲevʲatʲnadtsatʲ	dʲ e vʲ a tʲ + n a + d/dʲ -/e ts/sʲ a tʲ	19 3 2	nine on ten
 20	Russian	twenty	двадцать	dvadtsatʲ	d v a + d/dʲ -/e ts/sʲ a tʲ	4 2	two ten
 21	Russian	twenty one	двадцать один	dvadtsatʲ+odʲin	d v a + d/dʲ -/e ts/sʲ a tʲ + o dʲ i n	4 2 9	two ten one
 22	Russian	twenty two	двадцать два	dvadtsatʲ+dva	d v a + d/dʲ -/e ts/sʲ a tʲ + d v a	4 2 4	two ten two
@@ -27,7 +27,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES
 26	Russian	twenty six	двадцать шесть	dvadtsatʲ+ʃʲestʲ	d v a + d/dʲ -/e ts/sʲ a tʲ + ʃʲ e s tʲ	4 2 8	two ten six
 27	Russian	twenty seven	двадцать семь	dvadtsatʲ+sʲemʲ	d v a + d/dʲ -/e ts/sʲ a tʲ + sʲ e mʲ	4 2 10	two ten seven
 28	Russian	twenty eight	двадцать восемь	dvadtsatʲ+vosʲemʲ	d v a + d/dʲ -/e ts/sʲ a tʲ + v o sʲ e mʲ	4 2 11	two ten eight
-29	Russian	twenty nine	двадцать девять	dvadtsatʲ+dʲevʲatʲ	d v a + d/dʲ -/e ts/sʲ a tʲ + dʲ e vʲ a tʲ	4 2 7	two ten five
+29	Russian	twenty nine	двадцать девять	dvadtsatʲ+dʲevʲatʲ	d v a + d/dʲ -/e ts/sʲ a tʲ + dʲ e vʲ a tʲ	4 2 19	two ten nine
 30	Russian	thirty	тридцать	tridtsatʲ	t rʲ i + d/dʲ -/e ts/sʲ a tʲ	5 2	three ten
 31	Russian	thirty one	тридцать один	tridtsatʲ+odʲin	t rʲ i + d/dʲ -/e ts/sʲ a tʲ + o dʲ i n	5 2 9	three ten one
 32	Russian	thirty two	тридцать два	tridtsatʲ+dva	t rʲ i + d/dʲ -/e ts/sʲ a tʲ + d v a	5 2 4	three ten two
@@ -37,26 +37,5 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES
 36	Russian	thirty six	тридцать шесть	tridtsatʲ+ʃʲestʲ	t rʲ i + d/dʲ -/e ts/sʲ a tʲ + ʃʲ e s tʲ	5 2 8	three ten six
 37	Russian	thirty seven	тридцать семь	tridtsatʲ+sʲemʲ	t rʲ i + d/dʲ -/e ts/sʲ a tʲ + sʲ e mʲ	5 2 10	three ten seven
 38	Russian	thirty eight	тридцать восемь	tridtsatʲ+vosʲemʲ	t rʲ i + d/dʲ -/e ts/sʲ a tʲ + v o sʲ e mʲ	5 2 11	three ten eight
-39	Russian	thirty nine	тридцать девять	tridtsatʲ+dʲevʲatʲ	t rʲ i + d/dʲ -/e ts/sʲ a tʲ + dʲ e vʲ a tʲ	5 2 7	three ten five
+39	Russian	thirty nine	тридцать девять	tridtsatʲ+dʲevʲatʲ	t rʲ i + d/dʲ -/e ts/sʲ a tʲ + dʲ e vʲ a tʲ	5 2 19	three ten nine
 40	Russian	forty	сорок	sorok	s o r o k	12	forty
-#@highlight=TOKENS
-#@sampa=TOKENS
-#@css=menu:show|database:hide
-#@basics=COGIDS|CONCEPT|DOCULECT|MORPHEMES|TOKENS
-#@_selected_doculects=Russian
-#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@sorted_taxa=Russian
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@display=filedisplay|glosses
-#@missing_marker=Ø
-#@separator=
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=undefined
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=russian.tsv
-#@navbar=true
-#@_morphology_mode=partial
