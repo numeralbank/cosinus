@@ -1,4 +1,5 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Sources,FileName
+Sanskrit,Sanskrit,sans1269,Sanskrit,san,Eurasia,20.0,77.0,Indo-European,Stenzler1915,sanskrit
 German,German,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European,List2025,german
 Hindi,Hindi,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European,Hindi,hind1269
 Maltese,Maltese,malt1254,Maltese,mlt,Eurasia,35.8884,14.4508,Afro-Asiatic,Maltese,maltese
@@ -7,6 +8,8 @@ Czech,Czech,czec1258,Czech,ces,Eurasia,49.873398,15.10437,Indo-European,Czech,cz
 Irish,Irish,iris1253,Irish,gle,Eurasia,53.2186,-7.61509,Indo-European,Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025,irish
 Scottish_Gaelic,Scottish Gaelic,scot1245,Scottish Gaelic,gla,Eurasia,56.7574,-5.24366,Indo-European,LearnGaelic2021,scottish_gaelic
 French,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European,French,french
+Italian,Italian,ital1282,Italian,ita,Eurasia,43.0464,12.6489,Indo-European,Dellert2020;Manczak1985;Comrie2011,italian
+Spanish,Spanish,stan1288,Spanish,spa,Eurasia,40.4414,-1.11788,Indo-European,OpenDictData2025span;Manczak1985,spanish
 Telugu,Telugu,telu1262,Telugu,tel,Eurasia,16.4529,78.7024,Dravidian,Telugu,telugu
 Paraguayan_Guarani,Paraguayan Guarani,para1311,Paraguayan Guaraní,gug,South America,-25.60551,-57.08816,Tupian,ParaguayanGuarani1;ParaguayanGuarani2,paraguayan-guarani
 Cavinena,Cavineña,cavi1250,Cavineña,cav,South America,-13.3544,-66.6277,Pano-Tacanan,Cavineña1;Cavineña2,cavineña
@@ -14,3 +17,10 @@ Wayuu,Wayuu,wayu1243,Wayuu,guc,South America,11.395566,-72.199791,Arawakan,Wayuu
 Mapudungun,Mapudungun,mapu1245,Mapudungun,arn,South America,-38.7392,-71.277,Araucanian,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,mapudungun
 Huallaga_Quechua,Huallaga Quechua,hual1241,Huallaga Huánuco Quechua,qub,South America,-9.57135,-75.594,Quechuan,HuallagaQuechua1;HuallagaQuechua2,huallaga-quechua
 Aymara,Aymara,ayma1253,Aymaran,,,,,Aymaran,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,aymara
+Mandarin,Mandarin,mand1415,Mandarin Chinese,cmn,Eurasia,40.0209,116.228,Sino-Tibetan,Mandarin,mand1415
+Shanghainese,Shanghainese,shan1293,Shanghainese,,Eurasia,31.222902,121.475372,Sino-Tibetan,Shanghainese,shan1293
+Assamese,Assamese,assa1263,Assamese,asm,Eurasia,26.0876,91.2932,Indo-European,Assamese,assa1263
+Uipo_Maringic,Uipo (Maringic),khoi1251,Khoibu,nkb,Eurasia,24.2041,94.1345,Sino-Tibetan,Uipo,khoi1251
+Lamjung_Yolmo,Lamjung Yolmo,lamj1247,Lamjung Yolmo,,Eurasia,,,Sino-Tibetan,Yolmo,lamj1247
+Makyam_Khalai,Makyam (Khalai),maky1236,,,,,,,Makyam,maky1236
+Russian,Russian,russ1263,Russian,rus,Eurasia,59.0,50.0,Indo-European,Mulisch1993,russian

@@ -1,41 +1,41 @@
-ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	COGIDS	NOTE
-1	Mandarin	one	yī	i ⁵⁵	one	5	
-2	Mandarin	two	èr	ɚ ⁵¹	two	2	
-3	Mandarin	three	sān	s a n ⁵⁵	three	3	
-4	Mandarin	four	sì	s ɿ ⁵¹	four	4	
-5	Mandarin	five	wǔ	u ²¹³	five	10	
-6	Mandarin	six	liù	l j ou̯ ⁵¹	six	6	
-7	Mandarin	seven	qī	tɕʰ i ⁵⁵	seven	9	
-8	Mandarin	eight	bā	p a ⁵⁵	eight	7	
-9	Mandarin	nine	jiǔ	tɕ j ou̯ ²¹³	nine	8	
-10	Mandarin	ten	shí	ʂ ʅ ³⁵	ten	1	
-11	Mandarin	eleven	shí yī	ʂ ʅ ³⁵ + i ⁵⁵	ten one	1 5	
-12	Mandarin	twelve	shí èr	ʂ ʅ ³⁵ + ɚ ⁵¹	ten two	1 2	
-13	Mandarin	thirteen	shí sān	ʂ ʅ ³⁵ + s a n ⁵⁵	ten three	1 3	
-14	Mandarin	fourteen	shí sì	ʂ ʅ ³⁵ + s ɿ ⁵¹	ten four	1 4	
-15	Mandarin	fifteen	shí wǔ	ʂ ʅ ³⁵ + u ²¹³	ten five	1 10	
-16	Mandarin	sixteen	shí liù	ʂ ʅ ³⁵ + l j ou̯ ⁵¹	ten six	1 6	
-17	Mandarin	seventeen	shí qī	ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	ten seven	1 9	
-18	Mandarin	eighteen	shí bā	ʂ ʅ ³⁵ + p a ⁵⁵	ten eight	1 7	
-19	Mandarin	nineteen	shí jiǔ	ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	ten nine	1 8	
-20	Mandarin	twenty	èr shí	ɚ ⁵¹ + ʂ ʅ ³⁵	two ten	2 1	
-21	Mandarin	twenty one	èr shí yī	ɚ ⁵¹ + ʂ ʅ ³⁵ + i ⁵⁵	two ten one	2 1 2005	
-22	Mandarin	twenty two	èr shí èr	ɚ ⁵¹ + ʂ ʅ ³⁵ + ɚ ⁵¹	two ten two	2 1 2002	
-23	Mandarin	twenty three	èr shí sān	ɚ ⁵¹ + ʂ ʅ ³⁵ + s a n ⁵⁵	two ten three	2 1 2003	
-24	Mandarin	twenty four	èr shí sì	ɚ ⁵¹ + ʂ ʅ ³⁵ + s ɿ ⁵¹	two ten four	2 1 2004	
-25	Mandarin	twenty five	èr shí wǔ	ɚ ⁵¹ + ʂ ʅ ³⁵ + u ²¹³	two ten five	2 1 10	
-26	Mandarin	twenty six	èr shí liù	ɚ ⁵¹ + ʂ ʅ ³⁵ + l j ou̯ ⁵¹	two ten six	2 1 2006	
-27	Mandarin	twenty seven	èr shí qī	ɚ ⁵¹ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	two ten seven	2 1 2009	
-28	Mandarin	twenty eight	èr shí bā	ɚ ⁵¹ + ʂ ʅ ³⁵ + p a ⁵⁵	two ten eight	2 1 2007	
-29	Mandarin	twenty nine	èr shí jiǔ	ɚ ⁵¹ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	two ten nine	2 1 2008	
-30	Mandarin	thirty	sān shí	s a n ⁵⁵ + ʂ ʅ ³⁵	three ten	3 1	
-31	Mandarin	thirty one	sān shí yī	s a n ⁵⁵ + ʂ ʅ ³⁵ + i ⁵⁵	three ten one	3 1 2005	
-32	Mandarin	thirty two	sān shí èr	s a n ⁵⁵ + ʂ ʅ ³⁵ + ɚ ⁵¹	three ten two	3 1 2002	
-33	Mandarin	thirty three	sān shí sān	s a n ⁵⁵ + ʂ ʅ ³⁵ + s a n ⁵⁵	three ten three	3 1 2003	
-34	Mandarin	thirty four	sān shí sì	s a n ⁵⁵ + ʂ ʅ ³⁵ + s ɿ ⁵¹	three ten four	3 1 2004	
-35	Mandarin	thirty five	sān shí wǔ	s a n ⁵⁵ + ʂ ʅ ³⁵ + u ²¹³	three ten five	3 1 10	
-36	Mandarin	thirty six	sān shí liù	s a n ⁵⁵ + ʂ ʅ ³⁵ + l j ou̯ ⁵¹	three ten six	3 1 2006	
-37	Mandarin	thirty seven	sān shí qī	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	three ten seven	3 1 2009	
-38	Mandarin	thirty eight	sān shí bā	s a n ⁵⁵ + ʂ ʅ ³⁵ + p a ⁵⁵	three ten eight	3 1 2007	
-39	Mandarin	thirty nine	sān shí jiǔ	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	three ten nine	3 1 2008	
-40	Mandarin	forty	sì shí	s ɿ ⁵¹ + ʂ ʅ ³⁵	four ten	4 1
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE	NOTE
+1	Mandarin	one	yī	i ⁵⁵	one	5	Mandarin
+2	Mandarin	two	èr	ɚ ⁵¹	two	2	Mandarin
+3	Mandarin	three	sān	s a n ⁵⁵	three	3	Mandarin
+4	Mandarin	four	sì	s ɿ ⁵¹	four	4	Mandarin
+5	Mandarin	five	wǔ	u ²¹³	five	10	Mandarin
+6	Mandarin	six	liù	l j ou̯ ⁵¹	six	6	Mandarin
+7	Mandarin	seven	qī	tɕʰ i ⁵⁵	seven	9	Mandarin
+8	Mandarin	eight	bā	p a ⁵⁵	eight	7	Mandarin
+9	Mandarin	nine	jiǔ	tɕ j ou̯ ²¹³	nine	8	Mandarin
+10	Mandarin	ten	shí	ʂ ʅ ³⁵	ten	1	Mandarin
+11	Mandarin	eleven	shí yī	ʂ ʅ ³⁵ + i ⁵⁵	ten one	1 5	Mandarin
+12	Mandarin	twelve	shí èr	ʂ ʅ ³⁵ + ɚ ⁵¹	ten two	1 2	Mandarin
+13	Mandarin	thirteen	shí sān	ʂ ʅ ³⁵ + s a n ⁵⁵	ten three	1 3	Mandarin
+14	Mandarin	fourteen	shí sì	ʂ ʅ ³⁵ + s ɿ ⁵¹	ten four	1 4	Mandarin
+15	Mandarin	fifteen	shí wǔ	ʂ ʅ ³⁵ + u ²¹³	ten five	1 10	Mandarin
+16	Mandarin	sixteen	shí liù	ʂ ʅ ³⁵ + l j ou̯ ⁵¹	ten six	1 6	Mandarin
+17	Mandarin	seventeen	shí qī	ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	ten seven	1 9	Mandarin
+18	Mandarin	eighteen	shí bā	ʂ ʅ ³⁵ + p a ⁵⁵	ten eight	1 7	Mandarin
+19	Mandarin	nineteen	shí jiǔ	ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	ten nine	1 8	Mandarin
+20	Mandarin	twenty	èr shí	ɚ ⁵¹ + ʂ ʅ ³⁵	two ten	2 1	Mandarin
+21	Mandarin	twenty one	èr shí yī	ɚ ⁵¹ + ʂ ʅ ³⁵ + i ⁵⁵	two ten one	2 1 5	Mandarin
+22	Mandarin	twenty two	èr shí èr	ɚ ⁵¹ + ʂ ʅ ³⁵ + ɚ ⁵¹	two ten two	2 1 2	Mandarin
+23	Mandarin	twenty three	èr shí sān	ɚ ⁵¹ + ʂ ʅ ³⁵ + s a n ⁵⁵	two ten three	2 1 3	Mandarin
+24	Mandarin	twenty four	èr shí sì	ɚ ⁵¹ + ʂ ʅ ³⁵ + s ɿ ⁵¹	two ten four	2 1 4	Mandarin
+25	Mandarin	twenty five	èr shí wǔ	ɚ ⁵¹ + ʂ ʅ ³⁵ + u ²¹³	two ten five	2 1 10	Mandarin
+26	Mandarin	twenty six	èr shí liù	ɚ ⁵¹ + ʂ ʅ ³⁵ + l j ou̯ ⁵¹	two ten six	2 1 6	Mandarin
+27	Mandarin	twenty seven	èr shí qī	ɚ ⁵¹ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	two ten seven	2 1 9	Mandarin
+28	Mandarin	twenty eight	èr shí bā	ɚ ⁵¹ + ʂ ʅ ³⁵ + p a ⁵⁵	two ten eight	2 1 7	Mandarin
+29	Mandarin	twenty nine	èr shí jiǔ	ɚ ⁵¹ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	two ten nine	2 1 8	Mandarin
+30	Mandarin	thirty	sān shí	s a n ⁵⁵ + ʂ ʅ ³⁵	three ten	3 1	Mandarin
+31	Mandarin	thirty one	sān shí yī	s a n ⁵⁵ + ʂ ʅ ³⁵ + i ⁵⁵	three ten one	3 1 5	Mandarin
+32	Mandarin	thirty two	sān shí èr	s a n ⁵⁵ + ʂ ʅ ³⁵ + ɚ ⁵¹	three ten two	3 1 2	Mandarin
+33	Mandarin	thirty three	sān shí sān	s a n ⁵⁵ + ʂ ʅ ³⁵ + s a n ⁵⁵	three ten three	3 1 3	Mandarin
+34	Mandarin	thirty four	sān shí sì	s a n ⁵⁵ + ʂ ʅ ³⁵ + s ɿ ⁵¹	three ten four	3 1 4	Mandarin
+35	Mandarin	thirty five	sān shí wǔ	s a n ⁵⁵ + ʂ ʅ ³⁵ + u ²¹³	three ten five	3 1 10	Mandarin
+36	Mandarin	thirty six	sān shí liù	s a n ⁵⁵ + ʂ ʅ ³⁵ + l j ou̯ ⁵¹	three ten six	3 1 6	Mandarin
+37	Mandarin	thirty seven	sān shí qī	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵	three ten seven	3 1 9	Mandarin
+38	Mandarin	thirty eight	sān shí bā	s a n ⁵⁵ + ʂ ʅ ³⁵ + p a ⁵⁵	three ten eight	3 1 7	Mandarin
+39	Mandarin	thirty nine	sān shí jiǔ	s a n ⁵⁵ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³	three ten nine	3 1 8	Mandarin
+40	Mandarin	forty	sì shí	s ɿ ⁵¹ + ʂ ʅ ³⁵	four ten	4 1	Mandarin

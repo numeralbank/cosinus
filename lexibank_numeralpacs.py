@@ -6,15 +6,44 @@ import pylexibank
 from clldutils.misc import slug
 
 
+def surface(segments):
+    if isinstance(segments, str):
+        segments = segments.split()
+    base = [s for s in [x.split("/")[0] for x in segments] if s != "-"]
+    return [x.strip() for x in " ".join(base).split("+")]
+    
+
+
+def underlying(segments):
+    if isinstance(segments, str):
+        segments = segments.split()
+    base = [s for s in [x.split("/")[1] if "/" in x else x for x in segments]
+            if s != "-"]
+    return [x.strip() for x in " ".join(base).split("+")]
+
+
+
 @attr.s
 class CustomLanguage(pylexibank.Language):
     Sources = attr.ib(default=None)
     FileName = attr.ib(default=None)
 
+@attr.s
+class CustomConcept(pylexibank.Concept):
+    Number = attr.ib(default=None, metadata={"format": "integer"})
+
 
 @attr.s
 class CustomLexeme(pylexibank.Lexeme):
-    Morphemes = attr.ib(default=None)
+    Morphemes = attr.ib(default=None, metadata={"format": "string",
+                                                "separator": " "})
+    Cognates = attr.ib(default=None, metadata={"format": "integer",
+                                               "separator": " "})
+    Surface_Form = attr.ib(default=None, metadata={"format": "string",
+                                                       "separator": " + "})
+    Underlying_Form = attr.ib(default=None, metadata={"format": "string",
+                                                       "separator": " + "})
+    Tokens = attr.ib(default=None, metadata={"format": "string", "separator": " "})
 
 
 class Dataset(pylexibank.Dataset):
@@ -23,6 +52,7 @@ class Dataset(pylexibank.Dataset):
     writer_options = dict(keep_languages=False, keep_parameters=False)
     lexeme_class = CustomLexeme
     language_class = CustomLanguage
+    concept_class = CustomConcept
 
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"}, separators=",", missing_data=("",), strip_inside_brackets=True
@@ -34,10 +64,19 @@ class Dataset(pylexibank.Dataset):
         args.writer.add_sources()
         args.writer.add_languages()
         args.writer.add_sources()
-
-        concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.gloss), lookup_factory="Name"
-        )
+        
+        concepts = {}
+        for concept in self.concepts:
+            lookup = concept["ID"] + "-" + slug(concept["GLOSS"])
+            args.writer.add_concept(
+                    ID=lookup,
+                    Name=concept["GLOSS"],
+                    Number=concept["NUMBER"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                    )
+            concepts[concept["GLOSS"]] = lookup
+            
 
         for language in self.languages:
             sources[language["ID"]] = language["Sources"].split(";")
@@ -45,14 +84,19 @@ class Dataset(pylexibank.Dataset):
         for file in sorted(self.raw_dir.glob("done/*.tsv")):
             table = self.raw_dir.read_csv(file, delimiter="\t", dicts=True)
 
-            if args.dev:
-                # only log problems in dev mode; don't raise exceptions
-                validate_language(table, sources[table[0]["DOCULECT"]], log=args.log)
-            else:
-                try:
-                    validate_language(table, sources[table[0]["DOCULECT"]])
-                except ValueError as e:
-                    args.log.error(str(e)+ " Skipping language...")
+            language = table[0]["DOCULECT"]
+            errors, warnings = validate_language(table, sources[language])
+            for warning in warnings:
+                args.log.warning(warning)
+            if errors:
+                if args.dev:
+                    for error in errors:
+                        args.log.error(error)
+                else:
+                    error_header = f"An error occurred while processing language {language}. Skipping language..."
+                    error_msg = "\n\t\t".join([error_header] + errors)
+                    args.log.error(error_msg)
+                    raise ValueError
 
             for data in pylexibank.progressbar(table):
                 try:
@@ -61,9 +105,13 @@ class Dataset(pylexibank.Dataset):
                         Parameter_ID=concepts[data["CONCEPT"].lower()],
                         Value=data["FORM"],
                         Form=data["FORM"],
-                        Segments=data["TOKENS"].split(),
-                        Morphemes=data["MORPHEMES"],
+                        Segments=" + ".join(surface(data["TOKENS"].split())).split(" "),
+                        Morphemes=data["MORPHEMES"].split(" "),
+                        Cognates=data["COGIDS"].split(" "),
                         Source=sources[data["DOCULECT"]],
+                        Surface_Form=surface(data["TOKENS"].split()),
+                        Underlying_Form=underlying(data["TOKENS"].split()),
+                        Tokens=data["TOKENS"],
                     )
                 except ValueError:
                     args.log.error(
@@ -75,19 +123,23 @@ class Dataset(pylexibank.Dataset):
                     )
 
 
-def validate_language(data, sources_for_lang, log=None):
+def validate_language(data, sources_for_lang):
+    warnings = []
+    errors = []
+
     # record sources
     all_sources = []
     language = data[0]["DOCULECT"]
 
     # map morpheme ID's to underlying forms and glosses
     id_to_underlying_morpheme = defaultdict(set)
+    morpheme_to_id = defaultdict(set)
     id_to_gloss = defaultdict(set)
+    gloss_to_id = defaultdict(set)
 
     for row in data:
         # normalize morphemes and extract underlying forms
         tokens = row["TOKENS"]
-
         morphemes = tokens.split("+")
         morphemes = [x.strip().split() for x in morphemes]
         for i, morpheme in enumerate(morphemes):
@@ -106,16 +158,15 @@ def validate_language(data, sources_for_lang, log=None):
 
         if not (len(morphemes) == len(glosses) == len(cogids)):
             msg = f"Mismatching number of morphemes for form {row['FORM']} in language {language}."
-            if log:
-                log.warn(msg)
-            else:
-                raise ValueError(msg)
+            errors.append(msg)
 
         for id, morpheme in zip(cogids, morphemes):
             id_to_underlying_morpheme[id].add(tuple(morpheme))
+            morpheme_to_id[tuple(morpheme)].add(id)
 
         for id, gloss in zip(cogids, glosses):
             id_to_gloss[id].add(gloss)
+            gloss_to_id[gloss].add(id)
 
         # extract sources
         sources = row.get("SOURCE", "")
@@ -130,10 +181,12 @@ def validate_language(data, sources_for_lang, log=None):
     for id, gloss_set in id_to_gloss.items():
         if id != 0 and len(gloss_set) > 1:
             msg = f"COGID {id} in language {language} points to multiple glosses: {', '.join(gloss_set)}."
-            if log:
-                log.warn(msg)
-            else:
-                raise ValueError(msg)
+            errors.append(msg)
+
+    for gloss, id_set in gloss_to_id.items():
+        if len(id_set) > 1:
+            msg = f"Gloss {gloss} in language {language} maps to multiple IDs: {id_set}."
+            warnings.append(msg)
 
     # validate underlying forms
     for id, morpheme_set in id_to_underlying_morpheme.items():
@@ -141,27 +194,27 @@ def validate_language(data, sources_for_lang, log=None):
             morphemes = [" ".join(m) for m in morpheme_set]
             morphemes = "\n\t".join(morphemes)
             msg = (f"COGID {id} in language {language} points to multiple underlying morphemes: \n\t{morphemes}")
-            if log:
-                log.warn(msg)
-            else:
-                raise ValueError(msg)
+            errors.append(msg)
+
+    for morpheme, id_set in morpheme_to_id.items():
+        if len(id_set) > 1:
+            msg = f"Morpheme '{' '.join(morpheme)}' in language {language} maps to multiple IDs: {id_set}."
+            warnings.append(msg)
 
     # validate sources
     if not all_sources:
+        msg = f"No individual sources in language {language}."
+        warnings.append(msg)
+
+    if not sources_for_lang:
         msg = f"No sources in language {language}."
-        if log:
-            log.warn(msg)
-        else:
-            raise ValueError(msg)
+        warnings.append(msg)
 
     for source in all_sources:
         if source.endswith("]") and "[" in source:
             source = source.split("[")[0]
         if source not in sources_for_lang:
             msg = f"Source {source} not defined for language {language}."
-            if log:
-                log.warn(msg)
-            else:
-                raise ValueError(msg)
+            errors.append(msg)
 
-    return True
+    return errors, warnings
