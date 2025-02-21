@@ -84,14 +84,19 @@ class Dataset(pylexibank.Dataset):
         for file in sorted(self.raw_dir.glob("done/*.tsv")):
             table = self.raw_dir.read_csv(file, delimiter="\t", dicts=True)
 
-            if args.dev:
-                # only log problems in dev mode; don't raise exceptions
-                validate_language(table, sources[table[0]["DOCULECT"]], log=args.log)
-            else:
-                try:
-                    validate_language(table, sources[table[0]["DOCULECT"]])
-                except ValueError as e:
-                    args.log.error(str(e)+ " Skipping language...")
+            language = table[0]["DOCULECT"]
+            errors, warnings = validate_language(table, sources[language])
+            for warning in warnings:
+                args.log.warning(warning)
+            if errors:
+                if args.dev:
+                    for error in errors:
+                        args.log.error(error)
+                else:
+                    error_header = f"An error occurred while processing language {language}. Skipping language..."
+                    error_msg = "\n\t\t".join([error_header] + errors)
+                    args.log.error(error_msg)
+                    raise ValueError
 
             for data in pylexibank.progressbar(table):
                 try:
@@ -118,14 +123,19 @@ class Dataset(pylexibank.Dataset):
                     )
 
 
-def validate_language(data, sources_for_lang, log=None):
+def validate_language(data, sources_for_lang):
+    warnings = []
+    errors = []
+
     # record sources
     all_sources = []
     language = data[0]["DOCULECT"]
 
     # map morpheme ID's to underlying forms and glosses
     id_to_underlying_morpheme = defaultdict(set)
+    morpheme_to_id = defaultdict(set)
     id_to_gloss = defaultdict(set)
+    gloss_to_id = defaultdict(set)
 
     for row in data:
         # normalize morphemes and extract underlying forms
@@ -148,16 +158,15 @@ def validate_language(data, sources_for_lang, log=None):
 
         if not (len(morphemes) == len(glosses) == len(cogids)):
             msg = f"Mismatching number of morphemes for form {row['FORM']} in language {language}."
-            if log:
-                log.warn(msg)
-            else:
-                raise ValueError(msg)
+            errors.append(msg)
 
         for id, morpheme in zip(cogids, morphemes):
             id_to_underlying_morpheme[id].add(tuple(morpheme))
+            morpheme_to_id[tuple(morpheme)].add(id)
 
         for id, gloss in zip(cogids, glosses):
             id_to_gloss[id].add(gloss)
+            gloss_to_id[gloss].add(id)
 
         # extract sources
         sources = row.get("SOURCE", "")
@@ -172,10 +181,12 @@ def validate_language(data, sources_for_lang, log=None):
     for id, gloss_set in id_to_gloss.items():
         if id != 0 and len(gloss_set) > 1:
             msg = f"COGID {id} in language {language} points to multiple glosses: {', '.join(gloss_set)}."
-            if log:
-                log.warn(msg)
-            else:
-                raise ValueError(msg)
+            errors.append(msg)
+
+    for gloss, id_set in gloss_to_id.items():
+        if len(id_set) > 1:
+            msg = f"Gloss {gloss} in language {language} maps to multiple IDs: {id_set}."
+            warnings.append(msg)
 
     # validate underlying forms
     for id, morpheme_set in id_to_underlying_morpheme.items():
@@ -183,27 +194,27 @@ def validate_language(data, sources_for_lang, log=None):
             morphemes = [" ".join(m) for m in morpheme_set]
             morphemes = "\n\t".join(morphemes)
             msg = (f"COGID {id} in language {language} points to multiple underlying morphemes: \n\t{morphemes}")
-            if log:
-                log.warn(msg)
-            else:
-                raise ValueError(msg)
+            errors.append(msg)
+
+    for morpheme, id_set in morpheme_to_id.items():
+        if len(id_set) > 1:
+            msg = f"Morpheme '{' '.join(morpheme)}' in language {language} maps to multiple IDs: {id_set}."
+            warnings.append(msg)
 
     # validate sources
     if not all_sources:
         msg = f"No individual sources in language {language}."
-        if log:
-            log.warn(msg)
-        else:
-            raise ValueError(msg)
+        warnings.append(msg)
+
+    if not sources_for_lang:
+        msg = f"No sources in language {language}."
+        warnings.append(msg)
 
     for source in all_sources:
         if source.endswith("]") and "[" in source:
             source = source.split("[")[0]
         if source not in sources_for_lang:
             msg = f"Source {source} not defined for language {language}."
-            if log:
-                log.warn(msg)
-            else:
-                raise ValueError(msg)
+            errors.append(msg)
 
-    return True
+    return errors, warnings
