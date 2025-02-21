@@ -1,41 +1,41 @@
-ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE
-1	Hindi	one	ek	e k	one	e k	1	
-2	Hindi	two	do	d o	two	d o	2	
-3	Hindi	three	ti:n	t iː n	three	t iː n	3	
-4	Hindi	four	ca:r	tʃ aː/ɔ r/-	four	tʃ aː r	4
-5	Hindi	five	pã:c	p ãː/a -/n tʃ	five	p ãː tʃ	5
-6	Hindi	six	che	tʃʰ e/a	six	tʃʰ e	6
-7	Hindi	seven	sa:t	s aː/a t	seven	s aː t	7
-8	Hindi	eight	a:ṭh	aː ʈʰ -/aː	eight	aː ʈʰ	8
-9	Hindi	nine	nav	n ɔ	nine	n ɔ	9	
-10	Hindi	ten	das	d/r a s/h	ten	d a s	10
-11	Hindi	eleven	gia:rah	g j a + r a h	eleven ten	g j a + r a h	11 10	
-12	Hindi	twelve	ba:rah	b aː + r a h	two2 ten	b aː + r a h	12 10	
-13	Hindi	thirteen	terah	t e/iː -/n + r a h	three ten	t e + r a h	3 10
-14	Hindi	fourteen	cɔdah	tʃ ɔ + d/r a h	four ten	tʃ ɔ + d a h	4 10
-15	Hindi	fifteen	pandrah	p a n -/tʃ + d/- r a h	five ten	p a n + d r a h	5 10
-16	Hindi	sixteen	solah	s o l + -/r a h	six2 ten	s o l + a h	13 10
-17	Hindi	seventeen	satrah	s a t + r a h	seven ten	s a t + r a h	7 10	
-18	Hindi	eighteen	aṭha:rah	aː ʈʰ aː + r a h	eight ten	aː ʈʰ aː + r a h	8 10	
-19	Hindi	nineteen	unni:s	u n + n/b iː s	minus twenty	u n n iː s	14 20
-20	Hindi	twenty	bi:s	b iː s	twenty	b iː s	20	
-21	Hindi	twenty one	ikki:s	i/e k + k/b iː s	one twenty	i k + k iː s	1 20
-22	Hindi	twenty two	ba:i:s	b aː + -/b iː s	two2 twenty	b aː + iː s	12 20
-23	Hindi	twenty three	tei:s	t eiː/iː -/n + -/b -/iː s	three twenty	t eiː + s	3 20
-24	Hindi	twenty four	cɔbi:s	tʃ ɔ + b iː s	four twenty	tʃ ɔ + b iː s	4 20	
-25	Hindi	twenty five	pacci:s	p a -/n tʃ + tʃ/b iː s	five twenty	p a tʃ + tʃ iː s	5 20
-26	Hindi	twenty six	chabbi:s	tʃʰ a b/- + b iː s	six twenty	tʃʰ a b + b iː s	6 20
-27	Hindi	twenty seven	satta:i:s	s a t t/- aː/- + -/b iː s	seven twenty	s a t t aː + iː s	7 20
-28	Hindi	twenty eight	aṭṭha:i:s	a/aː ʈ/- ʈʰ aː + -/b iː s	eight twenty	a ʈ ʈʰ aː + iː s	8 20
-29	Hindi	twenty nine	untti:s	u n t/- + t iː s	minus thirty	u n t + t iː s	14 30
-30	Hindi	thirty	ti:s	t iː s	thirty	t iː s	30	
-31	Hindi	thirty one	ikatti:s	i/e k a/- t/- + t iː s	one thirty	i k a t + t iː s	1 30
-32	Hindi	thirty two	batti:s	b a/aː t/- + t iː s	two2 thirty	b a t + t iː s	12 30
-33	Hindi	thirty three	tɛ̃nti:s	t ɛ̃/iː n + t iː -/s	three thirty	t ɛ̃ n + t i ː	3 30
-34	Hindi	thirty four	cɔnti:s	tʃ ɔ n/- + t iː s	four thirty	tʃ ɔ n + t iː s	4 30
-35	Hindi	thirty five	pɛ̃ti:s	p ɛ̃/a -/n -/tʃ + t iː s	five thirty	p ɛ̃ + t iː s	5 30
-36	Hindi	thirty six	chatti:s	tʃʰ a t/- + t iː s	six thirty	tʃʰ a t + t iː s	6 30
-37	Hindi	thirty seven	sɛ̃ti:s	s ɛ̃/a t + -/t iː s	seven thirty	s ɛ̃ t + iː s	7 30
-38	Hindi	thirty eight	aṛta:li:s	a/aː ɽ/- t/ʈʰ aː l/- + -/t iː s	eight thirty	a ɽ t aː l + iː s	8 30
-39	Hindi	thirty nine	unta:li:s	u n + t/tʃ aː l iː s	minus forty	u n + t aː l iː s	14 40	alternatively C+lis for tens place as an analysis
-40	Hindi	forty	ca:li:s	tʃ aː l iː s	forty	tʃ aː l iː s	40
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
+1	Hindi	one	ek	e k	one	e k	1		Hindi
+2	Hindi	two	do	d o	two	d o	2		Hindi
+3	Hindi	three	ti:n	t iː n	three	t iː n	3		Hindi
+4	Hindi	four	ca:r	tʃ aː/ɔ r/-	four	tʃ aː r	4		Hindi
+5	Hindi	five	pã:c	p ãː/a -/n tʃ	five	p ãː tʃ	5		Hindi
+6	Hindi	six	che	tʃʰ e/a	six	tʃʰ e	6		Hindi
+7	Hindi	seven	sa:t	s aː/a t	seven	s aː t	7		Hindi
+8	Hindi	eight	a:ṭh	aː ʈʰ -/aː	eight	aː ʈʰ	8		Hindi
+9	Hindi	nine	nav	n ɔ	nine	n ɔ	9		Hindi
+10	Hindi	ten	das	d/r a s/h	ten	d a s	10		Hindi
+11	Hindi	eleven	gia:rah	g j a + r a h	eleven ten	g j a + r a h	11 10		Hindi
+12	Hindi	twelve	ba:rah	b aː + r a h	two2 ten	b aː + r a h	12 10		Hindi
+13	Hindi	thirteen	terah	t e/iː -/n + r a h	three ten	t e + r a h	3 10		Hindi
+14	Hindi	fourteen	cɔdah	tʃ ɔ + d/r a h	four ten	tʃ ɔ + d a h	4 10		Hindi
+15	Hindi	fifteen	pandrah	p a n -/tʃ + d/- r a h	five ten	p a n + d r a h	5 10		Hindi
+16	Hindi	sixteen	solah	s o l + -/r a h	six2 ten	s o l + a h	13 10		Hindi
+17	Hindi	seventeen	satrah	s a t + r a h	seven ten	s a t + r a h	7 10		Hindi
+18	Hindi	eighteen	aṭha:rah	aː ʈʰ aː + r a h	eight ten	aː ʈʰ aː + r a h	8 10		Hindi
+19	Hindi	nineteen	unni:s	u n + n/b iː s	minus twenty	u n n iː s	14 20		Hindi
+20	Hindi	twenty	bi:s	b iː s	twenty	b iː s	20		Hindi
+21	Hindi	twenty one	ikki:s	i/e k + k/b iː s	one twenty	i k + k iː s	1 20		Hindi
+22	Hindi	twenty two	ba:i:s	b aː + -/b iː s	two2 twenty	b aː + iː s	12 20		Hindi
+23	Hindi	twenty three	tei:s	t eiː/iː -/n + -/b -/iː s	three twenty	t eiː + s	3 20		Hindi
+24	Hindi	twenty four	cɔbi:s	tʃ ɔ + b iː s	four twenty	tʃ ɔ + b iː s	4 20		Hindi
+25	Hindi	twenty five	pacci:s	p a -/n tʃ + tʃ/b iː s	five twenty	p a tʃ + tʃ iː s	5 20		Hindi
+26	Hindi	twenty six	chabbi:s	tʃʰ a b/- + b iː s	six twenty	tʃʰ a b + b iː s	6 20		Hindi
+27	Hindi	twenty seven	satta:i:s	s a t t/- aː/- + -/b iː s	seven twenty	s a t t aː + iː s	7 20		Hindi
+28	Hindi	twenty eight	aṭṭha:i:s	a/aː ʈ/- ʈʰ aː + -/b iː s	eight twenty	a ʈ ʈʰ aː + iː s	8 20		Hindi
+29	Hindi	twenty nine	untti:s	u n t/- + t iː s	minus thirty	u n t + t iː s	14 30		Hindi
+30	Hindi	thirty	ti:s	t iː s	thirty	t iː s	30		Hindi
+31	Hindi	thirty one	ikatti:s	i/e k a/- t/- + t iː s	one thirty	i k a t + t iː s	1 30		Hindi
+32	Hindi	thirty two	batti:s	b a/aː t/- + t iː s	two2 thirty	b a t + t iː s	12 30		Hindi
+33	Hindi	thirty three	tɛ̃nti:s	t ɛ̃/iː n + t iː -/s	three thirty	t ɛ̃ n + t i ː	3 30		Hindi
+34	Hindi	thirty four	cɔnti:s	tʃ ɔ n/- + t iː s	four thirty	tʃ ɔ n + t iː s	4 30		Hindi
+35	Hindi	thirty five	pɛ̃ti:s	p ɛ̃/a -/n -/tʃ + t iː s	five thirty	p ɛ̃ + t iː s	5 30		Hindi
+36	Hindi	thirty six	chatti:s	tʃʰ a t/- + t iː s	six thirty	tʃʰ a t + t iː s	6 30		Hindi
+37	Hindi	thirty seven	sɛ̃ti:s	s ɛ̃/a t + -/t iː s	seven thirty	s ɛ̃ t + iː s	7 30		Hindi
+38	Hindi	thirty eight	aṛta:li:s	a/aː ɽ/- t/ʈʰ aː l/- + -/t iː s	eight thirty	a ɽ t aː l + iː s	8 30		Hindi
+39	Hindi	thirty nine	unta:li:s	u n + t/tʃ aː l iː s	minus forty	u n + t aː l iː s	14 40	alternatively C+lis for tens place as an analysis	Hindi
+40	Hindi	forty	ca:li:s	tʃ aː l iː s	forty	tʃ aː l iː s	40		Hindi
