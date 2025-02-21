@@ -13,8 +13,8 @@ property | value
 [dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Cite as...
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/calc-project/numeralpacs
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/calc-project/numeralpacs/tree/fbb17de">calc-project/numeralpacs fbb17de</a></li><li><a href="https://github.com/glottolog/glottolog/tree/83a7479ff6">Glottolog v5.1-13-g83a7479ff6</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/c239bad9">Concepticon v3.3.0-6-gc239bad9</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:chrzyki/numeralpacs
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:chrzyki/numeralpacs/tree/2dcad7a">git@github.com:chrzyki/numeralpacs 2dcad7a</a></li><li><a href="git@github.com:glottolog/glottolog/tree/v5.1">Glottolog v5.1</a></li><li><a href="git@github.com:concepticon/concepticon-data/tree/v3.3.0">Concepticon v3.3.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.13.1</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | numeralpacs
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -25,7 +25,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 623
+[dc:extent](http://purl.org/dc/terms/extent) | 1053
 
 
 ### Columns
@@ -45,14 +45,18 @@ Name/Property | Datatype | Description
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
 `Profile` | `string` | 
-`Morphemes` | `string` | 
+`Morphemes` | list of `string` (separated by ` `) | 
+`Cognates` | list of `string` (separated by ` `) | 
+`Surface_Form` | list of `string` (separated by ` + `) | 
+`Underlying_Form` | list of `string` (separated by ` + `) | 
+`Tokens` | list of `string` (separated by ` `) | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 15
+[dc:extent](http://purl.org/dc/terms/extent) | 25
 
 
 ### Columns
@@ -76,7 +80,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 40
+[dc:extent](http://purl.org/dc/terms/extent) | 41
 
 
 ### Columns
@@ -87,4 +91,5 @@ Name/Property | Datatype | Description
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Concepticon_ID](http://cldf.clld.org/v1.0/terms.rdf#concepticonReference) | `string` | 
 `Concepticon_Gloss` | `string` | 
+`Number` | `string` | 
 

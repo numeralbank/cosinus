@@ -1,7 +1,5 @@
 # Annotating and Inferring Compositional Structures in Numeral Systems Across Languages
 
-[![CLDF validation](https://github.com/calc-project/numeralpacs/workflows/CLDF-validation/badge.svg)](https://github.com/calc-project/numeralpacs/actions?query=workflow%3ACLDF-validation)
-
 ## How to cite
 
 If you use these data please cite
@@ -19,22 +17,27 @@ This dataset is licensed under a CC-BY-4.0 license
 ## Statistics
 
 
-[![CLDF validation](https://github.com/calc-project/numeralpacs/workflows/CLDF-validation/badge.svg)](https://github.com/calc-project/numeralpacs/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 96%](https://img.shields.io/badge/BIPA-96%25-green.svg "BIPA: 96%")
-![CLTS SoundClass: 96%](https://img.shields.io/badge/CLTS%20SoundClass-96%25-green.svg "CLTS SoundClass: 96%")
+![Source: 79%](https://img.shields.io/badge/Source-79%25-yellow.svg "Source: 79%")
+![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
+![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
 
-- **Varieties:** 15 (linked to 15 different Glottocodes)
-- **Concepts:** 40 (linked to 40 different Concepticon concept sets)
-- **Lexemes:** 623
-- **Sources:** 33
-- **Synonymy:** 1.04
+- **Varieties:** 25 (linked to 25 different Glottocodes)
+- **Concepts:** 41 (linked to 41 different Concepticon concept sets)
+- **Lexemes:** 1,053
+- **Sources:** 39
+- **Synonymy:** 1.05
 - **Invalid lexemes:** 0
-- **Tokens:** 7,163
-- **Segments:** 170 (6 BIPA errors, 6 CLTS sound class errors, 164 CLTS modified)
-- **Inventory size (avg):** 28.27
+- **Tokens:** 10,866
+- **Segments:** 163 (4 BIPA errors, 3 CLTS sound class errors, 158 CLTS modified)
+- **Inventory size (avg):** 23.16
+
+## Possible Improvements:
+
+
+
+- Entries missing sources: 221/1053 (20.99%)
 
 ## CLDF Datasets
 

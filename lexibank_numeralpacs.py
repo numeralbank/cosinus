@@ -6,15 +6,44 @@ import pylexibank
 from clldutils.misc import slug
 
 
+def surface(segments):
+    if isinstance(segments, str):
+        segments = segments.split()
+    base = [s for s in [x.split("/")[0] for x in segments] if s != "-"]
+    return [x.strip() for x in " ".join(base).split("+")]
+    
+
+
+def underlying(segments):
+    if isinstance(segments, str):
+        segments = segments.split()
+    base = [s for s in [x.split("/")[1] if "/" in x else x for x in segments]
+            if s != "-"]
+    return [x.strip() for x in " ".join(base).split("+")]
+
+
+
 @attr.s
 class CustomLanguage(pylexibank.Language):
     Sources = attr.ib(default=None)
     FileName = attr.ib(default=None)
 
+@attr.s
+class CustomConcept(pylexibank.Concept):
+    Number = attr.ib(default=None, metadata={"format": "integer"})
+
 
 @attr.s
 class CustomLexeme(pylexibank.Lexeme):
-    Morphemes = attr.ib(default=None)
+    Morphemes = attr.ib(default=None, metadata={"format": "string",
+                                                "separator": " "})
+    Cognates = attr.ib(default=None, metadata={"format": "integer",
+                                               "separator": " "})
+    Surface_Form = attr.ib(default=None, metadata={"format": "string",
+                                                       "separator": " + "})
+    Underlying_Form = attr.ib(default=None, metadata={"format": "string",
+                                                       "separator": " + "})
+    Tokens = attr.ib(default=None, metadata={"format": "string", "separator": " "})
 
 
 class Dataset(pylexibank.Dataset):
@@ -23,6 +52,7 @@ class Dataset(pylexibank.Dataset):
     writer_options = dict(keep_languages=False, keep_parameters=False)
     lexeme_class = CustomLexeme
     language_class = CustomLanguage
+    concept_class = CustomConcept
 
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"}, separators=",", missing_data=("",), strip_inside_brackets=True
@@ -34,10 +64,19 @@ class Dataset(pylexibank.Dataset):
         args.writer.add_sources()
         args.writer.add_languages()
         args.writer.add_sources()
-
-        concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.gloss), lookup_factory="Name"
-        )
+        
+        concepts = {}
+        for concept in self.concepts:
+            lookup = concept["ID"] + "-" + slug(concept["GLOSS"])
+            args.writer.add_concept(
+                    ID=lookup,
+                    Name=concept["GLOSS"],
+                    Number=concept["NUMBER"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                    )
+            concepts[concept["GLOSS"]] = lookup
+            
 
         for language in self.languages:
             sources[language["ID"]] = language["Sources"].split(";")
@@ -61,9 +100,13 @@ class Dataset(pylexibank.Dataset):
                         Parameter_ID=concepts[data["CONCEPT"].lower()],
                         Value=data["FORM"],
                         Form=data["FORM"],
-                        Segments=data["TOKENS"].split(),
-                        Morphemes=data["MORPHEMES"],
+                        Segments=" + ".join(surface(data["TOKENS"].split())).split(" "),
+                        Morphemes=data["MORPHEMES"].split(" "),
+                        Cognates=data["COGIDS"].split(" "),
                         Source=sources[data["DOCULECT"]],
+                        Surface_Form=surface(data["TOKENS"].split()),
+                        Underlying_Form=underlying(data["TOKENS"].split()),
+                        Tokens=data["TOKENS"],
                     )
                 except ValueError:
                     args.log.error(
@@ -87,7 +130,6 @@ def validate_language(data, sources_for_lang, log=None):
     for row in data:
         # normalize morphemes and extract underlying forms
         tokens = row["TOKENS"]
-
         morphemes = tokens.split("+")
         morphemes = [x.strip().split() for x in morphemes]
         for i, morpheme in enumerate(morphemes):
@@ -148,7 +190,7 @@ def validate_language(data, sources_for_lang, log=None):
 
     # validate sources
     if not all_sources:
-        msg = f"No sources in language {language}."
+        msg = f"No individual sources in language {language}."
         if log:
             log.warn(msg)
         else:

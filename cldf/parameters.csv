@@ -1,41 +1,42 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss
-1_one,one,1493,ONE
-2_two,two,1498,TWO
-3_three,three,492,THREE
-4_four,four,1500,FOUR
-5_five,five,493,FIVE
-6_six,six,1703,SIX
-7_seven,seven,1704,SEVEN
-8_eight,eight,1705,EIGHT
-9_nine,nine,1483,NINE
-10_ten,ten,1515,TEN
-11_eleven,eleven,1706,ELEVEN
-12_twelve,twelve,1707,TWELVE
-13_thirteen,thirteen,1708,THIRTEEN
-14_fourteen,fourteen,2451,FOURTEEN
-15_fifteen,fifteen,1709,FIFTEEN
-16_sixteen,sixteen,2454,SIXTEEN
-17_seventeen,seventeen,2453,SEVENTEEN
-18_eighteen,eighteen,1713,EIGHTEEN
-19_nineteen,nineteen,1714,NINETEEN
-20_twenty,twenty,1710,TWENTY
-21_twentyone,twenty one,1734,TWENTY ONE
-22_twentytwo,twenty two,3166,TWENTY TWO
-23_twentythree,twenty three,3165,TWENTY THREE
-24_twentyfour,twenty four,1736,TWENTY FOUR
-25_twentyfive,twenty five,1738,TWENTY FIVE
-26_twentysix,twenty six,3476,TWENTY SIX
-27_twentyseven,twenty seven,3477,TWENTY SEVEN
-28_twentyeight,twenty eight,3478,TWENTY EIGHT
-29_twentynine,twenty nine,3479,TWENTY NINE
-30_thirty,thirty,1715,THIRTY
-31_thirtyone,thirty one,3480,THIRTY ONE
-32_thirtytwo,thirty two,3481,THIRTY TWO
-33_thirtythree,thirty three,3482,THIRTY THREE
-34_thirtyfour,thirty four,3483,THIRTY FOUR
-35_thirtyfive,thirty five,3484,THIRTY FIVE
-36_thirtysix,thirty six,3485,THIRTY SIX
-37_thirtyseven,thirty seven,3486,THIRTY SEVEN
-38_thirtyeight,thirty eight,3487,THIRTY EIGHT
-39_thirtynine,thirty nine,3488,THIRTY NINE
-40_forty,forty,1716,FORTY
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number
+0-zero,zero,1294,ZERO,0
+1-one,one,1493,ONE,1
+2-two,two,1498,TWO,2
+3-three,three,492,THREE,3
+4-four,four,1500,FOUR,4
+5-five,five,493,FIVE,5
+6-six,six,1703,SIX,6
+7-seven,seven,1704,SEVEN,7
+8-eight,eight,1705,EIGHT,8
+9-nine,nine,1483,NINE,9
+10-ten,ten,1515,TEN,10
+11-eleven,eleven,1706,ELEVEN,11
+12-twelve,twelve,1707,TWELVE,12
+13-thirteen,thirteen,1708,THIRTEEN,13
+14-fourteen,fourteen,2451,FOURTEEN,14
+15-fifteen,fifteen,1709,FIFTEEN,15
+16-sixteen,sixteen,2454,SIXTEEN,16
+17-seventeen,seventeen,2453,SEVENTEEN,17
+18-eighteen,eighteen,1713,EIGHTEEN,18
+19-nineteen,nineteen,1714,NINETEEN,19
+20-twenty,twenty,1710,TWENTY,20
+21-twentyone,twenty one,1734,TWENTY ONE,21
+22-twentytwo,twenty two,3166,TWENTY TWO,22
+23-twentythree,twenty three,3165,TWENTY THREE,23
+24-twentyfour,twenty four,1736,TWENTY FOUR,24
+25-twentyfive,twenty five,1738,TWENTY FIVE,25
+26-twentysix,twenty six,3476,TWENTY SIX,26
+27-twentyseven,twenty seven,3477,TWENTY SEVEN,27
+28-twentyeight,twenty eight,3478,TWENTY EIGHT,28
+29-twentynine,twenty nine,3479,TWENTY NINE,29
+30-thirty,thirty,1715,THIRTY,30
+31-thirtyone,thirty one,3480,THIRTY ONE,31
+32-thirtytwo,thirty two,3481,THIRTY TWO,32
+33-thirtythree,thirty three,3482,THIRTY THREE,33
+34-thirtyfour,thirty four,3483,THIRTY FOUR,34
+35-thirtyfive,thirty five,3484,THIRTY FIVE,35
+36-thirtysix,thirty six,3485,THIRTY SIX,36
+37-thirtyseven,thirty seven,3486,THIRTY SEVEN,37
+38-thirtyeight,thirty eight,3487,THIRTY EIGHT,38
+39-thirtynine,thirty nine,3488,THIRTY NINE,39
+40-forty,forty,1716,FORTY,40
