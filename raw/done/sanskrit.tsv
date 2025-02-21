@@ -49,24 +49,3 @@ ID	DOCULECT	CONCEPT	NUMBER	DEVANAGARI_NUMBER	VALUE_	FORM	ORDINAL_NUMBER	TOKENS	M
 45	Sanskrit	three	3	३	त्रि	tri	तृतीय (tṛtīya)	t r i	three	10	t r - i - -
 46	Sanskrit	thirty	30	३०	त्रिंशति	triṁśati	त्रिंश (triṁśa)	t r ĩ/i + ʃ a t i	three ty	10 8	t r - ĩ/i - - + ʃ a t i
 50	Sanskrit	twenty	20	२०	विंशति	viṁśati	विंश (viṁśa)	-/d v ĩ/i + ʃ a t i	two ty	4 8	
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@css=menu:show|database:hide
-#@basics=ALIGNMENT|COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NUMBER|TOKENS
-#@_selected_doculects=Sanskrit
-#@_selected_concepts=eight|eighteen|thirty eight|twenty eight|four|foureen|twenty four|thirty four|forty|ten|twelve|thirty two|twenty two|two|one|eleven|thirty nine|twenty nine|nineteen|thirty one|twenty one|nine|fifteen|five|thirty five|twenty five|twenty six|seven|seventeen|thirty seven|twenty seven|six|thirty six|sixteen|zero|thirty three|thirteen|twenty three|three|thirty|twenty
-#@sorted_taxa=Sanskrit
-#@sorted_concepts=eight|eighteen|thirty eight|twenty eight|four|foureen|twenty four|thirty four|forty|ten|twelve|thirty two|twenty two|two|one|eleven|thirty nine|twenty nine|nineteen|thirty one|twenty one|nine|fifteen|five|thirty five|twenty five|twenty six|seven|seventeen|thirty seven|twenty seven|six|thirty six|sixteen|zero|thirty three|thirteen|twenty three|three|thirty|twenty
-#@display=filedisplay
-#@missing_marker=Ø
-#@separator=
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=undefined
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=sanskrit2.tsv
-#@navbar=true
-#@_morphology_mode=full
