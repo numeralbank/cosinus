@@ -9,30 +9,30 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Annotating and Inferring Compositional Structures in Numeral Systems Across Languages",
-    "dcat:accessURL": "git@github.com:chrzyki/numeralpacs",
+    "dcat:accessURL": "https://github.com/calc-project/numeralpacs",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:chrzyki/numeralpacs",
+            "rdf:about": "https://github.com/calc-project/numeralpacs",
             "rdf:type": "prov:Entity",
-            "dc:created": "2dcad7a",
+            "dc:created": "7029997",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "git@github.com:glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v4.8-43-g2dfc4be1ed",
             "dc:title": "Glottolog"
         },
         {
-            "rdf:about": "git@github.com:concepticon/concepticon-data",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.3.0",
+            "dc:created": "v3.2.0-12-g07b860f0",
             "dc:title": "Concepticon"
         },
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.3.0",
+            "dc:created": "v2.2.0-11-g6e60c1d",
             "dc:title": "CLTS"
         }
     ],
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.1"
+            "dc:description": "3.11.9"
         },
         {
             "dc:title": "python-packages",
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 1053,
+            "dc:extent": 1054,
             "tableSchema": {
                 "columns": [
                     {
