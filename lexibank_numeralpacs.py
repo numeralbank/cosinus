@@ -184,7 +184,7 @@ def validate_language(data, sources_for_lang):
             errors.append(msg)
 
     for gloss, id_set in gloss_to_id.items():
-        if len(id_set) > 1:
+        if gloss != "?" and len(id_set) > 1:
             msg = f"Gloss {gloss} in language {language} maps to multiple IDs: {id_set}."
             warnings.append(msg)
 
