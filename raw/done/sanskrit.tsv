@@ -42,7 +42,6 @@ ID	DOCULECT	CONCEPT	NUMBER	DEVANAGARI_NUMBER	VALUE_	FORM	ORDINAL_NUMBER	TOKENS	M
 38	Sanskrit	six	6	६	षष्	ṣaṣ	षष्ठ (ṣaṣṭha)	ʂ a ʂ	six	14		Stenzler1915
 39	Sanskrit	thirty six	36	३६	षट्त्रिंशत्	ṣaṭtriṁśat	षट्त्रिंश (ṣaṭtriṁśa)	ʂ a ʈ/ʂ + t r ĩ/i + ʃ a t -/i	six three ty	14 10 8	ʂ a ʈ/ʂ + t r - ĩ/i - - + ʃ a t -/i	Stenzler1915
 40	Sanskrit	sixteen	16	१६	षोडश	ṣoḍaśa	षोडश (ṣoḍaśa)	ʂ o/a -/ʂ + ɖ/d a ʃ a	six ten	14 5		Stenzler1915
-41	Sanskrit	zero	0	०	शून्य	śūnya		ʃ uː n j a	zero	15		Stenzler1915
 42	Sanskrit	thirty three	33	३३	त्रयस्त्रिंशत्	trayastriṁśat	त्रयस्त्रिंश (trayastriṁśa)	t r a/- j/i a/- s/- + t r ĩ/i + ʃ a t -/i	three three ty	10 10 8	t r a/- j/i a/- s/- + t r - ĩ/i - - + ʃ a t -/i	Stenzler1915
 43	Sanskrit	thirteen	13	१३	त्रयोदश	trayodaśa	त्रयोदश (trayodaśa)	t r a/- j/i o/- + d a ʃ a	three ten	10 5	t r a/- j/i o/- - + d a ʃ a	Stenzler1915
 44	Sanskrit	twenty three	23	२३	त्रयोविंशति	trayoviṁśati	त्रयोविंश (trayoviṁśa)	t r a/- j/i o/- + -/d v ĩ/i + ʃ a t i	three two ty	10 4 8	t r a/- j/i o/- - + -/d v ĩ/i + ʃ a t i	Stenzler1915

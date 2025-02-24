@@ -27,6 +27,7 @@ def underlying(segments):
 class CustomLanguage(pylexibank.Language):
     Sources = attr.ib(default=None)
     FileName = attr.ib(default=None)
+    Base = attr.ib(default=None, metadata={"format": "integer"})
 
 @attr.s
 class CustomConcept(pylexibank.Concept):

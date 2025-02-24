@@ -105,6 +105,7 @@ for i, (language, items) in enumerate(sorted(data.items(), key=lambda x:
         languages[language].data['Glottocode'],
         languages[language].data['Name'],
         languages[language].data["Family"],
+        languages[language].data["Base"],
         form_count,
         statistics.mean(sfs.values()),
         statistics.mean(ufs.values()),
@@ -117,7 +118,7 @@ for i, (language, items) in enumerate(sorted(data.items(), key=lambda x:
 print(
         tabulate(
             table, 
-            headers=["Number", "Glottocode", "Language", "Family", "Forms",
+            headers=["Number", "Glottocode", "Language", "Family", "Base", "Forms",
                      "Surface",
                      "Underlying", "Cognates", 
                      "Surf. Morph.",

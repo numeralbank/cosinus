@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/calc-project/numeralpacs",
             "rdf:type": "prov:Entity",
-            "dc:created": "e2434eb",
+            "dc:created": "7149b5e",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 1054,
+            "dc:extent": 1053,
             "tableSchema": {
                 "columns": [
                     {
@@ -246,6 +246,10 @@
                     {
                         "datatype": "string",
                         "name": "FileName"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Base"
                     }
                 ],
                 "primaryKey": [
@@ -256,7 +260,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 41,
+            "dc:extent": 40,
             "tableSchema": {
                 "columns": [
                     {

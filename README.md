@@ -27,12 +27,12 @@ This dataset is licensed under a CC-BY-4.0 license
 ![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
 
 - **Varieties:** 25 (linked to 25 different Glottocodes)
-- **Concepts:** 41 (linked to 41 different Concepticon concept sets)
-- **Lexemes:** 1,054
+- **Concepts:** 40 (linked to 40 different Concepticon concept sets)
+- **Lexemes:** 1,053
 - **Sources:** 44
 - **Synonymy:** 1.05
 - **Invalid lexemes:** 0
-- **Tokens:** 10,876
+- **Tokens:** 10,873
 - **Segments:** 163 (4 BIPA errors, 3 CLTS sound class errors, 158 CLTS modified)
 - **Inventory size (avg):** 23.16
 
