@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/calc-project/numeralpacs",
             "rdf:type": "prov:Entity",
-            "dc:created": "7029997",
+            "dc:created": "e2434eb",
             "dc:title": "Repository"
         },
         {
@@ -147,7 +147,6 @@
                     },
                     {
                         "datatype": "string",
-                        "separator": " ",
                         "name": "Tokens"
                     }
                 ],

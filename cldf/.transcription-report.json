@@ -10123,9 +10123,9 @@
         },
         "Shanghainese": {
             "bipa_errors": [
-                "\u1d07",
                 "\u030d",
-                "i\u1d07"
+                "i\u1d07",
+                "\u1d07"
             ],
             "general_errors": 28,
             "replacements": {
@@ -10605,9 +10605,9 @@
                 ]
             },
             "sclass_errors": [
-                "\u1d07",
                 "\u030d",
-                "i\u1d07"
+                "i\u1d07",
+                "\u1d07"
             ],
             "segments": {
                 "+": 38,
@@ -12966,8 +12966,8 @@
         "bipa_errors": [
             "",
             "\u030d",
-            "\u1d07",
-            "i\u1d07"
+            "i\u1d07",
+            "\u1d07"
         ],
         "general_errors": 46,
         "invalid_words": [],
@@ -13450,9 +13450,9 @@
             ]
         },
         "sclass_errors": [
-            "\u1d07",
             "\u030d",
-            "i\u1d07"
+            "i\u1d07",
+            "\u1d07"
         ],
         "segments": {
             "": 18,

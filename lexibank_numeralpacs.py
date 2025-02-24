@@ -43,7 +43,7 @@ class CustomLexeme(pylexibank.Lexeme):
                                                        "separator": " + "})
     Underlying_Form = attr.ib(default=None, metadata={"format": "string",
                                                        "separator": " + "})
-    Tokens = attr.ib(default=None, metadata={"format": "string", "separator": " "})
+    Tokens = attr.ib(default=None, metadata={"format": "string"})
 
 
 class Dataset(pylexibank.Dataset):
