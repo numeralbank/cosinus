@@ -4,6 +4,7 @@ from pathlib import Path
 from collections import defaultdict
 from tabulate import tabulate
 import statistics
+import csv
 
 
 def our_path():
@@ -115,22 +116,20 @@ for i, (language, items) in enumerate(sorted(data.items(), key=lambda x:
         len(cgs),
         "!" if len(ufs) != len(cgs) else ""
         ]]
-print(
-        tabulate(
-            table, 
-            headers=["Number", "Glottocode", "Language", "Family", "Base", "Forms",
+
+headers = ["Number", "Glottocode", "Language", "Family", "Base", "Forms",
                      "Surface",
-                     "Underlying", "Cognates", 
+                     "Underlying", "Cognates",
                      "Surf. Morph.",
                      "Und. Morph.",
                      "Cogn.",
+                     "Problems"]
 
-                     "Problems"],
-            tablefmt="pipe",
-            floatfmt=".2f"
-               )
-      )
+print(tabulate(table, headers=headers, tablefmt="pipe", floatfmt=".2f"))
 
-
-
+with open(our_path() / "stats.csv", "w") as f:
+    writer = csv.writer(f)
+    writer.writerow(headers)
+    for row in table:
+        writer.writerow(row)
 
