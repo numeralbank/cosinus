@@ -113,6 +113,7 @@ class Dataset(pylexibank.Dataset):
                         Surface_Form=surface(data["TOKENS"].split()),
                         Underlying_Form=underlying(data["TOKENS"].split()),
                         Tokens=data["TOKENS"],
+                        Comment=data.get("NOTE", "")
                     )
                 except ValueError:
                     args.log.error(
