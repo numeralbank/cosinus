@@ -5,6 +5,10 @@ from collections import defaultdict
 from tabulate import tabulate
 import statistics
 import csv
+import matplotlib.pyplot as plt
+from scipy.stats import pearsonr
+from morseg.algorithms.tokenizer import Morfessor
+from morseg.utils.wrappers import WordlistWrapper, WordWrapper
 
 
 def our_path():
@@ -56,13 +60,28 @@ def expressivity(data, language):
         ufs[m] = sum(ufs[m])
     for m in cgs:
         cgs[m] = sum(cgs[m])
-    
-    
 
     return (
             sfs,
             ufs,
             cgs)
+
+
+def morfessor_f1(data, underlying=False):
+    forms = []
+    idx = 1 if underlying else 0
+
+    for concept, items in data.items():
+        for form in items:
+            surface = form[idx]
+            split_form = [morpheme.split() for morpheme in surface if morpheme]
+            forms.append(split_form)
+
+    wl = WordlistWrapper(forms)
+    model = Morfessor()
+    model.train(wl)
+
+    return model.forms.f1_score()
 
 
 ds = Dataset.from_metadata(
@@ -87,14 +106,47 @@ for form in ds.objects("FormTable"):
                 surface,
                 underlying,
                 cognates,
-                morphemes)]
+                morphemes
+            )
+    ]
+
+    # extract only vigesimal system for scottish and lamjung
+    if language.id in ["Scottish_Gaelic", "Lamjung_Yolmo"]:
+        note = form.data["Comment"]
+        if (not note) or note.startswith("vigesimal"):
+            lang_key = language.id + "-20"
+            data[lang_key][concept.data["Name"]] += [
+                (
+                    surface,
+                    underlying,
+                    cognates,
+                    morphemes
+                )
+            ]
+
 
 table = []
+morpheme_expressivity = []
+num_morphemes = []
 
-for i, (language, items) in enumerate(sorted(data.items(), key=lambda x:
-                                             languages[x[0]].data["Name"])):
+f1_scores = []
+opacities = []
+
+for i, (language, items) in enumerate(sorted(data.items())):
     sfs, ufs, cgs = expressivity(items, language)
-    
+    morpheme_expressivity.append(statistics.mean(cgs.values()))
+    num_morphemes.append(len(cgs))
+
+    morfessor_score = morfessor_f1(items)[0]
+    f1_scores.append(morfessor_score)
+    opacities.append(len(sfs) / len(cgs))
+
+    morfessor_underlying = morfessor_f1(items, underlying=True)[0]
+
+    vigesimal_only = language.endswith("-20")
+    if vigesimal_only:
+        language = language[:-3]
+
     # can also be put into a function or into expressivity
     form_count = 0
     for forms in items.values():
@@ -114,7 +166,10 @@ for i, (language, items) in enumerate(sorted(data.items(), key=lambda x:
         len(sfs),
         len(ufs),
         len(cgs),
-        "!" if len(ufs) != len(cgs) else ""
+        len(sfs) / len(cgs),
+        morfessor_score,
+        morfessor_underlying,
+        "X" if vigesimal_only else ""
         ]]
 
 headers = ["Number", "Glottocode", "Language", "Family", "Base", "Forms",
@@ -122,8 +177,8 @@ headers = ["Number", "Glottocode", "Language", "Family", "Base", "Forms",
                      "Underlying", "Cognates",
                      "Surf. Morph.",
                      "Und. Morph.",
-                     "Cogn.",
-                     "Problems"]
+                     "Cogn.", "Morph. Opacity", "Morfessor F1", "Morfessor F1 (underlying)",
+                     "only vigesimal"]
 
 print(tabulate(table, headers=headers, tablefmt="pipe", floatfmt=".2f"))
 
@@ -133,3 +188,11 @@ with open(our_path() / "stats.csv", "w") as f:
     for row in table:
         writer.writerow(row)
 
+plt.scatter(morpheme_expressivity, num_morphemes)
+stat = pearsonr(morpheme_expressivity, num_morphemes)
+plt.show()
+
+plt.cla()
+plt.scatter(opacities, f1_scores)
+print(pearsonr(f1_scores, opacities))
+plt.show()
