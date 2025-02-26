@@ -1,0 +1,6 @@
+pycldf
+matplotlib
+numpy
+scipy
+tabulate
+../morseg

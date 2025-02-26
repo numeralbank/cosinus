@@ -1,12 +1,10 @@
 from pycldf import Dataset
-from lingpy import Wordlist
 from pathlib import Path
 from collections import defaultdict
 from tabulate import tabulate
 import statistics
 import csv
 import matplotlib.pyplot as plt
-from scipy.stats import pearsonr
 from morseg.algorithms.tokenizer import Morfessor
 from morseg.utils.wrappers import WordlistWrapper, WordWrapper
 import math
