@@ -8,6 +8,7 @@ import random
 from linse.typedsequence import Word, Morpheme
 from morseg.utils.wrappers import WordWrapper, WordlistWrapper
 from morseg.datastruct import Trie
+from tqdm import tqdm
 
 import collections
 
@@ -121,7 +122,7 @@ class PairEncoding(Tokenizer):
             self.training_history = collections.defaultdict(list)
 
         # merge most frequent bigram
-        for _ in range(iterations):
+        for _ in tqdm(range(iterations)):
             pairs = self.training_data.bigram_counts()
             if len(pairs) == 0:
                 break
@@ -130,15 +131,20 @@ class PairEncoding(Tokenizer):
                 break
             self.training_data.merge(*best_pair)
 
+            alphabet_size = len(self.training_data.unigram_counts())
+
             # update training history
             if callbacks:
                 if "alphabet_size" in callbacks:
-                    self.training_history["alphabet_size"].append(len(self.training_data.unigram_counts()))
+                    self.training_history["alphabet_size"].append(alphabet_size)
                 if "f1" in callbacks:
                     f1, precision, recall = self.training_data.f1_score()
                     self.training_history["f1"].append(f1)
                     self.training_history["precision"].append(precision)
                     self.training_history["recall"].append(recall)
+
+            if alphabet_size == kwargs.get("vocab_size", 0):
+                break
 
 
 class WordPiece(Tokenizer):
@@ -155,7 +161,7 @@ class WordPiece(Tokenizer):
         if callbacks:
             self.training_history = collections.defaultdict(list)
 
-        for _ in range(iterations):
+        for _ in tqdm(range(iterations)):
             # count bigram frequencies
             bigram_freq = self.training_data.bigram_counts()
 
@@ -189,6 +195,17 @@ class WordPiece(Tokenizer):
 
             self.training_data.merge(best_first, best_second, wp_token=wp_prefix)
 
+            clean_alphabet = set()
+            for key, value in alphabet.items():
+                clean_key = key.copy()
+                if wp_prefix:
+                    while wp_prefix in clean_key:
+                        clean_key.remove(wp_prefix)
+                if value > 0:
+                    clean_alphabet.add(tuple(clean_key))
+
+            alphabet_size = len(clean_alphabet)
+
             # update training history
             if callbacks:
                 if "alphabet_size" in callbacks:
@@ -199,6 +216,10 @@ class WordPiece(Tokenizer):
                     self.training_history["f1"].append(f1)
                     self.training_history["precision"].append(precision)
                     self.training_history["recall"].append(recall)
+
+            # stop if desired alphabet size is reached
+            if alphabet_size == kwargs.get("vocab_size", 0):
+                break
 
         # remove special prefix token from vocabulary
         if wp_prefix:
@@ -290,10 +311,16 @@ class UnigramSentencePiece(Tokenizer):
         self._compute_probs()
 
     def _train(self, max_iterations=60, convergence_threshold=1e-4, percent_to_remove=0.1, **kwargs):
+        callbacks = kwargs.get("callbacks", {})
+        if callbacks:
+            self.training_history = collections.defaultdict(list)
+
         prev_likelihood = self._log_likelihood()
 
-        for i in range(max_iterations):
+        for i in tqdm(range(max_iterations)):
             self._prune_vocab()
+            if "alphabet_size" in callbacks:
+                self.training_history["alphabet_size"].append(len({x for x in self.vocab if len(x) > 1}))
             likelihood = self._log_likelihood()
             if abs(likelihood - prev_likelihood) < convergence_threshold or len(self.vocab) <= self.vocab_size:
                 break
@@ -311,6 +338,8 @@ class UnigramSentencePiece(Tokenizer):
     def _backtrack(self, idx, path, word):
         if idx == len(word):
             return [path]
+        if idx > len(word):
+            return []
         segmentations = []
         for j in range(idx + 1, len(word) + 1):
             subword = word[idx:j]

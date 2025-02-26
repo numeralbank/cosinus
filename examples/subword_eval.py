@@ -12,12 +12,16 @@ results = []
 languages = []
 models = ["BPE (surface)", "WordPiece (surface)", "Unigram (surface)", "BPE (underlying)", "WordPiece (underlying)", "Unigram (underlying)"]
 
+problems = ["Cavinena", "Aymara", "Wayuu"]
+
+ideal_vocab_size_found = []
+
 for file in raw_path.glob("*.tsv"):
     with open(file) as f:
         reader = csv.DictReader(f, delimiter="\t")
         for line in reader:
             languages.append(line["DOCULECT"])
-            print(line["DOCULECT"])
+            print("\n\n" + line["DOCULECT"])
             break
 
     row = []
@@ -32,31 +36,43 @@ for file in raw_path.glob("*.tsv"):
 
         vocab_size = len(morphemes)
 
-        """
         # BPE
         model = PairEncoding()
-        model.train(wl, vocab_size=vocab_size)
+        model.train(wl, threshold=3, vocab_size=vocab_size, iterations=200, callbacks=["alphabet_size"])
         row.append(model.forms.f1_score()[0])
+        if vocab_size in model.training_history["alphabet_size"]:
+            ideal_vocab_size_found.append(languages[-1] + "-BPE-" + "underlying" if underlying else
+                                          languages[-1] + "-BPE-" + "surface")
 
         # WordPiece
         model = WordPiece()
-        model.train(wl, vocab_size=vocab_size)
+        model.train(wl, threshold=0.05, vocab_size=vocab_size, iterations=200, callbacks=["alphabet_size"])
         row.append(model.forms.f1_score()[0])
-        """
-        # TODO find working solution for these algorithms
-        row.append(0)
-        row.append(0)
+        if vocab_size in model.training_history["alphabet_size"]:
+            ideal_vocab_size_found.append(languages[-1] + "-WP-" + "underlying" if underlying else
+                                          languages[-1] + "-WP-" +"surface")
+
+
+        # if languages[-1] in problems:
+        #    row.append(0)
+        #    continue
 
         # Unigram
         model = UnigramSentencePiece()
-        model.train(wl, vocab_size=vocab_size, count_single_characters=False)
+        model.train(wl, vocab_size=vocab_size, count_single_characters=False, callbacks=["alphabet_size"])
         row.append(model.forms.f1_score()[0])
+        print(model.forms.f1_score()[0])
+        if vocab_size in model.training_history["alphabet_size"]:
+            ideal_vocab_size_found.append(languages[-1] + "-UG-" + "underlying" if underlying else
+                                          languages[-1] + "-UG-" + "surface")
+
 
     results.append(row)
 
 print(tabulate(results, headers=models, showindex=languages))
+print(ideal_vocab_size_found)
 
-with open("morseg_eval.csv", "w") as f:
+with open("subword_eval.csv", "w") as f:
     writer = csv.writer(f)
     writer.writerow(["Language"] + models)
     for i, row in enumerate(results):
