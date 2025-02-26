@@ -38,7 +38,7 @@ for file in raw_path.glob("*.tsv"):
 
         # BPE
         model = PairEncoding()
-        model.train(wl, threshold=3, vocab_size=vocab_size, iterations=200, callbacks=["alphabet_size"])
+        model.train(wl, threshold=0, vocab_size=vocab_size, iterations=200, callbacks=["alphabet_size"])
         row.append(model.forms.f1_score()[0])
         if vocab_size in model.training_history["alphabet_size"]:
             ideal_vocab_size_found.append(languages[-1] + "-BPE-" + "underlying" if underlying else
@@ -53,9 +53,6 @@ for file in raw_path.glob("*.tsv"):
                                           languages[-1] + "-WP-" +"surface")
 
 
-        # if languages[-1] in problems:
-        #    row.append(0)
-        #    continue
 
         # Unigram
         model = UnigramSentencePiece()
@@ -65,7 +62,6 @@ for file in raw_path.glob("*.tsv"):
         if vocab_size in model.training_history["alphabet_size"]:
             ideal_vocab_size_found.append(languages[-1] + "-UG-" + "underlying" if underlying else
                                           languages[-1] + "-UG-" + "surface")
-
 
     results.append(row)
 
@@ -77,4 +73,4 @@ with open("subword_eval.csv", "w") as f:
     writer.writerow(["Language"] + models)
     for i, row in enumerate(results):
         writer.writerow([languages[i]] + row)
-    writer.writerow(["average"] + np.mean(results, axis=0).tolist())
+    writer.writerow(["average"] + np.nanmean(results, axis=0).tolist())
