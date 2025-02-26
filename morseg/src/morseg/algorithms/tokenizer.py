@@ -206,22 +206,16 @@ class WordPiece(Tokenizer):
 
 
 class UnigramSentencePiece(Tokenizer):
-    """How to use 
-    wordlist = ["einundzwanzig", "zweiundzwanzig"]
-    unigram_tok = UnigramSentencePiece(wordlist, vocab_size=100)
-    unigram_tok.train(wordlist)
-
-    tokenized = list(unigram_tok.tokenize(["dreiundzwanzig"])) 
-    print(tokenized)"""
-
     def __init__(self):
         super().__init__()
 
-    def _preprocess(self, vocab_size=60, **kwargs):
+    def _preprocess(self, vocab_size=60, count_single_characters=False, **kwargs):
         super()._preprocess(**kwargs)
         self.vocab = collections.Counter()
         self.vocab_size = vocab_size
         self._create_ngrams()
+        if not count_single_characters:
+            self.vocab_size += len({x for x in self.vocab if len(x) == 1})
         self._compute_probs()
     
     def _create_ngrams(self):
@@ -297,11 +291,9 @@ class UnigramSentencePiece(Tokenizer):
 
     def _train(self, max_iterations=60, convergence_threshold=1e-4, percent_to_remove=0.1, **kwargs):
         prev_likelihood = self._log_likelihood()
-        print(len(self.vocab))
 
         for i in range(max_iterations):
             self._prune_vocab()
-            print(len(self.vocab))
             likelihood = self._log_likelihood()
             if abs(likelihood - prev_likelihood) < convergence_threshold or len(self.vocab) <= self.vocab_size:
                 break

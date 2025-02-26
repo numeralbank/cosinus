@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import pearsonr
 from morseg.algorithms.tokenizer import Morfessor
 from morseg.utils.wrappers import WordlistWrapper, WordWrapper
+import math
 
 
 def our_path():
@@ -61,10 +62,7 @@ def expressivity(data, language):
     for m in cgs:
         cgs[m] = sum(cgs[m])
 
-    return (
-            sfs,
-            ufs,
-            cgs)
+    return sfs, ufs, cgs
 
 
 def morfessor_f1(data, underlying=False):
@@ -82,6 +80,17 @@ def morfessor_f1(data, underlying=False):
     model.train(wl)
 
     return model.forms.f1_score()
+
+
+def entropy(data):
+    total = sum(data.values())
+    entropy = 0
+
+    for freq in data.values():
+        proba = freq / total
+        entropy -= proba * math.log(proba)
+
+    return entropy
 
 
 ds = Dataset.from_metadata(
@@ -132,8 +141,17 @@ num_morphemes = []
 f1_scores = []
 opacities = []
 
+entropies = []
+coding_lengths = []
+
 for i, (language, items) in enumerate(sorted(data.items())):
     sfs, ufs, cgs = expressivity(items, language)
+    sfs_entropy = entropy(sfs)
+    ufs_entropy = entropy(ufs)
+    cgs_entropy = entropy(cgs)
+
+    entropies.append(cgs_entropy)
+
     morpheme_expressivity.append(statistics.mean(cgs.values()))
     num_morphemes.append(len(cgs))
 
@@ -149,9 +167,15 @@ for i, (language, items) in enumerate(sorted(data.items())):
 
     # can also be put into a function or into expressivity
     form_count = 0
+    morpheme_count = 0
     for forms in items.values():
         for form in forms:
             form_count += 1
+            morpheme_count += len(form[1])
+
+    # calculate coding length
+    coding_length = morpheme_count / form_count
+    coding_lengths.append(coding_length)
 
     table += [[
         i + 1,
@@ -166,6 +190,13 @@ for i, (language, items) in enumerate(sorted(data.items())):
         len(sfs),
         len(ufs),
         len(cgs),
+        len(sfs) / sum(sfs.values()),
+        len(ufs) / sum(ufs.values()),
+        len(cgs) / sum(cgs.values()),
+        sfs_entropy,
+        ufs_entropy,
+        cgs_entropy,
+        coding_length,
         len(sfs) / len(cgs),
         morfessor_score,
         morfessor_underlying,
@@ -177,7 +208,10 @@ headers = ["Number", "Glottocode", "Language", "Family", "Base", "Forms",
                      "Underlying", "Cognates",
                      "Surf. Morph.",
                      "Und. Morph.",
-                     "Cogn.", "Morph. Opacity", "Morfessor F1", "Morfessor F1 (underlying)",
+                     "Cogn.",
+                     "TTR (Surface)", "TTR (Underlying)", "TTR (Cognates)",
+                     "H (Surface)", "H (Underlying)", "H (Cognates)", "code length",
+                     "Morph. Opacity", "Morfessor F1", "Morfessor F1 (underlying)",
                      "only vigesimal"]
 
 print(tabulate(table, headers=headers, tablefmt="pipe", floatfmt=".2f"))
@@ -188,6 +222,7 @@ with open(our_path() / "stats.csv", "w") as f:
     for row in table:
         writer.writerow(row)
 
+"""
 plt.scatter(morpheme_expressivity, num_morphemes)
 stat = pearsonr(morpheme_expressivity, num_morphemes)
 plt.show()
@@ -195,4 +230,8 @@ plt.show()
 plt.cla()
 plt.scatter(opacities, f1_scores)
 print(pearsonr(f1_scores, opacities))
+plt.show()
+"""
+
+plt.scatter(entropies, coding_lengths)
 plt.show()

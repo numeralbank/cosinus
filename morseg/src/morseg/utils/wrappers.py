@@ -216,7 +216,7 @@ class WordlistWrapper(list):
         return f1, precision, recall
 
     @classmethod
-    def from_file(cls, fp, col_name="TOKENS", delimiter="\t"):
+    def from_file(cls, fp, col_name="TOKENS", delimiter="\t", underlying=False):
         forms = []
 
         with open(fp) as f:
@@ -226,13 +226,15 @@ class WordlistWrapper(list):
                 if form and form not in forms:
                     forms.append(form)
 
-        forms = cls.preprocess(forms)
+        forms = cls.preprocess(forms, underlying=underlying)
 
         return cls(forms)
 
     @classmethod
-    def preprocess(cls, forms, morpheme_separator=Word.item_separator):
+    def preprocess(cls, forms, morpheme_separator=Word.item_separator, underlying=False):
         preprocessed_forms = []
+
+        idx = 1 if underlying else 0
 
         for f in forms:
             # each form is a string segmented by whitespaces, such as 'a b + c'
@@ -240,9 +242,15 @@ class WordlistWrapper(list):
             morphemes = f.split(morpheme_separator)
             for m in morphemes:
                 m = m.split()
-                # resolve slash notation: only take part left of the slash, ignore if it is a gap symbol
-                m = [seg.split("/")[0] for seg in m if seg.split("/")[0] != "-"]
-                word.append(m)
+                # resolve slash notation: only take part left (or right, underlying) of the slash, ignore if it is a gap symbol
+                clean_morpheme = []
+                for segment in m:
+                    if "/" in segment:
+                        segment = segment.split("/")[idx]
+                        if segment == "-":
+                            continue
+                    clean_morpheme.append(segment)
+                word.append(clean_morpheme)
             preprocessed_forms.append(word)
 
         return preprocessed_forms
