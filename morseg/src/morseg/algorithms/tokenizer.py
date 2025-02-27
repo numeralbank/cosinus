@@ -252,7 +252,8 @@ class UnigramSentencePiece(Tokenizer):
         self.model = {}
         total_count = sum(self.vocab.values())
         for token in self.vocab:
-            self.model[token] = -math.log((self.vocab[token]) / total_count)
+            # use tuples as keys for convenient lookup
+            self.model[tuple(token)] = -math.log((self.vocab[token]) / total_count)
 
     def _loss(self, segmentation):
         """
@@ -260,6 +261,7 @@ class UnigramSentencePiece(Tokenizer):
         """
         score = 0
         for token in segmentation:
+            token = tuple(token)
             if token in self.model:
                 score += self.model[token]
             else:
@@ -277,28 +279,25 @@ class UnigramSentencePiece(Tokenizer):
         for word in self.training_data:
             word = word.unsegmented[0]
             # get all segmentations for word, retrieve the lowest loss
-            segmentations = self._segment_word(word)
-            best_score = math.inf
-            best_segmentation = None
-            for s in segmentations:
-                score = self._loss(s)
-                if score < best_score:
-                    best_score = score
-                    best_segmentation = s
+            best_segmentation, best_score = self._viterbi(word)
             # now calculate the best loss under the assumption that an n-gram is removed from the vocabulary
             for token in best_segmentation:
-                valid_segmentations = [s for s in segmentations if token not in s]
-                best_remaining_score = math.inf
-                for s in valid_segmentations:
-                    best_remaining_score = min(best_remaining_score, self._loss(s))
+                if len(token) == 1:
+                    continue
+                _, best_remaining_score = self._viterbi(word, ignore=token)
                 scores[token] += best_remaining_score - best_score
 
         # a token that does not occur in any of the best segmentations has a score of 0
         return {token: scores[token] for token in self.vocab if len(token) > 1}
 
     def _log_likelihood(self):
-        return sum([self._tokenize(w.unsegmented[0])[1] for w in self.training_data])
-    
+        log_likelihood = 0
+        for form in tqdm(self.training_data):
+            form = form.unsegmented[0]
+            log_likelihood += self._viterbi(form)[1]
+
+        return log_likelihood
+
     def _prune_vocab(self, percent_to_remove=0.1):
         scores = self._score()
         sorted_scores = list(sorted(scores.items(), key=lambda x: x[1]))
@@ -317,7 +316,7 @@ class UnigramSentencePiece(Tokenizer):
 
         prev_likelihood = self._log_likelihood()
 
-        for i in tqdm(range(max_iterations)):
+        for _ in tqdm(range(max_iterations)):
             self._prune_vocab()
             if "alphabet_size" in callbacks:
                 self.training_history["alphabet_size"].append(len({x for x in self.vocab if len(x) > 1}))
@@ -328,30 +327,38 @@ class UnigramSentencePiece(Tokenizer):
 
     def _postprocess(self):
         for form in self.forms:
-            segmented, _ = self._tokenize(form.unsegmented[0])
+            segmented, _ = self._viterbi(form.unsegmented[0])
             form.update(segmented)
 
-    def _segment_word(self, word): #Can be replaced with the Viterbi algorithm.
-        segmentations = self._backtrack(0, [], word)
-        return segmentations
+    def _viterbi(self, word, ignore=None):
+        word = tuple(word)
+        eow_index = len(word) + 1
+        best_slices = [None] * eow_index
+        likelihood_scores = [0] * eow_index
 
-    def _backtrack(self, idx, path, word):
-        if idx == len(word):
-            return [path]
-        if idx > len(word):
-            return []
-        segmentations = []
-        for j in range(idx + 1, len(word) + 1):
-            subword = word[idx:j]
-            if subword in self.vocab:
-                segmentations += self._backtrack(j, path + [subword], word)
-        return segmentations
-    
-    def _tokenize(self, word, **kwargs):
-        segmentations = self._segment_word(word)
-        best_seg = min(segmentations, key=lambda seg: self._loss(seg))
-        best_loss = self._loss(best_seg)
-        return best_seg, best_loss
+        # forward step
+        for eow in range(1, len(word) + 1):
+            likelihood_scores[eow] = math.inf
+            for bow in range(eow):
+                slice = word[bow:eow]
+                if tuple(slice) in self.model and slice != ignore:
+                    score = likelihood_scores[bow] + self.model[tuple(slice)]
+                    if score < likelihood_scores[eow]:
+                        likelihood_scores[eow] = score
+                        best_slices[eow] = (bow, eow)
+
+        # backward step
+        subwords = []
+        next_slice = best_slices[-1]
+
+        while next_slice is not None:  # best_slices at index 0 is None
+            bow, eow = next_slice
+            subw = word[bow:eow]
+            subwords.append(subw)
+            next_slice = best_slices[bow]
+        subwords.reverse()
+
+        return subwords, likelihood_scores[-1]
 
 
 class Morfessor(Tokenizer):
