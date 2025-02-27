@@ -133,14 +133,6 @@ for form in ds.objects("FormTable"):
 
 
 table = []
-morpheme_expressivity = []
-num_morphemes = []
-
-f1_scores = []
-opacities = []
-
-entropies = []
-coding_lengths = []
 
 for i, (language, items) in enumerate(sorted(data.items())):
     sfs, ufs, cgs = expressivity(items, language)
@@ -148,14 +140,7 @@ for i, (language, items) in enumerate(sorted(data.items())):
     ufs_entropy = entropy(ufs)
     cgs_entropy = entropy(cgs)
 
-    entropies.append(cgs_entropy)
-
-    morpheme_expressivity.append(statistics.mean(cgs.values()))
-    num_morphemes.append(len(cgs))
-
     morfessor_score = morfessor_f1(items)[0]
-    f1_scores.append(morfessor_score)
-    opacities.append(len(sfs) / len(cgs))
 
     morfessor_underlying = morfessor_f1(items, underlying=True)[0]
 
@@ -173,7 +158,6 @@ for i, (language, items) in enumerate(sorted(data.items())):
 
     # calculate coding length
     coding_length = morpheme_count / form_count
-    coding_lengths.append(coding_length)
 
     table += [[
         i + 1,
@@ -195,7 +179,7 @@ for i, (language, items) in enumerate(sorted(data.items())):
         ufs_entropy,
         cgs_entropy,
         coding_length,
-        len(sfs) / len(cgs),
+        len(sfs) / len(ufs),
         morfessor_score,
         morfessor_underlying,
         "X" if vigesimal_only else ""
@@ -219,17 +203,3 @@ with open(our_path() / "stats.csv", "w") as f:
     writer.writerow(headers)
     for row in table:
         writer.writerow(row)
-
-"""
-plt.scatter(morpheme_expressivity, num_morphemes)
-stat = pearsonr(morpheme_expressivity, num_morphemes)
-plt.show()
-
-plt.cla()
-plt.scatter(opacities, f1_scores)
-print(pearsonr(f1_scores, opacities))
-plt.show()
-"""
-
-plt.scatter(entropies, coding_lengths)
-plt.show()

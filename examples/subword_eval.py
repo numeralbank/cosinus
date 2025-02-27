@@ -38,7 +38,7 @@ for file in raw_path.glob("*.tsv"):
 
         # BPE
         model = PairEncoding()
-        model.train(wl, threshold=0, vocab_size=vocab_size, iterations=200, callbacks=["alphabet_size"])
+        model.train(wl, threshold=3, vocab_size=vocab_size, iterations=200, callbacks=["alphabet_size"])
         row.append(model.forms.f1_score()[0])
         if vocab_size in model.training_history["alphabet_size"]:
             ideal_vocab_size_found.append(languages[-1] + "-BPE-" + "underlying" if underlying else
@@ -56,12 +56,9 @@ for file in raw_path.glob("*.tsv"):
 
         # Unigram
         model = UnigramSentencePiece()
-        model.train(wl, vocab_size=vocab_size, count_single_characters=False, callbacks=["alphabet_size"])
+        model.train(wl, vocab_size=vocab_size, count_single_characters=False)
         row.append(model.forms.f1_score()[0])
         print(model.forms.f1_score()[0])
-        if vocab_size in model.training_history["alphabet_size"]:
-            ideal_vocab_size_found.append(languages[-1] + "-UG-" + "underlying" if underlying else
-                                          languages[-1] + "-UG-" + "surface")
 
     results.append(row)
 
