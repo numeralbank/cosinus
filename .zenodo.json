@@ -1,11 +1,36 @@
 {
-    "title": "Annotating and Inferring Compositional Structures in Numeral Systems Across Languages",
+    "title": "CLDF Dataset presenting Rubehn et al.'s \"Compositional Structures in Numeral Systems Across Languages\" from 2025",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
+    "creators": [
+        {
+            "name": "Arne Rubehn"
+        },
+        {
+            "name": "Christoph Rzymski"
+        },
+        {
+            "name": "Luca Ciucci"
+        },
+        {
+            "name": "Katja Bocklage"
+        },
+        {
+            "name": "Al\u017eb\u011bta Ku\u010derov\u00e1"
+        },
+        {
+            "name": "David Snee"
+        },
+        {
+            "name": "Kellen Parker van Dam"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
     "contributors": [],
     "communities": [
         {
@@ -13,7 +38,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Cite as...</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Rubehn, A., C. Rzymski, L. Ciucci, K. van Dam, A. Ku\u010derov\u00e1, K. Bocklage, D. Snee, A. Stephen, and J.-M. List (forthcoming): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 1-13. https://doi.org/10.48550/arXiv.2503.01625</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

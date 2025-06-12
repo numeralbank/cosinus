@@ -1,38 +1,41 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Cite as...",
+    "dc:bibliographicCitation": "Rubehn, A., C. Rzymski, L. Ciucci, K. van Dam, A. Ku\u010derov\u00e1, K. Bocklage, D. Snee, A. Stephen, and J.-M. List (forthcoming): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 1-13. https://doi.org/10.48550/arXiv.2503.01625",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": "A short description.",
+    "dc:description": "CLDF dataset providing annotated numeral systems.",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Chan-2019-133"
+    ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Annotating and Inferring Compositional Structures in Numeral Systems Across Languages",
-    "dcat:accessURL": "https://github.com/calc-project/numeralpacs",
+    "dc:title": "CLDF Dataset presenting Rubehn et al.'s \"Compositional Structures in Numeral Systems Across Languages\" from 2025",
+    "dcat:accessURL": "git@github.com:calc-project/numeral-annotation-study",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/calc-project/numeralpacs",
+            "rdf:about": "git@github.com:calc-project/numeral-annotation-study",
             "rdf:type": "prov:Entity",
-            "dc:created": "eaa885e",
+            "dc:created": "v.1.0-6-ged9675b",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8-43-g2dfc4be1ed",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         },
         {
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "rdf:about": "git@github.com:concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.2.0-12-g07b860f0",
+            "dc:created": "v3.4.0",
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0-11-g6e60c1d",
+            "dc:created": "v2.3.0",
             "dc:title": "CLTS"
         }
     ],
@@ -43,14 +46,14 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.9"
+            "dc:description": "3.13.2"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "numeralpacs",
+    "rdf:ID": "cosinus",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
