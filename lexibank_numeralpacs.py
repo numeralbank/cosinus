@@ -49,7 +49,7 @@ class CustomLexeme(pylexibank.Lexeme):
 
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
-    id = "numeralpacs"
+    id = "cosinus"
     writer_options = dict(keep_languages=False, keep_parameters=False)
     lexeme_class = CustomLexeme
     language_class = CustomLanguage
