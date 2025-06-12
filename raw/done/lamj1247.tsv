@@ -1,20 +1,20 @@
 ID	DOCULECT	CONCEPT	FORM	TOKENS	TONE	ALIGNMENT	COGIDS	MORPHEMES	NOTE
-1	Lamjung_Yolmo	one	tɕíi	tɕ iː	h		7	one	
+1	Lamjung_Yolmo	one	tɕíi	tɕ iː	h	tɕ iː	7	one	
 2	Lamjung_Yolmo	two	ɲíi	ɲ iː	h	ɲ iː	8	two	
-3	Lamjung_Yolmo	three	súm	s u m	h		6	three	
+3	Lamjung_Yolmo	three	súm	s u m	h	s u m	6	three	
 4	Lamjung_Yolmo	four	ʑì	ʑ/ɕ i -/p	l	ʑ/ɕ i -/p	13	four	
-5	Lamjung_Yolmo	five	ŋá	ŋ a	h		1	five	
+5	Lamjung_Yolmo	five	ŋá	ŋ a	h	ŋ a	1	five	
 6	Lamjung_Yolmo	six	ʈùu	ʈ uː	l	ʈ uː	11	six	
 7	Lamjung_Yolmo	seven	tìn	t iː/i -/n	l	t iː/i -/n	3	seven	
 8	Lamjung_Yolmo	eight	kyèe	kʲ eː	l	kʲ eː	15	eight	
-9	Lamjung_Yolmo	nine	kù	k u	l		10	nine	
+9	Lamjung_Yolmo	nine	kù	k u	l	k u	10	nine	
 10	Lamjung_Yolmo	ten	tɕú	tɕ u -/p	h	tɕ u -/p	14	ten	
 11	Lamjung_Yolmo	eleven	tɕúudʑi	tɕ uː/u -/p + dʑ/tɕ i/iː	h _	tɕ uː/u -/p + dʑ/tɕ i/iː	14 7	ten one	
 12	Lamjung_Yolmo	twelve	tɕíɲii	tɕ i/u -/p + ɲ iː	h _	tɕ i/u -/p + ɲ iː	14 8	ten two	
 13	Lamjung_Yolmo	thirteen	tɕúusum	tɕ uː/u -/p + s u m	h _	tɕ uː/u -/p + s u m	14 6	ten three	
 14	Lamjung_Yolmo	fourteen	tɕúpɕi	tɕ u p + ɕ i -/p	h _	tɕ u p + ɕ i -/p	14 13	ten four	
 15	Lamjung_Yolmo	fifteen	tɕéeŋa	tɕ eː/u -/p + ŋ a	h _	tɕ eː/u -/p + ŋ a	14 1	ten five	
-16	Lamjung_Yolmo	sixteen	tɕíiru	tɕ iː + r/ʈ u/uː	h _	tɕ iː + r/ʈ u/uː	7 11	one six	
+16	Lamjung_Yolmo	sixteen	tɕíiru	tɕ iː/u -/p + r/ʈ u/uː	h _	tɕ iː/u -/p + r/ʈ u/uː	14 11	ten six	
 17	Lamjung_Yolmo	seventeen	tɕúptin	tɕ u p + t i n	h _	tɕ u p + t i n	14 3	ten seven	
 18	Lamjung_Yolmo	eighteen	tɕépkye	tɕ e/u p + kʲ e/eː	h _	tɕ e/u p + kʲ e/eː	14 15	ten eight	
 19	Lamjung_Yolmo	nineteen	tɕúrku	tɕ u r/p + k u	h _	tɕ u r/p + k u	14 10	ten nine	
@@ -42,7 +42,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	TONE	ALIGNMENT	COGIDS	MORPHEMES	NOTE
 51	Lamjung_Yolmo	thirty	súmdʑu 	s u m + dʑ/tɕ u -/p	h _	s u m + dʑ/tɕ u -/p	6 14	three ten	
 31	Lamjung_Yolmo	thirty one	kháldʑi tɕídʑi	kʰ a l + dʑ/tɕ i/iː + tɕ i/u -/p + dʑ/tɕ i/iː	h _ h _	kʰ a l + dʑ/tɕ i/iː + tɕ i/u -/p + dʑ/tɕ i/iː	2 7 14 7	twenty one ten one	
 52	Lamjung_Yolmo	thirty one	súmdʑu tɕíi	s u m + dʑ/tɕ u -/p + tɕ iː	h _ h	s u m + dʑ/tɕ u -/p + tɕ iː	6 14 7	three ten one	
-32	Lamjung_Yolmo	thirty two	kháldʑi tɕíɲi	kʰ a l + dʑ/tɕ i/iː + tɕ i/iː + ɲ i/iː	h _ h _	kʰ a l + dʑ/tɕ i/iː + tɕ i/iː + ɲ i/iː	2 7 7 8	twenty one ten two	
+32	Lamjung_Yolmo	thirty two	kháldʑi tɕíɲi	kʰ a l + dʑ/tɕ i/iː + tɕ i/u -/p + ɲ i/iː	h _ h _	kʰ a l + dʑ/tɕ i/iː + tɕ i/u -/p + ɲ i/iː	2 7 14 8	twenty one ten two	
 53	Lamjung_Yolmo	thirty two	súmdʑu ɲíi	s u m + dʑ/tɕ u -/p + ɲ iː	h _ h	s u m + dʑ/tɕ u -/p + ɲ iː	6 14 8	three ten two	
 33	Lamjung_Yolmo	thirty three	kháldʑi tɕúpsum	kʰ a l + dʑ/tɕ i/iː + tɕ u p + s u m	h _ h _	kʰ a l + dʑ/tɕ i/iː + tɕ u p + s u m	2 7 14 6	twenty one ten three	
 54	Lamjung_Yolmo	thirty three	súmdʑu súm	s u m + dʑ/tɕ u -/p + s u m	h _ h	s u m + dʑ/tɕ u -/p + s u m	6 14 6	three ten three	
@@ -50,7 +50,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	TONE	ALIGNMENT	COGIDS	MORPHEMES	NOTE
 55	Lamjung_Yolmo	thirty four	súmdʑu ʑì	s u m + dʑ/tɕ u -/p + ʑ/ɕ i -/p	h _ l	s u m + dʑ/tɕ u -/p + ʑ/ɕ i -/p	6 14 13	three ten four	
 35	Lamjung_Yolmo	thirty five	kháldʑi tɕéeŋa	kʰ a l + dʑ/tɕ i/iː + tɕ eː/u -/p + ŋ a	h _ h _	kʰ a l + dʑ/tɕ i/iː + tɕ eː/u -/p + ŋ a	2 7 14 1	twenty one ten five	
 56	Lamjung_Yolmo	thirty five	súmdʑu ŋá	s u m + dʑ/tɕ u -/p + ŋ a	h _ h	s u m + dʑ/tɕ u -/p + ŋ a	6 14 1	three ten five	
-36	Lamjung_Yolmo	thirty six	kháldʑi tɕíiru	kʰ a l + dʑ/tɕ i/iː + tɕ iː + r/ʈ u/uː	h _ h _	kʰ a l + dʑ/tɕ i/iː + tɕ iː + r/ʈ u/uː	2 7 7 11	twenty one one six	
+36	Lamjung_Yolmo	thirty six	kháldʑi tɕíiru	kʰ a l + dʑ/tɕ i/iː + tɕ iː/u -/p + r/ʈ u/uː	h _ h _	kʰ a l + dʑ/tɕ i/iː + tɕ iː/u -/p + r/ʈ u/uː	2 7 14 11	twenty one ten six	
 57	Lamjung_Yolmo	thirty six	súmdʑu ʈùu	s u m + dʑ/tɕ u -/p + ʈ uː	h _ l	s u m + dʑ/tɕ u -/p + ʈ uː	6 14 11	three ten six	
 37	Lamjung_Yolmo	thirty seven	kháldʑi tɕúptin	kʰ a l + dʑ/tɕ i/iː + tɕ u p + t i n	h _ h _	kʰ a l + dʑ/tɕ i/iː + tɕ u p + t i n	2 7 14 3	twenty one ten seven	
 58	Lamjung_Yolmo	thirty seven	súmdʑu tìn	s u m + dʑ/tɕ u -/p + t i n	h _ l	s u m + dʑ/tɕ u -/p + t i n	6 14 3	three ten seven	
@@ -58,26 +58,5 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	TONE	ALIGNMENT	COGIDS	MORPHEMES	NOTE
 59	Lamjung_Yolmo	thirty eight	súmdʑu kyèe	s u m + dʑ/tɕ u -/p + kʲ e/eː	h _ l	s u m + dʑ/tɕ u -/p + kʲ e/eː	6 14 15	three ten eight	
 39	Lamjung_Yolmo	thirty nine	kháldʑi tɕúrku	kʰ a l + dʑ/tɕ i/iː + tɕ u r/p + k u	h _ h _	kʰ a l + dʑ/tɕ i/iː + tɕ u r/p + k u	2 7 14 10	twenty one ten nine	
 60	Lamjung_Yolmo	thirty nine	súmdʑu kù	s u m + dʑ/tɕ u -/p + k u	h _ l	s u m + dʑ/tɕ u -/p + k u	6 14 10	three ten nine	
-40	Lamjung_Yolmo	forty	khál ɲíi	kʰ a l + ɲ iː	h h		2 8	twenty two	
+40	Lamjung_Yolmo	forty	khál ɲíi	kʰ a l + ɲ iː	h h	kʰ a l + ɲ iː	2 8	twenty two	
 61	Lamjung_Yolmo	forty	ɕíptɕu	ɕ i p + tɕ u -/p	h _	ɕ i p + tɕ u -/p	13 14	four ten	
-#@highlight=TOKENS|ALIGNMENT
-#@sampa=TOKENS
-#@css=menu:show|database:hide
-#@basics=ALIGNMENT|COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTE|TOKENS
-#@_selected_doculects=Lamjung_Yolmo
-#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@sorted_taxa=Lamjung_Yolmo
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty
-#@display=filedisplay|glosses
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=undefined
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=lam.tsv
-#@navbar=true
-#@_morphology_mode=partial
