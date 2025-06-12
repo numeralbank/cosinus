@@ -12,8 +12,6 @@ results = []
 languages = []
 models = ["BPE (surface)", "WordPiece (surface)", "Unigram (surface)", "BPE (underlying)", "WordPiece (underlying)", "Unigram (underlying)"]
 
-problems = ["Cavinena", "Aymara", "Wayuu"]
-
 ideal_vocab_size_found = []
 
 for file in raw_path.glob("*.tsv"):
@@ -51,8 +49,6 @@ for file in raw_path.glob("*.tsv"):
         if vocab_size in model.training_history["alphabet_size"]:
             ideal_vocab_size_found.append(languages[-1] + "-WP-" + "underlying" if underlying else
                                           languages[-1] + "-WP-" +"surface")
-
-
 
         # Unigram
         model = UnigramSentencePiece()
