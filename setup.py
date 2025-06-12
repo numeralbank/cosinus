@@ -7,15 +7,15 @@ with open("metadata.json", encoding="utf-8") as fp:
 
 
 setup(
-    name="lexibank_numeralpacs",
+    name="lexibank_cosinus",
     description=metadata["title"],
     license=metadata.get("license", ""),
     url=metadata.get("url", ""),
-    py_modules=["lexibank_numeralpacs"],
+    py_modules=["lexibank_cosinus"],
     include_package_data=True,
     zip_safe=False,
     entry_points={
-        "lexibank.dataset": ["numeralpacs=lexibank_numeralpacs:Dataset",]
+        "lexibank.dataset": ["cosinus=lexibank_cosinus:Dataset",]
     },
     install_requires=[
         "attrs",
