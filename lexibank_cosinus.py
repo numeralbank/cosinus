@@ -44,7 +44,7 @@ class CustomLexeme(pylexibank.Lexeme):
                                                        "separator": " + "})
     Underlying_Form = attr.ib(default=None, metadata={"format": "string",
                                                        "separator": " + "})
-    Tokens = attr.ib(default=None, metadata={"format": "string"})
+    Tokens = attr.ib(default=None, metadata={"format": "string", "separator": " "})
 
 
 class Dataset(pylexibank.Dataset):
@@ -119,7 +119,7 @@ class Dataset(pylexibank.Dataset):
                         Source=sources[data["DOCULECT"]],
                         Surface_Form=surface(tokens),
                         Underlying_Form=underlying(data["TOKENS"].split()),
-                        Tokens=data["TOKENS"],
+                        Tokens=data["TOKENS"].split(),
                         Comment=data.get("NOTE", "")
                     )
                 except ValueError:

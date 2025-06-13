@@ -12,18 +12,18 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF Dataset presenting Rubehn et al.'s \"Compositional Structures in Numeral Systems Across Languages\" from 2025",
-    "dcat:accessURL": "git@github.com:calc-project/numeral-annotation-study",
+    "dcat:accessURL": "git@github.com:numeralbank/cosinus",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:calc-project/numeral-annotation-study",
+            "rdf:about": "git@github.com:numeralbank/cosinus",
             "rdf:type": "prov:Entity",
-            "dc:created": "v.1.0-6-ged9675b",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/glottolog/glottolog",
+            "rdf:about": "git@github.com:glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.2.1",
             "dc:title": "Glottolog"
         },
         {
@@ -33,7 +33,7 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
             "dc:created": "v2.3.0",
             "dc:title": "CLTS"
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.2"
+            "dc:description": "3.13.3"
         },
         {
             "dc:title": "python-packages",
@@ -150,6 +150,7 @@
                     },
                     {
                         "datatype": "string",
+                        "separator": " ",
                         "name": "Tokens"
                     }
                 ],
