@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Rubehn, A., C. Rzymski, L. Ciucci, K. van Dam, A. Kučerová, K. Bocklage, D. Snee, A. Stephen, and J.-M. List (forthcoming): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 1-13. https://doi.org/10.48550/arXiv.2503.01625
+  > Rubehn, A., C. Rzymski, L. Ciucci, K. Bocklage, A. Kučerová, D. Snee, A. Stephen, K. P. van Dam, and J.-M. List (forthcoming): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 1-13. https://doi.org/10.48550/arXiv.2503.01625
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
