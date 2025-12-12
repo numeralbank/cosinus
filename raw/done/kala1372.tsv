@@ -1,0 +1,100 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
+1	Kalasha	one	ek	e k/g	one	e k	1		PetersenKalasha2015
+2	Kalasha	two	du	d u	two	d u	2		PetersenKalasha2015
+3	Kalasha	three	tre	t r e	three	t r e	3		PetersenKalasha2015
+4	Kalasha	four	čaw	ʧ a u	four	ʧ a u	4		PetersenKalasha2015
+5	Kalasha	five	ponǰ	p o n ʤ	five	p o n ʤ	5		PetersenKalasha2015
+6	Kalasha	six	ṣo	ʂ o	six	ʂ o	6		PetersenKalasha2015
+7	Kalasha	seven	sat	s a t	seven	s a t	7		PetersenKalasha2015
+8	Kalasha	eight	aṣṭ	a ʂ ʈ	eight	a ʂ ʈ	8		PetersenKalasha2015
+9	Kalasha	nine	no	n o	nine	n o	9		PetersenKalasha2015
+10	Kalasha	ten	daš	d a ʃ/-	ten	d a ʃ	10		PetersenKalasha2015
+11	Kalasha	eleven	dažeék	d a ʃ/- + ʒ/- e + e k/g	ten and one	d a + ʒ e + e k	10 12 1	š of daš assimilates with že 'and' (p. 61)	PetersenKalasha2015
+12	Kalasha	twelve	dažedú	d a ʃ/- + ʒ/- e + d u	ten and two	d a + ʒ e + d u	10 12 2		PetersenKalasha2015
+13	Kalasha	thirteen	dažetré	d a ʃ/- + ʒ/- e + t r e	ten and three	d a + ʒ e + t r e	10 12 3		PetersenKalasha2015
+14	Kalasha	fourteen	dažečáw	d a ʃ/- + ʒ/- e + ʧ a u	ten and four	d a + ʒ e + ʧ a u	10 12 4		PetersenKalasha2015
+15	Kalasha	fifteen	dažepónǰ	d a ʃ/- + ʒ/- e + p o n ʤ	ten and five	d a + ʒ e + p o n ʤ	10 12 5		PetersenKalasha2015
+16	Kalasha	sixteen	dažeṣó	d a ʃ/- + ʒ/- e + ʂ o	ten and six	d a + ʒ e + ʂ o	10 12 6		PetersenKalasha2015
+17	Kalasha	seventeen	dažesát	d a ʃ/- + ʒ/- e + s a t	ten and seven	d a + ʒ e + s a t	10 12 7		PetersenKalasha2015
+18	Kalasha	eighteen	dažeáṣṭ	d a ʃ/- + ʒ/- e + a ʂ ʈ	ten and eight	d a + ʒ e + a ʂ ʈ	10 12 8		PetersenKalasha2015
+19	Kalasha	nineteen	daženó	d a ʃ/- + ʒ/- e + n o	ten and nine	d a + ʒ e + n o	10 12 9		PetersenKalasha2015
+20	Kalasha	twenty	bíši	b i ʃ i	twenty	b i ʃ i	11		PetersenKalasha2015
+21	Kalasha	twenty one	bišižeék	b i ʃ i + ʒ/- e + e k/g	twenty and one	b i ʃ i + ʒ e + e k	11 12 1		PetersenKalasha2015
+22	Kalasha	twenty two	bišižedú	b i ʃ i + ʒ/- e + d u	twenty and two	b i ʃ i + ʒ e + d u	11 12 2		PetersenKalasha2015
+23	Kalasha	twenty three	bišižetré	b i ʃ i + ʒ/- e + t r e	twenty and three	b i ʃ i + ʒ e + t r e	11 12 3		PetersenKalasha2015
+24	Kalasha	twenty four	bišižečáw	b i ʃ i + ʒ/- e + ʧ a u	twenty and four	b i ʃ i + ʒ e + ʧ a u	11 12 4		PetersenKalasha2015
+25	Kalasha	twenty five	bišižepónǰ	b i ʃ i + ʒ/- e + p o n ʤ	twenty and five	b i ʃ i + ʒ e + p o n ʤ	11 12 5		PetersenKalasha2015
+26	Kalasha	twenty six	bišižeṣó	b i ʃ i + ʒ/- e + ʂ o	twenty and six	b i ʃ i + ʒ e + ʂ o	11 12 6		PetersenKalasha2015
+27	Kalasha	twenty seven	bišižesát	b i ʃ i + ʒ/- e + s a t	twenty and seven	b i ʃ i + ʒ e + s a t	11 12 7		PetersenKalasha2015
+28	Kalasha	twenty eight	bišižeáṣṭ	b i ʃ i + ʒ/- e + a ʂ ʈ	twenty and eight	b i ʃ i + ʒ e + a ʂ ʈ	11 12 8		PetersenKalasha2015
+29	Kalasha	twenty nine	bišiženó	b i ʃ i + ʒ/- e + n o	twenty and nine	b i ʃ i + ʒ e + n o	11 12 9		PetersenKalasha2015
+30	Kalasha	thirty 	bišižedáš	b i ʃ i + ʒ/- e + d a ʃ/-	twenty and ten	b i ʃ i + ʒ e + d a ʃ	11 12 10		PetersenKalasha2015
+31	Kalasha	thirty one	bišižedašéga	b i ʃ i + ʒ/- e + d a ʃ/- + e k/g + a	twenty and ten one suffix	b i ʃ i + ʒ e + d a ʃ + e g + a	11 12 10 1 13	30s, 50s, 70s, 90s add suffix -a (p. 61)	PetersenKalasha2015
+32	Kalasha	thirty two	bišižedašedúa	b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + d u + a	twenty and ten and two suffix	b i ʃ i + ʒ e + d a ʃ + e + d u + a	11 12 10 12 2 13		PetersenKalasha2015
+33	Kalasha	thirty three	bišižedašetré	b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + t r e + a	twenty and ten and three suffix	b i ʃ i + ʒ e + d a ʃ + e + t r e + a	11 12 10 12 3 13		PetersenKalasha2015
+34	Kalasha	thirty four	bišižedašečáw	b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + ʧ a u + a	twenty and ten and four suffix	b i ʃ i + ʒ e + d a ʃ + e + ʧ a u + a	11 12 10 12 4 13		PetersenKalasha2015
+35	Kalasha	thirty five	bišižedašepónǰ	b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + p o n ʤ + a	twenty and ten and five suffix	b i ʃ i + ʒ e + d a ʃ + e + p o n ʤ + a	11 12 10 12 5 13		PetersenKalasha2015
+36	Kalasha	thirty six	bišižedašeṣó	b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + ʂ o + a	twenty and ten and six suffix	b i ʃ i + ʒ e + d a ʃ + e + ʂ o + a	11 12 10 12 6 13		PetersenKalasha2015
+37	Kalasha	thirty seven	bišižedašesát	b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + s a t + a	twenty and ten and seven suffix	b i ʃ i + ʒ e + d a ʃ + e + s a t + a	11 12 10 12 7 13		PetersenKalasha2015
+38	Kalasha	thirty eight	bišižedašeáṣṭ	b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + a ʂ ʈ + a	twenty and ten and eight suffix	b i ʃ i + ʒ e + d a ʃ + e + a ʂ ʈ + a	11 12 10 12 8 13		PetersenKalasha2015
+39	Kalasha	thirty nine	bišižedašenó	b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + n o + a	twenty and ten and nine suffix	b i ʃ i + ʒ e + d a ʃ + e + n o + a	11 12 10 12 9 13		PetersenKalasha2015
+40	Kalasha	forty 	dúbiši	d u + b i ʃ i	two twenty	d u + b i ʃ i	2 11		PetersenKalasha2015
+41	Kalasha	forty one	dubišižeék	d u + b i ʃ i + ʒ/- e + e k/g	two twenty and one	d u + b i ʃ i + ʒ e + e k	2 11 12 1		PetersenKalasha2015
+42	Kalasha	forty two	dubišižedú	d u + b i ʃ i + ʒ/- e + d u	two twenty and two	d u + b i ʃ i + ʒ e + d u	2 11 12 2		PetersenKalasha2015
+43	Kalasha	forty three	dubišižetré	d u + b i ʃ i + ʒ/- e + t r e	two twenty and three	d u + b i ʃ i + ʒ e + t r e	2 11 12 3		PetersenKalasha2015
+44	Kalasha	forty four	dubišižečáw	d u + b i ʃ i + ʒ/- e + ʧ a u	two twenty and four	d u + b i ʃ i + ʒ e + ʧ a u	2 11 12 4		PetersenKalasha2015
+45	Kalasha	forty five	dubišižepónǰ	d u + b i ʃ i + ʒ/- e + p o n ʤ	two twenty and five	d u + b i ʃ i + ʒ e + p o n ʤ	2 11 12 5		PetersenKalasha2015
+46	Kalasha	forty six	dubišižeṣó	d u + b i ʃ i + ʒ/- e + ʂ o	two twenty and six	d u + b i ʃ i + ʒ e + ʂ o	2 11 12 6		PetersenKalasha2015
+47	Kalasha	forty seven	dubišižesát	d u + b i ʃ i + ʒ/- e + s a t	two twenty and seven	d u + b i ʃ i + ʒ e + s a t	2 11 12 7		PetersenKalasha2015
+48	Kalasha	forty eight	dubišižeáṣṭ	d u + b i ʃ i + ʒ/- e + a ʂ ʈ	two twenty and eight	d u + b i ʃ i + ʒ e + a ʂ ʈ	2 11 12 8		PetersenKalasha2015
+49	Kalasha	forty nine	dubišiženó	d u + b i ʃ i + ʒ/- e + n o	two twenty and nine	d u + b i ʃ i + ʒ e + n o	2 11 12 9		PetersenKalasha2015
+50	Kalasha	fifty 	dubišižedáš	d u + b i ʃ i + ʒ/- e + d a ʃ/-	two twenty and ten	d u + b i ʃ i + ʒ e + d a ʃ	2 11 12 10		PetersenKalasha2015
+51	Kalasha	fifty one	dubišižedažeéga	d u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + e k/g + a	two twenty and ten and one suffix	d u + b i ʃ i + ʒ e + d a + ʒ e + e g + a	2 11 12 10 12 1 13		PetersenKalasha2015
+52	Kalasha	fifty two	dubišižedažedú	d u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + d u + a	two twenty and ten and two suffix	d u + b i ʃ i + ʒ e + d a + ʒ e + d u + a	2 11 12 10 12 2 13		PetersenKalasha2015
+53	Kalasha	fifty three	dubišižedažetré	d u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + t r e + a	two twenty and ten and three suffix	d u + b i ʃ i + ʒ e + d a + ʒ e + t r e + a	2 11 12 10 12 3 13		PetersenKalasha2015
+54	Kalasha	fifty four	dubišižedažečáw	d u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + ʧ a u + a	two twenty and ten and four suffix	d u + b i ʃ i + ʒ e + d a + ʒ e + ʧ a u + a	2 11 12 10 12 4 13		PetersenKalasha2015
+55	Kalasha	fifty five	dubišižedažepónǰ	d u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + p o n ʤ + a	two twenty and ten and five suffix	d u + b i ʃ i + ʒ e + d a + ʒ e + p o n ʤ + a	2 11 12 10 12 5 13		PetersenKalasha2015
+56	Kalasha	fifty six	dubišižedažeṣó	d u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + ʂ o + a	two twenty and ten and six suffix	d u + b i ʃ i + ʒ e + d a + ʒ e + ʂ o + a	2 11 12 10 12 6 13		PetersenKalasha2015
+57	Kalasha	fifty seven	dubišižedažesát	d u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + s a t + a	two twenty and ten and seven suffix	d u + b i ʃ i + ʒ e + d a + ʒ e + s a t + a	2 11 12 10 12 7 13		PetersenKalasha2015
+58	Kalasha	fifty eight	dubišižedažeáṣṭ	d u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + a ʂ ʈ + a	two twenty and ten and eight suffix	d u + b i ʃ i + ʒ e + d a + ʒ e + a ʂ ʈ + a	2 11 12 10 12 8 13		PetersenKalasha2015
+59	Kalasha	fifty nine	dubišižedaženó	d u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + n o + a	two twenty and ten and nine suffix	d u + b i ʃ i + ʒ e + d a + ʒ e + n o + a	2 11 12 10 12 9 13		PetersenKalasha2015
+60	Kalasha	sixty 	trébiši	t r e + b i ʃ i	three twenty	t r e + b i ʃ i	3 11		PetersenKalasha2015
+61	Kalasha	sixty one	trebišižeék	t r e + b i ʃ i + ʒ/- e + e k/g	three twenty and one	t r e + b i ʃ i + ʒ e + e k	3 11 12 1		PetersenKalasha2015
+62	Kalasha	sixty two	trebišižedú	t r e + b i ʃ i + ʒ/- e + d u	three twenty and two	t r e + b i ʃ i + ʒ e + d u	3 11 12 2		PetersenKalasha2015
+63	Kalasha	sixty three	trebišižetré	t r e + b i ʃ i + ʒ/- e + t r e	three twenty and three	t r e + b i ʃ i + ʒ e + t r e	3 11 12 3		PetersenKalasha2015
+64	Kalasha	sixty four	trebišižečáw	t r e + b i ʃ i + ʒ/- e + ʧ a u	three twenty and four	t r e + b i ʃ i + ʒ e + ʧ a u	3 11 12 4		PetersenKalasha2015
+65	Kalasha	sixty five	trebišižepónǰ	t r e + b i ʃ i + ʒ/- e + p o n ʤ	three twenty and five	t r e + b i ʃ i + ʒ e + p o n ʤ	3 11 12 5		PetersenKalasha2015
+66	Kalasha	sixty six	trebišižeṣó	t r e + b i ʃ i + ʒ/- e + ʂ o	three twenty and six	t r e + b i ʃ i + ʒ e + ʂ o	3 11 12 6		PetersenKalasha2015
+67	Kalasha	sixty seven	trebišižesát	t r e + b i ʃ i + ʒ/- e + s a t	three twenty and seven	t r e + b i ʃ i + ʒ e + s a t	3 11 12 7		PetersenKalasha2015
+68	Kalasha	sixty eight	trebišižeáṣṭ	t r e + b i ʃ i + ʒ/- e + a ʂ ʈ	three twenty and eight	t r e + b i ʃ i + ʒ e + a ʂ ʈ	3 11 12 8		PetersenKalasha2015
+69	Kalasha	sixty nine	trebišiženó	t r e + b i ʃ i + ʒ/- e + n o	three twenty and nine	t r e + b i ʃ i + ʒ e + n o	3 11 12 9		PetersenKalasha2015
+70	Kalasha	seventy 	trebišižedáš	t r e + b i ʃ i + ʒ/- e + d a ʃ/-	three twenty and ten	t r e + b i ʃ i + ʒ e + d a ʃ	3 11 12 10		PetersenKalasha2015
+71	Kalasha	seventy one	trebišižedažeéga	t r e + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + e k/g + a	three twenty and ten and one suffix	t r e + b i ʃ i + ʒ e + d a + ʒ e + e g + a	3 11 12 10 12 1 13		PetersenKalasha2015
+72	Kalasha	seventy two	trebišižedažedú	t r e + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + d u + a	three twenty and ten and two suffix	t r e + b i ʃ i + ʒ e + d a + ʒ e + d u + a	3 11 12 10 12 2 13		PetersenKalasha2015
+73	Kalasha	seventy three	trebišižedažetré	t r e + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + t r e + a	three twenty and ten and three suffix	t r e + b i ʃ i + ʒ e + d a + ʒ e + t r e + a	3 11 12 10 12 3 13		PetersenKalasha2015
+74	Kalasha	seventy four	trebišižedažečáw	t r e + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + ʧ a u + a	three twenty and ten and four suffix	t r e + b i ʃ i + ʒ e + d a + ʒ e + ʧ a u + a	3 11 12 10 12 4 13		PetersenKalasha2015
+75	Kalasha	seventy five	trebišižedažepónǰ	t r e + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + p o n ʤ + a	three twenty and ten and five suffix	t r e + b i ʃ i + ʒ e + d a + ʒ e + p o n ʤ + a	3 11 12 10 12 5 13		PetersenKalasha2015
+76	Kalasha	seventy six	trebišižedažeṣó	t r e + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + ʂ o + a	three twenty and ten and six suffix	t r e + b i ʃ i + ʒ e + d a + ʒ e + ʂ o + a	3 11 12 10 12 6 13		PetersenKalasha2015
+77	Kalasha	seventy seven	trebišižedažesát	t r e + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + s a t + a	three twenty and ten and seven suffix	t r e + b i ʃ i + ʒ e + d a + ʒ e + s a t + a	3 11 12 10 12 7 13		PetersenKalasha2015
+78	Kalasha	seventy eight	trebišižedažeáṣṭ	t r e + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + a ʂ ʈ + a	three twenty and ten and eight suffix	t r e + b i ʃ i + ʒ e + d a + ʒ e + a ʂ ʈ + a	3 11 12 10 12 8 13		PetersenKalasha2015
+79	Kalasha	seventy nine	trebišižedaženó	t r e + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + n o + a	three twenty and ten and nine suffix	t r e + b i ʃ i + ʒ e + d a + ʒ e + n o + a	3 11 12 10 12 9 13		PetersenKalasha2015
+80	Kalasha	eighty 	čáwbiši	ʧ a u + b i ʃ i	four twenty	ʧ a u + b i ʃ i	4 11		PetersenKalasha2015
+81	Kalasha	eighty one	čawbišižeék	ʧ a u + b i ʃ i + ʒ/- e + e k/g	four twenty and one	ʧ a u + b i ʃ i + ʒ e + e k	4 11 12 1		PetersenKalasha2015
+82	Kalasha	eighty two	čawbišižedú	ʧ a u + b i ʃ i + ʒ/- e + d u	four twenty and two	ʧ a u + b i ʃ i + ʒ e + d u	4 11 12 2		PetersenKalasha2015
+83	Kalasha	eighty three	čawbišižetré	ʧ a u + b i ʃ i + ʒ/- e + t r e	four twenty and three	ʧ a u + b i ʃ i + ʒ e + t r e	4 11 12 3		PetersenKalasha2015
+84	Kalasha	eighty four	čawbišižečáw	ʧ a u + b i ʃ i + ʒ/- e + ʧ a u	four twenty and four	ʧ a u + b i ʃ i + ʒ e + ʧ a u	4 11 12 4		PetersenKalasha2015
+85	Kalasha	eighty five	čawbišižepónǰ	ʧ a u + b i ʃ i + ʒ/- e + p o n ʤ	four twenty and five	ʧ a u + b i ʃ i + ʒ e + p o n ʤ	4 11 12 5		PetersenKalasha2015
+86	Kalasha	eighty six	čawbišižeṣó	ʧ a u + b i ʃ i + ʒ/- e + ʂ o	four twenty and six	ʧ a u + b i ʃ i + ʒ e + ʂ o	4 11 12 6		PetersenKalasha2015
+87	Kalasha	eighty seven	čawbišižesát	ʧ a u + b i ʃ i + ʒ/- e + s a t	four twenty and seven	ʧ a u + b i ʃ i + ʒ e + s a t	4 11 12 7		PetersenKalasha2015
+88	Kalasha	eighty eight	čawbišižeáṣṭ	ʧ a u + b i ʃ i + ʒ/- e + a ʂ ʈ	four twenty and eight	ʧ a u + b i ʃ i + ʒ e + a ʂ ʈ	4 11 12 8		PetersenKalasha2015
+89	Kalasha	eighty nine	čawbišiženó	ʧ a u + b i ʃ i + ʒ/- e + n o	four twenty and nine	ʧ a u + b i ʃ i + ʒ e + n o	4 11 12 9		PetersenKalasha2015
+90	Kalasha	ninety 	čawbišižedáš	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/-	four twenty and ten	ʧ a u + b i ʃ i + ʒ e + d a ʃ	4 11 12 10		PetersenKalasha2015
+91	Kalasha	ninety one	čawbišižedažeéga	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + e k/g + a	four twenty and ten and one suffix	ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + e g + a	4 11 12 10 12 1 13		PetersenKalasha2015
+92	Kalasha	ninety two	čawbišižedažedúa	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + d u + a	four twenty and ten and two suffix	ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + d u + a	4 11 12 10 12 2 13		PetersenKalasha2015
+93	Kalasha	ninety three	čawbišižedažetré	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + t r e + a	four twenty and ten and three suffix	ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + t r e + a	4 11 12 10 12 3 13		PetersenKalasha2015
+94	Kalasha	ninety four	čawbišižedažečáw	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + ʧ a u + a	four twenty and ten and four suffix	ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + ʧ a u + a	4 11 12 10 12 4 13		PetersenKalasha2015
+95	Kalasha	ninety five	čawbišižedažepónǰ	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + p o n ʤ + a	four twenty and ten and five suffix	ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + p o n ʤ + a	4 11 12 10 12 5 13		PetersenKalasha2015
+96	Kalasha	ninety six	čawbišižedažeṣó	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + ʂ o + a	four twenty and ten and six suffix	ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + ʂ o + a	4 11 12 10 12 6 13		PetersenKalasha2015
+97	Kalasha	ninety seven	čawbišižedažesát	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + s a t + a	four twenty and ten and seven suffix	ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + s a t + a	4 11 12 10 12 7 13		PetersenKalasha2015
+98	Kalasha	ninety eight	čawbišižedažeáṣṭ	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + a ʂ ʈ + a	four twenty and ten and eight suffix	ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + a ʂ ʈ + a	4 11 12 10 12 8 13		PetersenKalasha2015
+99	Kalasha	ninety nine	čawbišižedaženó	ʧ a u + b i ʃ i + ʒ/- e + d a ʃ/- + ʒ/- e + n o + a	four twenty and ten and nine suffix	ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + n o + a	4 11 12 10 12 9 13		PetersenKalasha2015
