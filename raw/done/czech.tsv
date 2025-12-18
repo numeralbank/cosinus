@@ -43,59 +43,59 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 42	Czech	forty two	čtyřicet dva	tʃtɪr̝ɪtsɛt dva	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + d v a	four ten two	4 10 2	Czech
 43	Czech	forty three	čtyřicet tři	tʃtɪr̝ɪtsɛt tr̝ɪ	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + t r̝ iː	four ten three	4 10 3	Czech
 44	Czech	forty four	čtyřicet čtyři	tʃtɪr̝ɪtsɛt tʃtɪr̝ɪ	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + tʃ t ɪ r̝ ɪ	four ten four	4 10 4	Czech
-45	Czech	forty five	čtyřicet pět	tʃtɪr̝ɪtsɛt pjet	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + p j ɛ t	four ten five	4 10 5	Czech
+45	Czech	forty five	čtyřicet pět	tʃtɪr̝ɪtsɛt pjɛt	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + p j ɛ t	four ten five	4 10 5	Czech
 46	Czech	forty six	čtyřicet šest	tʃtɪr̝ɪtsɛt ʃɛst	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + ʃ ɛ s t	four ten six	4 10 6	Czech
 47	Czech	forty seven	čtyřicet sedm	tʃtɪr̝ɪtsɛt sɛdm	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + s ɛ d m	four ten seven	4 10 7	Czech
 48	Czech	forty eight	čtyřicet osm	tʃtɪr̝ɪtsɛt osm	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + o s m	four ten eight	4 10 8	Czech
-49	Czech	forty nine	čtyřicet devět	tʃtɪr̝ɪtsɛt dɛvjet	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + d ɛ v j ɛ t	four ten nine	4 10 9	Czech
+49	Czech	forty nine	čtyřicet devět	tʃtɪr̝ɪtsɛt dɛvjɛt	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + d ɛ v j ɛ t	four ten nine	4 10 9	Czech
 50	Czech	fifty 	padesát	padɛsaːt	p a/j -/ɛ -/t + d ɛ s aː/ɛ t	five ten	5 10	Czech
 51	Czech	fifty one	padesát jedna	padɛsaːt jɛdna	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + j ɛ d -/ɛ n a/-	five ten one	5 10 1	Czech
 52	Czech	fifty two	padesát dva	padɛsaːt dva	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + d v a	five ten two	5 10 2	Czech
 53	Czech	fifty three	padesát tři	padɛsaːt tr̝ɪ	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + t r̝ ɪ	five ten three	5 10 3	Czech
 54	Czech	fifty four	padesát čtyři	padɛsaːt tʃtɪr̝ɪ	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + tʃ t ɪ r̝ ɪ	five ten four	5 10 4	Czech
-55	Czech	fifty five	padesát pět	padɛsaːt pjet	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + p j ɛ t	five ten five	5 10 5	Czech
+55	Czech	fifty five	padesát pět	padɛsaːt pjɛt	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + p j ɛ t	five ten five	5 10 5	Czech
 56	Czech	fifty six	padesát šest	padɛsaːt ʃɛst	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + ʃ ɛ s t	five ten six	5 10 6	Czech
 57	Czech	fifty seven	padesát sedm	padɛsaːt sɛdm	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + s ɛ d m	five ten seven	5 10 7	Czech
 58	Czech	fifty eight	padesát osm	padɛsaːt osm	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + o s m	five ten eight	5 10 8	Czech
-59	Czech	fifty nine	padesát devět	padɛsaːt dɛvjet	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + d ɛ v j ɛ t	five ten nine	5 10 9	Czech
+59	Czech	fifty nine	padesát devět	padɛsaːt dɛvjɛt	p a/j -/ɛ -/t + d ɛ s aː/ɛ t + d ɛ v j ɛ t	five ten nine	5 10 9	Czech
 60	Czech	sixty 	šedesát	ʃɛdɛsaːt	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t	six ten	6 10	Czech
 61	Czech	sixty one	šedesát jedna	ʃɛdɛsaːt jɛdna	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + j ɛ d -/ɛ n a/-	six ten one	6 10 1	Czech
 62	Czech	sixty two	šedesát dva	ʃɛdɛsaːt dva	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + d v a	six ten two	6 10 2	Czech
 63	Czech	sixty three	šedesát tři	ʃɛdɛsaːt tr̝ɪ	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + t r̝ ɪ	six ten three	6 10 3	Czech
 64	Czech	sixty four	šedesát čtyři	ʃɛdɛsaːt tʃtɪr̝ɪ	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + tʃ t ɪ r̝ ɪ	six ten four	6 10 4	Czech
-65	Czech	sixty five	šedesát pět	ʃɛdɛsaːt pjet	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + p j ɛ t	six ten five	6 10 5	Czech
+65	Czech	sixty five	šedesát pět	ʃɛdɛsaːt pjɛt	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + p j ɛ t	six ten five	6 10 5	Czech
 66	Czech	sixty six	šedesát šest	ʃɛdɛsaːt ʃɛst	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + ʃ ɛ s t	six ten six	6 10 6	Czech
 67	Czech	sixty seven	šedesát sedm	ʃɛdɛsaːt sɛdm	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + s ɛ d m	six ten seven	6 10 7	Czech
 68	Czech	sixty eight	šedesát osm	ʃɛdɛsaːt osm	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + o s m	six ten eight	6 10 8	Czech
-69	Czech	sixty nine	šedesát devět	ʃɛdɛsaːt dɛvjet	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + d ɛ v j ɛ t	six ten nine	6 10 9	Czech
+69	Czech	sixty nine	šedesát devět	ʃɛdɛsaːt dɛvjɛt	ʃ ɛ -/s -/t + d ɛ s aː/ɛ t + d ɛ v j ɛ t	six ten nine	6 10 9	Czech
 70	Czech	seventy 	sedmdesát	sɛdmdɛsaːt	s ɛ d m + d ɛ s aː/ɛ t	seven ten	7 10	Czech
 71	Czech	seventy one	sedmdesát jedna	sɛdmdɛsaːt jɛdna	s ɛ d m + d ɛ s aː/ɛ t + j ɛ d -/ɛ n a/-	seven ten one	7 10 1	Czech
 72	Czech	seventy two	sedmdesát dva	sɛdmdɛsaːt dva	s ɛ d m + d ɛ s aː/ɛ t + d v a	seven ten two	7 10 2	Czech
 73	Czech	seventy three	sedmdesát tři	sɛdmdɛsaːt tr̝ɪ	s ɛ d m + d ɛ s aː/ɛ t + t r̝ ɪ	seven ten three	7 10 3	Czech
 74	Czech	seventy four	sedmdesát čtyři	sɛdmdɛsaːt tʃtɪr̝ɪ	s ɛ d m + d ɛ s aː/ɛ t + tʃ t ɪ r̝ ɪ	seven ten four	7 10 4	Czech
-75	Czech	seventy five	sedmdesát pět	sɛdmdɛsaːt pjet	s ɛ d m + d ɛ s aː/ɛ t + p j ɛ t	seven ten five	7 10 5	Czech
+75	Czech	seventy five	sedmdesát pět	sɛdmdɛsaːt pjɛt	s ɛ d m + d ɛ s aː/ɛ t + p j ɛ t	seven ten five	7 10 5	Czech
 76	Czech	seventy six	sedmdesát šest	sɛdmdɛsaːt ʃɛst	s ɛ d m + d ɛ s aː/ɛ t + ʃ ɛ s t	seven ten six	7 10 6	Czech
 77	Czech	seventy seven	sedmdesát sedm	sɛdmdɛsaːt sɛdm	s ɛ d m + d ɛ s aː/ɛ t + s ɛ d m	seven ten seven	7 10 7	Czech
 78	Czech	seventy eight	sedmdesát osm	sɛdmdɛsaːt osm	s ɛ d m + d ɛ s aː/ɛ t + o s m	seven ten eight	7 10 8	Czech
-79	Czech	seventy nine	sedmdesát devět	sɛdmdɛsaːt dɛvjet	s ɛ d m + d ɛ s aː/ɛ t + d ɛ v j ɛ t	seven ten nine	7 10 9	Czech
+79	Czech	seventy nine	sedmdesát devět	sɛdmdɛsaːt dɛvjɛt	s ɛ d m + d ɛ s aː/ɛ t + d ɛ v j ɛ t	seven ten nine	7 10 9	Czech
 80	Czech	eighty 	osmdesát	osmdɛsaːt	o s m + d ɛ s aː/ɛ t	eight ten	8 10	Czech
 81	Czech	eighty one	osmdesát jedna	osmdɛsaːt+jɛdna	o s m + d ɛ s aː/ɛ t + j ɛ d -/ɛ n a/-	eight ten one	8 10 1	Czech
 82	Czech	eighty two	osmdesát dva	osmdɛsaːt dva	o s m + d ɛ s aː/ɛ t + d v a	eight ten two	8 10 2	Czech
 83	Czech	eighty three	osmdesát tři	osmdɛsaːt tr̝ɪ	o s m + d ɛ s aː/ɛ t + t r̝ ɪ	eight ten three	8 10 3	Czech
 84	Czech	eighty four	osmdesát čtyři	osmdɛsaːt tʃtɪr̝ɪ	o s m + d ɛ s aː/ɛ t + tʃ t ɪ r̝ ɪ	eight ten four	8 10 4	Czech
-85	Czech	eighty five	osmdesát pět	osmdɛsaːt pj et	o s m + d ɛ s aː/ɛ t + p j ɛ t	eight ten five	8 10 5	Czech
+85	Czech	eighty five	osmdesát pět	osmdɛsaːt pjɛt	o s m + d ɛ s aː/ɛ t + p j ɛ t	eight ten five	8 10 5	Czech
 86	Czech	eighty six	osmdesát šest	osmdɛsaːt ʃɛst	o s m + d ɛ s aː/ɛ t + ʃ ɛ s t	eight ten six	8 10 6	Czech
 87	Czech	eighty seven	osmdesát sedm	osmdɛsaːt sɛdm	o s m + d ɛ s aː/ɛ t + s ɛ d m	eight ten seven	8 10 7	Czech
 88	Czech	eighty eight	osmdesát osm	osmdɛsaːt osm	o s m + d ɛ s aː/ɛ t + o s m	eight ten eight	8 10 8	Czech
-89	Czech	eighty nine	osmdesát devět	osmdɛsaːt dɛvj et	o s m + d ɛ s aː/ɛ t + d ɛ v j ɛ t	eight ten nine	8 10 9	Czech
+89	Czech	eighty nine	osmdesát devět	osmdɛsaːt dɛvjɛt	o s m + d ɛ s aː/ɛ t + d ɛ v j ɛ t	eight ten nine	8 10 9	Czech
 90	Czech	ninety 	devadesát	dɛvadɛsaːt	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t	nine ten	9 10	Czech
 91	Czech	ninety one	devadesát jedna	dɛvadɛsaːt jɛdna	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + j ɛ d -/ɛ n a/-	nine ten one	9 10 1	Czech
 92	Czech	ninety two	devadesát dva	dɛvadɛsaːt dva	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + d v a	nine ten two	9 10 2	Czech
 93	Czech	ninety three	devadesát tři	dɛvadɛsaːt tr̝ɪ	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + t r̝ ɪ	nine ten three	9 10 3	Czech
 94	Czech	ninety four	devadesát čtyři	dɛvadɛsaːt tʃtɪr̝ɪ	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + tʃ t ɪ r̝ ɪ	nine ten four	9 10 4	Czech
-95	Czech	ninety five	devadesát pět	dɛvadɛsaːt pjet	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + p j ɛ t	nine ten five	9 10 5	Czech
+95	Czech	ninety five	devadesát pět	dɛvadɛsaːt pjɛt	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + p j ɛ t	nine ten five	9 10 5	Czech
 96	Czech	ninety six	devadesát šest	dɛvadɛsaːt ʃɛst	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + ʃ ɛ s t	nine ten six	9 10 6	Czech
 97	Czech	ninety seven	devadesát sedm	dɛvadɛsaːt sɛdm	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + s ɛ d m	nine ten seven	9 10 7	Czech
 98	Czech	ninety eight	devadesát osm	dɛvadɛsaːt osm	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + o s m	nine ten eight	9 10 8	Czech
-99	Czech	ninety nine	devadesát devět	dɛvadɛsaːt dɛvjet	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + d ɛ v j ɛ t	nine ten nine	9 10 9	Czech
+99	Czech	ninety nine	devadesát devět	dɛvadɛsaːt dɛvjɛt	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + d ɛ v j ɛ t	nine ten nine	9 10 9	Czech
 100	Czech	hundred 	sto	sto	s t o	hundred	12	Czech
