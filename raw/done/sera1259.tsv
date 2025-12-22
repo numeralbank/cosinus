@@ -28,7 +28,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 27	Siraiki	twenty seven	satāvī	s a t aː + ʋ iː h/-	seven1 twenty	s a t aː + ʋ iː	7 20		BashirConnersSiraiki2019
 28	Siraiki	twenty eight	aṭhāvī	a ʈʰ aː + ʋ iː h/-	eight1 twenty	a ʈʰ aː + ʋ iː	8 20		BashirConnersSiraiki2019
 29	Siraiki	twenty nine	unattrī	u n + a t t r iː	minus thirty1	u n + a t t r iː	28 21		BashirConnersSiraiki2019
-30	Siraiki	thirty 	trīh	t r iː h/-	thirty	t r iː h	21	/-h/ -> 0 in polysyllables?	BashirConnersSiraiki2019
+30	Siraiki	thirty	trīh	t r iː h/-	thirty	t r iː h	21	/-h/ -> 0 in polysyllables?	BashirConnersSiraiki2019
 31	Siraiki	thirty one	ikatrī	i k a + t r iː h/-	one3 thirty	i k a + t r iː	1 21		BashirConnersSiraiki2019
 32	Siraiki	thirty two	ɓatrī	ɓ a + t r iː h/-	two2 thirty	ɓ a + t r iː	2 21	Difficult to establish that long ɓ aː and short ɓ a are phonological alternants due to stress or the following segment … ɓ aː + ʋ iː and ɓ a + t r iː both have initial stress (I think), and short a is found in ɓ a + ʋ a n ʤʰ aː	BashirConnersSiraiki2019
 33	Siraiki	thirty three	tẽtrī	t ẽ + t r iː h/-	three6 thirty	t ẽ + t r iː	3 21		BashirConnersSiraiki2019
@@ -38,7 +38,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 37	Siraiki	thirty seven	satattrī	s a t/- + a t t r iː	seven thirty1	s a t + a t t r iː	7 21	Seems to be unpredictable allomorphy, cf. 47	BashirConnersSiraiki2019
 38	Siraiki	thirty eight	aṭhattrī	a ʈʰ + a t t r iː	eight thirty1	a ʈʰ + a t t r iː	8 21		BashirConnersSiraiki2019
 39	Siraiki	thirty nine	untālī	u n + t aː l iː	minus forty	u n + t aː l iː	28 22		BashirConnersSiraiki2019
-40	Siraiki	forty 	calī	ʧ a l iː	forty2	ʧ a l iː	22		BashirConnersSiraiki2019
+40	Siraiki	forty	calī	ʧ a l iː	forty2	ʧ a l iː	22		BashirConnersSiraiki2019
 41	Siraiki	forty one	iktālī	i k + t aː l iː	one forty	i k + t aː l iː	1 22		BashirConnersSiraiki2019
 42	Siraiki	forty two	ɓitālī	ɓ i + t aː l iː	two forty	ɓ i + t aː l iː	2 22	Difficult to argue for phonologically regular a ~ i alternation in ɓ i, given ɓ i + t aː l iː and ɓ a + t r iː	BashirConnersSiraiki2019
 43	Siraiki	forty three	tirtālī	t i r + t aː l iː	three forty	t i r + t aː l iː	3 22		BashirConnersSiraiki2019
@@ -48,7 +48,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 47	Siraiki	forty seven	satālī	s a t/- + t aː l iː	seven forty	s a + t aː l iː	7 22	Assimilation of t + t?	BashirConnersSiraiki2019
 48	Siraiki	forty eight	aṭhtālī	a ʈʰ + t aː l iː	eight forty	a ʈʰ + t aː l iː	8 22		BashirConnersSiraiki2019
 49	Siraiki	forty nine	unvanjhā	u n + ʋ a n ʤʰ aː	minus fifty	u n + ʋ a n ʤʰ aː	28 23		BashirConnersSiraiki2019
-50	Siraiki	fifty 	panjhā	p a n ʤʰ aː	fifty1	p a n ʤʰ aː	23		BashirConnersSiraiki2019
+50	Siraiki	fifty	panjhā	p a n ʤʰ aː	fifty1	p a n ʤʰ aː	23		BashirConnersSiraiki2019
 51	Siraiki	fifty one	ikvanjhā	i k + ʋ a n ʤʰ aː	one fifty	i k + ʋ a n ʤʰ aː	1 23	No evidence elsewhere that p -> v word-medially	BashirConnersSiraiki2019
 52	Siraiki	fifty two	ɓavanjhā	ɓ a + ʋ a n ʤʰ aː	two2 fifty	ɓ a + ʋ a n ʤʰ aː	2 23		BashirConnersSiraiki2019
 53	Siraiki	fifty three	tirvanjhā	t i r + ʋ a n ʤʰ aː	three fifty	t i r + ʋ a n ʤʰ aː	3 23		BashirConnersSiraiki2019
@@ -58,7 +58,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 57	Siraiki	fifty seven	satvanjhā	s a t/- + ʋ a n ʤʰ aː	seven fifty	s a t + ʋ a n ʤʰ aː	7 23		BashirConnersSiraiki2019
 58	Siraiki	fifty eight	aṭhvanjhā	a ʈʰ + ʋ a n ʤʰ aː	eight fifty	a ʈʰ + ʋ a n ʤʰ aː	8 23		BashirConnersSiraiki2019
 59	Siraiki	fifty nine	unæṭh	u n + æ/- ʈʰ	minus sixty	u n + æ ʈʰ	28 24		BashirConnersSiraiki2019
-60	Siraiki	sixty 	saṭh	s a ʈʰ	sixty2	s a ʈʰ	24		BashirConnersSiraiki2019
+60	Siraiki	sixty	saṭh	s a ʈʰ	sixty2	s a ʈʰ	24		BashirConnersSiraiki2019
 61	Siraiki	sixty one	ikæṭh	i k + æ/- ʈʰ	one sixty	i k + æ ʈʰ	1 24		BashirConnersSiraiki2019
 62	Siraiki	sixty two	ɓæṭh	ɓ + æ/- ʈʰ	two4 sixty	ɓ + æ ʈʰ	2 24		BashirConnersSiraiki2019
 63	Siraiki	sixty three	treṭh	t r e + æ/- ʈʰ	three1 sixty	t r e + ʈʰ	3 24		BashirConnersSiraiki2019
@@ -68,7 +68,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 67	Siraiki	sixty seven	satæṭh	s a t/- + æ/- ʈʰ	seven sixty	s a t + æ ʈʰ	7 24		BashirConnersSiraiki2019
 68	Siraiki	sixty eight	aṭhæṭh	a ʈʰ + æ/- ʈʰ	eight sixty	a ʈʰ + æ ʈʰ	8 24		BashirConnersSiraiki2019
 69	Siraiki	sixty nine	unhattar	u n + h/- a t t a r	minus seventy	u n + h a t t a r	28 25		BashirConnersSiraiki2019
-70	Siraiki	seventy 	sattar	s a t t a r	seventy2	s a t t a r	25		BashirConnersSiraiki2019
+70	Siraiki	seventy	sattar	s a t t a r	seventy2	s a t t a r	25		BashirConnersSiraiki2019
 71	Siraiki	seventy one	ikhattar	i k + h/- a t t a r	one seventy	i k + h a t t a r	1 25	Orthography (p. 170) suggests k+h rather than aspirated kh	BashirConnersSiraiki2019
 72	Siraiki	seventy two	ɓahattar	ɓ a + h/- a t t a r	two2 seventy	ɓ a + h a t t a r	2 25		BashirConnersSiraiki2019
 73	Siraiki	seventy three	tihattar	t i + h/- a t t a r	three4 seventy	t i + h a t t a r	3 25		BashirConnersSiraiki2019
@@ -78,7 +78,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 77	Siraiki	seventy seven	satattar	s a t/- + h/- a t t a r	seven seventy	s a t + a t t a r	7 25	Same concern as for p a n ʤʰ + a t t a r	BashirConnersSiraiki2019
 78	Siraiki	seventy eight	aṭhattar	a ʈʰ + h/- a t t a r	eight seventy	a ʈʰ + a t t a r	8 25	Same concern as for p a n ʤʰ + a t t a r	BashirConnersSiraiki2019
 79	Siraiki	seventy nine	unāsī	u n + aː/a s iː	minus eighty	u n + aː s iː	28 26		BashirConnersSiraiki2019
-80	Siraiki	eighty 	asī	aː/a s iː	eighty	a s iː	26	Not exactly clear what conditions length variation, but plausible phonological (prosodic?)	BashirConnersSiraiki2019
+80	Siraiki	eighty	asī	aː/a s iː	eighty	a s iː	26	Not exactly clear what conditions length variation, but plausible phonological (prosodic?)	BashirConnersSiraiki2019
 81	Siraiki	eighty one	ikāsī	i k + aː/a s iː	one eighty	i k + aː s iː	1 26		BashirConnersSiraiki2019
 82	Siraiki	eighty two	ɓiāsī	ɓ i + aː/a s iː	two eighty	ɓ i + aː s iː	2 26		BashirConnersSiraiki2019
 83	Siraiki	eighty three	tirāsī	t i r + aː/a s iː	three eighty	t i r + aː s iː	3 26		BashirConnersSiraiki2019
@@ -88,7 +88,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 87	Siraiki	eighty seven	satāsī	s a t/- + aː/a s iː	seven eighty	s a t + aː s iː	7 26		BashirConnersSiraiki2019
 88	Siraiki	eighty eight	aṭhāsī	a ʈʰ + aː/a s iː	eight eighty	a ʈʰ + aː s iː	8 26		BashirConnersSiraiki2019
 89	Siraiki	eighty nine	unānve	u n + aː n ʋ e	minus ninety	u n + aː n ʋ e	28 27		BashirConnersSiraiki2019
-90	Siraiki	ninety 	navve	n a ʋ ʋ e	ninety1	n a ʋ ʋ e	27		BashirConnersSiraiki2019
+90	Siraiki	ninety	navve	n a ʋ ʋ e	ninety1	n a ʋ ʋ e	27		BashirConnersSiraiki2019
 91	Siraiki	ninety one	ikānve	i k + aː n ʋ e	one ninety	i k + aː n ʋ e	1 27		BashirConnersSiraiki2019
 92	Siraiki	ninety two	ɓiānve	ɓ i + aː n ʋ e	two ninety	ɓ i + aː n ʋ e	2 27		BashirConnersSiraiki2019
 93	Siraiki	ninety three	triānve	t r i + aː n ʋ e	three3 ninety	t r i + aː n ʋ e	3 27		BashirConnersSiraiki2019
