@@ -28,7 +28,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 27	Uyghur	twenty seven	jiɡirmɛ jɛttɛ	j i ɡ i r m ɛ + j ɛ t t ɛ	twenty seven	j i ɡ i r m ɛ + j ɛ t t ɛ	20 7		wiktionary
 28	Uyghur	twenty eight	jiɡirmɛ sɛkkiz	j i ɡ i r m ɛ + s ɛ k k i z	twenty eight	j i ɡ i r m ɛ + s ɛ k k i z	20 8		wiktionary
 29	Uyghur	twenty nine	jiɡirmɛ toqquz	j i ɡ i r m ɛ + t o q q u z	twenty nine	j i ɡ i r m ɛ + t o q q u z	20 9		wiktionary
-30	Uyghur	thirty 	ʔottuz 	ʔ o t t u z	thirty	ʔ o t t u z	21		wiktionary
+30	Uyghur	thirty	ʔottuz 	ʔ o t t u z	thirty	ʔ o t t u z	21		wiktionary
 31	Uyghur	thirty one	ʔottuz bir	ʔ o t t u z + b i r	thirty one	ʔ o t t u z + b i r	21 1		wiktionary
 32	Uyghur	thirty two	ʔottuz ʔikki	ʔ o t t u z + ʔ i k k i	thirty two	ʔ o t t u z + ʔ i k k i	21 2		wiktionary
 33	Uyghur	thirty three	ʔottuz ʔyt͡ʃ	ʔ o t t u z + ʔ y t͡ʃ	thirty three	ʔ o t t u z + ʔ y t͡ʃ	21 3		wiktionary
@@ -38,7 +38,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 37	Uyghur	thirty seven	ʔottuz jɛttɛ	ʔ o t t u z + j ɛ t t ɛ	thirty seven	ʔ o t t u z + j ɛ t t ɛ	21 7		wiktionary
 38	Uyghur	thirty eight	ʔottuz sɛkkiz	ʔ o t t u z + s ɛ k k i z	thirty eight	ʔ o t t u z + s ɛ k k i z	21 8		wiktionary
 39	Uyghur	thirty nine	ʔottuz toqquz	ʔ o t t u z + t o q q u z	thirty nine	ʔ o t t u z + t o q q u z	21 9		wiktionary
-40	Uyghur	forty 	ʔɛllik 	ʔ ɛ l l i k	forty	ʔ ɛ l l i k	22		wiktionary
+40	Uyghur	forty	ʔɛllik 	ʔ ɛ l l i k	forty	ʔ ɛ l l i k	22		wiktionary
 41	Uyghur	forty one	ʔɛllik bir	ʔ ɛ l l i k + b i r	forty one	ʔ ɛ l l i k + b i r	22 1		wiktionary
 42	Uyghur	forty two	ʔɛllik ʔikki	ʔ ɛ l l i k + ʔ i k k i	forty two	ʔ ɛ l l i k + ʔ i k k i	22 2		wiktionary
 43	Uyghur	forty three	ʔɛllik ʔyt͡ʃ	ʔ ɛ l l i k + ʔ y t͡ʃ	forty three	ʔ ɛ l l i k + ʔ y t͡ʃ	22 3		wiktionary
@@ -48,7 +48,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 47	Uyghur	forty seven	ʔɛllik jɛttɛ	ʔ ɛ l l i k + j ɛ t t ɛ	forty seven	ʔ ɛ l l i k + j ɛ t t ɛ	22 7		wiktionary
 48	Uyghur	forty eight	ʔɛllik sɛkkiz	ʔ ɛ l l i k + s ɛ k k i z	forty eight	ʔ ɛ l l i k + s ɛ k k i z	22 8		wiktionary
 49	Uyghur	forty nine	ʔɛllik toqquz	ʔ ɛ l l i k + t o q q u z	forty nine	ʔ ɛ l l i k + t o q q u z	22 9		wiktionary
-50	Uyghur	fifty 	ʔɑtmiʃ 	ʔ ɑ t m i ʃ	fifty	ʔ ɑ t m i ʃ	23		wiktionary
+50	Uyghur	fifty	ʔɑtmiʃ 	ʔ ɑ t m i ʃ	fifty	ʔ ɑ t m i ʃ	23		wiktionary
 51	Uyghur	fifty one	ʔɑtmiʃ bir	ʔ ɑ t m i ʃ + b i r	fifty one	ʔ ɑ t m i ʃ + b i r	23 1		wiktionary
 52	Uyghur	fifty two	ʔɑtmiʃ ʔikki	ʔ ɑ t m i ʃ + ʔ i k k i	fifty two	ʔ ɑ t m i ʃ + ʔ i k k i	23 2		wiktionary
 53	Uyghur	fifty three	ʔɑtmiʃ ʔyt͡ʃ	ʔ ɑ t m i ʃ + ʔ y t͡ʃ	fifty three	ʔ ɑ t m i ʃ + ʔ y t͡ʃ	23 3		wiktionary
@@ -58,7 +58,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 57	Uyghur	fifty seven	ʔɑtmiʃ jɛttɛ	ʔ ɑ t m i ʃ + j ɛ t t ɛ	fifty seven	ʔ ɑ t m i ʃ + j ɛ t t ɛ	23 7		wiktionary
 58	Uyghur	fifty eight	ʔɑtmiʃ sɛkkiz	ʔ ɑ t m i ʃ + s ɛ k k i z	fifty eight	ʔ ɑ t m i ʃ + s ɛ k k i z	23 8		wiktionary
 59	Uyghur	fifty nine	ʔɑtmiʃ toqquz	ʔ ɑ t m i ʃ + t o q q u z	fifty nine	ʔ ɑ t m i ʃ + t o q q u z	23 9		wiktionary
-60	Uyghur	sixty 	jɛtmiʃ 	j ɛ t m i ʃ	sixty	j ɛ t m i ʃ	24		wiktionary
+60	Uyghur	sixty	jɛtmiʃ 	j ɛ t m i ʃ	sixty	j ɛ t m i ʃ	24		wiktionary
 61	Uyghur	sixty one	jɛtmiʃ bir	j ɛ t m i ʃ + b i r	sixty one	j ɛ t m i ʃ + b i r	24 1		wiktionary
 62	Uyghur	sixty two	jɛtmiʃ ʔikki	j ɛ t m i ʃ + ʔ i k k i	sixty two	j ɛ t m i ʃ + ʔ i k k i	24 2		wiktionary
 63	Uyghur	sixty three	jɛtmiʃ ʔyt͡ʃ	j ɛ t m i ʃ + ʔ y t͡ʃ	sixty three	j ɛ t m i ʃ + ʔ y t͡ʃ	24 3		wiktionary
@@ -68,7 +68,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 67	Uyghur	sixty seven	jɛtmiʃ jɛttɛ	j ɛ t m i ʃ + j ɛ t t ɛ	sixty seven	j ɛ t m i ʃ + j ɛ t t ɛ	24 7		wiktionary
 68	Uyghur	sixty eight	jɛtmiʃ sɛkkiz	j ɛ t m i ʃ + s ɛ k k i z	sixty eight	j ɛ t m i ʃ + s ɛ k k i z	24 8		wiktionary
 69	Uyghur	sixty nine	jɛtmiʃ toqquz	j ɛ t m i ʃ + t o q q u z	sixty nine	j ɛ t m i ʃ + t o q q u z	24 9		wiktionary
-70	Uyghur	seventy 	sɛksɛn 	s ɛ k s ɛ n	seventy	s ɛ k s ɛ n	25		wiktionary
+70	Uyghur	seventy	sɛksɛn 	s ɛ k s ɛ n	seventy	s ɛ k s ɛ n	25		wiktionary
 71	Uyghur	seventy one	sɛksɛn bir	s ɛ k s ɛ n + b i r	seventy one	s ɛ k s ɛ n + b i r	25 1		wiktionary
 72	Uyghur	seventy two	sɛksɛn ʔikki	s ɛ k s ɛ n + ʔ i k k i	seventy two	s ɛ k s ɛ n + ʔ i k k i	25 2		wiktionary
 73	Uyghur	seventy three	sɛksɛn ʔyt͡ʃ	s ɛ k s ɛ n + ʔ y t͡ʃ	seventy three	s ɛ k s ɛ n + ʔ y t͡ʃ	25 3		wiktionary
@@ -78,7 +78,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 77	Uyghur	seventy seven	sɛksɛn jɛttɛ	s ɛ k s ɛ n + j ɛ t t ɛ	seventy seven	s ɛ k s ɛ n + j ɛ t t ɛ	25 7		wiktionary
 78	Uyghur	seventy eight	sɛksɛn sɛkkiz	s ɛ k s ɛ n + s ɛ k k i z	seventy eight	s ɛ k s ɛ n + s ɛ k k i z	25 8		wiktionary
 79	Uyghur	seventy nine	sɛksɛn toqquz	s ɛ k s ɛ n + t o q q u z	seventy nine	s ɛ k s ɛ n + t o q q u z	25 9		wiktionary
-80	Uyghur	eighty 	toqsɑn 	t o q s ɑ n	eighty	t o q s ɑ n	26		wiktionary
+80	Uyghur	eighty	toqsɑn 	t o q s ɑ n	eighty	t o q s ɑ n	26		wiktionary
 81	Uyghur	eighty one	toqsɑn bir	t o q s ɑ n + b i r	eighty one	t o q s ɑ n + b i r	26 1		wiktionary
 82	Uyghur	eighty two	toqsɑn ʔikki	t o q s ɑ n + ʔ i k k i	eighty two	t o q s ɑ n + ʔ i k k i	26 2		wiktionary
 83	Uyghur	eighty three	toqsɑn ʔyt͡ʃ	t o q s ɑ n + ʔ y t͡ʃ	eighty three	t o q s ɑ n + ʔ y t͡ʃ	26 3		wiktionary
@@ -88,7 +88,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 87	Uyghur	eighty seven	toqsɑn jɛttɛ	t o q s ɑ n + j ɛ t t ɛ	eighty seven	t o q s ɑ n + j ɛ t t ɛ	26 7		wiktionary
 88	Uyghur	eighty eight	toqsɑn sɛkkiz	t o q s ɑ n + s ɛ k k i z	eighty eight	t o q s ɑ n + s ɛ k k i z	26 8		wiktionary
 89	Uyghur	eighty nine	toqsɑn toqquz	t o q s ɑ n + t o q q u z	eighty nine	t o q s ɑ n + t o q q u z	26 9		wiktionary
-90	Uyghur	ninety 	jyz 	j y z	ninety	j y z	27		wiktionary
+90	Uyghur	ninety	jyz 	j y z	ninety	j y z	27		wiktionary
 91	Uyghur	ninety one	jyz bir	j y z + b i r	ninety one	j y z + b i r	27 1		wiktionary
 92	Uyghur	ninety two	jyz ʔikki	j y z + ʔ i k k i	ninety two	j y z + ʔ i k k i	27 2		wiktionary
 93	Uyghur	ninety three	jyz ʔyt͡ʃ	j y z + ʔ y t͡ʃ	ninety three	j y z + ʔ y t͡ʃ	27 3		wiktionary
