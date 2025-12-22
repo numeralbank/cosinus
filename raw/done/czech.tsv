@@ -41,7 +41,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 40	Czech	forty	čtyřicet	tʃtɪr̝ɪtsɛt	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t	four ten	4 10	Czech
 41	Czech	forty one	čtyřicet jedna	tʃtɪr̝ɪtsɛt jɛdna	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + j ɛ d -/ɛ n a/-	four ten one	4 10 1	Czech
 42	Czech	forty two	čtyřicet dva	tʃtɪr̝ɪtsɛt dva	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + d v a	four ten two	4 10 2	Czech
-43	Czech	forty three	čtyřicet tři	tʃtɪr̝ɪtsɛt tr̝ɪ	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + t r̝ iː	four ten three	4 10 3	Czech
+43	Czech	forty three	čtyřicet tři	tʃtɪr̝ɪtsɛt tr̝ɪ	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + t r̝ ɪ	four ten three	4 10 3	Czech
 44	Czech	forty four	čtyřicet čtyři	tʃtɪr̝ɪtsɛt tʃtɪr̝ɪ	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + tʃ t ɪ r̝ ɪ	four ten four	4 10 4	Czech
 45	Czech	forty five	čtyřicet pět	tʃtɪr̝ɪtsɛt pjɛt	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + p j ɛ t	four ten five	4 10 5	Czech
 46	Czech	forty six	čtyřicet šest	tʃtɪr̝ɪtsɛt ʃɛst	tʃ t ɪ r̝ ɪ + -/d -/ɛ ts/s ɛ t + ʃ ɛ s t	four ten six	4 10 6	Czech
@@ -98,4 +98,3 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 97	Czech	ninety seven	devadesát sedm	dɛvadɛsaːt sɛdm	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + s ɛ d m	nine ten seven	9 10 7	Czech
 98	Czech	ninety eight	devadesát osm	dɛvadɛsaːt osm	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + o s m	nine ten eight	9 10 8	Czech
 99	Czech	ninety nine	devadesát devět	dɛvadɛsaːt dɛvjɛt	d ɛ v a/j -/ɛ -/t + d ɛ s aː/ɛ t + d ɛ v j ɛ t	nine ten nine	9 10 9	Czech
-100	Czech	hundred 	sto	sto	s t o	hundred	12	Czech
