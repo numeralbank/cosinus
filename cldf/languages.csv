@@ -1,26 +1,34 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Sources,FileName,Base
-Sanskrit,Sanskrit,sans1269,Sanskrit,san,Eurasia,20.0,77.0,Indo-European,Stenzler1915,sanskrit,10
-German,German,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European,List2025,german,10
-Hindi,Hindi,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European,Hindi,hind1269,10
-Maltese,Maltese,malt1254,Maltese,mlt,Eurasia,35.8884,14.4508,Afro-Asiatic,Maltese,maltese,10
-Latin,Latin,lati1261,Latin,lat,Eurasia,41.9026,12.4502,Indo-European,Dellert2020;Rubenbauer1995,latin,10
-Czech,Czech,czec1258,Czech,ces,Eurasia,49.873398,15.10437,Indo-European,Czech,czech,10
-Irish,Irish,iris1253,Irish,gle,Eurasia,53.2186,-7.61509,Indo-European,Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025,irish,10
-Scottish_Gaelic,Scottish Gaelic,scot1245,Scottish Gaelic,gla,Eurasia,56.7574,-5.24366,Indo-European,LearnGaelic2021,scottish_gaelic,10;20
-French,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European,French,french,10
-Italian,Italian,ital1282,Italian,ita,Eurasia,43.0464,12.6489,Indo-European,Dellert2020;Manczak1985;Comrie2011,italian,10
-Spanish,Spanish,stan1288,Spanish,spa,Eurasia,40.4414,-1.11788,Indo-European,OpenDictData2025span;Manczak1985,spanish,10
-Telugu,Telugu,telu1262,Telugu,tel,Eurasia,16.4529,78.7024,Dravidian,Telugu,telugu,10
-Paraguayan_Guarani,Paraguayan Guarani,para1311,Paraguayan Guaraní,gug,South America,-25.60551,-57.08816,Tupian,ParaguayanGuarani1;ParaguayanGuarani2,paraguayan-guarani,5;10
-Cavinena,Cavineña,cavi1250,Cavineña,cav,South America,-13.3544,-66.6277,Pano-Tacanan,Cavineña1;Cavineña2,cavineña,5;10
-Wayuu,Wayuu,wayu1243,Wayuu,guc,South America,11.395566,-72.199791,Arawakan,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,wayuu,10
-Mapudungun,Mapudungun,mapu1245,Mapudungun,arn,South America,-38.7392,-71.277,Araucanian,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,mapudungun,10
-Huallaga_Quechua,Huallaga Quechua,hual1241,Huallaga Huánuco Quechua,qub,South America,-9.57135,-75.594,Quechuan,HuallagaQuechua1;HuallagaQuechua2,huallaga-quechua,10
-Aymara,Aymara,ayma1253,Aymaran,,,,,Aymaran,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,aymara,5;10
-Mandarin,Mandarin,mand1415,Mandarin Chinese,cmn,Eurasia,40.0209,116.228,Sino-Tibetan,Mandarin,mand1415,10
-Shanghainese,Shanghainese,shan1293,Shanghainese,,Eurasia,31.222902,121.475372,Sino-Tibetan,Shanghainese,shan1293,10
-Assamese,Assamese,assa1263,Assamese,asm,Eurasia,26.0876,91.2932,Indo-European,Assamese,assa1263,10
-Uipo_Maringic,Uipo (Maringic),khoi1251,Khoibu,nkb,Eurasia,24.2041,94.1345,Sino-Tibetan,Uipo,khoi1251,10
-Lamjung_Yolmo,Lamjung Yolmo,lamj1247,Lamjung Yolmo,,Eurasia,,,Sino-Tibetan,Yolmo,lamj1247,10;20
-Makyam_Khalai,Makyam (Khalai),maky1236,Makyam Naga,,Eurasia,26.3932,95.4649,Sino-Tibetan,Makyam,maky1236,10
-Russian,Russian,russ1263,Russian,rus,Eurasia,59.0,50.0,Indo-European,Mulisch1993,russian,10
+Sanskrit,Sanskrit,sans1269,,,,,,,Stenzler1915,sanskrit,10
+German,German,stan1295,,,,,,,List2025,german,10
+Hindi,Hindi,hind1269,,,,,,,Hindi,hind1269,10
+Maltese,Maltese,malt1254,,,,,,,Maltese,maltese,10
+Latin,Latin,lati1261,,,,,,,Dellert2020;Rubenbauer1995,latin,10
+Czech,Czech,czec1258,,,,,,,Czech,czech,10
+Irish,Irish,iris1253,,,,,,,Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025,irish,10
+Scottish_Gaelic,Scottish Gaelic,scot1245,,,,,,,LearnGaelic2021,scottish_gaelic,10;20
+French,French,stan1290,,,,,,,French,french,10
+Italian,Italian,ital1282,,,,,,,Dellert2020;Manczak1985;Comrie2011,italian,10
+Spanish,Spanish,stan1288,,,,,,,OpenDictData2025span;Manczak1985,spanish,10
+Telugu,Telugu,telu1262,,,,,,,Telugu,telugu,10
+Paraguayan_Guarani,Paraguayan Guarani,para1311,,,,,,,ParaguayanGuarani1;ParaguayanGuarani2,paraguayan-guarani,5;10
+Cavinena,Cavineña,cavi1250,,,,,,,Cavineña1;Cavineña2,cavineña,5;10
+Wayuu,Wayuu,wayu1243,,,,,,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,wayuu,10
+Mapudungun,Mapudungun,mapu1245,,,,,,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,mapudungun,10
+Huallaga_Quechua,Huallaga Quechua,hual1241,,,,,,,HuallagaQuechua1;HuallagaQuechua2,huallaga-quechua,10
+Aymara,Aymara,ayma1253,,,,,,,Aymara1;Aymara2;Aymara3;Aymara4;Aymara5;Aymara6,aymara,5;10
+Mandarin,Mandarin,mand1415,,,,,,,Mandarin,mand1415,10
+Shanghainese,Shanghainese,shan1293,,,,,,,Shanghainese,shan1293,10
+Assamese,Assamese,assa1263,,,,,,,Assamese,assa1263,10
+Uipo_Maringic,Uipo (Maringic),khoi1251,,,,,,,Uipo,khoi1251,10
+Lamjung_Yolmo,Lamjung Yolmo,lamj1247,,,,,,,Yolmo,lamj1247,10;20
+Makyam_Khalai,Makyam (Khalai),maky1236,,,,,,,Makyam,maky1236,10
+Russian,Russian,russ1263,,,,,,,Mulisch1993,russian,10
+Kalasha,Kalasha,kala1372,,,,,,,PetersenKalasha2015,kala1372,20
+Acehnese,Acehnese,achi1257,,,,,,,wiktionary,achi1257,10
+Balochi,Balochi,west2368,,,,,,,BarkerMengal1969,west2368,10
+Georgian,Georgian,nucl1302,,,,,,,wiktionary,nucl1302,20
+Dhivehi,Dhivehi,dhiv1236,,,,,,,GnanadesikanDhivehi2017,dhiv1236,
+Lamani,Lamani,lamb1269,,,,,,,TrailLamani1970,lamb1269,
+Siraiki,Siraiki,sera1259,,,,,,,BashirConnersSiraiki2019,sera1259,
+Uyghur,Uyghur,uigh1240,,,,,,,wiktionary,uigh1240,

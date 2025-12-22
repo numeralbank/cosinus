@@ -64,20 +64,15 @@ class Dataset(pylexibank.Dataset):
 
         args.writer.add_sources()
         args.writer.add_languages()
-        args.writer.add_sources()
-        
-        concepts = {}
-        for concept in self.conceptlists[0].concepts.values():
-            lookup = concept.id + "-" + slug(concept.english)
+
+        for concept in self.concepts:
             args.writer.add_concept(
-                    ID=lookup,
-                    Name=concept.concepticon_gloss,
-                    Number=concept.number,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.concepticon_gloss
-                    )
-            concepts[concept.concepticon_gloss] = lookup
-            
+                ID=slug(concept["GLOSS"]),
+                Name=concept["GLOSS"],
+                Number=concept["NUMBER"],
+                Concepticon_ID=concept["CONCEPTICON_ID"],
+                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+            )
 
         for language in self.languages:
             sources[language["ID"]] = language["Sources"].split(";")
@@ -110,7 +105,7 @@ class Dataset(pylexibank.Dataset):
                 try:
                     args.writer.add_form_with_segments(
                         Language_ID=data["DOCULECT"],
-                        Parameter_ID=concepts[data["CONCEPT"].upper()],
+                        Parameter_ID=slug(data["CONCEPT"]),
                         Value=data["FORM"],
                         Form=data["FORM"],
                         Segments=" + ".join(surface(tokens)).split(" "),
@@ -147,7 +142,7 @@ def validate_language(data, sources_for_lang):
     gloss_to_id = defaultdict(set)
 
     for row in data:
-        print(row['DOCULECT'], row["CONCEPT"], row["TOKENS"])
+        # print(row['DOCULECT'], row["CONCEPT"], row["TOKENS"])
         # normalize morphemes and extract underlying forms
         tokens = row["TOKENS"]
         morphemes = tokens.split("+")
