@@ -1,212 +1,191 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
-1	hebr1245	one	אחד	eχad	e χ a d	one	e χ a d	1		Etzion2020ModernHebrew
-2	hebr1245	one	אחת	aχat	a/e χ a t/d	one	a/e χ a t/d	1		Etzion2020ModernHebrew
-3	hebr1245	two	שניים	ʃnajim	ʃ n a j i m	two	ʃ n a j i m	2		Etzion2020ModernHebrew
-4	hebr1245	two	שתיים	ʃtajim	ʃ t/n a j i m	two	ʃ t/n a j i m	2		Etzion2020ModernHebrew
-5	hebr1245	three	שלושה	ʃloʃa	ʃ -/a l o ʃ + a/-	three suff_masc_sg	ʃ -/a l o ʃ + a/-	3 11		Etzion2020ModernHebrew
-6	hebr1245	three	שלוש	ʃaloʃ	ʃ a l o ʃ	three	ʃ a l o ʃ	3		Etzion2020ModernHebrew
-7	hebr1245	four	ארבעה	aʁbaa	a ʁ b a + a/-	four suff_masc_sg	a ʁ b a + a/-	4 11		Etzion2020ModernHebrew
-8	hebr1245	four	ארבע	aʁba	a ʁ b a	four	a ʁ b a	4		Etzion2020ModernHebrew
-9	hebr1245	five	חמישה	χamiʃa	χ a m i/e ʃ + a/-	five suff_masc_sg	χ a m i/e ʃ + a/-	5 11		Etzion2020ModernHebrew
-10	hebr1245	five	חמש	χameʃ	χ a m e ʃ	five	χ a m e ʃ	5		Etzion2020ModernHebrew
-11	hebr1245	six	שישה	ʃiʃa	ʃ i/e ʃ + a/-	six suff_masc_sg	ʃ i/e ʃ + a/-	6 11		Etzion2020ModernHebrew
-12	hebr1245	six	שש	ʃeʃ	ʃ e ʃ	six	ʃ e ʃ	6		Etzion2020ModernHebrew
-13	hebr1245	seven	שבעה	ʃiva	ʃ i/e v -/a + a/-	seven suff_masc_sg	ʃ i/e v -/a + a/-	7 11		Etzion2020ModernHebrew
-14	hebr1245	seven	שבע	ʃeva	ʃ e v a	seven	ʃ e v a	7		Etzion2020ModernHebrew
-15	hebr1245	eight	שמונה	ʃmona	ʃ m o n -/e + a/-	eight suff_masc_sg	ʃ m o n -/e + a/-	8 11		Etzion2020ModernHebrew
-16	hebr1245	eight	שמונה	ʃmone	ʃ m o n e	eight	ʃ m o n e	8		Etzion2020ModernHebrew
-17	hebr1245	nine	תשעה	tiʃa	t i/e ʃ -/a + a/-	nine suff_masc_sg	t i/e ʃ -/a + a/-	9 11		Etzion2020ModernHebrew
-18	hebr1245	nine	תשע	teʃa	t e ʃ a	nine	t e ʃ a	9		Etzion2020ModernHebrew
-19	hebr1245	ten	עשרה	asaʁa	a/e s a/e ʁ + a/-	ten suff_masc_sg	a/e s a/e ʁ + a/-	10 11		Etzion2020ModernHebrew
-20	hebr1245	ten	עשר	eseʁ	e s e ʁ	ten	e s e ʁ	10		Etzion2020ModernHebrew
-21	hebr1245	eleven	אחד עשר	aχadasaʁ	a/e χ a d + a/e s a/e ʁ	one ten	a/e χ a d + a/e s a/e ʁ	1 10		Etzion2020ModernHebrew
-22	hebr1245	eleven	אחת עשרה	aχatesʁe	a/e χ a t/d + e s -/e ʁ + e/-	one ten suff_fem_sg	a/e χ a t/d + e s -/e ʁ + e/-	1 10 12		Etzion2020ModernHebrew
-23	hebr1245	twelve	שנים עשר	ʃnemasaʁ	ʃ n -/a e/j -/i m + a/e s a/e ʁ	two ten	ʃ n -/a e/j -/i m + a/e s a/e ʁ	2 10		Etzion2020ModernHebrew
-24	hebr1245	twelve	שתים עשרה	ʃtemesʁe	ʃ t/n -/a e/j -/i m + e s -/e ʁ + e/-	two ten suff_fem_sg	ʃ t/n -/a e/j -/i m + e s -/e ʁ + e/-	2 10 12		Etzion2020ModernHebrew
-25	hebr1245	thirteen	שלושה עשר	ʃloʃaasaʁ	ʃ -/a l o ʃ + a/- + a/e s a/e ʁ	three suff_masc_sg ten	ʃ -/a l o ʃ + a/- + a/e s a/e ʁ	3 11 10		Etzion2020ModernHebrew
-26	hebr1245	thirteen	שלוש עשרה	ʃloʃesʁe	ʃ -/a l o ʃ + e s -/e ʁ + e/-	three ten suff_fem_sg	ʃ -/a l o ʃ + e s -/e ʁ + e/-	3 10 12		Etzion2020ModernHebrew
-27	hebr1245	fourteen	ארבעה עשר	aʁbaaasaʁ	a ʁ b a + a/- + a/e s a/e ʁ	four suff_masc_sg ten	a ʁ b a + a/- + a/e s a/e ʁ	4 11 10		Etzion2020ModernHebrew
-28	hebr1245	fourteen	ארבע עשרה	aʁbaesʁe	a ʁ b a + e s -/e ʁ + e/-	four ten suff_fem_sg	a ʁ b a + e s -/e ʁ + e/-	4 10 12		Etzion2020ModernHebrew
-29	hebr1245	fifteen	חמישה עשר	χamiʃaasaʁ	χ a m i/e ʃ + a/- + a/e s a/e ʁ	five suff_masc_sg ten	χ a m i/e ʃ + a/- + a/e s a/e ʁ	5 11 10		Etzion2020ModernHebrew
-30	hebr1245	fifteen	חמש עשרה	χameʃesʁe	χ a m e ʃ + e s -/e ʁ + e/-	five ten suff_fem_sg	χ a m e ʃ + e s -/e ʁ + e/-	5 10 12		Etzion2020ModernHebrew
-31	hebr1245	sixteen	שישה עשר	ʃiʃaasaʁ	ʃ i/e ʃ + a/- + a/e s a/e ʁ	six suff_masc_sg ten	ʃ i/e ʃ + a/- + a/e s a/e ʁ	6 11 10		Etzion2020ModernHebrew
-32	hebr1245	sixteen	שש עשרה	ʃeʃesʁe	ʃ e ʃ + e s -/e ʁ + e/-	six ten suff_fem_sg	ʃ e ʃ + e s -/e ʁ + e/-	6 10 12		Etzion2020ModernHebrew
-33	hebr1245	seventeen	שבעה עשר	ʃivaasaʁ	ʃ i/e v -/a + a/- + a/e s a/e ʁ	seven suff_masc_sg ten	ʃ i/e v -/a + a/- + a/e s a/e ʁ	7 11 10		Etzion2020ModernHebrew
-34	hebr1245	seventeen	שבע עשרה	ʃvaesʁe	ʃ -/e v a + e s -/e ʁ + e/-	seven ten suff_fem_sg	ʃ -/e v a + e s -/e ʁ + e/-	7 10 12		Etzion2020ModernHebrew
-35	hebr1245	eighteen	שמונה עשר	ʃmonaasaʁ	ʃ m o n -/e + a/- + a/e s a/e ʁ	eight suff_masc_sg ten	ʃ m o n -/e + a/- + a/e s a/e ʁ	8 11 10		Etzion2020ModernHebrew
-36	hebr1245	eighteen	שמונה עשרה	ʃmoneesʁe	ʃ m o n e + e s -/e ʁ + e/-	eight ten suff_fem_sg	ʃ m o n e + e s -/e ʁ + e/-	8 10 12		Etzion2020ModernHebrew
-37	hebr1245	nineteen	תשעה עשר	tiʃaasaʁ	t i/e ʃ -/a + a/- + a/e s a/e ʁ	nine suff_masc_sg ten	t i/e ʃ -/a + a/- + a/e s a/e ʁ	9 11 10		Etzion2020ModernHebrew
-38	hebr1245	nineteen	תשע עשרה	teʃaesʁe	t e ʃ a + e s -/e ʁ + e/-	nine ten suff_fem_sg	t e ʃ a + e s -/e ʁ + e/-	9 10 12		Etzion2020ModernHebrew
-39	hebr1245	twenty	עשרים	esʁim	e s -/e ʁ + i m	ten suff_pl	e s -/e ʁ + i m	10 13		Etzion2020ModernHebrew
-40	hebr1245	twenty one	עשרים ואחד	esʁimveeχad	e s -/e ʁ + i m + v e + e χ a d	ten suff_pl and one	e s -/e ʁ + i m + v e + e χ a d	10 13 15 1		Etzion2020ModernHebrew
-41	hebr1245	twenty one	עשרים ואחת	esʁimveaχat	e s -/e ʁ + i m + v e + a/e χ a t/d	ten suff_pl and one	e s -/e ʁ + i m + v e + a/e χ a t/d	10 13 15 1		Etzion2020ModernHebrew
-42	hebr1245	twenty two	עשרים ושניים	esʁimuʃnajim	e s -/e ʁ + i m + u/v -/e + ʃ n a j i m	ten suff_pl and two	e s -/e ʁ + i m + u/v -/e + ʃ n a j i m	10 13 15 2		Etzion2020ModernHebrew
-43	hebr1245	twenty two	עשרים ושתיים	esʁimuʃtajim	e s -/e ʁ + i m + u/v -/e + ʃ t/n a j i m	ten suff_pl and two	e s -/e ʁ + i m + u/v -/e + ʃ t/n a j i m	10 13 15 2		Etzion2020ModernHebrew
-44	hebr1245	twenty three	עשרים ושלושה	esʁimuʃloʃa	e s -/e ʁ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	ten suff_pl and three suff_masc_sg	e s -/e ʁ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	10 13 15 3 11		Etzion2020ModernHebrew
-45	hebr1245	twenty three	עשרים ושלוש	esʁimveʃaloʃ	e s -/e ʁ + i m + v e + ʃ a l o ʃ	ten suff_pl and three	e s -/e ʁ + i m + v e + ʃ a l o ʃ	10 13 15 3		Etzion2020ModernHebrew
-46	hebr1245	twenty four	עשרים וארבעה	esʁimveaʁbaa	e s -/e ʁ + i m + v e + a ʁ b a + a/-	ten suff_pl and four suff_masc_sg	e s -/e ʁ + i m + v e + a ʁ b a + a/-	10 13 15 4 11		Etzion2020ModernHebrew
-47	hebr1245	twenty four	עשרים וארבע	esʁimveaʁba	e s -/e ʁ + i m + v e + a ʁ b a	ten suff_pl and four	e s -/e ʁ + i m + v e + a ʁ b a	10 13 15 4		Etzion2020ModernHebrew
-48	hebr1245	twenty five	עשרים וחמישה	esʁimveχamiʃa	e s -/e ʁ + i m + v e + χ a m i/e ʃ + a/-	ten suff_pl and five suff_masc_sg	e s -/e ʁ + i m + v e + χ a m i/e ʃ + a/-	10 13 15 5 11		Etzion2020ModernHebrew
-49	hebr1245	twenty five	עשרים וחמש	esʁimveχameʃ	e s -/e ʁ + i m + v e + χ a m e ʃ	ten suff_pl and five	e s -/e ʁ + i m + v e + χ a m e ʃ	10 13 15 5		Etzion2020ModernHebrew
-50	hebr1245	twenty six	עשרים ושישה	esʁimveʃiʃa	e s -/e ʁ + i m + v e + ʃ i/e ʃ + a/-	ten suff_pl and six suff_masc_sg	e s -/e ʁ + i m + v e + ʃ i/e ʃ + a/-	10 13 15 6 11		Etzion2020ModernHebrew
-51	hebr1245	twenty six	עשרים ושש	esʁimveʃeʃ	e s -/e ʁ + i m + v e + ʃ e ʃ	ten suff_pl and six	e s -/e ʁ + i m + v e + ʃ e ʃ	10 13 15 6		Etzion2020ModernHebrew
-52	hebr1245	twenty seven	עשרים ושבעה	esʁimveʃiva	e s -/e ʁ + i m + v e + ʃ i/e v -/a + a/-	ten suff_pl and seven suff_masc_sg	e s -/e ʁ + i m + v e + ʃ i/e v -/a + a/-	10 13 15 7 11		Etzion2020ModernHebrew
-53	hebr1245	twenty seven	עשרים ושבע	esʁimveʃeva	e s -/e ʁ + i m + v e + ʃ e v a	ten suff_pl and seven	e s -/e ʁ + i m + v e + ʃ e v a	10 13 15 7		Etzion2020ModernHebrew
-54	hebr1245	twenty eight	עשרים ושמונה	esʁimuʃmona	e s -/e ʁ + i m + u/v -/e + ʃ m o n -/e + a/-	ten suff_pl and eight suff_masc_sg	e s -/e ʁ + i m + u/v -/e + ʃ m o n -/e + a/-	10 13 15 8 11		Etzion2020ModernHebrew
-55	hebr1245	twenty eight	עשרים ושמונה	esʁimuʃmone	e s -/e ʁ + i m + u/v -/e + ʃ m o n e	ten suff_pl and eight	e s -/e ʁ + i m + u/v -/e + ʃ m o n e	10 13 15 8		Etzion2020ModernHebrew
-56	hebr1245	twenty nine	עשרים ותשעה	esʁimvetiʃa	e s -/e ʁ + i m + v e + t i/e ʃ -/a + a/-	ten suff_pl and nine suff_masc_sg	e s -/e ʁ + i m + v e + t i/e ʃ -/a + a/-	10 13 15 9 11		Etzion2020ModernHebrew
-57	hebr1245	twenty nine	עשרים ותשע	esʁimveteʃa	e s -/e ʁ + i m + v e + t e ʃ a	ten suff_pl and nine	e s -/e ʁ + i m + v e + t e ʃ a	10 13 15 9		Etzion2020ModernHebrew
-58	hebr1245	thirty	שלושים	ʃloʃim	ʃ -/a l o ʃ + i m	three suff_pl	ʃ -/a l o ʃ + i m	3 13		Etzion2020ModernHebrew
-59	hebr1245	thirty one	שלושים ואחד	ʃloʃimveeχad	ʃ -/a l o ʃ + i m + v e + e χ a d	three suff_pl and one	ʃ -/a l o ʃ + i m + v e + e χ a d	3 13 15 1		Etzion2020ModernHebrew
-60	hebr1245	thirty one	שלושים ואחת	ʃloʃimveaχat	ʃ -/a l o ʃ + i m + v e + a/e χ a t/d	three suff_pl and one	ʃ -/a l o ʃ + i m + v e + a/e χ a t/d	3 13 15 1		Etzion2020ModernHebrew
-61	hebr1245	thirty two	שלושים ושניים	ʃloʃimuʃnajim	ʃ -/a l o ʃ + i m + u/v -/e + ʃ n a j i m	three suff_pl and two	ʃ -/a l o ʃ + i m + u/v -/e + ʃ n a j i m	3 13 15 2		Etzion2020ModernHebrew
-62	hebr1245	thirty two	שלושים ושתיים	ʃloʃimuʃtajim	ʃ -/a l o ʃ + i m + u/v -/e + ʃ t/n a j i m	three suff_pl and two	ʃ -/a l o ʃ + i m + u/v -/e + ʃ t/n a j i m	3 13 15 2		Etzion2020ModernHebrew
-63	hebr1245	thirty three	שלושים ושלושה	ʃloʃimuʃloʃa	ʃ -/a l o ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	three suff_pl and three suff_masc_sg	ʃ -/a l o ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	3 13 15 3 11		Etzion2020ModernHebrew
-64	hebr1245	thirty three	שלושים ושלוש	ʃloʃimveʃaloʃ	ʃ -/a l o ʃ + i m + v e + ʃ a l o ʃ	three suff_pl and three	ʃ -/a l o ʃ + i m + v e + ʃ a l o ʃ	3 13 15 3		Etzion2020ModernHebrew
-65	hebr1245	thirty four	שלושים וארבעה	ʃloʃimveaʁbaa	ʃ -/a l o ʃ + i m + v e + a ʁ b a + a/-	three suff_pl and four suff_masc_sg	ʃ -/a l o ʃ + i m + v e + a ʁ b a + a/-	3 13 15 4 11		Etzion2020ModernHebrew
-66	hebr1245	thirty four	שלושים וארבע	ʃloʃimveaʁba	ʃ -/a l o ʃ + i m + v e + a ʁ b a	three suff_pl and four	ʃ -/a l o ʃ + i m + v e + a ʁ b a	3 13 15 4		Etzion2020ModernHebrew
-67	hebr1245	thirty five	שלושים וחמישה	ʃloʃimveχamiʃa	ʃ -/a l o ʃ + i m + v e + χ a m i/e ʃ + a/-	three suff_pl and five suff_masc_sg	ʃ -/a l o ʃ + i m + v e + χ a m i/e ʃ + a/-	3 13 15 5 11		Etzion2020ModernHebrew
-68	hebr1245	thirty five	שלושים וחמש	ʃloʃimveχameʃ	ʃ -/a l o ʃ + i m + v e + χ a m e ʃ	three suff_pl and five	ʃ -/a l o ʃ + i m + v e + χ a m e ʃ	3 13 15 5		Etzion2020ModernHebrew
-69	hebr1245	thirty six	שלושים ושישה	ʃloʃimveʃiʃa	ʃ -/a l o ʃ + i m + v e + ʃ i/e ʃ + a/-	three suff_pl and six suff_masc_sg	ʃ -/a l o ʃ + i m + v e + ʃ i/e ʃ + a/-	3 13 15 6 11		Etzion2020ModernHebrew
-70	hebr1245	thirty six	שלושים ושש	ʃloʃimveʃeʃ	ʃ -/a l o ʃ + i m + v e + ʃ e ʃ	three suff_pl and six	ʃ -/a l o ʃ + i m + v e + ʃ e ʃ	3 13 15 6		Etzion2020ModernHebrew
-71	hebr1245	thirty seven	שלושים ושבעה	ʃloʃimveʃiva	ʃ -/a l o ʃ + i m + v e + ʃ i/e v -/a + a/-	three suff_pl and seven suff_masc_sg	ʃ -/a l o ʃ + i m + v e + ʃ i/e v -/a + a/-	3 13 15 7 11		Etzion2020ModernHebrew
-72	hebr1245	thirty seven	שלושים ושבע	ʃloʃimveʃeva	ʃ -/a l o ʃ + i m + v e + ʃ e v a	three suff_pl and seven	ʃ -/a l o ʃ + i m + v e + ʃ e v a	3 13 15 7		Etzion2020ModernHebrew
-73	hebr1245	thirty eight	שלושים ושמונה	ʃloʃimuʃmona	ʃ -/a l o ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	three suff_pl and eight suff_masc_sg	ʃ -/a l o ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	3 13 15 8 11		Etzion2020ModernHebrew
-74	hebr1245	thirty eight	שלושים ושמונה	ʃloʃimuʃmone	ʃ -/a l o ʃ + i m + u/v -/e + ʃ m o n e	three suff_pl and eight	ʃ -/a l o ʃ + i m + u/v -/e + ʃ m o n e	3 13 15 8		Etzion2020ModernHebrew
-75	hebr1245	thirty nine	שלושים ותשעה	ʃloʃimvetiʃa	ʃ -/a l o ʃ + i m + v e + t i/e ʃ -/a + a/-	three suff_pl and nine suff_masc_sg	ʃ -/a l o ʃ + i m + v e + t i/e ʃ -/a + a/-	3 13 15 9 11		Etzion2020ModernHebrew
-76	hebr1245	thirty nine	שלושים ותשע	ʃloʃimveteʃa	ʃ -/a l o ʃ + i m + v e + t e ʃ a	three suff_pl and nine	ʃ -/a l o ʃ + i m + v e + t e ʃ a	3 13 15 9		Etzion2020ModernHebrew
-77	hebr1245	forty	ארבעים	aʁbaim	a ʁ b a + i m	four suff_pl	a ʁ b a + i m	4 13		Etzion2020ModernHebrew
-78	hebr1245	forty one	ארבעים ואחד	aʁbaimveeχad	a ʁ b a + i m + v e + e χ a d	four suff_pl and one	a ʁ b a + i m + v e + e χ a d	4 13 15 1		Etzion2020ModernHebrew
-79	hebr1245	forty one	ארבעים ואחת	aʁbaimveaχat	a ʁ b a + i m + v e + a/e χ a t/d	four suff_pl and one	a ʁ b a + i m + v e + a/e χ a t/d	4 13 15 1		Etzion2020ModernHebrew
-80	hebr1245	forty two	ארבעים ושניים	aʁbaimuʃnajim	a ʁ b a + i m + u/v -/e + ʃ n a j i m	four suff_pl and two	a ʁ b a + i m + u/v -/e + ʃ n a j i m	4 13 15 2		Etzion2020ModernHebrew
-81	hebr1245	forty two	ארבעים ושתיים	aʁbaimuʃtajim	a ʁ b a + i m + u/v -/e + ʃ t/n a j i m	four suff_pl and two	a ʁ b a + i m + u/v -/e + ʃ t/n a j i m	4 13 15 2		Etzion2020ModernHebrew
-82	hebr1245	forty three	ארבעים ושלושה	aʁbaimuʃloʃa	a ʁ b a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	four suff_pl and three suff_masc_sg	a ʁ b a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	4 13 15 3 11		Etzion2020ModernHebrew
-83	hebr1245	forty three	ארבעים ושלוש	aʁbaimveʃaloʃ	a ʁ b a + i m + v e + ʃ a l o ʃ	four suff_pl and three	a ʁ b a + i m + v e + ʃ a l o ʃ	4 13 15 3		Etzion2020ModernHebrew
-84	hebr1245	forty four	ארבעים וארבעה	aʁbaimveaʁbaa	a ʁ b a + i m + v e + a ʁ b a + a/-	four suff_pl and four suff_masc_sg	a ʁ b a + i m + v e + a ʁ b a + a/-	4 13 15 4 11		Etzion2020ModernHebrew
-85	hebr1245	forty four	ארבעים וארבע	aʁbaimveaʁba	a ʁ b a + i m + v e + a ʁ b a	four suff_pl and four	a ʁ b a + i m + v e + a ʁ b a	4 13 15 4		Etzion2020ModernHebrew
-86	hebr1245	forty five	ארבעים וחמישה	aʁbaimveχamiʃa	a ʁ b a + i m + v e + χ a m i/e ʃ + a/-	four suff_pl and five suff_masc_sg	a ʁ b a + i m + v e + χ a m i/e ʃ + a/-	4 13 15 5 11		Etzion2020ModernHebrew
-87	hebr1245	forty five	ארבעים וחמש	aʁbaimveχameʃ	a ʁ b a + i m + v e + χ a m e ʃ	four suff_pl and five	a ʁ b a + i m + v e + χ a m e ʃ	4 13 15 5		Etzion2020ModernHebrew
-88	hebr1245	forty six	ארבעים ושישה	aʁbaimveʃiʃa	a ʁ b a + i m + v e + ʃ i/e ʃ + a/-	four suff_pl and six suff_masc_sg	a ʁ b a + i m + v e + ʃ i/e ʃ + a/-	4 13 15 6 11		Etzion2020ModernHebrew
-89	hebr1245	forty six	ארבעים ושש	aʁbaimveʃeʃ	a ʁ b a + i m + v e + ʃ e ʃ	four suff_pl and six	a ʁ b a + i m + v e + ʃ e ʃ	4 13 15 6		Etzion2020ModernHebrew
-90	hebr1245	forty seven	ארבעים ושבעה	aʁbaimveʃiva	a ʁ b a + i m + v e + ʃ i/e v -/a + a/-	four suff_pl and seven suff_masc_sg	a ʁ b a + i m + v e + ʃ i/e v -/a + a/-	4 13 15 7 11		Etzion2020ModernHebrew
-91	hebr1245	forty seven	ארבעים ושבע	aʁbaimveʃeva	a ʁ b a + i m + v e + ʃ e v a	four suff_pl and seven	a ʁ b a + i m + v e + ʃ e v a	4 13 15 7		Etzion2020ModernHebrew
-92	hebr1245	forty eight	ארבעים ושמונה	aʁbaimuʃmona	a ʁ b a + i m + u/v -/e + ʃ m o n -/e + a/-	four suff_pl and eight suff_masc_sg	a ʁ b a + i m + u/v -/e + ʃ m o n -/e + a/-	4 13 15 8 11		Etzion2020ModernHebrew
-93	hebr1245	forty eight	ארבעים ושמונה	aʁbaimuʃmone	a ʁ b a + i m + u/v -/e + ʃ m o n e	four suff_pl and eight	a ʁ b a + i m + u/v -/e + ʃ m o n e	4 13 15 8		Etzion2020ModernHebrew
-94	hebr1245	forty nine	ארבעים ותשעה	aʁbaimvetiʃa	a ʁ b a + i m + v e + t i/e ʃ -/a + a/-	four suff_pl and nine suff_masc_sg	a ʁ b a + i m + v e + t i/e ʃ -/a + a/-	4 13 15 9 11		Etzion2020ModernHebrew
-95	hebr1245	forty nine	ארבעים ותשע	aʁbaimveteʃa	a ʁ b a + i m + v e + t e ʃ a	four suff_pl and nine	a ʁ b a + i m + v e + t e ʃ a	4 13 15 9		Etzion2020ModernHebrew
-96	hebr1245	fifty	חמישים	χamiʃim	χ a m i/e ʃ + i m	five suff_pl	χ a m i/e ʃ + i m	5 13		Etzion2020ModernHebrew
-97	hebr1245	fifty one	חמישים ואחד	χamiʃimveeχad	χ a m i/e ʃ + i m + v e + e χ a d	five suff_pl and one	χ a m i/e ʃ + i m + v e + e χ a d	5 13 15 1		Etzion2020ModernHebrew
-98	hebr1245	fifty one	חמישים ואחת	χamiʃimveaχat	χ a m i/e ʃ + i m + v e + a/e χ a t/d	five suff_pl and one	χ a m i/e ʃ + i m + v e + a/e χ a t/d	5 13 15 1		Etzion2020ModernHebrew
-99	hebr1245	fifty two	חמישים ושניים	χamiʃimuʃnajim	χ a m i/e ʃ + i m + u/v -/e + ʃ n a j i m	five suff_pl and two	χ a m i/e ʃ + i m + u/v -/e + ʃ n a j i m	5 13 15 2		Etzion2020ModernHebrew
-100	hebr1245	fifty two	חמישים ושתיים	χamiʃimuʃtajim	χ a m i/e ʃ + i m + u/v -/e + ʃ t/n a j i m	five suff_pl and two	χ a m i/e ʃ + i m + u/v -/e + ʃ t/n a j i m	5 13 15 2		Etzion2020ModernHebrew
-101	hebr1245	fifty three	חמישים ושלושה	χamiʃimuʃloʃa	χ a m i/e ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	five suff_pl and three suff_masc_sg	χ a m i/e ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	5 13 15 3 11		Etzion2020ModernHebrew
-102	hebr1245	fifty three	חמישים ושלוש	χamiʃimveʃaloʃ	χ a m i/e ʃ + i m + v e + ʃ a l o ʃ	five suff_pl and three	χ a m i/e ʃ + i m + v e + ʃ a l o ʃ	5 13 15 3		Etzion2020ModernHebrew
-103	hebr1245	fifty four	חמישים וארבעה	χamiʃimveaʁbaa	χ a m i/e ʃ + i m + v e + a ʁ b a + a/-	five suff_pl and four suff_masc_sg	χ a m i/e ʃ + i m + v e + a ʁ b a + a/-	5 13 15 4 11		Etzion2020ModernHebrew
-104	hebr1245	fifty four	חמישים וארבע	χamiʃimveaʁba	χ a m i/e ʃ + i m + v e + a ʁ b a	five suff_pl and four	χ a m i/e ʃ + i m + v e + a ʁ b a	5 13 15 4		Etzion2020ModernHebrew
-105	hebr1245	fifty five	חמישים וחמישה	χamiʃimveχamiʃa	χ a m i/e ʃ + i m + v e + χ a m i/e ʃ + a/-	five suff_pl and five suff_masc_sg	χ a m i/e ʃ + i m + v e + χ a m i/e ʃ + a/-	5 13 15 5 11		Etzion2020ModernHebrew
-106	hebr1245	fifty five	חמישים וחמש	χamiʃimveχameʃ	χ a m i/e ʃ + i m + v e + χ a m e ʃ	five suff_pl and five	χ a m i/e ʃ + i m + v e + χ a m e ʃ	5 13 15 5		Etzion2020ModernHebrew
-107	hebr1245	fifty six	חמישים ושישה	χamiʃimveʃiʃa	χ a m i/e ʃ + i m + v e + ʃ i/e ʃ + a/-	five suff_pl and six suff_masc_sg	χ a m i/e ʃ + i m + v e + ʃ i/e ʃ + a/-	5 13 15 6 11		Etzion2020ModernHebrew
-108	hebr1245	fifty six	חמישים ושש	χamiʃimveʃeʃ	χ a m i/e ʃ + i m + v e + ʃ e ʃ	five suff_pl and six	χ a m i/e ʃ + i m + v e + ʃ e ʃ	5 13 15 6		Etzion2020ModernHebrew
-109	hebr1245	fifty seven	חמישים ושבעה	χamiʃimveʃiva	χ a m i/e ʃ + i m + v e + ʃ i/e v -/a + a/-	five suff_pl and seven suff_masc_sg	χ a m i/e ʃ + i m + v e + ʃ i/e v -/a + a/-	5 13 15 7 11		Etzion2020ModernHebrew
-110	hebr1245	fifty seven	חמישים ושבע	χamiʃimveʃeva	χ a m i/e ʃ + i m + v e + ʃ e v a	five suff_pl and seven	χ a m i/e ʃ + i m + v e + ʃ e v a	5 13 15 7		Etzion2020ModernHebrew
-111	hebr1245	fifty eight	חמישים ושמונה	χamiʃimuʃmona	χ a m i/e ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	five suff_pl and eight suff_masc_sg	χ a m i/e ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	5 13 15 8 11		Etzion2020ModernHebrew
-112	hebr1245	fifty eight	חמישים ושמונה	χamiʃimuʃmone	χ a m i/e ʃ + i m + u/v -/e + ʃ m o n e	five suff_pl and eight	χ a m i/e ʃ + i m + u/v -/e + ʃ m o n e	5 13 15 8		Etzion2020ModernHebrew
-113	hebr1245	fifty nine	חמישים ותשעה	χamiʃimvetiʃa	χ a m i/e ʃ + i m + v e + t i/e ʃ -/a + a/-	five suff_pl and nine suff_masc_sg	χ a m i/e ʃ + i m + v e + t i/e ʃ -/a + a/-	5 13 15 9 11		Etzion2020ModernHebrew
-114	hebr1245	fifty nine	חמישים ותשע	χamiʃimveteʃa	χ a m i/e ʃ + i m + v e + t e ʃ a	five suff_pl and nine	χ a m i/e ʃ + i m + v e + t e ʃ a	5 13 15 9		Etzion2020ModernHebrew
-115	hebr1245	sixty	שישים	ʃiʃim	ʃ i/e ʃ + i m	six suff_pl	ʃ i/e ʃ + i m	6 13		Etzion2020ModernHebrew
-116	hebr1245	sixty one	שישים ואחד	ʃiʃimveeχad	ʃ i/e ʃ + i m + v e + e χ a d	six suff_pl and one	ʃ i/e ʃ + i m + v e + e χ a d	6 13 15 1		Etzion2020ModernHebrew
-117	hebr1245	sixty one	שישים ואחת	ʃiʃimveaχat	ʃ i/e ʃ + i m + v e + a/e χ a t/d	six suff_pl and one	ʃ i/e ʃ + i m + v e + a/e χ a t/d	6 13 15 1		Etzion2020ModernHebrew
-118	hebr1245	sixty two	שישים ושניים	ʃiʃimuʃnajim	ʃ i/e ʃ + i m + u/v -/e + ʃ n a j i m	six suff_pl and two	ʃ i/e ʃ + i m + u/v -/e + ʃ n a j i m	6 13 15 2		Etzion2020ModernHebrew
-119	hebr1245	sixty two	שישים ושתיים	ʃiʃimuʃtajim	ʃ i/e ʃ + i m + u/v -/e + ʃ t/n a j i m	six suff_pl and two	ʃ i/e ʃ + i m + u/v -/e + ʃ t/n a j i m	6 13 15 2		Etzion2020ModernHebrew
-120	hebr1245	sixty three	שישים ושלושה	ʃiʃimuʃloʃa	ʃ i/e ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	six suff_pl and three suff_masc_sg	ʃ i/e ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	6 13 15 3 11		Etzion2020ModernHebrew
-121	hebr1245	sixty three	שישים ושלוש	ʃiʃimveʃaloʃ	ʃ i/e ʃ + i m + v e + ʃ a l o ʃ	six suff_pl and three	ʃ i/e ʃ + i m + v e + ʃ a l o ʃ	6 13 15 3		Etzion2020ModernHebrew
-122	hebr1245	sixty four	שישים וארבעה	ʃiʃimveaʁbaa	ʃ i/e ʃ + i m + v e + a ʁ b a + a/-	six suff_pl and four suff_masc_sg	ʃ i/e ʃ + i m + v e + a ʁ b a + a/-	6 13 15 4 11		Etzion2020ModernHebrew
-123	hebr1245	sixty four	שישים וארבע	ʃiʃimveaʁba	ʃ i/e ʃ + i m + v e + a ʁ b a	six suff_pl and four	ʃ i/e ʃ + i m + v e + a ʁ b a	6 13 15 4		Etzion2020ModernHebrew
-124	hebr1245	sixty five	שישים וחמישה	ʃiʃimveχamiʃa	ʃ i/e ʃ + i m + v e + χ a m i/e ʃ + a/-	six suff_pl and five suff_masc_sg	ʃ i/e ʃ + i m + v e + χ a m i/e ʃ + a/-	6 13 15 5 11		Etzion2020ModernHebrew
-125	hebr1245	sixty five	שישים וחמש	ʃiʃimveχameʃ	ʃ i/e ʃ + i m + v e + χ a m e ʃ	six suff_pl and five	ʃ i/e ʃ + i m + v e + χ a m e ʃ	6 13 15 5		Etzion2020ModernHebrew
-126	hebr1245	sixty six	שישים ושישה	ʃiʃimveʃiʃa	ʃ i/e ʃ + i m + v e + ʃ i/e ʃ + a/-	six suff_pl and six suff_masc_sg	ʃ i/e ʃ + i m + v e + ʃ i/e ʃ + a/-	6 13 15 6 11		Etzion2020ModernHebrew
-127	hebr1245	sixty six	שישים ושש	ʃiʃimveʃeʃ	ʃ i/e ʃ + i m + v e + ʃ e ʃ	six suff_pl and six	ʃ i/e ʃ + i m + v e + ʃ e ʃ	6 13 15 6		Etzion2020ModernHebrew
-128	hebr1245	sixty seven	שישים ושבעה	ʃiʃimveʃiva	ʃ i/e ʃ + i m + v e + ʃ i/e v -/a + a/-	six suff_pl and seven suff_masc_sg	ʃ i/e ʃ + i m + v e + ʃ i/e v -/a + a/-	6 13 15 7 11		Etzion2020ModernHebrew
-129	hebr1245	sixty seven	שישים ושבע	ʃiʃimveʃeva	ʃ i/e ʃ + i m + v e + ʃ e v a	six suff_pl and seven	ʃ i/e ʃ + i m + v e + ʃ e v a	6 13 15 7		Etzion2020ModernHebrew
-130	hebr1245	sixty eight	שישים ושמונה	ʃiʃimuʃmona	ʃ i/e ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	six suff_pl and eight suff_masc_sg	ʃ i/e ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	6 13 15 8 11		Etzion2020ModernHebrew
-131	hebr1245	sixty eight	שישים ושמונה	ʃiʃimuʃmone	ʃ i/e ʃ + i m + u/v -/e + ʃ m o n e	six suff_pl and eight	ʃ i/e ʃ + i m + u/v -/e + ʃ m o n e	6 13 15 8		Etzion2020ModernHebrew
-132	hebr1245	sixty nine	שישים ותשעה	ʃiʃimvetiʃa	ʃ i/e ʃ + i m + v e + t i/e ʃ -/a + a/-	six suff_pl and nine suff_masc_sg	ʃ i/e ʃ + i m + v e + t i/e ʃ -/a + a/-	6 13 15 9 11		Etzion2020ModernHebrew
-133	hebr1245	sixty nine	שישים ותשע	ʃiʃimveteʃa	ʃ i/e ʃ + i m + v e + t e ʃ a	six suff_pl and nine	ʃ i/e ʃ + i m + v e + t e ʃ a	6 13 15 9		Etzion2020ModernHebrew
-134	hebr1245	seventy	שבעים	ʃivim	ʃ i/e v -/a + i m	seven suff_pl	ʃ i/e v -/a + i m	7 13		Etzion2020ModernHebrew
-135	hebr1245	seventy one	שבעים ואחד	ʃivimveeχad	ʃ i/e v -/a + i m + v e + e χ a d	seven suff_pl and one	ʃ i/e v -/a + i m + v e + e χ a d	7 13 15 ?		Etzion2020ModernHebrew
-136	hebr1245	seventy one	שבעים ואחת	ʃivimveaχat	ʃ i/e v -/a + i m + v e + a/e χ a t/d	seven suff_pl and one	ʃ i/e v -/a + i m + v e + a/e χ a t/d	7 13 15 1		Etzion2020ModernHebrew
-137	hebr1245	seventy two	שבעים ושניים	ʃivimuʃnajim	ʃ i/e v -/a + i m + u/v -/e + ʃ n a j i m	seven suff_pl and two	ʃ i/e v -/a + i m + u/v -/e + ʃ n a j i m	7 13 15 2		Etzion2020ModernHebrew
-138	hebr1245	seventy two	שבעים ושתיים	ʃivimuʃtajim	ʃ i/e v -/a + i m + u/v -/e + ʃ t/n a j i m	seven suff_pl and two	ʃ i/e v -/a + i m + u/v -/e + ʃ t/n a j i m	7 13 15 2		Etzion2020ModernHebrew
-139	hebr1245	seventy three	שבעים ושלושה	ʃivimuʃloʃa	ʃ i/e v -/a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	seven suff_pl and three suff_masc_sg	ʃ i/e v -/a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	7 13 15 3 11		Etzion2020ModernHebrew
-140	hebr1245	seventy three	שבעים ושלוש	ʃivimveʃaloʃ	ʃ i/e v -/a + i m + v e + ʃ a l o ʃ	seven suff_pl and three	ʃ i/e v -/a + i m + v e + ʃ a l o ʃ	7 13 15 3		Etzion2020ModernHebrew
-141	hebr1245	seventy four	שבעים וארבעה	ʃivimveaʁbaa	ʃ i/e v -/a + i m + v e + a ʁ b a + a/-	seven suff_pl and four suff_masc_sg	ʃ i/e v -/a + i m + v e + a ʁ b a + a/-	7 13 15 4 11		Etzion2020ModernHebrew
-142	hebr1245	seventy four	שבעים וארבע	ʃivimveaʁba	ʃ i/e v -/a + i m + v e + a ʁ b a	seven suff_pl and four	ʃ i/e v -/a + i m + v e + a ʁ b a	7 13 15 4		Etzion2020ModernHebrew
-143	hebr1245	seventy five	שבעים וחמישה	ʃivimveχamiʃa	ʃ i/e v -/a + i m + v e + χ a m i/e ʃ + a/-	seven suff_pl and five suff_masc_sg	ʃ i/e v -/a + i m + v e + χ a m i/e ʃ + a/-	7 13 15 5 11		Etzion2020ModernHebrew
-144	hebr1245	seventy five	שבעים וחמש	ʃivimveχameʃ	ʃ i/e v -/a + i m + v e + χ a m e ʃ	seven suff_pl and five	ʃ i/e v -/a + i m + v e + χ a m e ʃ	7 13 15 5		Etzion2020ModernHebrew
-145	hebr1245	seventy six	שבעים ושישה	ʃivimveʃiʃa	ʃ i/e v -/a + i m + v e + ʃ i/e ʃ + a/-	seven suff_pl and six suff_masc_sg	ʃ i/e v -/a + i m + v e + ʃ i/e ʃ + a/-	7 13 15 6 11		Etzion2020ModernHebrew
-146	hebr1245	seventy six	שבעים ושש	ʃivimveʃeʃ	ʃ i/e v -/a + i m + v e + ʃ e ʃ	seven suff_pl and six	ʃ i/e v -/a + i m + v e + ʃ e ʃ	7 13 15 6		Etzion2020ModernHebrew
-147	hebr1245	seventy seven	שבעים ושבעה	ʃivimveʃiva	ʃ i/e v -/a + i m + v e + ʃ i/e v -/a + a/-	seven suff_pl and seven suff_masc_sg	ʃ i/e v -/a + i m + v e + ʃ i/e v -/a + a/-	7 13 15 7 11		Etzion2020ModernHebrew
-148	hebr1245	seventy seven	שבעים ושבע	ʃivimveʃeva	ʃ i/e v -/a + i m + v e + ʃ e v a	seven suff_pl and seven	ʃ i/e v -/a + i m + v e + ʃ e v a	7 13 15 7		Etzion2020ModernHebrew
-149	hebr1245	seventy eight	שבעים ושמונה	ʃivimuʃmona	ʃ i/e v -/a + i m + u/v -/e + ʃ m o n -/e + a/-	seven suff_pl and eight suff_masc_sg	ʃ i/e v -/a + i m + u/v -/e + ʃ m o n -/e + a/-	7 13 15 8 11		Etzion2020ModernHebrew
-150	hebr1245	seventy eight	שבעים ושמונה	ʃivimuʃmone	ʃ i/e v -/a + i m + u/v -/e + ʃ m o n e	seven suff_pl and eight	ʃ i/e v -/a + i m + u/v -/e + ʃ m o n e	7 13 15 8		Etzion2020ModernHebrew
-151	hebr1245	seventy nine	שבעים ותשעה	ʃivimvetiʃa	ʃ i/e v -/a + i m + v e + t i/e ʃ -/a + a/-	seven suff_pl and nine suff_masc_sg	ʃ i/e v -/a + i m + v e + t i/e ʃ -/a + a/-	7 13 15 9 11		Etzion2020ModernHebrew
-152	hebr1245	seventy nine	שבעים ותשע	ʃivimveteʃa	ʃ i/e v -/a + i m + v e + t e ʃ a	seven suff_pl and nine	ʃ i/e v -/a + i m + v e + t e ʃ a	7 13 15 9		Etzion2020ModernHebrew
-153	hebr1245	eighty	שמונים	ʃmonim	ʃ m o n -/e + i m	eight suff_pl	ʃ m o n -/e + i m	8 13		Etzion2020ModernHebrew
-154	hebr1245	eighty one	שמונים ואחד	ʃmonimveeχad	ʃ m o n -/e + i m + v e + e χ a d	eight suff_pl and one	ʃ m o n -/e + i m + v e + e χ a d	8 13 15 1		Etzion2020ModernHebrew
-155	hebr1245	eighty one	שמונים ואחת	ʃmonimveaχat	ʃ m o n -/e + i m + v e + a/e χ a t/d	eight suff_pl and one	ʃ m o n -/e + i m + v e + a/e χ a t/d	8 13 15 1		Etzion2020ModernHebrew
-156	hebr1245	eighty two	שמונים ושניים	ʃmonimuʃnajim	ʃ m o n -/e + i m + u/v -/e + ʃ n a j i m	eight suff_pl and two	ʃ m o n -/e + i m + u/v -/e + ʃ n a j i m	8 13 15 2		Etzion2020ModernHebrew
-157	hebr1245	eighty two	שמונים ושתיים	ʃmonimuʃtajim	ʃ m o n -/e + i m + u/v -/e + ʃ t/n a j i m	eight suff_pl and two	ʃ m o n -/e + i m + u/v -/e + ʃ t/n a j i m	8 13 15 2		Etzion2020ModernHebrew
-158	hebr1245	eighty three	שמונים ושלושה	ʃmonimuʃloʃa	ʃ m o n -/e + i m + u/v -/e + ʃ -/a l o ʃ + a/-	eight suff_pl and three suff_masc_sg	ʃ m o n -/e + i m + u/v -/e + ʃ -/a l o ʃ + a/-	8 13 15 3 11		Etzion2020ModernHebrew
-159	hebr1245	eighty three	שמונים ושלוש	ʃmonimveʃaloʃ	ʃ m o n -/e + i m + v e + ʃ a l o ʃ	eight suff_pl and three	ʃ m o n -/e + i m + v e + ʃ a l o ʃ	8 13 15 3		Etzion2020ModernHebrew
-160	hebr1245	eighty four	שמונים וארבעה	ʃmonimveaʁbaa	ʃ m o n -/e + i m + v e + a ʁ b a + a/-	eight suff_pl and four suff_masc_sg	ʃ m o n -/e + i m + v e + a ʁ b a + a/-	8 13 15 4 11		Etzion2020ModernHebrew
-161	hebr1245	eighty four	שמונים וארבע	ʃmonimveaʁba	ʃ m o n -/e + i m + v e + a ʁ b a	eight suff_pl and four	ʃ m o n -/e + i m + v e + a ʁ b a	8 13 15 4		Etzion2020ModernHebrew
-162	hebr1245	eighty five	שמונים וחמישה	ʃmonimveχamiʃa	ʃ m o n -/e + i m + v e + χ a m i/e ʃ + a/-	eight suff_pl and five suff_masc_sg	ʃ m o n -/e + i m + v e + χ a m i/e ʃ + a/-	8 13 15 5 11		Etzion2020ModernHebrew
-163	hebr1245	eighty five	שמונים וחמש	ʃmonimveχameʃ	ʃ m o n -/e + i m + v e + χ a m e ʃ	eight suff_pl and five	ʃ m o n -/e + i m + v e + χ a m e ʃ	8 13 15 5		Etzion2020ModernHebrew
-164	hebr1245	eighty six	שמונים ושישה	ʃmonimveʃiʃa	ʃ m o n -/e + i m + v e + ʃ i/e ʃ + a/-	eight suff_pl and six suff_masc_sg	ʃ m o n -/e + i m + v e + ʃ i/e ʃ + a/-	8 13 15 6 11		Etzion2020ModernHebrew
-165	hebr1245	eighty six	שמונים ושש	ʃmonimveʃeʃ	ʃ m o n -/e + i m + v e + ʃ e ʃ	eight suff_pl and six	ʃ m o n -/e + i m + v e + ʃ e ʃ	8 13 15 6		Etzion2020ModernHebrew
-166	hebr1245	eighty seven	שמונים ושבעה	ʃmonimveʃiva	ʃ m o n -/e + i m + v e + ʃ i/e v -/a + a/-	eight suff_pl and seven suff_masc_sg	ʃ m o n -/e + i m + v e + ʃ i/e v -/a + a/-	8 13 15 7 11		Etzion2020ModernHebrew
-167	hebr1245	eighty seven	שמונים ושבע	ʃmonimveʃeva	ʃ m o n -/e + i m + v e + ʃ e v a	eight suff_pl and seven	ʃ m o n -/e + i m + v e + ʃ e v a	8 13 15 7		Etzion2020ModernHebrew
-168	hebr1245	eighty eight	שמונים ושמונה	ʃmonimuʃmona	ʃ m o n -/e + i m + u/v -/e + ʃ m o n -/e + a/-	eight suff_pl and eight suff_masc_sg	ʃ m o n -/e + i m + u/v -/e + ʃ m o n -/e + a/-	8 13 15 8 11		Etzion2020ModernHebrew
-169	hebr1245	eighty eight	שמונים ושמונה	ʃmonimuʃmone	ʃ m o n -/e + i m + u/v -/e + ʃ m o n e	eight suff_pl and eight	ʃ m o n -/e + i m + u/v -/e + ʃ m o n e	8 13 15 8		Etzion2020ModernHebrew
-170	hebr1245	eighty nine	שמונים ותשעה	ʃmonimvetiʃa	ʃ m o n -/e + i m + v e + t i/e ʃ -/a + a/-	eight suff_pl and nine suff_masc_sg	ʃ m o n -/e + i m + v e + t i/e ʃ -/a + a/-	8 13 15 9 11		Etzion2020ModernHebrew
-171	hebr1245	eighty nine	שמונים ותשע	ʃmonimveteʃa	ʃ m o n -/e + i m + v e + t e ʃ a	eight suff_pl and nine	ʃ m o n -/e + i m + v e + t e ʃ a	8 13 15 9		Etzion2020ModernHebrew
-172	hebr1245	ninety	תשעים	tiʃim	t i/e ʃ -/a + i m	nine suff_pl	t i/e ʃ -/a + i m	9 13		Etzion2020ModernHebrew
-173	hebr1245	ninety one	תשעים ואחד	tiʃimveeχad	t i/e ʃ -/a + i m + v e + e χ a d	nine suff_pl and one	t i/e ʃ -/a + i m + v e + e χ a d	9 13 15 1		Etzion2020ModernHebrew
-174	hebr1245	ninety one	תשעים ואחת	tiʃimveaχat	t i/e ʃ -/a + i m + v e + a/e χ a t/d	nine suff_pl and one	t i/e ʃ -/a + i m + v e + a/e χ a t/d	9 13 15 1		Etzion2020ModernHebrew
-175	hebr1245	ninety two	תשעים ושניים	tiʃimuʃnajim	t i/e ʃ -/a + i m + u/v -/e + ʃ n a j i m	nine suff_pl and two	t i/e ʃ -/a + i m + u/v -/e + ʃ n a j i m	9 13 15 2		Etzion2020ModernHebrew
-176	hebr1245	ninety two	תשעים ושתיים	tiʃimuʃtajim	t i/e ʃ -/a + i m + u/v -/e + ʃ t/n a j i m	nine suff_pl and two	t i/e ʃ -/a + i m + u/v -/e + ʃ t/n a j i m	9 13 15 2		Etzion2020ModernHebrew
-177	hebr1245	ninety three	תשעים ושלושה	tiʃimuʃloʃa	t i/e ʃ -/a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	nine suff_pl and three suff_masc_sg	t i/e ʃ -/a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	9 13 15 3 11		Etzion2020ModernHebrew
-178	hebr1245	ninety three	תשעים ושלוש	tiʃimveʃaloʃ	t i/e ʃ -/a + i m + v e + ʃ a l o ʃ	nine suff_pl and three	t i/e ʃ -/a + i m + v e + ʃ a l o ʃ	9 13 15 3		Etzion2020ModernHebrew
-179	hebr1245	ninety four	תשעים וארבעה	tiʃimveaʁbaa	t i/e ʃ -/a + i m + v e + a ʁ b a + a/-	nine suff_pl and four suff_masc_sg	t i/e ʃ -/a + i m + v e + a ʁ b a + a/-	9 13 15 4 11		Etzion2020ModernHebrew
-180	hebr1245	ninety four	תשעים וארבע	tiʃimveaʁba	t i/e ʃ -/a + i m + v e + a ʁ b a	nine suff_pl and four	t i/e ʃ -/a + i m + v e + a ʁ b a	9 13 15 4		Etzion2020ModernHebrew
-181	hebr1245	ninety five	תשעים וחמישה	tiʃimveχamiʃa	t i/e ʃ -/a + i m + v e + χ a m i/e ʃ + a/-	nine suff_pl and five suff_masc_sg	t i/e ʃ -/a + i m + v e + χ a m i/e ʃ + a/-	9 13 15 5 11		Etzion2020ModernHebrew
-182	hebr1245	ninety five	תשעים וחמש	tiʃimveχameʃ	t i/e ʃ -/a + i m + v e + χ a m e ʃ	nine suff_pl and five	t i/e ʃ -/a + i m + v e + χ a m e ʃ	9 13 15 5		Etzion2020ModernHebrew
-183	hebr1245	ninety six	תשעים ושישה	tiʃimveʃiʃa	t i/e ʃ -/a + i m + v e + ʃ i/e ʃ + a/-	nine suff_pl and six suff_masc_sg	t i/e ʃ -/a + i m + v e + ʃ i/e ʃ + a/-	9 13 15 6 11		Etzion2020ModernHebrew
-184	hebr1245	ninety six	תשעים ושש	tiʃimveʃeʃ	t i/e ʃ -/a + i m + v e + ʃ e ʃ	nine suff_pl and six	t i/e ʃ -/a + i m + v e + ʃ e ʃ	9 13 15 6		Etzion2020ModernHebrew
-185	hebr1245	ninety seven	תשעים ושבעה	tiʃimveʃiva	t i/e ʃ -/a + i m + v e + ʃ i/e v -/a + a/-	nine suff_pl and seven suff_masc_sg	t i/e ʃ -/a + i m + v e + ʃ i/e v -/a + a/-	9 13 15 7 11		Etzion2020ModernHebrew
-186	hebr1245	ninety seven	תשעים ושבע	tiʃimveʃeva	t i/e ʃ -/a + i m + v e + ʃ e v a	nine suff_pl and seven	t i/e ʃ -/a + i m + v e + ʃ e v a	9 13 15 7		Etzion2020ModernHebrew
-187	hebr1245	ninety eight	תשעים ושמונה	tiʃimuʃmona	t i/e ʃ -/a + i m + u/v -/e + ʃ m o n -/e + a/-	nine suff_pl and eight suff_masc_sg	t i/e ʃ -/a + i m + u/v -/e + ʃ m o n -/e + a/-	9 13 15 8 11		Etzion2020ModernHebrew
-188	hebr1245	ninety eight	תשעים ושמונה	tiʃimuʃmone	t i/e ʃ -/a + i m + u/v -/e + ʃ m o n e	nine suff_pl and eight	t i/e ʃ -/a + i m + u/v -/e + ʃ m o n e	9 13 15 8		Etzion2020ModernHebrew
-189	hebr1245	ninety nine	תשעים ותשעה	tiʃimvetiʃa	t i/e ʃ -/a + i m + v e + t i/e ʃ -/a + a/-	nine suff_pl and nine suff_masc_sg	t i/e ʃ -/a + i m + v e + t i/e ʃ -/a + a/-	9 13 15 9 11		Etzion2020ModernHebrew
-190	hebr1245	ninety nine	תשעים ותשע	tiʃimveteʃa	t i/e ʃ -/a + i m + v e + t e ʃ a	nine suff_pl and nine	t i/e ʃ -/a + i m + v e + t e ʃ a	9 13 15 9		Etzion2020ModernHebrew
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@css=menu:show|database:hide
-#@basics=ALIGNMENT|COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTE|SOURCE|TOKENS|VALUE
-#@_selected_doculects=hebr1245
-#@_selected_concepts=one
-#@sorted_taxa=hebr1245
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty|forty one|forty two|forty three|forty four|forty five|forty six|forty seven|forty eight|forty nine|fifty|fifty one|fifty two|fifty three|fifty four|fifty five|fifty six|fifty seven|fifty eight|fifty nine|sixty|sixty one|sixty two|sixty three|sixty four|sixty five|sixty six|sixty seven|sixty eight|sixty nine|seventy|seventy one|seventy two|seventy three|seventy four|seventy five|seventy six|seventy seven|seventy eight|seventy nine|eighty|eighty one|eighty two|eighty three|eighty four|eighty five|eighty six|eighty seven|eighty eight|eighty nine|ninety|ninety one|ninety two|ninety three|ninety four|ninety five|ninety six|ninety seven|ninety eight|ninety nine
-#@display=filedisplay|glosses
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTE
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=hebr1245.tsv
-#@navbar=true
-#@_morphology_mode=full
+1	Modern_Hebrew	one	אחד	eχad	e χ a d	one	e χ a d	1		Etzion2020ModernHebrew
+2	Modern_Hebrew	one	אחת	aχat	a/e χ a t/d	one	a/e χ a t/d	1		Etzion2020ModernHebrew
+3	Modern_Hebrew	two	שניים	ʃnajim	ʃ n a j i m	two	ʃ n a j i m	2		Etzion2020ModernHebrew
+4	Modern_Hebrew	two	שתיים	ʃtajim	ʃ t/n a j i m	two	ʃ t/n a j i m	2		Etzion2020ModernHebrew
+5	Modern_Hebrew	three	שלושה	ʃloʃa	ʃ -/a l o ʃ + a/-	three suff_masc_sg	ʃ -/a l o ʃ + a/-	3 11		Etzion2020ModernHebrew
+6	Modern_Hebrew	three	שלוש	ʃaloʃ	ʃ a l o ʃ	three	ʃ a l o ʃ	3		Etzion2020ModernHebrew
+7	Modern_Hebrew	four	ארבעה	aʁbaa	a ʁ b a + a/-	four suff_masc_sg	a ʁ b a + a/-	4 11		Etzion2020ModernHebrew
+8	Modern_Hebrew	four	ארבע	aʁba	a ʁ b a	four	a ʁ b a	4		Etzion2020ModernHebrew
+9	Modern_Hebrew	five	חמישה	χamiʃa	χ a m i/e ʃ + a/-	five suff_masc_sg	χ a m i/e ʃ + a/-	5 11		Etzion2020ModernHebrew
+10	Modern_Hebrew	five	חמש	χameʃ	χ a m e ʃ	five	χ a m e ʃ	5		Etzion2020ModernHebrew
+11	Modern_Hebrew	six	שישה	ʃiʃa	ʃ i/e ʃ + a/-	six suff_masc_sg	ʃ i/e ʃ + a/-	6 11		Etzion2020ModernHebrew
+12	Modern_Hebrew	six	שש	ʃeʃ	ʃ e ʃ	six	ʃ e ʃ	6		Etzion2020ModernHebrew
+13	Modern_Hebrew	seven	שבעה	ʃiva	ʃ i/e v -/a + a/-	seven suff_masc_sg	ʃ i/e v -/a + a/-	7 11		Etzion2020ModernHebrew
+14	Modern_Hebrew	seven	שבע	ʃeva	ʃ e v a	seven	ʃ e v a	7		Etzion2020ModernHebrew
+15	Modern_Hebrew	eight	שמונה	ʃmona	ʃ m o n -/e + a/-	eight suff_masc_sg	ʃ m o n -/e + a/-	8 11		Etzion2020ModernHebrew
+16	Modern_Hebrew	eight	שמונה	ʃmone	ʃ m o n e	eight	ʃ m o n e	8		Etzion2020ModernHebrew
+17	Modern_Hebrew	nine	תשעה	tiʃa	t i/e ʃ -/a + a/-	nine suff_masc_sg	t i/e ʃ -/a + a/-	9 11		Etzion2020ModernHebrew
+18	Modern_Hebrew	nine	תשע	teʃa	t e ʃ a	nine	t e ʃ a	9		Etzion2020ModernHebrew
+19	Modern_Hebrew	ten	עשרה	asaʁa	a/e s a/e ʁ + a/-	ten suff_masc_sg	a/e s a/e ʁ + a/-	10 11		Etzion2020ModernHebrew
+20	Modern_Hebrew	ten	עשר	eseʁ	e s e ʁ	ten	e s e ʁ	10		Etzion2020ModernHebrew
+21	Modern_Hebrew	eleven	אחד עשר	aχadasaʁ	a/e χ a d + a/e s a/e ʁ	one ten	a/e χ a d + a/e s a/e ʁ	1 10		Etzion2020ModernHebrew
+22	Modern_Hebrew	eleven	אחת עשרה	aχatesʁe	a/e χ a t/d + e s -/e ʁ + e/-	one ten suff_fem_sg	a/e χ a t/d + e s -/e ʁ + e/-	1 10 12		Etzion2020ModernHebrew
+23	Modern_Hebrew	twelve	שנים עשר	ʃnemasaʁ	ʃ n -/a e/j -/i m + a/e s a/e ʁ	two ten	ʃ n -/a e/j -/i m + a/e s a/e ʁ	2 10		Etzion2020ModernHebrew
+24	Modern_Hebrew	twelve	שתים עשרה	ʃtemesʁe	ʃ t/n -/a e/j -/i m + e s -/e ʁ + e/-	two ten suff_fem_sg	ʃ t/n -/a e/j -/i m + e s -/e ʁ + e/-	2 10 12		Etzion2020ModernHebrew
+25	Modern_Hebrew	thirteen	שלושה עשר	ʃloʃaasaʁ	ʃ -/a l o ʃ + a/- + a/e s a/e ʁ	three suff_masc_sg ten	ʃ -/a l o ʃ + a/- + a/e s a/e ʁ	3 11 10		Etzion2020ModernHebrew
+26	Modern_Hebrew	thirteen	שלוש עשרה	ʃloʃesʁe	ʃ -/a l o ʃ + e s -/e ʁ + e/-	three ten suff_fem_sg	ʃ -/a l o ʃ + e s -/e ʁ + e/-	3 10 12		Etzion2020ModernHebrew
+27	Modern_Hebrew	fourteen	ארבעה עשר	aʁbaaasaʁ	a ʁ b a + a/- + a/e s a/e ʁ	four suff_masc_sg ten	a ʁ b a + a/- + a/e s a/e ʁ	4 11 10		Etzion2020ModernHebrew
+28	Modern_Hebrew	fourteen	ארבע עשרה	aʁbaesʁe	a ʁ b a + e s -/e ʁ + e/-	four ten suff_fem_sg	a ʁ b a + e s -/e ʁ + e/-	4 10 12		Etzion2020ModernHebrew
+29	Modern_Hebrew	fifteen	חמישה עשר	χamiʃaasaʁ	χ a m i/e ʃ + a/- + a/e s a/e ʁ	five suff_masc_sg ten	χ a m i/e ʃ + a/- + a/e s a/e ʁ	5 11 10		Etzion2020ModernHebrew
+30	Modern_Hebrew	fifteen	חמש עשרה	χameʃesʁe	χ a m e ʃ + e s -/e ʁ + e/-	five ten suff_fem_sg	χ a m e ʃ + e s -/e ʁ + e/-	5 10 12		Etzion2020ModernHebrew
+31	Modern_Hebrew	sixteen	שישה עשר	ʃiʃaasaʁ	ʃ i/e ʃ + a/- + a/e s a/e ʁ	six suff_masc_sg ten	ʃ i/e ʃ + a/- + a/e s a/e ʁ	6 11 10		Etzion2020ModernHebrew
+32	Modern_Hebrew	sixteen	שש עשרה	ʃeʃesʁe	ʃ e ʃ + e s -/e ʁ + e/-	six ten suff_fem_sg	ʃ e ʃ + e s -/e ʁ + e/-	6 10 12		Etzion2020ModernHebrew
+33	Modern_Hebrew	seventeen	שבעה עשר	ʃivaasaʁ	ʃ i/e v -/a + a/- + a/e s a/e ʁ	seven suff_masc_sg ten	ʃ i/e v -/a + a/- + a/e s a/e ʁ	7 11 10		Etzion2020ModernHebrew
+34	Modern_Hebrew	seventeen	שבע עשרה	ʃvaesʁe	ʃ -/e v a + e s -/e ʁ + e/-	seven ten suff_fem_sg	ʃ -/e v a + e s -/e ʁ + e/-	7 10 12		Etzion2020ModernHebrew
+35	Modern_Hebrew	eighteen	שמונה עשר	ʃmonaasaʁ	ʃ m o n -/e + a/- + a/e s a/e ʁ	eight suff_masc_sg ten	ʃ m o n -/e + a/- + a/e s a/e ʁ	8 11 10		Etzion2020ModernHebrew
+36	Modern_Hebrew	eighteen	שמונה עשרה	ʃmoneesʁe	ʃ m o n e + e s -/e ʁ + e/-	eight ten suff_fem_sg	ʃ m o n e + e s -/e ʁ + e/-	8 10 12		Etzion2020ModernHebrew
+37	Modern_Hebrew	nineteen	תשעה עשר	tiʃaasaʁ	t i/e ʃ -/a + a/- + a/e s a/e ʁ	nine suff_masc_sg ten	t i/e ʃ -/a + a/- + a/e s a/e ʁ	9 11 10		Etzion2020ModernHebrew
+38	Modern_Hebrew	nineteen	תשע עשרה	teʃaesʁe	t e ʃ a + e s -/e ʁ + e/-	nine ten suff_fem_sg	t e ʃ a + e s -/e ʁ + e/-	9 10 12		Etzion2020ModernHebrew
+39	Modern_Hebrew	twenty	עשרים	esʁim	e s -/e ʁ + i m	ten suff_pl	e s -/e ʁ + i m	10 13		Etzion2020ModernHebrew
+40	Modern_Hebrew	twenty one	עשרים ואחד	esʁimveeχad	e s -/e ʁ + i m + v e + e χ a d	ten suff_pl and one	e s -/e ʁ + i m + v e + e χ a d	10 13 15 1		Etzion2020ModernHebrew
+41	Modern_Hebrew	twenty one	עשרים ואחת	esʁimveaχat	e s -/e ʁ + i m + v e + a/e χ a t/d	ten suff_pl and one	e s -/e ʁ + i m + v e + a/e χ a t/d	10 13 15 1		Etzion2020ModernHebrew
+42	Modern_Hebrew	twenty two	עשרים ושניים	esʁimuʃnajim	e s -/e ʁ + i m + u/v -/e + ʃ n a j i m	ten suff_pl and two	e s -/e ʁ + i m + u/v -/e + ʃ n a j i m	10 13 15 2		Etzion2020ModernHebrew
+43	Modern_Hebrew	twenty two	עשרים ושתיים	esʁimuʃtajim	e s -/e ʁ + i m + u/v -/e + ʃ t/n a j i m	ten suff_pl and two	e s -/e ʁ + i m + u/v -/e + ʃ t/n a j i m	10 13 15 2		Etzion2020ModernHebrew
+44	Modern_Hebrew	twenty three	עשרים ושלושה	esʁimuʃloʃa	e s -/e ʁ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	ten suff_pl and three suff_masc_sg	e s -/e ʁ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	10 13 15 3 11		Etzion2020ModernHebrew
+45	Modern_Hebrew	twenty three	עשרים ושלוש	esʁimveʃaloʃ	e s -/e ʁ + i m + v e + ʃ a l o ʃ	ten suff_pl and three	e s -/e ʁ + i m + v e + ʃ a l o ʃ	10 13 15 3		Etzion2020ModernHebrew
+46	Modern_Hebrew	twenty four	עשרים וארבעה	esʁimveaʁbaa	e s -/e ʁ + i m + v e + a ʁ b a + a/-	ten suff_pl and four suff_masc_sg	e s -/e ʁ + i m + v e + a ʁ b a + a/-	10 13 15 4 11		Etzion2020ModernHebrew
+47	Modern_Hebrew	twenty four	עשרים וארבע	esʁimveaʁba	e s -/e ʁ + i m + v e + a ʁ b a	ten suff_pl and four	e s -/e ʁ + i m + v e + a ʁ b a	10 13 15 4		Etzion2020ModernHebrew
+48	Modern_Hebrew	twenty five	עשרים וחמישה	esʁimveχamiʃa	e s -/e ʁ + i m + v e + χ a m i/e ʃ + a/-	ten suff_pl and five suff_masc_sg	e s -/e ʁ + i m + v e + χ a m i/e ʃ + a/-	10 13 15 5 11		Etzion2020ModernHebrew
+49	Modern_Hebrew	twenty five	עשרים וחמש	esʁimveχameʃ	e s -/e ʁ + i m + v e + χ a m e ʃ	ten suff_pl and five	e s -/e ʁ + i m + v e + χ a m e ʃ	10 13 15 5		Etzion2020ModernHebrew
+50	Modern_Hebrew	twenty six	עשרים ושישה	esʁimveʃiʃa	e s -/e ʁ + i m + v e + ʃ i/e ʃ + a/-	ten suff_pl and six suff_masc_sg	e s -/e ʁ + i m + v e + ʃ i/e ʃ + a/-	10 13 15 6 11		Etzion2020ModernHebrew
+51	Modern_Hebrew	twenty six	עשרים ושש	esʁimveʃeʃ	e s -/e ʁ + i m + v e + ʃ e ʃ	ten suff_pl and six	e s -/e ʁ + i m + v e + ʃ e ʃ	10 13 15 6		Etzion2020ModernHebrew
+52	Modern_Hebrew	twenty seven	עשרים ושבעה	esʁimveʃiva	e s -/e ʁ + i m + v e + ʃ i/e v -/a + a/-	ten suff_pl and seven suff_masc_sg	e s -/e ʁ + i m + v e + ʃ i/e v -/a + a/-	10 13 15 7 11		Etzion2020ModernHebrew
+53	Modern_Hebrew	twenty seven	עשרים ושבע	esʁimveʃeva	e s -/e ʁ + i m + v e + ʃ e v a	ten suff_pl and seven	e s -/e ʁ + i m + v e + ʃ e v a	10 13 15 7		Etzion2020ModernHebrew
+54	Modern_Hebrew	twenty eight	עשרים ושמונה	esʁimuʃmona	e s -/e ʁ + i m + u/v -/e + ʃ m o n -/e + a/-	ten suff_pl and eight suff_masc_sg	e s -/e ʁ + i m + u/v -/e + ʃ m o n -/e + a/-	10 13 15 8 11		Etzion2020ModernHebrew
+55	Modern_Hebrew	twenty eight	עשרים ושמונה	esʁimuʃmone	e s -/e ʁ + i m + u/v -/e + ʃ m o n e	ten suff_pl and eight	e s -/e ʁ + i m + u/v -/e + ʃ m o n e	10 13 15 8		Etzion2020ModernHebrew
+56	Modern_Hebrew	twenty nine	עשרים ותשעה	esʁimvetiʃa	e s -/e ʁ + i m + v e + t i/e ʃ -/a + a/-	ten suff_pl and nine suff_masc_sg	e s -/e ʁ + i m + v e + t i/e ʃ -/a + a/-	10 13 15 9 11		Etzion2020ModernHebrew
+57	Modern_Hebrew	twenty nine	עשרים ותשע	esʁimveteʃa	e s -/e ʁ + i m + v e + t e ʃ a	ten suff_pl and nine	e s -/e ʁ + i m + v e + t e ʃ a	10 13 15 9		Etzion2020ModernHebrew
+58	Modern_Hebrew	thirty	שלושים	ʃloʃim	ʃ -/a l o ʃ + i m	three suff_pl	ʃ -/a l o ʃ + i m	3 13		Etzion2020ModernHebrew
+59	Modern_Hebrew	thirty one	שלושים ואחד	ʃloʃimveeχad	ʃ -/a l o ʃ + i m + v e + e χ a d	three suff_pl and one	ʃ -/a l o ʃ + i m + v e + e χ a d	3 13 15 1		Etzion2020ModernHebrew
+60	Modern_Hebrew	thirty one	שלושים ואחת	ʃloʃimveaχat	ʃ -/a l o ʃ + i m + v e + a/e χ a t/d	three suff_pl and one	ʃ -/a l o ʃ + i m + v e + a/e χ a t/d	3 13 15 1		Etzion2020ModernHebrew
+61	Modern_Hebrew	thirty two	שלושים ושניים	ʃloʃimuʃnajim	ʃ -/a l o ʃ + i m + u/v -/e + ʃ n a j i m	three suff_pl and two	ʃ -/a l o ʃ + i m + u/v -/e + ʃ n a j i m	3 13 15 2		Etzion2020ModernHebrew
+62	Modern_Hebrew	thirty two	שלושים ושתיים	ʃloʃimuʃtajim	ʃ -/a l o ʃ + i m + u/v -/e + ʃ t/n a j i m	three suff_pl and two	ʃ -/a l o ʃ + i m + u/v -/e + ʃ t/n a j i m	3 13 15 2		Etzion2020ModernHebrew
+63	Modern_Hebrew	thirty three	שלושים ושלושה	ʃloʃimuʃloʃa	ʃ -/a l o ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	three suff_pl and three suff_masc_sg	ʃ -/a l o ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	3 13 15 3 11		Etzion2020ModernHebrew
+64	Modern_Hebrew	thirty three	שלושים ושלוש	ʃloʃimveʃaloʃ	ʃ -/a l o ʃ + i m + v e + ʃ a l o ʃ	three suff_pl and three	ʃ -/a l o ʃ + i m + v e + ʃ a l o ʃ	3 13 15 3		Etzion2020ModernHebrew
+65	Modern_Hebrew	thirty four	שלושים וארבעה	ʃloʃimveaʁbaa	ʃ -/a l o ʃ + i m + v e + a ʁ b a + a/-	three suff_pl and four suff_masc_sg	ʃ -/a l o ʃ + i m + v e + a ʁ b a + a/-	3 13 15 4 11		Etzion2020ModernHebrew
+66	Modern_Hebrew	thirty four	שלושים וארבע	ʃloʃimveaʁba	ʃ -/a l o ʃ + i m + v e + a ʁ b a	three suff_pl and four	ʃ -/a l o ʃ + i m + v e + a ʁ b a	3 13 15 4		Etzion2020ModernHebrew
+67	Modern_Hebrew	thirty five	שלושים וחמישה	ʃloʃimveχamiʃa	ʃ -/a l o ʃ + i m + v e + χ a m i/e ʃ + a/-	three suff_pl and five suff_masc_sg	ʃ -/a l o ʃ + i m + v e + χ a m i/e ʃ + a/-	3 13 15 5 11		Etzion2020ModernHebrew
+68	Modern_Hebrew	thirty five	שלושים וחמש	ʃloʃimveχameʃ	ʃ -/a l o ʃ + i m + v e + χ a m e ʃ	three suff_pl and five	ʃ -/a l o ʃ + i m + v e + χ a m e ʃ	3 13 15 5		Etzion2020ModernHebrew
+69	Modern_Hebrew	thirty six	שלושים ושישה	ʃloʃimveʃiʃa	ʃ -/a l o ʃ + i m + v e + ʃ i/e ʃ + a/-	three suff_pl and six suff_masc_sg	ʃ -/a l o ʃ + i m + v e + ʃ i/e ʃ + a/-	3 13 15 6 11		Etzion2020ModernHebrew
+70	Modern_Hebrew	thirty six	שלושים ושש	ʃloʃimveʃeʃ	ʃ -/a l o ʃ + i m + v e + ʃ e ʃ	three suff_pl and six	ʃ -/a l o ʃ + i m + v e + ʃ e ʃ	3 13 15 6		Etzion2020ModernHebrew
+71	Modern_Hebrew	thirty seven	שלושים ושבעה	ʃloʃimveʃiva	ʃ -/a l o ʃ + i m + v e + ʃ i/e v -/a + a/-	three suff_pl and seven suff_masc_sg	ʃ -/a l o ʃ + i m + v e + ʃ i/e v -/a + a/-	3 13 15 7 11		Etzion2020ModernHebrew
+72	Modern_Hebrew	thirty seven	שלושים ושבע	ʃloʃimveʃeva	ʃ -/a l o ʃ + i m + v e + ʃ e v a	three suff_pl and seven	ʃ -/a l o ʃ + i m + v e + ʃ e v a	3 13 15 7		Etzion2020ModernHebrew
+73	Modern_Hebrew	thirty eight	שלושים ושמונה	ʃloʃimuʃmona	ʃ -/a l o ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	three suff_pl and eight suff_masc_sg	ʃ -/a l o ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	3 13 15 8 11		Etzion2020ModernHebrew
+74	Modern_Hebrew	thirty eight	שלושים ושמונה	ʃloʃimuʃmone	ʃ -/a l o ʃ + i m + u/v -/e + ʃ m o n e	three suff_pl and eight	ʃ -/a l o ʃ + i m + u/v -/e + ʃ m o n e	3 13 15 8		Etzion2020ModernHebrew
+75	Modern_Hebrew	thirty nine	שלושים ותשעה	ʃloʃimvetiʃa	ʃ -/a l o ʃ + i m + v e + t i/e ʃ -/a + a/-	three suff_pl and nine suff_masc_sg	ʃ -/a l o ʃ + i m + v e + t i/e ʃ -/a + a/-	3 13 15 9 11		Etzion2020ModernHebrew
+76	Modern_Hebrew	thirty nine	שלושים ותשע	ʃloʃimveteʃa	ʃ -/a l o ʃ + i m + v e + t e ʃ a	three suff_pl and nine	ʃ -/a l o ʃ + i m + v e + t e ʃ a	3 13 15 9		Etzion2020ModernHebrew
+77	Modern_Hebrew	forty	ארבעים	aʁbaim	a ʁ b a + i m	four suff_pl	a ʁ b a + i m	4 13		Etzion2020ModernHebrew
+78	Modern_Hebrew	forty one	ארבעים ואחד	aʁbaimveeχad	a ʁ b a + i m + v e + e χ a d	four suff_pl and one	a ʁ b a + i m + v e + e χ a d	4 13 15 1		Etzion2020ModernHebrew
+79	Modern_Hebrew	forty one	ארבעים ואחת	aʁbaimveaχat	a ʁ b a + i m + v e + a/e χ a t/d	four suff_pl and one	a ʁ b a + i m + v e + a/e χ a t/d	4 13 15 1		Etzion2020ModernHebrew
+80	Modern_Hebrew	forty two	ארבעים ושניים	aʁbaimuʃnajim	a ʁ b a + i m + u/v -/e + ʃ n a j i m	four suff_pl and two	a ʁ b a + i m + u/v -/e + ʃ n a j i m	4 13 15 2		Etzion2020ModernHebrew
+81	Modern_Hebrew	forty two	ארבעים ושתיים	aʁbaimuʃtajim	a ʁ b a + i m + u/v -/e + ʃ t/n a j i m	four suff_pl and two	a ʁ b a + i m + u/v -/e + ʃ t/n a j i m	4 13 15 2		Etzion2020ModernHebrew
+82	Modern_Hebrew	forty three	ארבעים ושלושה	aʁbaimuʃloʃa	a ʁ b a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	four suff_pl and three suff_masc_sg	a ʁ b a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	4 13 15 3 11		Etzion2020ModernHebrew
+83	Modern_Hebrew	forty three	ארבעים ושלוש	aʁbaimveʃaloʃ	a ʁ b a + i m + v e + ʃ a l o ʃ	four suff_pl and three	a ʁ b a + i m + v e + ʃ a l o ʃ	4 13 15 3		Etzion2020ModernHebrew
+84	Modern_Hebrew	forty four	ארבעים וארבעה	aʁbaimveaʁbaa	a ʁ b a + i m + v e + a ʁ b a + a/-	four suff_pl and four suff_masc_sg	a ʁ b a + i m + v e + a ʁ b a + a/-	4 13 15 4 11		Etzion2020ModernHebrew
+85	Modern_Hebrew	forty four	ארבעים וארבע	aʁbaimveaʁba	a ʁ b a + i m + v e + a ʁ b a	four suff_pl and four	a ʁ b a + i m + v e + a ʁ b a	4 13 15 4		Etzion2020ModernHebrew
+86	Modern_Hebrew	forty five	ארבעים וחמישה	aʁbaimveχamiʃa	a ʁ b a + i m + v e + χ a m i/e ʃ + a/-	four suff_pl and five suff_masc_sg	a ʁ b a + i m + v e + χ a m i/e ʃ + a/-	4 13 15 5 11		Etzion2020ModernHebrew
+87	Modern_Hebrew	forty five	ארבעים וחמש	aʁbaimveχameʃ	a ʁ b a + i m + v e + χ a m e ʃ	four suff_pl and five	a ʁ b a + i m + v e + χ a m e ʃ	4 13 15 5		Etzion2020ModernHebrew
+88	Modern_Hebrew	forty six	ארבעים ושישה	aʁbaimveʃiʃa	a ʁ b a + i m + v e + ʃ i/e ʃ + a/-	four suff_pl and six suff_masc_sg	a ʁ b a + i m + v e + ʃ i/e ʃ + a/-	4 13 15 6 11		Etzion2020ModernHebrew
+89	Modern_Hebrew	forty six	ארבעים ושש	aʁbaimveʃeʃ	a ʁ b a + i m + v e + ʃ e ʃ	four suff_pl and six	a ʁ b a + i m + v e + ʃ e ʃ	4 13 15 6		Etzion2020ModernHebrew
+90	Modern_Hebrew	forty seven	ארבעים ושבעה	aʁbaimveʃiva	a ʁ b a + i m + v e + ʃ i/e v -/a + a/-	four suff_pl and seven suff_masc_sg	a ʁ b a + i m + v e + ʃ i/e v -/a + a/-	4 13 15 7 11		Etzion2020ModernHebrew
+91	Modern_Hebrew	forty seven	ארבעים ושבע	aʁbaimveʃeva	a ʁ b a + i m + v e + ʃ e v a	four suff_pl and seven	a ʁ b a + i m + v e + ʃ e v a	4 13 15 7		Etzion2020ModernHebrew
+92	Modern_Hebrew	forty eight	ארבעים ושמונה	aʁbaimuʃmona	a ʁ b a + i m + u/v -/e + ʃ m o n -/e + a/-	four suff_pl and eight suff_masc_sg	a ʁ b a + i m + u/v -/e + ʃ m o n -/e + a/-	4 13 15 8 11		Etzion2020ModernHebrew
+93	Modern_Hebrew	forty eight	ארבעים ושמונה	aʁbaimuʃmone	a ʁ b a + i m + u/v -/e + ʃ m o n e	four suff_pl and eight	a ʁ b a + i m + u/v -/e + ʃ m o n e	4 13 15 8		Etzion2020ModernHebrew
+94	Modern_Hebrew	forty nine	ארבעים ותשעה	aʁbaimvetiʃa	a ʁ b a + i m + v e + t i/e ʃ -/a + a/-	four suff_pl and nine suff_masc_sg	a ʁ b a + i m + v e + t i/e ʃ -/a + a/-	4 13 15 9 11		Etzion2020ModernHebrew
+95	Modern_Hebrew	forty nine	ארבעים ותשע	aʁbaimveteʃa	a ʁ b a + i m + v e + t e ʃ a	four suff_pl and nine	a ʁ b a + i m + v e + t e ʃ a	4 13 15 9		Etzion2020ModernHebrew
+96	Modern_Hebrew	fifty	חמישים	χamiʃim	χ a m i/e ʃ + i m	five suff_pl	χ a m i/e ʃ + i m	5 13		Etzion2020ModernHebrew
+97	Modern_Hebrew	fifty one	חמישים ואחד	χamiʃimveeχad	χ a m i/e ʃ + i m + v e + e χ a d	five suff_pl and one	χ a m i/e ʃ + i m + v e + e χ a d	5 13 15 1		Etzion2020ModernHebrew
+98	Modern_Hebrew	fifty one	חמישים ואחת	χamiʃimveaχat	χ a m i/e ʃ + i m + v e + a/e χ a t/d	five suff_pl and one	χ a m i/e ʃ + i m + v e + a/e χ a t/d	5 13 15 1		Etzion2020ModernHebrew
+99	Modern_Hebrew	fifty two	חמישים ושניים	χamiʃimuʃnajim	χ a m i/e ʃ + i m + u/v -/e + ʃ n a j i m	five suff_pl and two	χ a m i/e ʃ + i m + u/v -/e + ʃ n a j i m	5 13 15 2		Etzion2020ModernHebrew
+100	Modern_Hebrew	fifty two	חמישים ושתיים	χamiʃimuʃtajim	χ a m i/e ʃ + i m + u/v -/e + ʃ t/n a j i m	five suff_pl and two	χ a m i/e ʃ + i m + u/v -/e + ʃ t/n a j i m	5 13 15 2		Etzion2020ModernHebrew
+101	Modern_Hebrew	fifty three	חמישים ושלושה	χamiʃimuʃloʃa	χ a m i/e ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	five suff_pl and three suff_masc_sg	χ a m i/e ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	5 13 15 3 11		Etzion2020ModernHebrew
+102	Modern_Hebrew	fifty three	חמישים ושלוש	χamiʃimveʃaloʃ	χ a m i/e ʃ + i m + v e + ʃ a l o ʃ	five suff_pl and three	χ a m i/e ʃ + i m + v e + ʃ a l o ʃ	5 13 15 3		Etzion2020ModernHebrew
+103	Modern_Hebrew	fifty four	חמישים וארבעה	χamiʃimveaʁbaa	χ a m i/e ʃ + i m + v e + a ʁ b a + a/-	five suff_pl and four suff_masc_sg	χ a m i/e ʃ + i m + v e + a ʁ b a + a/-	5 13 15 4 11		Etzion2020ModernHebrew
+104	Modern_Hebrew	fifty four	חמישים וארבע	χamiʃimveaʁba	χ a m i/e ʃ + i m + v e + a ʁ b a	five suff_pl and four	χ a m i/e ʃ + i m + v e + a ʁ b a	5 13 15 4		Etzion2020ModernHebrew
+105	Modern_Hebrew	fifty five	חמישים וחמישה	χamiʃimveχamiʃa	χ a m i/e ʃ + i m + v e + χ a m i/e ʃ + a/-	five suff_pl and five suff_masc_sg	χ a m i/e ʃ + i m + v e + χ a m i/e ʃ + a/-	5 13 15 5 11		Etzion2020ModernHebrew
+106	Modern_Hebrew	fifty five	חמישים וחמש	χamiʃimveχameʃ	χ a m i/e ʃ + i m + v e + χ a m e ʃ	five suff_pl and five	χ a m i/e ʃ + i m + v e + χ a m e ʃ	5 13 15 5		Etzion2020ModernHebrew
+107	Modern_Hebrew	fifty six	חמישים ושישה	χamiʃimveʃiʃa	χ a m i/e ʃ + i m + v e + ʃ i/e ʃ + a/-	five suff_pl and six suff_masc_sg	χ a m i/e ʃ + i m + v e + ʃ i/e ʃ + a/-	5 13 15 6 11		Etzion2020ModernHebrew
+108	Modern_Hebrew	fifty six	חמישים ושש	χamiʃimveʃeʃ	χ a m i/e ʃ + i m + v e + ʃ e ʃ	five suff_pl and six	χ a m i/e ʃ + i m + v e + ʃ e ʃ	5 13 15 6		Etzion2020ModernHebrew
+109	Modern_Hebrew	fifty seven	חמישים ושבעה	χamiʃimveʃiva	χ a m i/e ʃ + i m + v e + ʃ i/e v -/a + a/-	five suff_pl and seven suff_masc_sg	χ a m i/e ʃ + i m + v e + ʃ i/e v -/a + a/-	5 13 15 7 11		Etzion2020ModernHebrew
+110	Modern_Hebrew	fifty seven	חמישים ושבע	χamiʃimveʃeva	χ a m i/e ʃ + i m + v e + ʃ e v a	five suff_pl and seven	χ a m i/e ʃ + i m + v e + ʃ e v a	5 13 15 7		Etzion2020ModernHebrew
+111	Modern_Hebrew	fifty eight	חמישים ושמונה	χamiʃimuʃmona	χ a m i/e ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	five suff_pl and eight suff_masc_sg	χ a m i/e ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	5 13 15 8 11		Etzion2020ModernHebrew
+112	Modern_Hebrew	fifty eight	חמישים ושמונה	χamiʃimuʃmone	χ a m i/e ʃ + i m + u/v -/e + ʃ m o n e	five suff_pl and eight	χ a m i/e ʃ + i m + u/v -/e + ʃ m o n e	5 13 15 8		Etzion2020ModernHebrew
+113	Modern_Hebrew	fifty nine	חמישים ותשעה	χamiʃimvetiʃa	χ a m i/e ʃ + i m + v e + t i/e ʃ -/a + a/-	five suff_pl and nine suff_masc_sg	χ a m i/e ʃ + i m + v e + t i/e ʃ -/a + a/-	5 13 15 9 11		Etzion2020ModernHebrew
+114	Modern_Hebrew	fifty nine	חמישים ותשע	χamiʃimveteʃa	χ a m i/e ʃ + i m + v e + t e ʃ a	five suff_pl and nine	χ a m i/e ʃ + i m + v e + t e ʃ a	5 13 15 9		Etzion2020ModernHebrew
+115	Modern_Hebrew	sixty	שישים	ʃiʃim	ʃ i/e ʃ + i m	six suff_pl	ʃ i/e ʃ + i m	6 13		Etzion2020ModernHebrew
+116	Modern_Hebrew	sixty one	שישים ואחד	ʃiʃimveeχad	ʃ i/e ʃ + i m + v e + e χ a d	six suff_pl and one	ʃ i/e ʃ + i m + v e + e χ a d	6 13 15 1		Etzion2020ModernHebrew
+117	Modern_Hebrew	sixty one	שישים ואחת	ʃiʃimveaχat	ʃ i/e ʃ + i m + v e + a/e χ a t/d	six suff_pl and one	ʃ i/e ʃ + i m + v e + a/e χ a t/d	6 13 15 1		Etzion2020ModernHebrew
+118	Modern_Hebrew	sixty two	שישים ושניים	ʃiʃimuʃnajim	ʃ i/e ʃ + i m + u/v -/e + ʃ n a j i m	six suff_pl and two	ʃ i/e ʃ + i m + u/v -/e + ʃ n a j i m	6 13 15 2		Etzion2020ModernHebrew
+119	Modern_Hebrew	sixty two	שישים ושתיים	ʃiʃimuʃtajim	ʃ i/e ʃ + i m + u/v -/e + ʃ t/n a j i m	six suff_pl and two	ʃ i/e ʃ + i m + u/v -/e + ʃ t/n a j i m	6 13 15 2		Etzion2020ModernHebrew
+120	Modern_Hebrew	sixty three	שישים ושלושה	ʃiʃimuʃloʃa	ʃ i/e ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	six suff_pl and three suff_masc_sg	ʃ i/e ʃ + i m + u/v -/e + ʃ -/a l o ʃ + a/-	6 13 15 3 11		Etzion2020ModernHebrew
+121	Modern_Hebrew	sixty three	שישים ושלוש	ʃiʃimveʃaloʃ	ʃ i/e ʃ + i m + v e + ʃ a l o ʃ	six suff_pl and three	ʃ i/e ʃ + i m + v e + ʃ a l o ʃ	6 13 15 3		Etzion2020ModernHebrew
+122	Modern_Hebrew	sixty four	שישים וארבעה	ʃiʃimveaʁbaa	ʃ i/e ʃ + i m + v e + a ʁ b a + a/-	six suff_pl and four suff_masc_sg	ʃ i/e ʃ + i m + v e + a ʁ b a + a/-	6 13 15 4 11		Etzion2020ModernHebrew
+123	Modern_Hebrew	sixty four	שישים וארבע	ʃiʃimveaʁba	ʃ i/e ʃ + i m + v e + a ʁ b a	six suff_pl and four	ʃ i/e ʃ + i m + v e + a ʁ b a	6 13 15 4		Etzion2020ModernHebrew
+124	Modern_Hebrew	sixty five	שישים וחמישה	ʃiʃimveχamiʃa	ʃ i/e ʃ + i m + v e + χ a m i/e ʃ + a/-	six suff_pl and five suff_masc_sg	ʃ i/e ʃ + i m + v e + χ a m i/e ʃ + a/-	6 13 15 5 11		Etzion2020ModernHebrew
+125	Modern_Hebrew	sixty five	שישים וחמש	ʃiʃimveχameʃ	ʃ i/e ʃ + i m + v e + χ a m e ʃ	six suff_pl and five	ʃ i/e ʃ + i m + v e + χ a m e ʃ	6 13 15 5		Etzion2020ModernHebrew
+126	Modern_Hebrew	sixty six	שישים ושישה	ʃiʃimveʃiʃa	ʃ i/e ʃ + i m + v e + ʃ i/e ʃ + a/-	six suff_pl and six suff_masc_sg	ʃ i/e ʃ + i m + v e + ʃ i/e ʃ + a/-	6 13 15 6 11		Etzion2020ModernHebrew
+127	Modern_Hebrew	sixty six	שישים ושש	ʃiʃimveʃeʃ	ʃ i/e ʃ + i m + v e + ʃ e ʃ	six suff_pl and six	ʃ i/e ʃ + i m + v e + ʃ e ʃ	6 13 15 6		Etzion2020ModernHebrew
+128	Modern_Hebrew	sixty seven	שישים ושבעה	ʃiʃimveʃiva	ʃ i/e ʃ + i m + v e + ʃ i/e v -/a + a/-	six suff_pl and seven suff_masc_sg	ʃ i/e ʃ + i m + v e + ʃ i/e v -/a + a/-	6 13 15 7 11		Etzion2020ModernHebrew
+129	Modern_Hebrew	sixty seven	שישים ושבע	ʃiʃimveʃeva	ʃ i/e ʃ + i m + v e + ʃ e v a	six suff_pl and seven	ʃ i/e ʃ + i m + v e + ʃ e v a	6 13 15 7		Etzion2020ModernHebrew
+130	Modern_Hebrew	sixty eight	שישים ושמונה	ʃiʃimuʃmona	ʃ i/e ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	six suff_pl and eight suff_masc_sg	ʃ i/e ʃ + i m + u/v -/e + ʃ m o n -/e + a/-	6 13 15 8 11		Etzion2020ModernHebrew
+131	Modern_Hebrew	sixty eight	שישים ושמונה	ʃiʃimuʃmone	ʃ i/e ʃ + i m + u/v -/e + ʃ m o n e	six suff_pl and eight	ʃ i/e ʃ + i m + u/v -/e + ʃ m o n e	6 13 15 8		Etzion2020ModernHebrew
+132	Modern_Hebrew	sixty nine	שישים ותשעה	ʃiʃimvetiʃa	ʃ i/e ʃ + i m + v e + t i/e ʃ -/a + a/-	six suff_pl and nine suff_masc_sg	ʃ i/e ʃ + i m + v e + t i/e ʃ -/a + a/-	6 13 15 9 11		Etzion2020ModernHebrew
+133	Modern_Hebrew	sixty nine	שישים ותשע	ʃiʃimveteʃa	ʃ i/e ʃ + i m + v e + t e ʃ a	six suff_pl and nine	ʃ i/e ʃ + i m + v e + t e ʃ a	6 13 15 9		Etzion2020ModernHebrew
+134	Modern_Hebrew	seventy	שבעים	ʃivim	ʃ i/e v -/a + i m	seven suff_pl	ʃ i/e v -/a + i m	7 13		Etzion2020ModernHebrew
+135	Modern_Hebrew	seventy one	שבעים ואחד	ʃivimveeχad	ʃ i/e v -/a + i m + v e + e χ a d	seven suff_pl and one	ʃ i/e v -/a + i m + v e + e χ a d	7 13 15 1		Etzion2020ModernHebrew
+136	Modern_Hebrew	seventy one	שבעים ואחת	ʃivimveaχat	ʃ i/e v -/a + i m + v e + a/e χ a t/d	seven suff_pl and one	ʃ i/e v -/a + i m + v e + a/e χ a t/d	7 13 15 1		Etzion2020ModernHebrew
+137	Modern_Hebrew	seventy two	שבעים ושניים	ʃivimuʃnajim	ʃ i/e v -/a + i m + u/v -/e + ʃ n a j i m	seven suff_pl and two	ʃ i/e v -/a + i m + u/v -/e + ʃ n a j i m	7 13 15 2		Etzion2020ModernHebrew
+138	Modern_Hebrew	seventy two	שבעים ושתיים	ʃivimuʃtajim	ʃ i/e v -/a + i m + u/v -/e + ʃ t/n a j i m	seven suff_pl and two	ʃ i/e v -/a + i m + u/v -/e + ʃ t/n a j i m	7 13 15 2		Etzion2020ModernHebrew
+139	Modern_Hebrew	seventy three	שבעים ושלושה	ʃivimuʃloʃa	ʃ i/e v -/a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	seven suff_pl and three suff_masc_sg	ʃ i/e v -/a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	7 13 15 3 11		Etzion2020ModernHebrew
+140	Modern_Hebrew	seventy three	שבעים ושלוש	ʃivimveʃaloʃ	ʃ i/e v -/a + i m + v e + ʃ a l o ʃ	seven suff_pl and three	ʃ i/e v -/a + i m + v e + ʃ a l o ʃ	7 13 15 3		Etzion2020ModernHebrew
+141	Modern_Hebrew	seventy four	שבעים וארבעה	ʃivimveaʁbaa	ʃ i/e v -/a + i m + v e + a ʁ b a + a/-	seven suff_pl and four suff_masc_sg	ʃ i/e v -/a + i m + v e + a ʁ b a + a/-	7 13 15 4 11		Etzion2020ModernHebrew
+142	Modern_Hebrew	seventy four	שבעים וארבע	ʃivimveaʁba	ʃ i/e v -/a + i m + v e + a ʁ b a	seven suff_pl and four	ʃ i/e v -/a + i m + v e + a ʁ b a	7 13 15 4		Etzion2020ModernHebrew
+143	Modern_Hebrew	seventy five	שבעים וחמישה	ʃivimveχamiʃa	ʃ i/e v -/a + i m + v e + χ a m i/e ʃ + a/-	seven suff_pl and five suff_masc_sg	ʃ i/e v -/a + i m + v e + χ a m i/e ʃ + a/-	7 13 15 5 11		Etzion2020ModernHebrew
+144	Modern_Hebrew	seventy five	שבעים וחמש	ʃivimveχameʃ	ʃ i/e v -/a + i m + v e + χ a m e ʃ	seven suff_pl and five	ʃ i/e v -/a + i m + v e + χ a m e ʃ	7 13 15 5		Etzion2020ModernHebrew
+145	Modern_Hebrew	seventy six	שבעים ושישה	ʃivimveʃiʃa	ʃ i/e v -/a + i m + v e + ʃ i/e ʃ + a/-	seven suff_pl and six suff_masc_sg	ʃ i/e v -/a + i m + v e + ʃ i/e ʃ + a/-	7 13 15 6 11		Etzion2020ModernHebrew
+146	Modern_Hebrew	seventy six	שבעים ושש	ʃivimveʃeʃ	ʃ i/e v -/a + i m + v e + ʃ e ʃ	seven suff_pl and six	ʃ i/e v -/a + i m + v e + ʃ e ʃ	7 13 15 6		Etzion2020ModernHebrew
+147	Modern_Hebrew	seventy seven	שבעים ושבעה	ʃivimveʃiva	ʃ i/e v -/a + i m + v e + ʃ i/e v -/a + a/-	seven suff_pl and seven suff_masc_sg	ʃ i/e v -/a + i m + v e + ʃ i/e v -/a + a/-	7 13 15 7 11		Etzion2020ModernHebrew
+148	Modern_Hebrew	seventy seven	שבעים ושבע	ʃivimveʃeva	ʃ i/e v -/a + i m + v e + ʃ e v a	seven suff_pl and seven	ʃ i/e v -/a + i m + v e + ʃ e v a	7 13 15 7		Etzion2020ModernHebrew
+149	Modern_Hebrew	seventy eight	שבעים ושמונה	ʃivimuʃmona	ʃ i/e v -/a + i m + u/v -/e + ʃ m o n -/e + a/-	seven suff_pl and eight suff_masc_sg	ʃ i/e v -/a + i m + u/v -/e + ʃ m o n -/e + a/-	7 13 15 8 11		Etzion2020ModernHebrew
+150	Modern_Hebrew	seventy eight	שבעים ושמונה	ʃivimuʃmone	ʃ i/e v -/a + i m + u/v -/e + ʃ m o n e	seven suff_pl and eight	ʃ i/e v -/a + i m + u/v -/e + ʃ m o n e	7 13 15 8		Etzion2020ModernHebrew
+151	Modern_Hebrew	seventy nine	שבעים ותשעה	ʃivimvetiʃa	ʃ i/e v -/a + i m + v e + t i/e ʃ -/a + a/-	seven suff_pl and nine suff_masc_sg	ʃ i/e v -/a + i m + v e + t i/e ʃ -/a + a/-	7 13 15 9 11		Etzion2020ModernHebrew
+152	Modern_Hebrew	seventy nine	שבעים ותשע	ʃivimveteʃa	ʃ i/e v -/a + i m + v e + t e ʃ a	seven suff_pl and nine	ʃ i/e v -/a + i m + v e + t e ʃ a	7 13 15 9		Etzion2020ModernHebrew
+153	Modern_Hebrew	eighty	שמונים	ʃmonim	ʃ m o n -/e + i m	eight suff_pl	ʃ m o n -/e + i m	8 13		Etzion2020ModernHebrew
+154	Modern_Hebrew	eighty one	שמונים ואחד	ʃmonimveeχad	ʃ m o n -/e + i m + v e + e χ a d	eight suff_pl and one	ʃ m o n -/e + i m + v e + e χ a d	8 13 15 1		Etzion2020ModernHebrew
+155	Modern_Hebrew	eighty one	שמונים ואחת	ʃmonimveaχat	ʃ m o n -/e + i m + v e + a/e χ a t/d	eight suff_pl and one	ʃ m o n -/e + i m + v e + a/e χ a t/d	8 13 15 1		Etzion2020ModernHebrew
+156	Modern_Hebrew	eighty two	שמונים ושניים	ʃmonimuʃnajim	ʃ m o n -/e + i m + u/v -/e + ʃ n a j i m	eight suff_pl and two	ʃ m o n -/e + i m + u/v -/e + ʃ n a j i m	8 13 15 2		Etzion2020ModernHebrew
+157	Modern_Hebrew	eighty two	שמונים ושתיים	ʃmonimuʃtajim	ʃ m o n -/e + i m + u/v -/e + ʃ t/n a j i m	eight suff_pl and two	ʃ m o n -/e + i m + u/v -/e + ʃ t/n a j i m	8 13 15 2		Etzion2020ModernHebrew
+158	Modern_Hebrew	eighty three	שמונים ושלושה	ʃmonimuʃloʃa	ʃ m o n -/e + i m + u/v -/e + ʃ -/a l o ʃ + a/-	eight suff_pl and three suff_masc_sg	ʃ m o n -/e + i m + u/v -/e + ʃ -/a l o ʃ + a/-	8 13 15 3 11		Etzion2020ModernHebrew
+159	Modern_Hebrew	eighty three	שמונים ושלוש	ʃmonimveʃaloʃ	ʃ m o n -/e + i m + v e + ʃ a l o ʃ	eight suff_pl and three	ʃ m o n -/e + i m + v e + ʃ a l o ʃ	8 13 15 3		Etzion2020ModernHebrew
+160	Modern_Hebrew	eighty four	שמונים וארבעה	ʃmonimveaʁbaa	ʃ m o n -/e + i m + v e + a ʁ b a + a/-	eight suff_pl and four suff_masc_sg	ʃ m o n -/e + i m + v e + a ʁ b a + a/-	8 13 15 4 11		Etzion2020ModernHebrew
+161	Modern_Hebrew	eighty four	שמונים וארבע	ʃmonimveaʁba	ʃ m o n -/e + i m + v e + a ʁ b a	eight suff_pl and four	ʃ m o n -/e + i m + v e + a ʁ b a	8 13 15 4		Etzion2020ModernHebrew
+162	Modern_Hebrew	eighty five	שמונים וחמישה	ʃmonimveχamiʃa	ʃ m o n -/e + i m + v e + χ a m i/e ʃ + a/-	eight suff_pl and five suff_masc_sg	ʃ m o n -/e + i m + v e + χ a m i/e ʃ + a/-	8 13 15 5 11		Etzion2020ModernHebrew
+163	Modern_Hebrew	eighty five	שמונים וחמש	ʃmonimveχameʃ	ʃ m o n -/e + i m + v e + χ a m e ʃ	eight suff_pl and five	ʃ m o n -/e + i m + v e + χ a m e ʃ	8 13 15 5		Etzion2020ModernHebrew
+164	Modern_Hebrew	eighty six	שמונים ושישה	ʃmonimveʃiʃa	ʃ m o n -/e + i m + v e + ʃ i/e ʃ + a/-	eight suff_pl and six suff_masc_sg	ʃ m o n -/e + i m + v e + ʃ i/e ʃ + a/-	8 13 15 6 11		Etzion2020ModernHebrew
+165	Modern_Hebrew	eighty six	שמונים ושש	ʃmonimveʃeʃ	ʃ m o n -/e + i m + v e + ʃ e ʃ	eight suff_pl and six	ʃ m o n -/e + i m + v e + ʃ e ʃ	8 13 15 6		Etzion2020ModernHebrew
+166	Modern_Hebrew	eighty seven	שמונים ושבעה	ʃmonimveʃiva	ʃ m o n -/e + i m + v e + ʃ i/e v -/a + a/-	eight suff_pl and seven suff_masc_sg	ʃ m o n -/e + i m + v e + ʃ i/e v -/a + a/-	8 13 15 7 11		Etzion2020ModernHebrew
+167	Modern_Hebrew	eighty seven	שמונים ושבע	ʃmonimveʃeva	ʃ m o n -/e + i m + v e + ʃ e v a	eight suff_pl and seven	ʃ m o n -/e + i m + v e + ʃ e v a	8 13 15 7		Etzion2020ModernHebrew
+168	Modern_Hebrew	eighty eight	שמונים ושמונה	ʃmonimuʃmona	ʃ m o n -/e + i m + u/v -/e + ʃ m o n -/e + a/-	eight suff_pl and eight suff_masc_sg	ʃ m o n -/e + i m + u/v -/e + ʃ m o n -/e + a/-	8 13 15 8 11		Etzion2020ModernHebrew
+169	Modern_Hebrew	eighty eight	שמונים ושמונה	ʃmonimuʃmone	ʃ m o n -/e + i m + u/v -/e + ʃ m o n e	eight suff_pl and eight	ʃ m o n -/e + i m + u/v -/e + ʃ m o n e	8 13 15 8		Etzion2020ModernHebrew
+170	Modern_Hebrew	eighty nine	שמונים ותשעה	ʃmonimvetiʃa	ʃ m o n -/e + i m + v e + t i/e ʃ -/a + a/-	eight suff_pl and nine suff_masc_sg	ʃ m o n -/e + i m + v e + t i/e ʃ -/a + a/-	8 13 15 9 11		Etzion2020ModernHebrew
+171	Modern_Hebrew	eighty nine	שמונים ותשע	ʃmonimveteʃa	ʃ m o n -/e + i m + v e + t e ʃ a	eight suff_pl and nine	ʃ m o n -/e + i m + v e + t e ʃ a	8 13 15 9		Etzion2020ModernHebrew
+172	Modern_Hebrew	ninety	תשעים	tiʃim	t i/e ʃ -/a + i m	nine suff_pl	t i/e ʃ -/a + i m	9 13		Etzion2020ModernHebrew
+173	Modern_Hebrew	ninety one	תשעים ואחד	tiʃimveeχad	t i/e ʃ -/a + i m + v e + e χ a d	nine suff_pl and one	t i/e ʃ -/a + i m + v e + e χ a d	9 13 15 1		Etzion2020ModernHebrew
+174	Modern_Hebrew	ninety one	תשעים ואחת	tiʃimveaχat	t i/e ʃ -/a + i m + v e + a/e χ a t/d	nine suff_pl and one	t i/e ʃ -/a + i m + v e + a/e χ a t/d	9 13 15 1		Etzion2020ModernHebrew
+175	Modern_Hebrew	ninety two	תשעים ושניים	tiʃimuʃnajim	t i/e ʃ -/a + i m + u/v -/e + ʃ n a j i m	nine suff_pl and two	t i/e ʃ -/a + i m + u/v -/e + ʃ n a j i m	9 13 15 2		Etzion2020ModernHebrew
+176	Modern_Hebrew	ninety two	תשעים ושתיים	tiʃimuʃtajim	t i/e ʃ -/a + i m + u/v -/e + ʃ t/n a j i m	nine suff_pl and two	t i/e ʃ -/a + i m + u/v -/e + ʃ t/n a j i m	9 13 15 2		Etzion2020ModernHebrew
+177	Modern_Hebrew	ninety three	תשעים ושלושה	tiʃimuʃloʃa	t i/e ʃ -/a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	nine suff_pl and three suff_masc_sg	t i/e ʃ -/a + i m + u/v -/e + ʃ -/a l o ʃ + a/-	9 13 15 3 11		Etzion2020ModernHebrew
+178	Modern_Hebrew	ninety three	תשעים ושלוש	tiʃimveʃaloʃ	t i/e ʃ -/a + i m + v e + ʃ a l o ʃ	nine suff_pl and three	t i/e ʃ -/a + i m + v e + ʃ a l o ʃ	9 13 15 3		Etzion2020ModernHebrew
+179	Modern_Hebrew	ninety four	תשעים וארבעה	tiʃimveaʁbaa	t i/e ʃ -/a + i m + v e + a ʁ b a + a/-	nine suff_pl and four suff_masc_sg	t i/e ʃ -/a + i m + v e + a ʁ b a + a/-	9 13 15 4 11		Etzion2020ModernHebrew
+180	Modern_Hebrew	ninety four	תשעים וארבע	tiʃimveaʁba	t i/e ʃ -/a + i m + v e + a ʁ b a	nine suff_pl and four	t i/e ʃ -/a + i m + v e + a ʁ b a	9 13 15 4		Etzion2020ModernHebrew
+181	Modern_Hebrew	ninety five	תשעים וחמישה	tiʃimveχamiʃa	t i/e ʃ -/a + i m + v e + χ a m i/e ʃ + a/-	nine suff_pl and five suff_masc_sg	t i/e ʃ -/a + i m + v e + χ a m i/e ʃ + a/-	9 13 15 5 11		Etzion2020ModernHebrew
+182	Modern_Hebrew	ninety five	תשעים וחמש	tiʃimveχameʃ	t i/e ʃ -/a + i m + v e + χ a m e ʃ	nine suff_pl and five	t i/e ʃ -/a + i m + v e + χ a m e ʃ	9 13 15 5		Etzion2020ModernHebrew
+183	Modern_Hebrew	ninety six	תשעים ושישה	tiʃimveʃiʃa	t i/e ʃ -/a + i m + v e + ʃ i/e ʃ + a/-	nine suff_pl and six suff_masc_sg	t i/e ʃ -/a + i m + v e + ʃ i/e ʃ + a/-	9 13 15 6 11		Etzion2020ModernHebrew
+184	Modern_Hebrew	ninety six	תשעים ושש	tiʃimveʃeʃ	t i/e ʃ -/a + i m + v e + ʃ e ʃ	nine suff_pl and six	t i/e ʃ -/a + i m + v e + ʃ e ʃ	9 13 15 6		Etzion2020ModernHebrew
+185	Modern_Hebrew	ninety seven	תשעים ושבעה	tiʃimveʃiva	t i/e ʃ -/a + i m + v e + ʃ i/e v -/a + a/-	nine suff_pl and seven suff_masc_sg	t i/e ʃ -/a + i m + v e + ʃ i/e v -/a + a/-	9 13 15 7 11		Etzion2020ModernHebrew
+186	Modern_Hebrew	ninety seven	תשעים ושבע	tiʃimveʃeva	t i/e ʃ -/a + i m + v e + ʃ e v a	nine suff_pl and seven	t i/e ʃ -/a + i m + v e + ʃ e v a	9 13 15 7		Etzion2020ModernHebrew
+187	Modern_Hebrew	ninety eight	תשעים ושמונה	tiʃimuʃmona	t i/e ʃ -/a + i m + u/v -/e + ʃ m o n -/e + a/-	nine suff_pl and eight suff_masc_sg	t i/e ʃ -/a + i m + u/v -/e + ʃ m o n -/e + a/-	9 13 15 8 11		Etzion2020ModernHebrew
+188	Modern_Hebrew	ninety eight	תשעים ושמונה	tiʃimuʃmone	t i/e ʃ -/a + i m + u/v -/e + ʃ m o n e	nine suff_pl and eight	t i/e ʃ -/a + i m + u/v -/e + ʃ m o n e	9 13 15 8		Etzion2020ModernHebrew
+189	Modern_Hebrew	ninety nine	תשעים ותשעה	tiʃimvetiʃa	t i/e ʃ -/a + i m + v e + t i/e ʃ -/a + a/-	nine suff_pl and nine suff_masc_sg	t i/e ʃ -/a + i m + v e + t i/e ʃ -/a + a/-	9 13 15 9 11		Etzion2020ModernHebrew
+190	Modern_Hebrew	ninety nine	תשעים ותשע	tiʃimveteʃa	t i/e ʃ -/a + i m + v e + t e ʃ a	nine suff_pl and nine	t i/e ʃ -/a + i m + v e + t e ʃ a	9 13 15 9		Etzion2020ModernHebrew
