@@ -49,7 +49,7 @@ ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 48	French	FORTY EIGHT	48	quarante-huit	kaʁɑ̃tɥit	k a -/t ʁ - + ɑ̃ t + ɥ i t	four tenstep eight	4 17 8	French
 49	French	FORTY NINE	49	quarante-neuf	kaʁɑ̃tnœf	k a -/t ʁ - + ɑ̃ t + n œ f	four tenstep nine	4 17 9	French
 50	French	FIFTY	50	cinquante	sɛ̃kɑ̃t	s ɛ̃ k + ɑ̃ t	five tenstep	5 17	French
-51	French	FIFTY ONE	51	cinquante et un	sɛ̃kɑ̃teœ̃	s ɛ̃ k + ɑ̃ t + e + œ̃	five tenstep and ?	5 17 18 1	French
+51	French	FIFTY ONE	51	cinquante et un	sɛ̃kɑ̃teœ̃	s ɛ̃ k + ɑ̃ t + e + œ̃	five tenstep and one	5 17 18 1	French
 52	French	FIFTY TWO	52	cinquante-deux	sɛ̃kɑ̃tdø	s ɛ̃ k + ɑ̃ t + d ø	five tenstep two	5 17 2	French
 53	French	FIFTY THREE	53	cinquante-trois	sɛ̃kɑ̃tʁwɑ	s ɛ̃ k + ɑ̃ -/t + t ʁ wɑ	five tenstep three	5 17 3	French
 54	French	FIFTY FOUR	54	cinquante-quatre	sɛ̃kɑ̃tkatʁ	s ɛ̃ k + ɑ̃ t + k a t ʁ	five tenstep four	5 17 4	French
@@ -59,7 +59,7 @@ ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 58	French	FIFTY EIGHT	58	cinquante-huit	sɛ̃kɑ̃tɥit	s ɛ̃ k + ɑ̃ t + ɥ i t	five tenstep eight	5 17 8	French
 59	French	FIFTY NINE	59	cinquante-neuf	sɛ̃kɑ̃tnœf	s ɛ̃ k + ɑ̃ t + n œ f	five tenstep nine	5 17 9	French
 60	French	SIXTY	60	soixante	swasɑ̃t	s wa s + ɑ̃ t	six(2) tenstep	21 17	French
-61	French	SIXTY ONE	61	soixante et un	swasɑ̃teœ̃	s wa s + ɑ̃ t + e + œ̃	six(2) tenstep and ?	21 17 18 1	French
+61	French	SIXTY ONE	61	soixante et un	swasɑ̃teœ̃	s wa s + ɑ̃ t + e + œ̃	six(2) tenstep and one	21 17 18 1	French
 62	French	SIXTY TWO	62	soixante-deux	swasɑ̃tdø	s wa s + ɑ̃ t + d ø	six(2) tenstep two	21 17 2	French
 63	French	SIXTY THREE	63	soixante-trois	swasɑ̃tʁwɑ	s wa s + ɑ̃ -/t + t ʁ wɑ	six(2) tenstep three	21 17 3	French
 64	French	SIXTY FOUR	64	soixante-quatre	swasɑ̃tkatʁ	s wa s + ɑ̃ t + k a t ʁ	six(2) tenstep four	21 17 4	French
@@ -99,26 +99,3 @@ ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 97	French	NINETY SEVEN	97	quatre-vingt-dix-sept	katʁəvɛ̃disɛt	k a t ʁ ə/- + v ɛ̃ -/t + d i -/s + s ɛ t	four twenty ten seven	4 20 10 7	French
 98	French	NINETY EIGHT	98	quatre-vingt-dix-huit	katʁəvɛ̃dizɥit	k a t ʁ ə/- + v ɛ̃ -/t + d i z/s + ɥ i t	four twenty ten eight	4 20 10 8	French
 99	French	NINETY NINE	99	quatre-vingt-dix-neuf	katʁəvɛ̃diznœf	k a t ʁ ə/- + v ɛ̃ -/t + d i z/s + n œ f	four twenty ten nine	4 20 10 9	French
-100	French	HUNDRED	100	cent	sɑ̃	s ɑ̃	hundred	19	French
-#@highlight=TOKENS
-#@sampa=TOKENS
-#@pinyin=
-#@css=menu:show|database:hide
-#@basics=COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NUMBER|SOURCE|TOKENS|VALUE
-#@_selected_doculects=French
-#@_selected_concepts=ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN|ELEVEN|TWELVE|THIRTEEN|FOURTEEN|FIFTEEN|SIXTEEN|SEVENTEEN|EIGHTEEN|NINETEEN|TWENTY|TWENTY ONE|TWENTY TWO|TWENTY THREE|TWENTY FOUR|TWENTY FIVE|TWENTY SIX|TWENTY SEVEN|TWENTY EIGHT|TWENTY NINE|THIRTY|THIRTY ONE|THIRTY TWO|THIRTY THREE|THIRTY FOUR|THIRTY FIVE|THIRTY SIX|THIRTY SEVEN|THIRTY EIGHT|THIRTY NINE|FORTY|FORTY ONE|FORTY TWO|FORTY THREE|FORTY FOUR|FORTY FIVE|FORTY SIX|FORTY SEVEN|FORTY EIGHT|FORTY NINE|FIFTY|FIFTY ONE|FIFTY TWO|FIFTY THREE|FIFTY FOUR|FIFTY FIVE|FIFTY SIX|FIFTY SEVEN|FIFTY EIGHT|FIFTY NINE|SIXTY|SIXTY ONE|SIXTY TWO|SIXTY THREE|SIXTY FOUR|SIXTY FIVE|SIXTY SIX|SIXTY SEVEN|SIXTY EIGHT|SIXTY NINE|SEVENTY|SEVENTY ONE|SEVENTY TWO|SEVENTY THREE|SEVENTY FOUR|SEVENTY FIVE|SEVENTY SIX|SEVENTY SEVEN|SEVENTY EIGHT|SEVENTY NINE|EIGHTY|EIGHTY ONE|EIGHTY TWO|EIGHTY THREE|EIGHTY FOUR|EIGHTY FIVE|EIGHTY SIX|EIGHTY SEVEN|EIGHTY EIGHT|EIGHTY NINE|NINETY|NINETY ONE|NINETY TWO|NINETY THREE|NINETY FOUR|NINETY FIVE|NINETY SIX|NINETY SEVEN|NINETY EIGHT|NINETY NINE|HUNDRED
-#@sorted_taxa=French
-#@sorted_concepts=ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN|ELEVEN|TWELVE|THIRTEEN|FOURTEEN|FIFTEEN|SIXTEEN|SEVENTEEN|EIGHTEEN|NINETEEN|TWENTY|TWENTY ONE|TWENTY TWO|TWENTY THREE|TWENTY FOUR|TWENTY FIVE|TWENTY SIX|TWENTY SEVEN|TWENTY EIGHT|TWENTY NINE|THIRTY|THIRTY ONE|THIRTY TWO|THIRTY THREE|THIRTY FOUR|THIRTY FIVE|THIRTY SIX|THIRTY SEVEN|THIRTY EIGHT|THIRTY NINE|FORTY|FORTY ONE|FORTY TWO|FORTY THREE|FORTY FOUR|FORTY FIVE|FORTY SIX|FORTY SEVEN|FORTY EIGHT|FORTY NINE|FIFTY|FIFTY ONE|FIFTY TWO|FIFTY THREE|FIFTY FOUR|FIFTY FIVE|FIFTY SIX|FIFTY SEVEN|FIFTY EIGHT|FIFTY NINE|SIXTY|SIXTY ONE|SIXTY TWO|SIXTY THREE|SIXTY FOUR|SIXTY FIVE|SIXTY SIX|SIXTY SEVEN|SIXTY EIGHT|SIXTY NINE|SEVENTY|SEVENTY ONE|SEVENTY TWO|SEVENTY THREE|SEVENTY FOUR|SEVENTY FIVE|SEVENTY SIX|SEVENTY SEVEN|SEVENTY EIGHT|SEVENTY NINE|EIGHTY|EIGHTY ONE|EIGHTY TWO|EIGHTY THREE|EIGHTY FOUR|EIGHTY FIVE|EIGHTY SIX|EIGHTY SEVEN|EIGHTY EIGHT|EIGHTY NINE|NINETY|NINETY ONE|NINETY TWO|NINETY THREE|NINETY FOUR|NINETY FIVE|NINETY SIX|NINETY SEVEN|NINETY EIGHT|NINETY NINE|HUNDRED
-#@display=filedisplay|glosses|settings
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=undefined
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=french-copy.tsv
-#@navbar=true
-#@_morphology_mode=full
