@@ -1,8 +1,8 @@
 ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 1	French	ONE	1	un	œ̃	œ̃	one	1	French
 2	French	TWO	2	deux	dø	d ø	two	2	French
-3	French	THREE	3	trois	tʁwɑ	t ʁ w ɑ	three	3	French
-4	French	FOUR	4	quatre	katʁ	k a t ʁ	four	4	French
+3	French	THREE	3	trois	tʁwɑ	t ʁ wɑ	three	3	French
+4	French	FOUR	4	quatre	katʁ	k a t ʁ -	four	4	French
 5	French	FIVE	5	cinq	sɛ̃k	s ɛ̃ k	five	5	French
 6	French	SIX	6	six	sis	s i s	six	6	French
 7	French	SEVEN	7	sept	sɛt	s ɛ t	seven	7	French
@@ -18,24 +18,107 @@ ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 17	French	SEVENTEEN	17	dix-sept	disɛt	d i -/s + s ɛ t	ten seven	10 7	French
 18	French	EIGHTEEN	18	dix-huit	dizɥit	d i z/s + ɥ i t	ten eight	10 8	French
 19	French	NINETEEN	19	dix-neuf	diznœf	d i z/s + n œ f	ten nine	10 9	French
-20	French	TWENTY	20	vingt	vɛ̃	v ɛ̃	twenty	20	French
-21	French	TWENTY ONE	21	vingt et un	vɛ̃teœ̃	v ɛ̃ t/- + e + œ̃	twenty and one	20 18 1	French
-22	French	TWENTY TWO	22	vingt-deux	vɛ̃dø	v ɛ̃ t/- + d ø	twenty two	20 2	French
-23	French	TWENTY THREE	23	vingt-trois	vɛ̃tʁwɑ	v ɛ̃ t/- + t ʁ w ɑ	twenty three	20 3	French
-24	French	TWENTY FOUR	24	vingt-quatre	vɛ̃tkatʁ	v ɛ̃ t/- + k a t ʁ	twenty four	20 4	French
-25	French	TWENTY FIVE	25	vingt-cinq	vɛ̃tsɛ̃k	v ɛ̃ t/- + s ɛ̃ k	twenty five	20 5	French
-26	French	TWENTY SIX	26	vingt-six	vɛ̃tsis	v ɛ̃ t/- + s i s	twenty six	20 6	French
-27	French	TWENTY SEVEN	27	vingt-sept	vɛ̃tsɛt	v ɛ̃ t/- + s ɛ t	twenty seven	20 7	French
-28	French	TWENTY EIGHT	28	vingt-huit	vɛ̃tɥit	v ɛ̃ t/- + ɥ i t	twenty eight	20 8	French
-29	French	TWENTY NINE	29	vingt-neuf	vɛ̃nœf	v ɛ̃ t/- + n œ f	twenty nine	20 9	French
-30	French	THIRTY	30	trente	tʁɑ̃t	t ʁ -/w -/ɑ + ɑ̃ t	three tenstep	3 17	French
-31	French	THIRTY ONE	31	trente et un	tʁɑ̃teœ̃	t ʁ -/w -/ɑ + ɑ̃ t + e + œ̃	three tenstep and one	3 17 18 1	French
-32	French	THIRTY TWO	32	trente-deux	tʁɑ̃tdø	t ʁ -/w -/ɑ + ɑ̃ t + d ø	three tenstep two	3 17 2	French
-33	French	THIRTY THREE	33	trente-trois	tʁɑ̃t tʁwɑ	t ʁ -/w -/ɑ + ɑ̃ t + t ʁ w ɑ	three tenstep three	3 17 3	French
-34	French	THIRTY FOUR	34	trente-quatre	tʁɑ̃tkatʁ	t ʁ -/w -/ɑ + ɑ̃ t + k a t ʁ	three tenstep four	3 17 4	French
-35	French	THIRTY FIVE	35	trente-cinq	tʁɑ̃tsɛ̃k	t ʁ -/w -/ɑ + ɑ̃ t + s ɛ̃ k	three tenstep five	3 17 5	French
-36	French	THIRTY SIX	36	trente-six	tʁɑ̃tsis	t ʁ -/w -/ɑ + ɑ̃ t + s i s	three tenstep six	3 17 6	French
-37	French	THIRTY SEVEN	37	trente-sept	tʁɑ̃tsɛt	t ʁ -/w -/ɑ + ɑ̃ t + s ɛ t	three tenstep seven	3 17 7	French
-38	French	THIRTY EIGHT	38	trente-huit	tʁɑ̃tɥit	t ʁ -/w -/ɑ + ɑ̃ t + ɥ i t	three tenstep eight	3 17 8	French
-39	French	THIRTY NINE	39	trente-neuf	tʁɑ̃tnœf	t ʁ -/w -/ɑ + ɑ̃ t + n œ f	three tenstep nine	3 17 9	French
-40	French	FORTY	40	quarante	kaʁɑ̃t	k a -/t ʁ + ɑ̃ t	four tenstep	4 17	French
+20	French	TWENTY	20	vingt	vɛ̃	v ɛ̃ -/t	twenty	20	French
+21	French	TWENTY ONE	21	vingt et un	vɛ̃teœ̃	v ɛ̃ t + e + œ̃	twenty and one	20 18 1	French
+22	French	TWENTY TWO	22	vingt-deux	vɛ̃dø	v ɛ̃ t + d ø	twenty two	20 2	French
+23	French	TWENTY THREE	23	vingt-trois	vɛ̃tʁwɑ	v ɛ̃ t + t ʁ wɑ	twenty three	20 3	French
+24	French	TWENTY FOUR	24	vingt-quatre	vɛ̃tkatʁ	v ɛ̃ t + k a t ʁ	twenty four	20 4	French
+25	French	TWENTY FIVE	25	vingt-cinq	vɛ̃tsɛ̃k	v ɛ̃ t + s ɛ̃ k	twenty five	20 5	French
+26	French	TWENTY SIX	26	vingt-six	vɛ̃tsis	v ɛ̃ t + s i s	twenty six	20 6	French
+27	French	TWENTY SEVEN	27	vingt-sept	vɛ̃tsɛt	v ɛ̃ t + s ɛ t	twenty seven	20 7	French
+28	French	TWENTY EIGHT	28	vingt-huit	vɛ̃tɥit	v ɛ̃ t + ɥ i t	twenty eight	20 8	French
+29	French	TWENTY NINE	29	vingt-neuf	vɛ̃nœf	v ɛ̃ t + n œ f	twenty nine	20 9	French
+30	French	THIRTY	30	trente	tʁɑ̃t	t ʁ -/wɑ + ɑ̃ t	three tenstep	3 17	French
+31	French	THIRTY ONE	31	trente et un	tʁɑ̃teœ̃	t ʁ -/wɑ + ɑ̃ t + e + œ̃	three tenstep and one	3 17 18 1	French
+32	French	THIRTY TWO	32	trente-deux	tʁɑ̃tdø	t ʁ -/wɑ + ɑ̃ t + d ø	three tenstep two	3 17 2	French
+33	French	THIRTY THREE	33	trente-trois	tʁɑ̃ttʁwɑ	t ʁ -/wɑ + ɑ̃ t + t ʁ wɑ	three tenstep three	3 17 3	French
+34	French	THIRTY FOUR	34	trente-quatre	tʁɑ̃tkatʁ	t ʁ -/wɑ + ɑ̃ t + k a t ʁ	three tenstep four	3 17 4	French
+35	French	THIRTY FIVE	35	trente-cinq	tʁɑ̃tsɛ̃k	t ʁ -/wɑ + ɑ̃ t + s ɛ̃ k	three tenstep five	3 17 5	French
+36	French	THIRTY SIX	36	trente-six	tʁɑ̃tsis	t ʁ -/wɑ + ɑ̃ t + s i s	three tenstep six	3 17 6	French
+37	French	THIRTY SEVEN	37	trente-sept	tʁɑ̃tsɛt	t ʁ -/wɑ + ɑ̃ t + s ɛ t	three tenstep seven	3 17 7	French
+38	French	THIRTY EIGHT	38	trente-huit	tʁɑ̃tɥit	t ʁ -/wɑ + ɑ̃ t + ɥ i t	three tenstep eight	3 17 8	French
+39	French	THIRTY NINE	39	trente-neuf	tʁɑ̃tnœf	t ʁ -/wɑ + ɑ̃ t + n œ f	three tenstep nine	3 17 9	French
+40	French	FORTY	40	quarante	kaʁɑ̃t	k a -/t ʁ - + ɑ̃ t	four tenstep	4 17	French
+41	French	FORTY ONE	41	quarante et un	kaʁɑ̃teœ̃	k a -/t ʁ - + ɑ̃ t + e + œ̃	four tenstep and one	4 17 18 1	French
+42	French	FORTY TWO	42	quarante-deux	kaʁɑ̃tdø	k a -/t ʁ - + ɑ̃ t + d ø	four tenstep two	4 17 2	French
+43	French	FORTY THREE	43	quarante-trois	kaʁɑ̃tʁwɑ	k a -/t ʁ - + ɑ̃ -/t + t ʁ wɑ	four tenstep three	4 17 3	French
+44	French	FORTY FOUR	44	quarante-quatre	kaʁɑ̃tkatʁ	k a -/t ʁ - + ɑ̃ t + k a t ʁ	four tenstep four	4 17 4	French
+45	French	FORTY FIVE	45	quarante-cinq	kaʁɑ̃tsɛ̃k	k a -/t ʁ - + ɑ̃ t + s ɛ̃ k	four tenstep five	4 17 5	French
+46	French	FORTY SIX	46	quarante-six	kaʁɑ̃tsis	k a -/t ʁ - + ɑ̃ t + s i s	four tenstep six	4 17 6	French
+47	French	FORTY SEVEN	47	quarante-sept	kaʁɑ̃tsɛt	k a -/t ʁ - + ɑ̃ t + s ɛ t	four tenstep seven	4 17 7	French
+48	French	FORTY EIGHT	48	quarante-huit	kaʁɑ̃tɥit	k a -/t ʁ - + ɑ̃ t + ɥ i t	four tenstep eight	4 17 8	French
+49	French	FORTY NINE	49	quarante-neuf	kaʁɑ̃tnœf	k a -/t ʁ - + ɑ̃ t + n œ f	four tenstep nine	4 17 9	French
+50	French	FIFTY	50	cinquante	sɛ̃kɑ̃t	s ɛ̃ k + ɑ̃ t	five tenstep	5 17	French
+51	French	FIFTY ONE	51	cinquante et un	sɛ̃kɑ̃teœ̃	s ɛ̃ k + ɑ̃ t + e + œ̃	five tenstep and ?	5 17 18 1	French
+52	French	FIFTY TWO	52	cinquante-deux	sɛ̃kɑ̃tdø	s ɛ̃ k + ɑ̃ t + d ø	five tenstep two	5 17 2	French
+53	French	FIFTY THREE	53	cinquante-trois	sɛ̃kɑ̃tʁwɑ	s ɛ̃ k + ɑ̃ -/t + t ʁ wɑ	five tenstep three	5 17 3	French
+54	French	FIFTY FOUR	54	cinquante-quatre	sɛ̃kɑ̃tkatʁ	s ɛ̃ k + ɑ̃ t + k a t ʁ	five tenstep four	5 17 4	French
+55	French	FIFTY FIVE	55	cinquante-cinq	sɛ̃kɑ̃tsɛ̃k	s ɛ̃ k + ɑ̃ t + s ɛ̃ k	five tenstep five	5 17 5	French
+56	French	FIFTY SIX	56	cinquante-six	sɛ̃kɑ̃tsis	s ɛ̃ k + ɑ̃ t + s i s	five tenstep six	5 17 6	French
+57	French	FIFTY SEVEN	57	cinquante-sept	sɛ̃kɑ̃tsɛt	s ɛ̃ k + ɑ̃ t + s ɛ t	five tenstep seven	5 17 7	French
+58	French	FIFTY EIGHT	58	cinquante-huit	sɛ̃kɑ̃tɥit	s ɛ̃ k + ɑ̃ t + ɥ i t	five tenstep eight	5 17 8	French
+59	French	FIFTY NINE	59	cinquante-neuf	sɛ̃kɑ̃tnœf	s ɛ̃ k + ɑ̃ t + n œ f	five tenstep nine	5 17 9	French
+60	French	SIXTY	60	soixante	swasɑ̃t	s wa s + ɑ̃ t	six(2) tenstep	21 17	French
+61	French	SIXTY ONE	61	soixante et un	swasɑ̃teœ̃	s wa s + ɑ̃ t + e + œ̃	six(2) tenstep and ?	21 17 18 1	French
+62	French	SIXTY TWO	62	soixante-deux	swasɑ̃tdø	s wa s + ɑ̃ t + d ø	six(2) tenstep two	21 17 2	French
+63	French	SIXTY THREE	63	soixante-trois	swasɑ̃tʁwɑ	s wa s + ɑ̃ -/t + t ʁ wɑ	six(2) tenstep three	21 17 3	French
+64	French	SIXTY FOUR	64	soixante-quatre	swasɑ̃tkatʁ	s wa s + ɑ̃ t + k a t ʁ	six(2) tenstep four	21 17 4	French
+65	French	SIXTY FIVE	65	soixante-cinq	swasɑ̃tsɛ̃k	s wa s + ɑ̃ t + s ɛ̃ k	six(2) tenstep five	21 17 5	French
+66	French	SIXTY SIX	66	soixante-six	swasɑ̃tsis	s wa s + ɑ̃ t + s i s	six(2) tenstep six	21 17 6	French
+67	French	SIXTY SEVEN	67	soixante-sept	swasɑ̃tsɛt	s wa s + ɑ̃ t + s ɛ t	six(2) tenstep seven	21 17 7	French
+68	French	SIXTY EIGHT	68	soixante-huit	swasɑ̃tɥit	s wa s + ɑ̃ t + ɥ i t	six(2) tenstep eight	21 17 8	French
+69	French	SIXTY NINE	69	soixante-neuf	swasɑ̃tnœf	s wa s + ɑ̃ t + n œ f	six(2) tenstep nine	21 17 9	French
+70	French	SEVENTY	70	soixante-dix	swasɑ̃tdis	s wa s + ɑ̃ t + d i s	six(2) tenstep ten	21 17 10	French
+101	French	SEVENTY	70	septante	sɛtɑ̃t	s ɛ t + ɑ̃ t	seven tenstep	7 17	French
+71	French	SEVENTY ONE	71	soixante et onze	swasɑ̃tɔ̃z	s wa s + ɑ̃ t + ɔ̃ z	six(2) tenstep eleven	21 17 11	French
+72	French	SEVENTY TWO	72	soixante-douze	swasɑ̃tduz	s wa s + ɑ̃ t + d u z	six(2) tenstep twelve	21 17 12	French
+73	French	SEVENTY THREE	73	soixante-treize	swasɑ̃tʁɛz	s wa s + ɑ̃ -/t + t ʁ ɛ z	six(2) tenstep thirteen	21 17 13	French
+74	French	SEVENTY FOUR	74	soixante-quatorze	swasɑ̃tkatɔʁz	s wa s + ɑ̃ t + k a t ɔ ʁ z	six(2) tenstep fourteen	21 17 14	French
+75	French	SEVENTY FIVE	75	soixante-quinze	swasɑ̃tkɛ̃z	s wa s + ɑ̃ t + k ɛ̃ z	six(2) tenstep fifteen	21 17 15	French
+76	French	SEVENTY SIX	76	soixante-seize	swasɑ̃tsɛz	s wa s + ɑ̃ t + s ɛ z	six(2) tenstep sixteen	21 17 16	French
+77	French	SEVENTY SEVEN	77	soixante-dix-sept	swasɑ̃tdisɛt	s wa s + ɑ̃ t + d i -/s + s ɛ t	six(2) tenstep ten seven	21 17 10 7	French
+78	French	SEVENTY EIGHT	78	soixante-dix-huit	swasɑ̃tdizɥit	s wa s + ɑ̃ t + d i z/s + ɥ i t	six(2) tenstep ten eight	21 17 10 8	French
+79	French	SEVENTY NINE	79	soixante-dix-neuf	swasɑ̃tdiznœf	s wa s + ɑ̃ t + d i z/s + n œ f	six(2) tenstep ten nine	21 17 10 9	French
+80	French	EIGHTY	80	quatre-vingts	katʁəvɛ̃	k a t ʁ ə/- + v ɛ̃ -/t 	four twenty	4 20	French
+81	French	EIGHTY ONE	81	quatre-vingt-un	katʁəvɛ̃œ̃	k a t ʁ ə/- + v ɛ̃ -/t + œ̃	four twenty one	4 20 1	French
+82	French	EIGHTY TWO	82	quatre-vingt-deux	katʁəvɛ̃dø	k a t ʁ ə/- + v ɛ̃ -/t + d ø	four twenty two	4 20 2	French
+83	French	EIGHTY THREE	83	quatre-vingt-trois	katʁəvɛ̃tʁwɑ	k a t ʁ ə/- + v ɛ̃ -/t + t ʁ wɑ	four twenty three	4 20 3	French
+84	French	EIGHTY FOUR	84	quatre-vingt-quatre	katʁəvɛ̃katʁ	k a t ʁ ə/- + v ɛ̃ -/t + k a t ʁ	four twenty four	4 20 4	French
+85	French	EIGHTY FIVE	85	quatre-vingt-cinq	katʁəvɛ̃sɛ̃k	k a t ʁ ə/- + v ɛ̃ -/t + s ɛ̃ k	four twenty five	4 20 5	French
+86	French	EIGHTY SIX	86	quatre-vingt-six	katʁəvɛ̃sis	k a t ʁ ə/- + v ɛ̃ -/t + s i s	four twenty six	4 20 6	French
+87	French	EIGHTY SEVEN	87	quatre-vingt-sept	katʁəvɛ̃sɛt	k a t ʁ ə/- + v ɛ̃ -/t + s ɛ t	four twenty seven	4 20 7	French
+88	French	EIGHTY EIGHT	88	quatre-vingt-huit	katʁəvɛ̃ɥit	k a t ʁ ə/- + v ɛ̃ -/t + ɥ i t	four twenty eight	4 20 8	French
+89	French	EIGHTY NINE	89	quatre-vingt-neuf	katʁəvɛ̃nœf	k a t ʁ ə/- + v ɛ̃ -/t + n œ f	four twenty nine	4 20 9	French
+90	French	NINETY	90	quatre-vingt-dix	katʁəvɛ̃dis	k a t ʁ ə/- + v ɛ̃ -/t + d i s	four twenty ten	4 20 10	French
+91	French	NINETY ONE	91	quatre-vingt-onze	katʁəvɛ̃ɔ̃z	k a t ʁ ə/- + v ɛ̃ -/t + ɔ̃ z	four twenty eleven	4 20 11	French
+92	French	NINETY TWO	92	quatre-vingt-douze	katʁəvɛ̃duz	k a t ʁ ə/- + v ɛ̃ -/t + d u z	four twenty twelve	4 20 12	French
+93	French	NINETY THREE	93	quatre-vingt-treize	katʁəvɛ̃tʁɛz	k a t ʁ ə/- + v ɛ̃ -/t + t ʁ ɛ z	four twenty thirteen	4 20 13	French
+94	French	NINETY FOUR	94	quatre-vingt-quatorze	katʁəvɛ̃katɔʁz	k a t ʁ ə/- + v ɛ̃ -/t + k a t ɔ ʁ z	four twenty fourteen	4 20 14	French
+95	French	NINETY FIVE	95	quatre-vingt-quinze	katʁəvɛ̃kɛ̃z	k a t ʁ ə/- + v ɛ̃ -/t + k ɛ̃ z	four twenty fifteen	4 20 15	French
+96	French	NINETY SIX	96	quatre-vingt-seize	katʁəvɛ̃sɛz	k a t ʁ ə/- + v ɛ̃ -/t + s ɛ z	four twenty sixteen	4 20 16	French
+97	French	NINETY SEVEN	97	quatre-vingt-dix-sept	katʁəvɛ̃disɛt	k a t ʁ ə/- + v ɛ̃ -/t + d i -/s + s ɛ t	four twenty ten seven	4 20 10 7	French
+98	French	NINETY EIGHT	98	quatre-vingt-dix-huit	katʁəvɛ̃dizɥit	k a t ʁ ə/- + v ɛ̃ -/t + d i z/s + ɥ i t	four twenty ten eight	4 20 10 8	French
+99	French	NINETY NINE	99	quatre-vingt-dix-neuf	katʁəvɛ̃diznœf	k a t ʁ ə/- + v ɛ̃ -/t + d i z/s + n œ f	four twenty ten nine	4 20 10 9	French
+100	French	HUNDRED	100	cent	sɑ̃	s ɑ̃	hundred	19	French
+#@highlight=TOKENS
+#@sampa=TOKENS
+#@pinyin=
+#@css=menu:show|database:hide
+#@basics=COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NUMBER|SOURCE|TOKENS|VALUE
+#@_selected_doculects=French
+#@_selected_concepts=ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN|ELEVEN|TWELVE|THIRTEEN|FOURTEEN|FIFTEEN|SIXTEEN|SEVENTEEN|EIGHTEEN|NINETEEN|TWENTY|TWENTY ONE|TWENTY TWO|TWENTY THREE|TWENTY FOUR|TWENTY FIVE|TWENTY SIX|TWENTY SEVEN|TWENTY EIGHT|TWENTY NINE|THIRTY|THIRTY ONE|THIRTY TWO|THIRTY THREE|THIRTY FOUR|THIRTY FIVE|THIRTY SIX|THIRTY SEVEN|THIRTY EIGHT|THIRTY NINE|FORTY|FORTY ONE|FORTY TWO|FORTY THREE|FORTY FOUR|FORTY FIVE|FORTY SIX|FORTY SEVEN|FORTY EIGHT|FORTY NINE|FIFTY|FIFTY ONE|FIFTY TWO|FIFTY THREE|FIFTY FOUR|FIFTY FIVE|FIFTY SIX|FIFTY SEVEN|FIFTY EIGHT|FIFTY NINE|SIXTY|SIXTY ONE|SIXTY TWO|SIXTY THREE|SIXTY FOUR|SIXTY FIVE|SIXTY SIX|SIXTY SEVEN|SIXTY EIGHT|SIXTY NINE|SEVENTY|SEVENTY ONE|SEVENTY TWO|SEVENTY THREE|SEVENTY FOUR|SEVENTY FIVE|SEVENTY SIX|SEVENTY SEVEN|SEVENTY EIGHT|SEVENTY NINE|EIGHTY|EIGHTY ONE|EIGHTY TWO|EIGHTY THREE|EIGHTY FOUR|EIGHTY FIVE|EIGHTY SIX|EIGHTY SEVEN|EIGHTY EIGHT|EIGHTY NINE|NINETY|NINETY ONE|NINETY TWO|NINETY THREE|NINETY FOUR|NINETY FIVE|NINETY SIX|NINETY SEVEN|NINETY EIGHT|NINETY NINE|HUNDRED
+#@sorted_taxa=French
+#@sorted_concepts=ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN|ELEVEN|TWELVE|THIRTEEN|FOURTEEN|FIFTEEN|SIXTEEN|SEVENTEEN|EIGHTEEN|NINETEEN|TWENTY|TWENTY ONE|TWENTY TWO|TWENTY THREE|TWENTY FOUR|TWENTY FIVE|TWENTY SIX|TWENTY SEVEN|TWENTY EIGHT|TWENTY NINE|THIRTY|THIRTY ONE|THIRTY TWO|THIRTY THREE|THIRTY FOUR|THIRTY FIVE|THIRTY SIX|THIRTY SEVEN|THIRTY EIGHT|THIRTY NINE|FORTY|FORTY ONE|FORTY TWO|FORTY THREE|FORTY FOUR|FORTY FIVE|FORTY SIX|FORTY SEVEN|FORTY EIGHT|FORTY NINE|FIFTY|FIFTY ONE|FIFTY TWO|FIFTY THREE|FIFTY FOUR|FIFTY FIVE|FIFTY SIX|FIFTY SEVEN|FIFTY EIGHT|FIFTY NINE|SIXTY|SIXTY ONE|SIXTY TWO|SIXTY THREE|SIXTY FOUR|SIXTY FIVE|SIXTY SIX|SIXTY SEVEN|SIXTY EIGHT|SIXTY NINE|SEVENTY|SEVENTY ONE|SEVENTY TWO|SEVENTY THREE|SEVENTY FOUR|SEVENTY FIVE|SEVENTY SIX|SEVENTY SEVEN|SEVENTY EIGHT|SEVENTY NINE|EIGHTY|EIGHTY ONE|EIGHTY TWO|EIGHTY THREE|EIGHTY FOUR|EIGHTY FIVE|EIGHTY SIX|EIGHTY SEVEN|EIGHTY EIGHT|EIGHTY NINE|NINETY|NINETY ONE|NINETY TWO|NINETY THREE|NINETY FOUR|NINETY FIVE|NINETY SIX|NINETY SEVEN|NINETY EIGHT|NINETY NINE|HUNDRED
+#@display=filedisplay|glosses|settings
+#@missing_marker=Ø
+#@separator=	
+#@gap_marker=-
+#@formatter=false
+#@root_formatter=COGIDS
+#@note_formatter=undefined
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=french-copy.tsv
+#@navbar=true
+#@_morphology_mode=full
