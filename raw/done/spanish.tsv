@@ -1,41 +1,100 @@
 ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
-1	Spanish	ONE	1	uno	uno	u n + o	one mask_flex	1 23	OpenDictData2025span
+1	Spanish	ONE	1	uno	uno	u n + o	one mask_flex	1 18	OpenDictData2025span
 2	Spanish	TWO	2	dos	dos	d/ð o s	two	2	OpenDictData2025span
 3	Spanish	THREE	3	tres	tɾes	t ɾ e s	three	3	OpenDictData2025span
-4	Spanish	FOUR	4	cuatro	kwatɾo	k w a t ɾ o	four	4	OpenDictData2025span
+4	Spanish	FOUR	4	cuatro	kwatɾo	k wa t ɾ o	four	4	OpenDictData2025span
 5	Spanish	FIVE	5	cinco	θiŋko	θ i ŋ k o	five	5	OpenDictData2025span
-6	Spanish	SIX	6	seis	seis	s e i s	six	6	OpenDictData2025span
-7	Spanish	SEVEN	7	siete	sjete	s j e t e	seven	7	OpenDictData2025span
+6	Spanish	SIX	6	seis	seis	s ei s	six	6	OpenDictData2025span
+7	Spanish	SEVEN	7	siete	sjete	s je t e	seven	7	OpenDictData2025span
 8	Spanish	EIGHT	8	ocho	otʃo	o tʃ o	eight	8	OpenDictData2025span
-9	Spanish	NINE	9	nueve	nweβe	n w e β e	nine	9	OpenDictData2025span
-10	Spanish	TEN	10	diez	djeθ	d j e θ	ten	10	OpenDictData2025span
+9	Spanish	NINE	9	nueve	nweβe	n we β e	nine	9	OpenDictData2025span
+10	Spanish	TEN	10	diez	djeθ	d je θ	ten	10	OpenDictData2025span
 11	Spanish	ELEVEN	11	once	onθe	o n θ e	eleven	11	OpenDictData2025span
 12	Spanish	TWELVE	12	doce	doθe	d o θ e	twelve	12	OpenDictData2025span
 13	Spanish	THIRTEEN	13	trece	tɾeθe	t ɾ e θ e	thirteen	13	OpenDictData2025span
 14	Spanish	FOURTEEN	14	catorce	katoɾθe	k a t o ɾ θ e	fourteen	14	OpenDictData2025span
 15	Spanish	FIFTEEN	15	quince	kinθe	k i n θ e	fifteen	15	OpenDictData2025span
-16	Spanish	SIXTEEN	16	dieciséis	djeθiseis	d j e θ + i + s e i s	ten and six	10 21 6	OpenDictData2025span
-17	Spanish	SEVENTEEN	17	diecisiete	djeθisjete	d j e θ + i + s j e t e	ten and seven	10 21 7	OpenDictData2025span
-18	Spanish	EIGHTEEN	18	dieciocho	djeθiotʃo	d j e θ + i + o tʃ o	ten and eight	10 21 8	OpenDictData2025span
-19	Spanish	NINETEEN	19	diecinueve	djeθinweβe	d j e θ + i + n w e β e	ten and nine	10 21 9	OpenDictData2025span
-20	Spanish	TWENTY	20	veinte	beinte	b e i n t e	twenty	20	OpenDictData2025span
-21	Spanish	TWENTY ONE	21	veintiuno	beintjuno	b e i n t -/e + j/i + u n + o	twenty and one mask_flex	20 21 1 23	OpenDictData2025span
-22	Spanish	TWENTY TWO	22	veintidós	beinti'ðos	b e i n t -/e + i + ð o s	twenty and two	20 21 2	OpenDictData2025span
-23	Spanish	TWENTY THREE	23	veintitrés	beintitɾes	b e i n t -/e + i + t ɾ e s	twenty and three	20 21 3	OpenDictData2025span
-24	Spanish	TWENTY FOUR	24	veinticuatro	beintikwatɾo	b e i n t -/e + i + k w a t ɾ o	twenty and four	20 21 4	OpenDictData2025span
-25	Spanish	TWENTY FIVE	25	veinticinco	beintiθiŋko	b e i n t -/e + i + θ i ŋ k o	twenty and five	20 21 5	OpenDictData2025span
-26	Spanish	TWENTY SIX	26	veintiséis	beinti'seis	b e i n t -/e + i + s e i s	twenty and six	20 21 6	OpenDictData2025span
-27	Spanish	TWENTY SEVEN	27	veintisiete	beintisjete	b e i n t -/e + i + s j e t e	twenty and seven	20 21 7	OpenDictData2025span
-28	Spanish	TWENTY EIGHT	28	veintiocho	beintiotʃo	b e i n t -/e + i + o tʃ o	twenty and eight	20 21 8	OpenDictData2025span
-29	Spanish	TWENTY NINE	29	veintinueve	beintinweβe	b e i n t -/e + i + n w e β e	twenty and nine	20 21 9	OpenDictData2025span
-30	Spanish	THIRTY	30	treinta	tɾeinta	t ɾ e -/s + i/e n t a	three tenstep	3 19	OpenDictData2025span
-31	Spanish	THIRTY ONE	31	treinta y uno	tɾeintaiuno	t ɾ e -/s + i/e n t a + i + u n + o	three tenstep and one mask_flex	3 19 21 1 23	OpenDictData2025span;Manczak1985
-32	Spanish	THIRTY TWO	32	treinta y dos	tɾeintaiðos	t ɾ e -/s + i/e n t a + i + ð o s	three tenstep and two	3 19 21 2	OpenDictData2025span;Manczak1985
-33	Spanish	THIRTY THREE	33	treinta y tres	tɾeintaitɾes	t ɾ e -/s + i/e n t a + i + t ɾ e s	three tenstep and three	3 19 21 3	OpenDictData2025span;Manczak1985
-34	Spanish	THIRTY FOUR	34	treinta y cuatro	tɾeintaikwatɾo	t ɾ e -/s + i/e n t a + i + k w a t ɾ o	three tenstep and four	3 19 21 4	OpenDictData2025span;Manczak1985
-35	Spanish	THIRTY FIVE	35	treinta y cinco	tɾeintaiθiŋko	t ɾ e -/s + i/e n t a + i + θ i ŋ k o	three tenstep and five	3 19 21 5	OpenDictData2025span;Manczak1985
-36	Spanish	THIRTY SIX	36	treinta y seis	tɾeintaiseis	t ɾ e -/s + i/e n t a + i + s e i s	three tenstep and six	3 19 21 6	OpenDictData2025span;Manczak1985
-37	Spanish	THIRTY SEVEN	37	treinta y siete	tɾeintaisjete	t ɾ e -/s + i/e n t a + i + s j e t e	three tenstep and seven	3 19 21 7	OpenDictData2025span;Manczak1985
-38	Spanish	THIRTY EIGHT	38	treinta y ocho	tɾeintaiotʃo	t ɾ e -/s + i/e n t a + i + o tʃ o	three tenstep and eight	3 19 21 8	OpenDictData2025span;Manczak1985
-39	Spanish	THIRTY NINE	39	treinta y nueve	tɾeintainweβe	t ɾ e -/s + i/e n t a + i + n w e β e	three tenstep and nine	3 19 21 9	OpenDictData2025span;Manczak1985
-40	Spanish	FORTY	40	cuarenta	kwaɾenta	k w a -/t ɾ -/o + e n t a	four tenstep	4 19	OpenDictData2025span
+16	Spanish	SIXTEEN	16	dieciséis	djeθiseis	d je θ + i + s ei s	ten and six	10 16 6	OpenDictData2025span
+17	Spanish	SEVENTEEN	17	diecisiete	djeθisjete	d je θ + i + s je t e	ten and seven	10 16 7	OpenDictData2025span
+18	Spanish	EIGHTEEN	18	dieciocho	djeθiotʃo	d je θ + i + o tʃ o	ten and eight	10 16 8	OpenDictData2025span
+19	Spanish	NINETEEN	19	diecinueve	djeθinweβe	d je θ + i + n we β e	ten and nine	10 16 9	OpenDictData2025span
+20	Spanish	TWENTY	20	veinte	beinte	b ei n t e	twenty	20	OpenDictData2025span
+21	Spanish	TWENTY ONE	21	veintiuno	beintjuno	b ei n t -/e + j/i + u n + o	twenty and one mask_flex	20 16 1 18	OpenDictData2025span
+22	Spanish	TWENTY TWO	22	veintidós	beinti'ðos	b ei n t -/e + i + ð o s	twenty and two	20 16 2	OpenDictData2025span
+23	Spanish	TWENTY THREE	23	veintitrés	beintitɾes	b ei n t -/e + i + t ɾ e s	twenty and three	20 16 3	OpenDictData2025span
+24	Spanish	TWENTY FOUR	24	veinticuatro	beintikwatɾo	b ei n t -/e + i + k wa t ɾ o	twenty and four	20 16 4	OpenDictData2025span
+25	Spanish	TWENTY FIVE	25	veinticinco	beintiθiŋko	b ei n t -/e + i + θ i ŋ k o	twenty and five	20 16 5	OpenDictData2025span
+26	Spanish	TWENTY SIX	26	veintiséis	beinti'seis	b ei n t -/e + i + s ei s	twenty and six	20 16 6	OpenDictData2025span
+27	Spanish	TWENTY SEVEN	27	veintisiete	beintisjete	b ei n t -/e + i + s je t e	twenty and seven	20 16 7	OpenDictData2025span
+28	Spanish	TWENTY EIGHT	28	veintiocho	beintiotʃo	b ei n t -/e + i + o tʃ o	twenty and eight	20 16 8	OpenDictData2025span
+29	Spanish	TWENTY NINE	29	veintinueve	beintinweβe	b ei n t -/e + i + n we β e	twenty and nine	20 16 9	OpenDictData2025span
+30	Spanish	THIRTY	30	treinta	tɾeinta	t ɾ e -/s + i/e n t a	three tenstep	3 17	OpenDictData2025span
+31	Spanish	THIRTY ONE	31	treinta y uno	tɾeintajuno	t ɾ e -/s + i/e n t a + j/i + u n + o	three tenstep and one mask_flex	3 17 16 1 18	OpenDictData2025span;Manczak1985
+32	Spanish	THIRTY TWO	32	treinta y dos	tɾeintaiðos	t ɾ e -/s + i/e n t a + i + ð o s	three tenstep and two	3 17 16 2	OpenDictData2025span;Manczak1985
+33	Spanish	THIRTY THREE	33	treinta y tres	tɾeintaitɾes	t ɾ e -/s + i/e n t a + i + t ɾ e s	three tenstep and three	3 17 16 3	OpenDictData2025span;Manczak1985
+34	Spanish	THIRTY FOUR	34	treinta y cuatro	tɾeintaikwatɾo	t ɾ e -/s + i/e n t a + i + k wa t ɾ o	three tenstep and four	3 17 16 4	OpenDictData2025span;Manczak1985
+35	Spanish	THIRTY FIVE	35	treinta y cinco	tɾeintaiθiŋko	t ɾ e -/s + i/e n t a + i + θ i ŋ k o	three tenstep and five	3 17 16 5	OpenDictData2025span;Manczak1985
+36	Spanish	THIRTY SIX	36	treinta y seis	tɾeintaiseis	t ɾ e -/s + i/e n t a + i + s ei s	three tenstep and six	3 17 16 6	OpenDictData2025span;Manczak1985
+37	Spanish	THIRTY SEVEN	37	treinta y siete	tɾeintaisjete	t ɾ e -/s + i/e n t a + i + s je t e	three tenstep and seven	3 17 16 7	OpenDictData2025span;Manczak1985
+38	Spanish	THIRTY EIGHT	38	treinta y ocho	tɾeintajotʃo	t ɾ e -/s + i/e n t a + j/i + o tʃ o	three tenstep and eight	3 17 16 8	OpenDictData2025span;Manczak1985
+39	Spanish	THIRTY NINE	39	treinta y nueve	tɾeintainweβe	t ɾ e -/s + i/e n t a + i + n we β e	three tenstep and nine	3 17 16 9	OpenDictData2025span;Manczak1985
+40	Spanish	FORTY	40	cuarenta	kwaɾenta	k wa -/t ɾ -/o + e n t a	four tenstep	4 17	OpenDictData2025span
+41	Spanish	FORTY ONE	41	cuarenta y uno	kwaɾentajuno	k wa -/t ɾ -/o + e n t a + j/i + u n + o	four tenstep and one mask_flex	4 17 16 1 18	OpenDictData2025span;Manczak1985
+42	Spanish	FORTY TWO	42	cuarenta y dos	kwaɾentaiðos	k wa -/t ɾ -/o + e n t a + i + ð o s	four tenstep and two	4 17 16 2	OpenDictData2025span;Manczak1985
+43	Spanish	FORTY THREE	43	cuarenta y tres	kwaɾentaitɾes	k wa -/t ɾ -/o + e n t a + i + t ɾ e s	four tenstep and three	4 17 16 3	OpenDictData2025span;Manczak1985
+44	Spanish	FORTY FOUR	44	cuarenta y cuatro	kwaɾentaikwatɾo	k wa -/t ɾ -/o + e n t a + i + k wa t ɾ o	four tenstep and four	4 17 16 4	OpenDictData2025span;Manczak1985
+45	Spanish	FORTY FIVE	45	cuarenta y cinco	kwaɾentaiθiŋko	k wa -/t ɾ -/o + e n t a + i + θ i ŋ k o	four tenstep and five	4 17 16 5	OpenDictData2025span;Manczak1985
+46	Spanish	FORTY SIX	46	cuarenta y seis	kwaɾentaiseis	k wa -/t ɾ -/o + e n t a + i + s ei s	four tenstep and six	4 17 16 6	OpenDictData2025span;Manczak1985
+47	Spanish	FORTY SEVEN	47	cuarenta y siete	kwaɾentaisjete	k wa -/t ɾ -/o + e n t a + i + s je t e	four tenstep and seven	4 17 16 7	OpenDictData2025span;Manczak1985
+48	Spanish	FORTY EIGHT	48	cuarenta y ocho	kwaɾentajotʃo	k wa -/t ɾ -/o + e n t a + j/i + o tʃ o	four tenstep and eight	4 17 16 8	OpenDictData2025span;Manczak1985
+49	Spanish	FORTY NINE	49	cuarenta y nueve	kwaɾentainweβe	k wa -/t ɾ -/o + e n t a + i + n we β e	four tenstep and nine	4 17 16 9	OpenDictData2025span;Manczak1985
+50	Spanish	FIFTY	50	cincuenta	θiŋkwenta	θ i ŋ k w/o + e n t a	five tenstep	5 17	OpenDictData2025span;Manczak1985
+51	Spanish	FIFTY ONE	51	cincuenta y uno	θiŋkwentajuno	θ i ŋ k w/o + e n t a + j/i + u n + o	five tenstep and one mask_flex	5 17 16 1 18	OpenDictData2025span;Manczak1985
+52	Spanish	FIFTY TWO	52	cincuenta y dos	θiŋkwentaiðos	θ i ŋ k w/o + e n t a + i + ð o s	five tenstep and two	5 17 16 2	OpenDictData2025span;Manczak1985
+53	Spanish	FIFTY THREE	53	cincuenta y tres	θiŋkwentaitɾes	θ i ŋ k w/o + e n t a + i + t ɾ e s	five tenstep and three	5 17 16 3	OpenDictData2025span;Manczak1985
+54	Spanish	FIFTY FOUR	54	cincuenta y cuatro	θiŋkwentaikwatɾo	θ i ŋ k w/o + e n t a + i + k wa t ɾ o	five tenstep and four	5 17 16 4	OpenDictData2025span;Manczak1985
+55	Spanish	FIFTY FIVE	55	cincuenta y cinco	θiŋkwentaiθiŋko	θ i ŋ k w/o + e n t a + i + θ i ŋ k o	five tenstep and five	5 17 16 5	OpenDictData2025span;Manczak1985
+56	Spanish	FIFTY SIX	56	cincuenta y seis	θiŋkwentaiseis	θ i ŋ k w/o + e n t a + i + s ei s	five tenstep and six	5 17 16 6	OpenDictData2025span;Manczak1985
+57	Spanish	FIFTY SEVEN	57	cincuenta y siete	θiŋkwentaisjete	θ i ŋ k w/o + e n t a + i + s je t e	five tenstep and seven	5 17 16 7	OpenDictData2025span;Manczak1985
+58	Spanish	FIFTY EIGHT	58	cincuenta y ocho	θiŋkwentajotʃo	θ i ŋ k w/o + e n t a + j/i + o tʃ o	five tenstep and eight	5 17 16 8	OpenDictData2025span;Manczak1985
+59	Spanish	FIFTY NINE	59	cincuenta y nueve	θiŋkwentainweβe	θ i ŋ k w/o + e n t a + i + n we β e	five tenstep and nine	5 17 16 9	OpenDictData2025span;Manczak1985
+60	Spanish	SIXTY	60	sesenta	sesenta	s e/ei s + e n t a	six tenstep	6 17	OpenDictData2025span;Manczak1985
+61	Spanish	SIXTY ONE	61	sesenta y uno	sesentajuno	s e/ei s + e n t a + j/i + u n + o	six tenstep and one mask_flex	6 17 16 1 18	OpenDictData2025span;Manczak1985
+62	Spanish	SIXTY TWO	62	sesenta y dos	sesentaiðos	s e/ei s + e n t a + i + ð o s	six tenstep and two	6 17 16 2	OpenDictData2025span;Manczak1985
+63	Spanish	SIXTY THREE	63	sesenta y tres	sesentaitɾes	s e/ei s + e n t a + i + t ɾ e s	six tenstep and three	6 17 16 3	OpenDictData2025span;Manczak1985
+64	Spanish	SIXTY FOUR	64	sesenta y cuatro	sesentaikwatɾo	s e/ei s + e n t a + i + k wa t ɾ o	six tenstep and four	6 17 16 4	OpenDictData2025span;Manczak1985
+65	Spanish	SIXTY FIVE	65	sesenta y cinco	sesentaiθiŋko	s e/ei s + e n t a + i + θ i ŋ k o	six tenstep and five	6 17 16 5	OpenDictData2025span;Manczak1985
+66	Spanish	SIXTY SIX	66	sesenta y seis	sesentaiseis	s e/ei s + e n t a + i + s ei s	six tenstep and six	6 17 16 6	OpenDictData2025span;Manczak1985
+67	Spanish	SIXTY SEVEN	67	sesenta y siete	sesentaisjete	s e/ei s + e n t a + i + s je t e	six tenstep and seven	6 17 16 7	OpenDictData2025span;Manczak1985
+68	Spanish	SIXTY EIGHT	68	sesenta y ocho	sesentajotʃo	s e/ei s + e n t a + j/i + o tʃ o	six tenstep and eight	6 17 16 8	OpenDictData2025span;Manczak1985
+69	Spanish	SIXTY NINE	69	sesenta y nueve	sesentainweβe	s e/ei s + e n t a + i + n we β e	six tenstep and nine	6 17 16 9	OpenDictData2025span;Manczak1985
+70	Spanish	SEVENTY	70	setenta	setenta	s -/je t -/e + e n t a	seven tenstep	7 17	OpenDictData2025span;Manczak1985
+71	Spanish	SEVENTY ONE	71	setenta y uno	setentajuno	s -/je t -/e + e n t a + j/i + u n + o	seven tenstep and one mask_flex	7 17 16 1 18	OpenDictData2025span;Manczak1985
+72	Spanish	SEVENTY TWO	72	setenta y dos	setentaiðos	s -/je t -/e + e n t a + i + ð o s	seven tenstep and two	7 17 16 2	OpenDictData2025span;Manczak1985
+73	Spanish	SEVENTY THREE	73	setenta y tres	setentaitɾes	s -/je t -/e + e n t a + i + t ɾ e s	seven tenstep and three	7 17 16 3	OpenDictData2025span;Manczak1985
+74	Spanish	SEVENTY FOUR	74	setenta y cuatro	setentaikwatɾo	s -/je t -/e + e n t a + i + k wa t ɾ o	seven tenstep and four	7 17 16 4	OpenDictData2025span;Manczak1985
+75	Spanish	SEVENTY FIVE	75	setenta y cinco	setentaiθiŋko	s -/je t -/e + e n t a + i + θ i ŋ k o	seven tenstep and five	7 17 16 5	OpenDictData2025span;Manczak1985
+76	Spanish	SEVENTY SIX	76	setenta y seis	setentaiseis	s -/je t -/e + e n t a + i + s ei s	seven tenstep and six	7 17 16 6	OpenDictData2025span;Manczak1985
+77	Spanish	SEVENTY SEVEN	77	setenta y siete	setentaisjete	s -/je t -/e + e n t a + i + s je t e	seven tenstep and seven	7 17 16 7	OpenDictData2025span;Manczak1985
+78	Spanish	SEVENTY EIGHT	78	setenta y ocho	setentajotʃo	s -/je t -/e + e n t a + j/i + o tʃ o	seven tenstep and eight	7 17 16 8	OpenDictData2025span;Manczak1985
+79	Spanish	SEVENTY NINE	79	setenta y nueve	setentainweβe	s -/je t -/e + e n t a + i + n we β e	seven tenstep and nine	7 17 16 9	OpenDictData2025span;Manczak1985
+80	Spanish	EIGHTY	80	ochenta	otʃenta	o tʃ -/o + e n t a	eight tenstep	8 17	OpenDictData2025span;Manczak1985
+81	Spanish	EIGHTY ONE	81	ochenta y uno	otʃentajuno	o tʃ -/o + e n t a + j/i + u n + o	eight tenstep and one mask_flex	8 17 16 1 18	OpenDictData2025span;Manczak1985
+82	Spanish	EIGHTY TWO	82	ochenta y dos	otʃentaiðos	o tʃ -/o + e n t a + i + ð o s	eight tenstep and two	8 17 16 2	OpenDictData2025span;Manczak1985
+83	Spanish	EIGHTY THREE	83	ochenta y tres	otʃentaitɾes	o tʃ -/o + e n t a + i + t ɾ e s	eight tenstep and three	8 17 16 3	OpenDictData2025span;Manczak1985
+84	Spanish	EIGHTY FOUR	84	ochenta y cuatro	otʃentaikwatɾo	o tʃ -/o + e n t a + i + k wa t ɾ o	eight tenstep and four	8 17 16 4	OpenDictData2025span;Manczak1985
+85	Spanish	EIGHTY FIVE	85	ochenta y cinco	otʃentaiθiŋko	o tʃ -/o + e n t a + i + θ i ŋ k o	eight tenstep and five	8 17 16 5	OpenDictData2025span;Manczak1985
+86	Spanish	EIGHTY SIX	86	ochenta y seis	otʃentaiseis	o tʃ -/o + e n t a + i + s ei s	eight tenstep and six	8 17 16 6	OpenDictData2025span;Manczak1985
+87	Spanish	EIGHTY SEVEN	87	ochenta y siete	otʃentaisjete	o tʃ -/o + e n t a + i + s je t e	eight tenstep and seven	8 17 16 7	OpenDictData2025span;Manczak1985
+88	Spanish	EIGHTY EIGHT	88	ochenta y ocho	otʃentajotʃo	o tʃ -/o + e n t a + j/i + o tʃ o	eight tenstep and eight	8 17 16 8	OpenDictData2025span;Manczak1985
+89	Spanish	EIGHTY NINE	89	ochenta y nueve	otʃentainweβe	o tʃ -/o + e n t a + i + n we β e	eight tenstep and nine	8 17 16 9	OpenDictData2025span;Manczak1985
+90	Spanish	NINETY	90	noventa	noβenta	n o/we β -/e + e n t a	nine tenstep	9 17	OpenDictData2025span;Manczak1985
+91	Spanish	NINETY ONE	91	noventa y uno	noβentajuno	n o/we β -/e + e n t a + j/i + u n + o	nine tenstep and one mask_flex	9 17 16 1 18	OpenDictData2025span;Manczak1985
+92	Spanish	NINETY TWO	92	noventa y dos	noβentaiðos	n o/we β -/e + e n t a + i + ð o s	nine tenstep and two	9 17 16 2	OpenDictData2025span;Manczak1985
+93	Spanish	NINETY THREE	93	noventa y tres	noβentaitɾes	n o/we β -/e + e n t a + i + t ɾ e s	nine tenstep and three	9 17 16 3	OpenDictData2025span;Manczak1985
+94	Spanish	NINETY FOUR	94	noventa y cuatro	noβentaikwatɾo	n o/we β -/e + e n t a + i + k wa t ɾ o	nine tenstep and four	9 17 16 4	OpenDictData2025span;Manczak1985
+95	Spanish	NINETY FIVE	95	noventa y cinco	noβentaiθiŋko	n o/we β -/e + e n t a + i + θ i ŋ k o	nine tenstep and five	9 17 16 5	OpenDictData2025span;Manczak1985
+96	Spanish	NINETY SIX	96	noventa y seis	noβentaiseis	n o/we β -/e + e n t a + i + s ei s	nine tenstep and six	9 17 16 6	OpenDictData2025span;Manczak1985
+97	Spanish	NINETY SEVEN	97	noventa y siete	noβentaisjete	n o/we β -/e + e n t a + i + s je t e	nine tenstep and seven	9 17 16 7	OpenDictData2025span;Manczak1985
+98	Spanish	NINETY EIGHT	98	noventa y ocho	noβentajotʃo	n o/we β -/e + e n t a + j/i + o tʃ o	nine tenstep and eight	9 17 16 8	OpenDictData2025span;Manczak1985
+99	Spanish	NINETY NINE	99	noventa y nueve	noβentainweβe	n o/we β -/e + e n t a + i + n we β e	nine tenstep and nine	9 17 16 9	OpenDictData2025span;Manczak1985
