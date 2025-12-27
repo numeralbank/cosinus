@@ -61,6 +61,7 @@ class Dataset(pylexibank.Dataset):
 
     def cmd_makecldf(self, args):
         sources = {}
+        language_by_file = {}
 
         args.writer.add_sources()
         args.writer.add_languages()
@@ -76,11 +77,15 @@ class Dataset(pylexibank.Dataset):
 
         for language in self.languages:
             sources[language["ID"]] = language["Sources"].split(";")
+            language_by_file[language["FileName"]] = language["ID"]
+
+        
 
         for file in sorted(self.raw_dir.glob("done/*.tsv")):
+            args.log.info("Processing {0}".format(file.name))
             table = self.raw_dir.read_csv(file, delimiter="\t", dicts=True)
 
-            language = table[0]["DOCULECT"]
+            language = language_by_file[file.name[:-4]] 
             errors, warnings = validate_language(table, sources[language])
             for warning in warnings:
                 args.log.warning(warning)
@@ -102,16 +107,17 @@ class Dataset(pylexibank.Dataset):
                     if "ᴇ" in t:
                         t = t.replace("ᴇ", "e̞")
                     tokens += [t]
+
                 try:
                     args.writer.add_form_with_segments(
-                        Language_ID=data["DOCULECT"],
+                        Language_ID=language,
                         Parameter_ID=slug(data["CONCEPT"]),
                         Value=data["FORM"],
                         Form=data["FORM"],
                         Segments=" + ".join(surface(tokens)).split(" "),
                         Morphemes=data["MORPHEMES"].split(" "),
                         Cognates=data["COGIDS"].split(" "),
-                        Source=sources[data["DOCULECT"]],
+                        Source=sources[language],
                         Surface_Form=surface(tokens),
                         Underlying_Form=underlying(data["TOKENS"].split()),
                         Tokens=data["TOKENS"].split(),
@@ -145,7 +151,7 @@ def validate_language(data, sources_for_lang):
         # print(row['DOCULECT'], row["CONCEPT"], row["TOKENS"])
         # normalize morphemes and extract underlying forms
         tokens = row["TOKENS"]
-        morphemes = tokens.split("+")
+        morphemes = tokens.split(" + ")
         morphemes = [x.strip().split() for x in morphemes]
         for i, morpheme in enumerate(morphemes):
             for j, token in enumerate(morpheme):

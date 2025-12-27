@@ -1,7 +1,5 @@
 # CLDF Dataset presenting Rubehn et al.'s "Compositional Structures in Numeral Systems Across Languages" from 2025
 
-[![CLDF validation](https://github.com/numeralbank/cosinus//workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/cosinus//actions?query=workflow%3ACLDF-validation)
-
 ## How to cite
 
 If you use these data please cite
@@ -22,22 +20,21 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/numeralbank/cosinus//workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/cosinus//actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 95%](https://img.shields.io/badge/BIPA-95%25-green.svg "BIPA: 95%")
+![BIPA: 96%](https://img.shields.io/badge/BIPA-96%25-green.svg "BIPA: 96%")
 ![CLTS SoundClass: 96%](https://img.shields.io/badge/CLTS%20SoundClass-96%25-green.svg "CLTS SoundClass: 96%")
 
-- **Varieties:** 35 (linked to 35 different Glottocodes)
+- **Varieties:** 42 (linked to 41 different Glottocodes)
 - **Concepts:** 99 (linked to 99 different Concepticon concept sets)
-- **Lexemes:** 2,659
-- **Sources:** 53
-- **Synonymy:** 1.10
+- **Lexemes:** 3,464
+- **Sources:** 62
+- **Synonymy:** 1.11
 - **Invalid lexemes:** 0
-- **Tokens:** 29,719
-- **Segments:** 193 (9 BIPA errors, 8 CLTS sound class errors, 181 CLTS modified)
-- **Inventory size (avg):** 23.80
+- **Tokens:** 40,030
+- **Segments:** 211 (9 BIPA errors, 8 CLTS sound class errors, 199 CLTS modified)
+- **Inventory size (avg):** 23.93
 
 # Contributors
 

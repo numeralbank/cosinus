@@ -12,7 +12,7 @@ Italian,Italian,ital1282,,,,,,,Dellert2020;Manczak1985;Comrie2011,italian,10
 Spanish,Spanish,stan1288,,,,,,,OpenDictData2025span;Manczak1985,spanish,10
 Telugu,Telugu,telu1262,,,,,,,Telugu,telugu,10
 Paraguayan_Guarani,Paraguayan Guarani,para1311,,,,,,,ParaguayanGuarani1;ParaguayanGuarani2,paraguayan-guarani,5;10
-Cavinena,Cavineña,cavi1250,,,,,,,Cavineña1;Cavineña2,cavineña,5;10
+Cavinena,Cavineña,cavi1250,,,,,,,Cavineña1;Cavineña2,cavinena,5;10
 Wayuu,Wayuu,wayu1243,,,,,,,Wayuu1;Wayuu2;Wayuu3;Wayuu4;Wayuu5,wayuu,10
 Mapudungun,Mapudungun,mapu1245,,,,,,,Mapudungun1;Mapudungun2;Mapudungun3;Mapudungun4,mapudungun,10
 Huallaga_Quechua,Huallaga Quechua,hual1241,,,,,,,HuallagaQuechua1;HuallagaQuechua2,huallaga-quechua,10
@@ -34,3 +34,10 @@ Siraiki,Siraiki,sera1259,,,,,,,BashirConnersSiraiki2019,sera1259,NA
 Uyghur,Uyghur,uigh1240,,,,,,,wiktionary,uigh1240,NA
 Classical_Syriac,Classical Syriac,clas1252,,,,,,,Noeldeke1904SyriacGrammar;Robinson2013SyriacGrammar,clas1252,10
 Modern_Hebrew,Modern Hebrew,hebr1245,,,,,,,Etzion2020ModernHebrew,hebr1245,10
+Geez,Ge'ez,geez1241,,,,,,,Lambdin1978Geez,geez1241,10
+LishanaDeni,Lishana Deni,lish1247,,,,,,,Mutzafi2008LishanaDeni,lish1247,10
+Amharic,Amharic,amha1245,,,,,,,Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic,amha1245,10
+Barwar_Neo-Aramaic,Barwar Neo-Aramaic,assy1241,,,,,,,Khan2008,assy1241,
+Iraqw,Iraqw,iraq1241,,,,,,,Mous1993,iraq1241,
+Kumzari,kumz1235,uigh1240,,,,,,,WalAnonby2015,kumz1235,
+Pashto,Pashto,pash1269,,,,,,,FoxTwist2014,pash1269,
