@@ -1,0 +1,100 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
+1	Kumzari	one	yak	j a k	one	j a k	1		WalAnonby2015
+2	Kumzari	two	dō	d oː	two	d oː	2		WalAnonby2015
+3	Kumzari	three	sō	s oː	three	s oː	3		WalAnonby2015
+4	Kumzari	four	čār	ʧ aː r	four	ʧ aː r	4		WalAnonby2015
+5	Kumzari	five	panj	p a n ʤ	five	p a n ʤ	5		WalAnonby2015
+6	Kumzari	six	šaš	ʃ a ʃ	six	ʃ a ʃ	6		WalAnonby2015
+7	Kumzari	seven	aft	a f t/- 	seven	a f t	7		WalAnonby2015
+8	Kumzari	eight	ašt	aː j a ʃ t	eight	a ʃ t	8		WalAnonby2015
+9	Kumzari	nine	nā	n aː	nine	n aː	9		WalAnonby2015
+10	Kumzari	ten	da	d/dˠ a	ten	d a	10		WalAnonby2015
+11	Kumzari	eleven	yāẓda	j aː zˠ + d/dˠ a	one2 ten	j aː zˠ + d a	1 10		WalAnonby2015
+12	Kumzari	twelve	dwāẓda	d w aː zˠ + d/dˠ a	two3 ten	d w aː zˠ + d a	2 10		WalAnonby2015
+13	Kumzari	thirteen	sēẓda	s eː zˠ + d/dˠ a	three3 ten	s eː zˠ + d a	3 10		WalAnonby2015
+14	Kumzari	fourteen	čārda	ʧ aː r + d/dˠ a	four ten	ʧ aː r + d a	4 10		WalAnonby2015
+15	Kumzari	fifteen	pānḍa	p aː n + d/dˠ a	five2 ten	p aː n + dˠ a	5 10	Emphatic dˠa allomorph found only after nasals; plausibly phonologically predictable, though grammar does not refer to any synchronic alternations between emphatic and non-emphatic Cs	WalAnonby2015
+16	Kumzari	sixteen	šānḍa	ʃ aː n + d/dˠ a	six2 ten	ʃ aː n + dˠ a	6 10		WalAnonby2015
+17	Kumzari	seventeen	afda	a f t/-  + d/dˠ a	seven ten	a f + d a	7 10		WalAnonby2015
+18	Kumzari	eighteen	āyda	aː j a ʃ t + d/dˠ a	eight ten	aː j + d a	8 10		WalAnonby2015
+19	Kumzari	nineteen	nōẓda	n oː zˠ + d/dˠ a	nine2 ten	n oː zˠ + d a	9 10		WalAnonby2015
+20	Kumzari	twenty	bīs	b iː s	twenty	b iː s	20		WalAnonby2015
+21	Kumzari	twenty one	yakbīs	j a k + b iː s	one twenty	j a k + b iː s	1 20		WalAnonby2015
+22	Kumzari	twenty two	dibīs	d i + b iː s	two2 twenty	d i + b iː s	2 20		WalAnonby2015
+23	Kumzari	twenty three	sibīs	s i + b iː s	three2 twenty	s i + b iː s	3 20		WalAnonby2015
+24	Kumzari	twenty four	čārbīs	ʧ aː r + b iː s	four twenty	ʧ aː r + b iː s	4 20		WalAnonby2015
+25	Kumzari	twenty five	panjbīs	p a n ʤ + b iː s	five twenty	p a n ʤ + b iː s	5 20		WalAnonby2015
+26	Kumzari	twenty six	šašbīs	ʃ a ʃ + b iː s	six twenty	ʃ a ʃ + b iː s	6 20		WalAnonby2015
+27	Kumzari	twenty seven	aftbīs	a f t/-  + b iː s	seven twenty	a f t + b iː s	7 20		WalAnonby2015
+28	Kumzari	twenty eight	aštbīs	aː j a ʃ t + b iː s	eight twenty	a ʃ t + b iː s	8 20		WalAnonby2015
+29	Kumzari	twenty nine	nābīs	n aː + b iː s	nine twenty	n aː + b iː s	9 20		WalAnonby2015
+30	Kumzari	thirty 	sī	s iː	thirty	s iː	21		WalAnonby2015
+31	Kumzari	thirty one	yaksī	j a k + s iː	one thirty	j a k + s iː	1 21		WalAnonby2015
+32	Kumzari	thirty two	disī	d i + s iː	two2 thirty	d i + s iː	2 21		WalAnonby2015
+33	Kumzari	thirty three	sisī	s i + s iː	three2 thirty	s i + s iː	3 21		WalAnonby2015
+34	Kumzari	thirty four	čārsī	ʧ aː r + s iː	four thirty	ʧ aː r + s iː	4 21		WalAnonby2015
+35	Kumzari	thirty five	panjsī	p a n ʤ + s iː	five thirty	p a n ʤ + s iː	5 21		WalAnonby2015
+36	Kumzari	thirty six	šašsī	ʃ a ʃ + s iː	six thirty	ʃ a ʃ + s iː	6 21		WalAnonby2015
+37	Kumzari	thirty seven	aftsī	a f t/-  + s iː	seven thirty	a f t + s iː	7 21		WalAnonby2015
+38	Kumzari	thirty eight	aštsī	aː j a ʃ t + s iː	eight thirty	a ʃ t + s iː	8 21		WalAnonby2015
+39	Kumzari	thirty nine	nāsī	n aː + s iː	nine thirty	n aː + s iː	9 21		WalAnonby2015
+40	Kumzari	forty 	čil	ʧ i l	forty	ʧ i l	22		WalAnonby2015
+41	Kumzari	forty one	yakčil	j a k + ʧ i l	one forty	j a k + ʧ i l	1 22		WalAnonby2015
+42	Kumzari	forty two	dičil	d i + ʧ i l	two2 forty	d i + ʧ i l	2 22		WalAnonby2015
+43	Kumzari	forty three	sičil	s i + ʧ i l	three2 forty	s i + ʧ i l	3 22		WalAnonby2015
+44	Kumzari	forty four	čārčil	ʧ aː r + ʧ i l	four forty	ʧ aː r + ʧ i l	4 22		WalAnonby2015
+45	Kumzari	forty five	panjčil	p a n ʤ + ʧ i l	five forty	p a n ʤ + ʧ i l	5 22		WalAnonby2015
+46	Kumzari	forty six	šaščil	ʃ a ʃ + ʧ i l	six forty	ʃ a ʃ + ʧ i l	6 22		WalAnonby2015
+47	Kumzari	forty seven	aftčil	a f t/-  + ʧ i l	seven forty	a f t + ʧ i l	7 22		WalAnonby2015
+48	Kumzari	forty eight	aštčil	aː j a ʃ t + ʧ i l	eight forty	a ʃ t + ʧ i l	8 22		WalAnonby2015
+49	Kumzari	forty nine	nāčil	n aː + ʧ i l	nine forty	n aː + ʧ i l	9 22		WalAnonby2015
+50	Kumzari	fifty 	murr	m u r r	fifty	m u r r	23		WalAnonby2015
+51	Kumzari	fifty one	murr u yak	m u r r + u + j a k	fifty and one	m u r r + u + j a k	23 29 1		WalAnonby2015
+52	Kumzari	fifty two	murr u dō	m u r r + u + d oː	fifty and two	m u r r + u + d oː	23 29 2		WalAnonby2015
+53	Kumzari	fifty three	murr u sō	m u r r + u + s oː	fifty and three	m u r r + u + s oː	23 29 3		WalAnonby2015
+54	Kumzari	fifty four	murr u čār	m u r r + u + ʧ aː r	fifty and four	m u r r + u + ʧ aː r	23 29 4		WalAnonby2015
+55	Kumzari	fifty five	murr u panj	m u r r + u + p a n ʤ	fifty and five	m u r r + u + p a n ʤ	23 29 5		WalAnonby2015
+56	Kumzari	fifty six	murr u šaš	m u r r + u + ʃ a ʃ	fifty and six	m u r r + u + ʃ a ʃ	23 29 6		WalAnonby2015
+57	Kumzari	fifty seven	murr u aft	m u r r + u + a f t/- 	fifty and seven	m u r r + u + a f t	23 29 7		WalAnonby2015
+58	Kumzari	fifty eight	murr u ašt	m u r r + u + aː j a ʃ t	fifty and eight	m u r r + u + a ʃ t	23 29 8		WalAnonby2015
+59	Kumzari	fifty nine	murr u nā	m u r r + u + n aː	fifty and nine	m u r r + u + n aː	23 29 9		WalAnonby2015
+60	Kumzari	sixty 	šaṣ	ʃ a sˠ	sixty	ʃ a sˠ	24		WalAnonby2015
+61	Kumzari	sixty one	šaṣ u yak	ʃ a sˠ + u + j a k	sixty and one	ʃ a sˠ + u + j a k	24 29 1		WalAnonby2015
+62	Kumzari	sixty two	šaṣ u dō	ʃ a sˠ + u + d oː	sixty and two	ʃ a sˠ + u + d oː	24 29 2		WalAnonby2015
+63	Kumzari	sixty three	šaṣ u sō	ʃ a sˠ + u + s oː	sixty and three	ʃ a sˠ + u + s oː	24 29 3		WalAnonby2015
+64	Kumzari	sixty four	šaṣ u čār	ʃ a sˠ + u + ʧ aː r	sixty and four	ʃ a sˠ + u + ʧ aː r	24 29 4		WalAnonby2015
+65	Kumzari	sixty five	šaṣ u panj	ʃ a sˠ + u + p a n ʤ	sixty and five	ʃ a sˠ + u + p a n ʤ	24 29 5		WalAnonby2015
+66	Kumzari	sixty six	šaṣ u šaš	ʃ a sˠ + u + ʃ a ʃ	sixty and six	ʃ a sˠ + u + ʃ a ʃ	24 29 6		WalAnonby2015
+67	Kumzari	sixty seven	šaṣ u aft	ʃ a sˠ + u + a f t/- 	sixty and seven	ʃ a sˠ + u + a f t	24 29 7		WalAnonby2015
+68	Kumzari	sixty eight	šaṣ u ašt	ʃ a sˠ + u + aː j a ʃ t	sixty and eight	ʃ a sˠ + u + a ʃ t	24 29 8		WalAnonby2015
+69	Kumzari	sixty nine	šaṣ u nā	ʃ a sˠ + u + n aː	sixty and nine	ʃ a sˠ + u + n aː	24 29 9		WalAnonby2015
+70	Kumzari	seventy 	aftad	a f t a d	seventy	a f t a d	25		WalAnonby2015
+71	Kumzari	seventy one	aftad u yak	a f t a d + u + j a k	seventy and one	a f t a d + u + j a k	25 29 1		WalAnonby2015
+72	Kumzari	seventy two	aftad u dō	a f t a d + u + d oː	seventy and two	a f t a d + u + d oː	25 29 2		WalAnonby2015
+73	Kumzari	seventy three	aftad u sō	a f t a d + u + s oː	seventy and three	a f t a d + u + s oː	25 29 3		WalAnonby2015
+74	Kumzari	seventy four	aftad u čār	a f t a d + u + ʧ aː r	seventy and four	a f t a d + u + ʧ aː r	25 29 4		WalAnonby2015
+75	Kumzari	seventy five	aftad u panj	a f t a d + u + p a n ʤ	seventy and five	a f t a d + u + p a n ʤ	25 29 5		WalAnonby2015
+76	Kumzari	seventy six	aftad u šaš	a f t a d + u + ʃ a ʃ	seventy and six	a f t a d + u + ʃ a ʃ	25 29 6		WalAnonby2015
+77	Kumzari	seventy seven	aftad u aft	a f t a d + u + a f t/- 	seventy and seven	a f t a d + u + a f t	25 29 7		WalAnonby2015
+78	Kumzari	seventy eight	aftad u ašt	a f t a d + u + aː j a ʃ t	seventy and eight	a f t a d + u + a ʃ t	25 29 8		WalAnonby2015
+79	Kumzari	seventy nine	aftad u nā	a f t a d + u + n aː	seventy and nine	a f t a d + u + n aː	25 29 9		WalAnonby2015
+80	Kumzari	eighty 	aštad	a ʃ t a d	eighty	a ʃ t a d	26		WalAnonby2015
+81	Kumzari	eighty one	aštad u yak	a ʃ t a d + u + j a k	eighty and one	a ʃ t a d + u + j a k	26 29 1		WalAnonby2015
+82	Kumzari	eighty two	aštad u dō	a ʃ t a d + u + d oː	eighty and two	a ʃ t a d + u + d oː	26 29 2		WalAnonby2015
+83	Kumzari	eighty three	aštad u sō	a ʃ t a d + u + s oː	eighty and three	a ʃ t a d + u + s oː	26 29 3		WalAnonby2015
+84	Kumzari	eighty four	aštad u čār	a ʃ t a d + u + ʧ aː r	eighty and four	a ʃ t a d + u + ʧ aː r	26 29 4		WalAnonby2015
+85	Kumzari	eighty five	aštad u panj	a ʃ t a d + u + p a n ʤ	eighty and five	a ʃ t a d + u + p a n ʤ	26 29 5		WalAnonby2015
+86	Kumzari	eighty six	aštad u šaš	a ʃ t a d + u + ʃ a ʃ	eighty and six	a ʃ t a d + u + ʃ a ʃ	26 29 6		WalAnonby2015
+87	Kumzari	eighty seven	aštad u aft	a ʃ t a d + u + a f t/- 	eighty and seven	a ʃ t a d + u + a f t	26 29 7		WalAnonby2015
+88	Kumzari	eighty eight	aštad u ašt	a ʃ t a d + u + aː j a ʃ t	eighty and eight	a ʃ t a d + u + a ʃ t	26 29 8		WalAnonby2015
+89	Kumzari	eighty nine	aštad u nā	a ʃ t a d + u + n aː	eighty and nine	a ʃ t a d + u + n aː	26 29 9		WalAnonby2015
+90	Kumzari	ninety 	nōwud	n oː w u d	ninety	n oː w u d	27		WalAnonby2015
+91	Kumzari	ninety one	nōwud u yak	n oː w u d + u + j a k	ninety and one	n oː w u d + u + j a k	27 29 1		WalAnonby2015
+92	Kumzari	ninety two	nōwud u dō	n oː w u d + u + d oː	ninety and two	n oː w u d + u + d oː	27 29 2		WalAnonby2015
+93	Kumzari	ninety three	nōwud u sō	n oː w u d + u + s oː	ninety and three	n oː w u d + u + s oː	27 29 3		WalAnonby2015
+94	Kumzari	ninety four	nōwud u čār	n oː w u d + u + ʧ aː r	ninety and four	n oː w u d + u + ʧ aː r	27 29 4		WalAnonby2015
+95	Kumzari	ninety five	nōwud u panj	n oː w u d + u + p a n ʤ	ninety and five	n oː w u d + u + p a n ʤ	27 29 5		WalAnonby2015
+96	Kumzari	ninety six	nōwud u šaš	n oː w u d + u + ʃ a ʃ	ninety and six	n oː w u d + u + ʃ a ʃ	27 29 6		WalAnonby2015
+97	Kumzari	ninety seven	nōwud u aft	n oː w u d + u + a f t/- 	ninety and seven	n oː w u d + u + a f t	27 29 7		WalAnonby2015
+98	Kumzari	ninety eight	nōwud u ašt	n oː w u d + u + aː j a ʃ t	ninety and eight	n oː w u d + u + a ʃ t	27 29 8		WalAnonby2015
+99	Kumzari	ninety nine	nōwud u nā	n oː w u d + u + n aː	ninety and nine	n oː w u d + u + n aː	27 29 9		WalAnonby2015
