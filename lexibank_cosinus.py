@@ -168,7 +168,10 @@ def validate_language(data, sources_for_lang):
         glosses = row["MORPHEMES"].split()
 
         if not (len(morphemes) == len(glosses) == len(cogids)):
-            msg = f"Mismatching number of morphemes for form {row['FORM']} in language {language}."
+            msg = f"Mismatching number of morphemes for form «{row['FORM']}»"
+            msg += f" or glosses «{row["MORPHEMES"]}»"
+            msg += f" or cognates «{" ".join([str(c) for c in cogids])}»"
+            msg += f" in language {language} (concept {row["CONCEPT"]})."
             errors.append(msg)
 
         for id, morpheme in zip(cogids, morphemes):
