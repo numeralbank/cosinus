@@ -11,11 +11,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 10	tigr1270	eight	samān	samaːn	s a m aː n	eight	s a m aː n	9		Elias2014Tigre
 11	tigr1270	nine	səʿ	sɨʕ	s ɨ ʕ	nine	s ɨ ʕ	10		Elias2014Tigre
 12	tigr1270	ten	ʿasər	ʕasɨr	ʕ a s ɨ r	ten	ʕ a s ɨ r	11		Elias2014Tigre
-13	tigr1270	eleven	ʿasər wa-ʾoro 	ʕasɨr wa-ʔoro 	ʕ a s ɨ r + w a + ʔ o r o	ten and one1	ʕ a s ɨ r + w a + ʔ o r o	11 13 1		Elias2014Tigre
+13	tigr1270	eleven	ʿasər wa-ʾoro	ʕasɨr wa-ʔoro	ʕ a s ɨ r + w a + ʔ o r o	ten and one1	ʕ a s ɨ r + w a + ʔ o r o	11 13 1		Elias2014Tigre
 14	tigr1270	eleven	ʿasər wa-ḥatta	ʕasɨr wa-ħatta	ʕ a s ɨ r + w a + ħ a t t a	ten and one2	ʕ a s ɨ r + w a + ħ a t t a	11 13 2		Elias2014Tigre
 15	tigr1270	twelve	ʿasər wa-kəlʾot	ʕasɨr wa-kɨlʔot	ʕ a s ɨ r + w a + k ɨ l ʔ -/e + o t	ten and two suff_gender	ʕ a s ɨ r + w a + k ɨ l ʔ -/e + o t	11 13 3 12		Elias2014Tigre
 16	tigr1270	twelve	ʿasər wa-kəlʾe	ʕasɨr wa-kɨlʔe	ʕ a s ɨ r + w a + k ɨ l ʔ e	ten and two	ʕ a s ɨ r + w a + k ɨ l ʔ e	11 13 3		Elias2014Tigre
-17	tigr1270	thirteen	ʿasər wa-salas 	ʕasɨr wa-salas 	ʕ a s ɨ r + w a + s a l a s	ten and three	ʕ a s ɨ r + w a + s a l a s	11 13 4		Elias2014Tigre
+17	tigr1270	thirteen	ʿasər wa-salas	ʕasɨr wa-salas	ʕ a s ɨ r + w a + s a l a s	ten and three	ʕ a s ɨ r + w a + s a l a s	11 13 4		Elias2014Tigre
 18	tigr1270	fourteen	ʿasər wa-ʾarbaʿ	ʕasɨr wa-ʔarbaʕ	ʕ a s ɨ r + w a + ʔ a r b a ʕ	ten and four	ʕ a s ɨ r + w a + ʔ a r b a ʕ	11 13 5		Elias2014Tigre
 19	tigr1270	fifteen	ʿasər wa-ḥaməs	ʕasɨr wa-ħamɨs	ʕ a s ɨ r + w a + ħ a m ɨ s	ten and five	ʕ a s ɨ r + w a + ħ a m ɨ s	11 13 6		Elias2014Tigre
 20	tigr1270	sixteen	ʿasər wa-səs	ʕasɨr wa-sɨs	ʕ a s ɨ r + w a + s ɨ s	ten and six	ʕ a s ɨ r + w a + s ɨ s	11 13 7		Elias2014Tigre
@@ -27,7 +27,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 26	tigr1270	twenty one	ʿəšrin wa-ḥatta	ʕɨʃrin wa-ħatta	ʕ ɨ ʃ r + i n + w a + ħ a t t a	twenty ty and one2	ʕ ɨ ʃ r + i n + w a + ħ a t t a	20 14 13 2		Elias2014Tigre
 27	tigr1270	twenty two	ʿəšrin wa-kəlʾot	ʕɨʃrin wa-kɨlʔot	ʕ ɨ ʃ r + i n + w a + k ɨ l ʔ -/e + o t	twenty ty and two suff_gender	ʕ ɨ ʃ r + i n + w a + k ɨ l ʔ -/e + o t	20 14 13 3 12		Elias2014Tigre
 28	tigr1270	twenty two	ʿəšrin wa-kəlʾe	ʕɨʃrin wa-kɨlʔe	ʕ ɨ ʃ r + i n + w a + k ɨ l ʔ e	twenty ty and two	ʕ ɨ ʃ r + i n + w a + k ɨ l ʔ e	20 14 13 3		Elias2014Tigre
-29	tigr1270	twenty three	ʿəšrin wa-salas 	ʕɨʃrin wa-salas 	ʕ ɨ ʃ r + i n + w a + s a l a s	twenty ty and three	ʕ ɨ ʃ r + i n + w a + s a l a s	20 14 13 4		Elias2014Tigre
+29	tigr1270	twenty three	ʿəšrin wa-salas	ʕɨʃrin wa-salas	ʕ ɨ ʃ r + i n + w a + s a l a s	twenty ty and three	ʕ ɨ ʃ r + i n + w a + s a l a s	20 14 13 4		Elias2014Tigre
 30	tigr1270	twenty four	ʿəšrin wa-ʾarbaʿ	ʕɨʃrin wa-ʔarbaʕ	ʕ ɨ ʃ r + i n + w a + ʔ a r b a ʕ	twenty ty and four	ʕ ɨ ʃ r + i n + w a + ʔ a r b a ʕ	20 14 13 5		Elias2014Tigre
 31	tigr1270	twenty five	ʿəšrin wa-ḥaməs	ʕɨʃrin wa-ħamɨs	ʕ ɨ ʃ r + i n + w a + ħ a m ɨ s	twenty ty and five	ʕ ɨ ʃ r + i n + w a + ħ a m ɨ s	20 14 13 6		Elias2014Tigre
 32	tigr1270	twenty six	ʿəšrin wa-səs	ʕɨʃrin wa-sɨs	ʕ ɨ ʃ r + i n + w a + s ɨ s	twenty ty and six	ʕ ɨ ʃ r + i n + w a + s ɨ s	20 14 13 7		Elias2014Tigre
@@ -39,7 +39,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 38	tigr1270	thirty one	talatin wa-ḥatta	talatin wa-ħatta	t a l a t + i n + w a + ħ a t t a	thirty ty and one2	t a l a t + i n + w a + ħ a t t a	30 14 13 2		Elias2014Tigre
 39	tigr1270	thirty two	talatin wa-kəlʾot	talatin wa-kɨlʔot	t a l a t + i n + w a + k ɨ l ʔ -/e + o t	thirty ty and two suff_gender	t a l a t + i n + w a + k ɨ l ʔ -/e + o t	30 14 13 3 12		Elias2014Tigre
 40	tigr1270	thirty two	talatin wa-kəlʾe	talatin wa-kɨlʔe	t a l a t + i n + w a + k ɨ l ʔ e	thirty ty and two	t a l a t + i n + w a + k ɨ l ʔ e	30 14 13 3		Elias2014Tigre
-41	tigr1270	thirty three	talatin wa-salas 	talatin wa-salas 	t a l a t + i n + w a + s a l a s	thirty ty and three	t a l a t + i n + w a + s a l a s	30 14 13 4		Elias2014Tigre
+41	tigr1270	thirty three	talatin wa-salas	talatin wa-salas	t a l a t + i n + w a + s a l a s	thirty ty and three	t a l a t + i n + w a + s a l a s	30 14 13 4		Elias2014Tigre
 42	tigr1270	thirty four	talatin wa-ʾarbaʿ	talatin wa-ʔarbaʕ	t a l a t + i n + w a + ʔ a r b a ʕ	thirty ty and four	t a l a t + i n + w a + ʔ a r b a ʕ	30 14 13 5		Elias2014Tigre
 43	tigr1270	thirty five	talatin wa-ḥaməs	talatin wa-ħamɨs	t a l a t + i n + w a + ħ a m ɨ s	thirty ty and five	t a l a t + i n + w a + ħ a m ɨ s	30 14 13 6		Elias2014Tigre
 44	tigr1270	thirty six	talatin wa-səs	talatin wa-sɨs	t a l a t + i n + w a + s ɨ s	thirty ty and six	t a l a t + i n + w a + s ɨ s	30 14 13 7		Elias2014Tigre
@@ -51,7 +51,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 50	tigr1270	forty one	ʾarbəʿin wa-ḥatta	ʔarbɨʕin wa-ħatta	ʔ a r b ɨ ʕ + i n + w a + ħ a t t a	forty ty and one2	ʔ a r b ɨ ʕ + i n + w a + ħ a t t a	40 14 13 2		Elias2014Tigre
 51	tigr1270	forty two	ʾarbəʿin wa-kəlʾot	ʔarbɨʕin wa-kɨlʔot	ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ -/e + o t	forty ty and two suff_gender	ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ -/e + o t	40 14 13 3 12		Elias2014Tigre
 52	tigr1270	forty two	ʾarbəʿin wa-kəlʾe	ʔarbɨʕin wa-kɨlʔe	ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ e	forty ty and two	ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ e	40 14 13 3		Elias2014Tigre
-53	tigr1270	forty three	ʾarbəʿin wa-salas 	ʔarbɨʕin wa-salas 	ʔ a r b ɨ ʕ + i n + w a + s a l a s	forty ty and three	ʔ a r b ɨ ʕ + i n + w a + s a l a s	40 14 13 4		Elias2014Tigre
+53	tigr1270	forty three	ʾarbəʿin wa-salas	ʔarbɨʕin wa-salas	ʔ a r b ɨ ʕ + i n + w a + s a l a s	forty ty and three	ʔ a r b ɨ ʕ + i n + w a + s a l a s	40 14 13 4		Elias2014Tigre
 54	tigr1270	forty four	ʾarbəʿin wa-ʾarbaʿ	ʔarbɨʕin wa-ʔarbaʕ	ʔ a r b ɨ ʕ + i n + w a + ʔ a r b a ʕ	forty ty and four	ʔ a r b ɨ ʕ + i n + w a + ʔ a r b a ʕ	40 14 13 5		Elias2014Tigre
 55	tigr1270	forty five	ʾarbəʿin wa-ḥaməs	ʔarbɨʕin wa-ħamɨs	ʔ a r b ɨ ʕ + i n + w a + ħ a m ɨ s	forty ty and five	ʔ a r b ɨ ʕ + i n + w a + ħ a m ɨ s	40 14 13 6		Elias2014Tigre
 56	tigr1270	forty six	ʾarbəʿin wa-səs	ʔarbɨʕin wa-sɨs	ʔ a r b ɨ ʕ + i n + w a + s ɨ s	forty ty and six	ʔ a r b ɨ ʕ + i n + w a + s ɨ s	40 14 13 7		Elias2014Tigre
@@ -63,7 +63,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 62	tigr1270	fifty one	ḥamsin wa-ḥatta	ħamsin wa-ħatta	ħ a m s + i n + w a + ħ a t t a	fifty ty and one2	ħ a m s + i n + w a + ħ a t t a	50 14 13 2		Elias2014Tigre
 63	tigr1270	fifty two	ḥamsin wa-kəlʾot	ħamsin wa-kɨlʔot	ħ a m s + i n + w a + k ɨ l ʔ -/e + o t	fifty ty and two suff_gender	ħ a m s + i n + w a + k ɨ l ʔ -/e + o t	50 14 13 3 12		Elias2014Tigre
 64	tigr1270	fifty two	ḥamsin wa-kəlʾe	ħamsin wa-kɨlʔe	ħ a m s + i n + w a + k ɨ l ʔ e	fifty ty and two	ħ a m s + i n + w a + k ɨ l ʔ e	50 14 13 3		Elias2014Tigre
-65	tigr1270	fifty three	ḥamsin wa-salas 	ħamsin wa-salas 	ħ a m s + i n + w a + s a l a s	fifty ty and three	ħ a m s + i n + w a + s a l a s	50 14 13 4		Elias2014Tigre
+65	tigr1270	fifty three	ḥamsin wa-salas	ħamsin wa-salas	ħ a m s + i n + w a + s a l a s	fifty ty and three	ħ a m s + i n + w a + s a l a s	50 14 13 4		Elias2014Tigre
 66	tigr1270	fifty four	ḥamsin wa-ʾarbaʿ	ħamsin wa-ʔarbaʕ	ħ a m s + i n + w a + ʔ a r b a ʕ	fifty ty and four	ħ a m s + i n + w a + ʔ a r b a ʕ	50 14 13 5		Elias2014Tigre
 67	tigr1270	fifty five	ḥamsin wa-ḥaməs	ħamsin wa-ħamɨs	ħ a m s + i n + w a + ħ a m ɨ s	fifty ty and five	ħ a m s + i n + w a + ħ a m ɨ s	50 14 13 6		Elias2014Tigre
 68	tigr1270	fifty six	ḥamsin wa-səs	ħamsin wa-sɨs	ħ a m s + i n + w a + s ɨ s	fifty ty and six	ħ a m s + i n + w a + s ɨ s	50 14 13 7		Elias2014Tigre
@@ -75,7 +75,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 74	tigr1270	sixty one	səttin wa-ḥatta	sɨttin wa-ħatta	s ɨ t t + i n + w a + ħ a t t a	sixty ty and one2	s ɨ t t + i n + w a + ħ a t t a	60 14 13 2		Elias2014Tigre
 75	tigr1270	sixty two	səttin wa-kəlʾot	sɨttin wa-kɨlʔot	s ɨ t t + i n + w a + k ɨ l ʔ -/e + o t	sixty ty and two suff_gender	s ɨ t t + i n + w a + k ɨ l ʔ -/e + o t	60 14 13 3 12		Elias2014Tigre
 76	tigr1270	sixty two	səttin wa-kəlʾe	sɨttin wa-kɨlʔe	s ɨ t t + i n + w a + k ɨ l ʔ e	sixty ty and two	s ɨ t t + i n + w a + k ɨ l ʔ e	60 14 13 3		Elias2014Tigre
-77	tigr1270	sixty three	səttin wa-salas 	sɨttin wa-salas 	s ɨ t t + i n + w a + s a l a s	sixty ty and three	s ɨ t t + i n + w a + s a l a s	60 14 13 4		Elias2014Tigre
+77	tigr1270	sixty three	səttin wa-salas	sɨttin wa-salas	s ɨ t t + i n + w a + s a l a s	sixty ty and three	s ɨ t t + i n + w a + s a l a s	60 14 13 4		Elias2014Tigre
 78	tigr1270	sixty four	səttin wa-ʾarbaʿ	sɨttin wa-ʔarbaʕ	s ɨ t t + i n + w a + ʔ a r b a ʕ	sixty ty and four	s ɨ t t + i n + w a + ʔ a r b a ʕ	60 14 13 5		Elias2014Tigre
 79	tigr1270	sixty five	səttin wa-ḥaməs	sɨttin wa-ħamɨs	s ɨ t t + i n + w a + ħ a m ɨ s	sixty ty and five	s ɨ t t + i n + w a + ħ a m ɨ s	60 14 13 6		Elias2014Tigre
 80	tigr1270	sixty six	səttin wa-səs	sɨttin wa-sɨs	s ɨ t t + i n + w a + s ɨ s	sixty ty and six	s ɨ t t + i n + w a + s ɨ s	60 14 13 7		Elias2014Tigre
@@ -87,7 +87,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 86	tigr1270	seventy one	sabʿin wa-ḥatta	sabʕin wa-ħatta	s a b ʕ + i n + w a + ħ a t t a	seventy ty and one2	s a b ʕ + i n + w a + ħ a t t a	70 14 13 2		Elias2014Tigre
 87	tigr1270	seventy two	sabʿin wa-kəlʾot	sabʕin wa-kɨlʔot	s a b ʕ + i n + w a + k ɨ l ʔ -/e + o t	seventy ty and two suff_gender	s a b ʕ + i n + w a + k ɨ l ʔ -/e + o t	70 14 13 3 12		Elias2014Tigre
 88	tigr1270	seventy two	sabʿin wa-kəlʾe	sabʕin wa-kɨlʔe	s a b ʕ + i n + w a + k ɨ l ʔ e	seventy ty and two	s a b ʕ + i n + w a + k ɨ l ʔ e	70 14 13 3		Elias2014Tigre
-89	tigr1270	seventy three	sabʿin wa-salas 	sabʕin wa-salas 	s a b ʕ + i n + w a + s a l a s	seventy ty and three	s a b ʕ + i n + w a + s a l a s	70 14 13 4		Elias2014Tigre
+89	tigr1270	seventy three	sabʿin wa-salas	sabʕin wa-salas	s a b ʕ + i n + w a + s a l a s	seventy ty and three	s a b ʕ + i n + w a + s a l a s	70 14 13 4		Elias2014Tigre
 90	tigr1270	seventy four	sabʿin wa-ʾarbaʿ	sabʕin wa-ʔarbaʕ	s a b ʕ + i n + w a + ʔ a r b a ʕ	seventy ty and four	s a b ʕ + i n + w a + ʔ a r b a ʕ	70 14 13 5		Elias2014Tigre
 91	tigr1270	seventy five	sabʿin wa-ḥaməs	sabʕin wa-ħamɨs	s a b ʕ + i n + w a + ħ a m ɨ s	seventy ty and five	s a b ʕ + i n + w a + ħ a m ɨ s	70 14 13 6		Elias2014Tigre
 92	tigr1270	seventy six	sabʿin wa-səs	sabʕin wa-sɨs	s a b ʕ + i n + w a + s ɨ s	seventy ty and six	s a b ʕ + i n + w a + s ɨ s	70 14 13 7		Elias2014Tigre
@@ -99,7 +99,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 98	tigr1270	eighty one	tamānin wa-ḥatta	tamaːnin wa-ħatta	t a m aː n + i n + w a + ħ a t t a	eighty ty and one2	t a m aː n + i n + w a + ħ a t t a	80 14 13 2		Elias2014Tigre
 99	tigr1270	eighty two	tamānin wa-kəlʾot	tamaːnin wa-kɨlʔot	t a m aː n + i n + w a + k ɨ l ʔ -/e + o t	eighty ty and two suff_gender	t a m aː n + i n + w a + k ɨ l ʔ -/e + o t	80 14 13 3 12		Elias2014Tigre
 100	tigr1270	eighty two	tamānin wa-kəlʾe	tamaːnin wa-kɨlʔe	t a m aː n + i n + w a + k ɨ l ʔ e	eighty ty and two	t a m aː n + i n + w a + k ɨ l ʔ e	80 14 13 3		Elias2014Tigre
-101	tigr1270	eighty three	tamānin wa-salas 	tamaːnin wa-salas 	t a m aː n + i n + w a + s a l a s	eighty ty and three	t a m aː n + i n + w a + s a l a s	80 14 13 4		Elias2014Tigre
+101	tigr1270	eighty three	tamānin wa-salas	tamaːnin wa-salas	t a m aː n + i n + w a + s a l a s	eighty ty and three	t a m aː n + i n + w a + s a l a s	80 14 13 4		Elias2014Tigre
 102	tigr1270	eighty four	tamānin wa-ʾarbaʿ	tamaːnin wa-ʔarbaʕ	t a m aː n + i n + w a + ʔ a r b a ʕ	eighty ty and four	t a m aː n + i n + w a + ʔ a r b a ʕ	80 14 13 5		Elias2014Tigre
 103	tigr1270	eighty five	tamānin wa-ḥaməs	tamaːnin wa-ħamɨs	t a m aː n + i n + w a + ħ a m ɨ s	eighty ty and five	t a m aː n + i n + w a + ħ a m ɨ s	80 14 13 6		Elias2014Tigre
 104	tigr1270	eighty six	tamānin wa-səs	tamaːnin wa-sɨs	t a m aː n + i n + w a + s ɨ s	eighty ty and six	t a m aː n + i n + w a + s ɨ s	80 14 13 7		Elias2014Tigre
@@ -111,31 +111,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 110	tigr1270	ninety one	təsʿin wa-ḥatta	tɨsʕin wa-ħatta	t ɨ s ʕ + i n + w a + ħ a t t a	ninety ty and one2	t ɨ s ʕ + i n + w a + ħ a t t a	90 14 13 2		Elias2014Tigre
 111	tigr1270	ninety two	təsʿin wa-kəlʾot	tɨsʕin wa-kɨlʔot	t ɨ s ʕ + i n + w a + k ɨ l ʔ -/e + o t	ninety ty and two suff_gender	t ɨ s ʕ + i n + w a + k ɨ l ʔ -/e + o t	90 14 13 3 12		Elias2014Tigre
 112	tigr1270	ninety two	təsʿin wa-kəlʾe	tɨsʕin wa-kɨlʔe	t ɨ s ʕ + i n + w a + k ɨ l ʔ e	ninety ty and two	t ɨ s ʕ + i n + w a + k ɨ l ʔ e	90 14 13 3		Elias2014Tigre
-113	tigr1270	ninety three	təsʿin wa-salas 	tɨsʕin wa-salas 	t ɨ s ʕ + i n + w a + s a l a s	ninety ty and three	t ɨ s ʕ + i n + w a + s a l a s	90 14 13 4		Elias2014Tigre
+113	tigr1270	ninety three	təsʿin wa-salas	tɨsʕin wa-salas	t ɨ s ʕ + i n + w a + s a l a s	ninety ty and three	t ɨ s ʕ + i n + w a + s a l a s	90 14 13 4		Elias2014Tigre
 114	tigr1270	ninety four	təsʿin wa-ʾarbaʿ	tɨsʕin wa-ʔarbaʕ	t ɨ s ʕ + i n + w a + ʔ a r b a ʕ	ninety ty and four	t ɨ s ʕ + i n + w a + ʔ a r b a ʕ	90 14 13 5		Elias2014Tigre
 115	tigr1270	ninety five	təsʿin wa-ḥaməs	tɨsʕin wa-ħamɨs	t ɨ s ʕ + i n + w a + ħ a m ɨ s	ninety ty and five	t ɨ s ʕ + i n + w a + ħ a m ɨ s	90 14 13 6		Elias2014Tigre
 116	tigr1270	ninety six	təsʿin wa-səs	tɨsʕin wa-sɨs	t ɨ s ʕ + i n + w a + s ɨ s	ninety ty and six	t ɨ s ʕ + i n + w a + s ɨ s	90 14 13 7		Elias2014Tigre
 117	tigr1270	ninety seven	təsʿin wa-sabəʿ	tɨsʕin wa-sabɨʕ	t ɨ s ʕ + i n + w a + s a b ɨ ʕ	ninety ty and seven	t ɨ s ʕ + i n + w a + s a b ɨ ʕ	90 14 13 8		Elias2014Tigre
 118	tigr1270	ninety eight	təsʿin wa-samān	tɨsʕin wa-samaːn	t ɨ s ʕ + i n + w a + s a m aː n	ninety ty and eight	t ɨ s ʕ + i n + w a + s a m aː n	90 14 13 9		Elias2014Tigre
 119	tigr1270	ninety nine	təsʿin wa-səʿ	tɨsʕin wa-sɨʕ	t ɨ s ʕ + i n + w a + s ɨ ʕ	ninety ty and nine	t ɨ s ʕ + i n + w a + s ɨ ʕ	90 14 13 10		Elias2014Tigre
-#@highlight=TOKENS|ALIGNMENT|SEGMENTS
-#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
-#@css=menu:show|database:hide
-#@basics=ALIGNMENT|COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTE|SOURCE|TOKENS|VALUE
-#@_selected_doculects=tigr1270
-#@_selected_concepts=one
-#@sorted_taxa=tigr1270
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty|forty one|forty two|forty three|forty four|forty five|forty six|forty seven|forty eight|forty nine|fifty|fifty one|fifty two|fifty three|fifty four|fifty five|fifty six|fifty seven|fifty eight|fifty nine|sixty|sixty one|sixty two|sixty three|sixty four|sixty five|sixty six|sixty seven|sixty eight|sixty nine|seventy|seventy one|seventy two|seventy three|seventy four|seventy five|seventy six|seventy seven|seventy eight|seventy nine|eighty|eighty one|eighty two|eighty three|eighty four|eighty five|eighty six|eighty seven|eighty eight|eighty nine|ninety|ninety one|ninety two|ninety three|ninety four|ninety five|ninety six|ninety seven|ninety eight|ninety nine
-#@display=filedisplay|glosses
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTE
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=tigr1270.tsv
-#@navbar=true
-#@_morphology_mode=full
