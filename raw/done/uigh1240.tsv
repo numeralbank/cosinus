@@ -1,100 +1,100 @@
 ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
-1	Uyghur	one	bir	b i r	one	b i r	1		wiktionary
-2	Uyghur	two	ʔikki	ʔ i k k i	two	ʔ i k k i	2		wiktionary
-3	Uyghur	three	ʔyt͡ʃ	ʔ y t͡ʃ	three	ʔ y t͡ʃ	3		wiktionary
-4	Uyghur	four	tøt 	t ø t	four	t ø t	4		wiktionary
-5	Uyghur	five	bɛʃ	b ɛ ʃ	five	b ɛ ʃ	5		wiktionary
-6	Uyghur	six	ʔɑlt 	ʔ ɑ l t ɛ	six	ʔ ɑ l t ɛ	6		wiktionary
-7	Uyghur	seven	jɛttɛ	j ɛ t t ɛ	seven	j ɛ t t ɛ	7		wiktionary
-8	Uyghur	eight	sɛkkiz	s ɛ k k i z	eight	s ɛ k k i z	8		wiktionary
-9	Uyghur	nine	toqquz	t o q q u z	nine	t o q q u z	9		wiktionary
-10	Uyghur	ten	ʔon	ʔ o n	ten	ʔ o n	10		wiktionary
-11	Uyghur	eleven	ʔon bir	ʔ o n + b i r	ten one	ʔ o n + b i r	10 1		wiktionary
-12	Uyghur	twelve	ʔon ʔikki	ʔ o n + ʔ i k k i	ten two	ʔ o n + ʔ i k k i	10 2		wiktionary
-13	Uyghur	thirteen	ʔon ʔyt͡ʃ	ʔ o n + ʔ y t͡ʃ	ten three	ʔ o n + ʔ y t͡ʃ	10 3		wiktionary
-14	Uyghur	fourteen	ʔon tøt	ʔ o n + t ø t	ten four	ʔ o n + t ø t	10 4		wiktionary
-15	Uyghur	fifteen	ʔon bɛʃ	ʔ o n + b ɛ ʃ	ten five	ʔ o n + b ɛ ʃ	10 5		wiktionary
-16	Uyghur	sixteen	ʔon ʔɑltɛ	ʔ o n + ʔ ɑ l t ɛ	ten six	ʔ o n + ʔ ɑ l t ɛ	10 6		wiktionary
-17	Uyghur	seventeen	ʔon jɛttɛ	ʔ o n + j ɛ t t ɛ	ten seven	ʔ o n + j ɛ t t ɛ	10 7		wiktionary
-18	Uyghur	eighteen	ʔon sɛkkiz	ʔ o n + s ɛ k k i z	ten eight	ʔ o n + s ɛ k k i z	10 8		wiktionary
-19	Uyghur	nineteen	ʔon toqquz	ʔ o n + t o q q u z	ten nine	ʔ o n + t o q q u z	10 9		wiktionary
-20	Uyghur	twenty	jiɡirmɛ 	j i ɡ i r m ɛ	twenty	j i ɡ i r m ɛ	20		wiktionary
-21	Uyghur	twenty one	jiɡirmɛ bir	j i ɡ i r m ɛ + b i r	twenty one	j i ɡ i r m ɛ + b i r	20 1		wiktionary
-22	Uyghur	twenty two	jiɡirmɛ ʔikki	j i ɡ i r m ɛ + ʔ i k k i	twenty two	j i ɡ i r m ɛ + ʔ i k k i	20 2		wiktionary
-23	Uyghur	twenty three	jiɡirmɛ ʔyt͡ʃ	j i ɡ i r m ɛ + ʔ y t͡ʃ	twenty three	j i ɡ i r m ɛ + ʔ y t͡ʃ	20 3		wiktionary
-24	Uyghur	twenty four	jiɡirmɛ tøt	j i ɡ i r m ɛ + t ø t	twenty four	j i ɡ i r m ɛ + t ø t	20 4		wiktionary
-25	Uyghur	twenty five	jiɡirmɛ bɛʃ	j i ɡ i r m ɛ + b ɛ ʃ	twenty five	j i ɡ i r m ɛ + b ɛ ʃ	20 5		wiktionary
-26	Uyghur	twenty six	jiɡirmɛ ʔɑltɛ	j i ɡ i r m ɛ + ʔ ɑ l t ɛ	twenty six	j i ɡ i r m ɛ + ʔ ɑ l t ɛ	20 6		wiktionary
-27	Uyghur	twenty seven	jiɡirmɛ jɛttɛ	j i ɡ i r m ɛ + j ɛ t t ɛ	twenty seven	j i ɡ i r m ɛ + j ɛ t t ɛ	20 7		wiktionary
-28	Uyghur	twenty eight	jiɡirmɛ sɛkkiz	j i ɡ i r m ɛ + s ɛ k k i z	twenty eight	j i ɡ i r m ɛ + s ɛ k k i z	20 8		wiktionary
-29	Uyghur	twenty nine	jiɡirmɛ toqquz	j i ɡ i r m ɛ + t o q q u z	twenty nine	j i ɡ i r m ɛ + t o q q u z	20 9		wiktionary
-30	Uyghur	thirty	ʔottuz 	ʔ o t t u z	thirty	ʔ o t t u z	21		wiktionary
-31	Uyghur	thirty one	ʔottuz bir	ʔ o t t u z + b i r	thirty one	ʔ o t t u z + b i r	21 1		wiktionary
-32	Uyghur	thirty two	ʔottuz ʔikki	ʔ o t t u z + ʔ i k k i	thirty two	ʔ o t t u z + ʔ i k k i	21 2		wiktionary
-33	Uyghur	thirty three	ʔottuz ʔyt͡ʃ	ʔ o t t u z + ʔ y t͡ʃ	thirty three	ʔ o t t u z + ʔ y t͡ʃ	21 3		wiktionary
-34	Uyghur	thirty four	ʔottuz tøt	ʔ o t t u z + t ø t	thirty four	ʔ o t t u z + t ø t	21 4		wiktionary
-35	Uyghur	thirty five	ʔottuz bɛʃ	ʔ o t t u z + b ɛ ʃ	thirty five	ʔ o t t u z + b ɛ ʃ	21 5		wiktionary
-36	Uyghur	thirty six	ʔottuz ʔɑltɛ	ʔ o t t u z + ʔ ɑ l t ɛ	thirty six	ʔ o t t u z + ʔ ɑ l t ɛ	21 6		wiktionary
-37	Uyghur	thirty seven	ʔottuz jɛttɛ	ʔ o t t u z + j ɛ t t ɛ	thirty seven	ʔ o t t u z + j ɛ t t ɛ	21 7		wiktionary
-38	Uyghur	thirty eight	ʔottuz sɛkkiz	ʔ o t t u z + s ɛ k k i z	thirty eight	ʔ o t t u z + s ɛ k k i z	21 8		wiktionary
-39	Uyghur	thirty nine	ʔottuz toqquz	ʔ o t t u z + t o q q u z	thirty nine	ʔ o t t u z + t o q q u z	21 9		wiktionary
-40	Uyghur	forty	ʔɛllik 	ʔ ɛ l l i k	forty	ʔ ɛ l l i k	22		wiktionary
-41	Uyghur	forty one	ʔɛllik bir	ʔ ɛ l l i k + b i r	forty one	ʔ ɛ l l i k + b i r	22 1		wiktionary
-42	Uyghur	forty two	ʔɛllik ʔikki	ʔ ɛ l l i k + ʔ i k k i	forty two	ʔ ɛ l l i k + ʔ i k k i	22 2		wiktionary
-43	Uyghur	forty three	ʔɛllik ʔyt͡ʃ	ʔ ɛ l l i k + ʔ y t͡ʃ	forty three	ʔ ɛ l l i k + ʔ y t͡ʃ	22 3		wiktionary
-44	Uyghur	forty four	ʔɛllik tøt	ʔ ɛ l l i k + t ø t	forty four	ʔ ɛ l l i k + t ø t	22 4		wiktionary
-45	Uyghur	forty five	ʔɛllik bɛʃ	ʔ ɛ l l i k + b ɛ ʃ	forty five	ʔ ɛ l l i k + b ɛ ʃ	22 5		wiktionary
-46	Uyghur	forty six	ʔɛllik ʔɑltɛ	ʔ ɛ l l i k + ʔ ɑ l t ɛ	forty six	ʔ ɛ l l i k + ʔ ɑ l t ɛ	22 6		wiktionary
-47	Uyghur	forty seven	ʔɛllik jɛttɛ	ʔ ɛ l l i k + j ɛ t t ɛ	forty seven	ʔ ɛ l l i k + j ɛ t t ɛ	22 7		wiktionary
-48	Uyghur	forty eight	ʔɛllik sɛkkiz	ʔ ɛ l l i k + s ɛ k k i z	forty eight	ʔ ɛ l l i k + s ɛ k k i z	22 8		wiktionary
-49	Uyghur	forty nine	ʔɛllik toqquz	ʔ ɛ l l i k + t o q q u z	forty nine	ʔ ɛ l l i k + t o q q u z	22 9		wiktionary
-50	Uyghur	fifty	ʔɑtmiʃ 	ʔ ɑ t m i ʃ	fifty	ʔ ɑ t m i ʃ	23		wiktionary
-51	Uyghur	fifty one	ʔɑtmiʃ bir	ʔ ɑ t m i ʃ + b i r	fifty one	ʔ ɑ t m i ʃ + b i r	23 1		wiktionary
-52	Uyghur	fifty two	ʔɑtmiʃ ʔikki	ʔ ɑ t m i ʃ + ʔ i k k i	fifty two	ʔ ɑ t m i ʃ + ʔ i k k i	23 2		wiktionary
-53	Uyghur	fifty three	ʔɑtmiʃ ʔyt͡ʃ	ʔ ɑ t m i ʃ + ʔ y t͡ʃ	fifty three	ʔ ɑ t m i ʃ + ʔ y t͡ʃ	23 3		wiktionary
-54	Uyghur	fifty four	ʔɑtmiʃ tøt	ʔ ɑ t m i ʃ + t ø t	fifty four	ʔ ɑ t m i ʃ + t ø t	23 4		wiktionary
-55	Uyghur	fifty five	ʔɑtmiʃ bɛʃ	ʔ ɑ t m i ʃ + b ɛ ʃ	fifty five	ʔ ɑ t m i ʃ + b ɛ ʃ	23 5		wiktionary
-56	Uyghur	fifty six	ʔɑtmiʃ ʔɑltɛ	ʔ ɑ t m i ʃ + ʔ ɑ l t ɛ	fifty six	ʔ ɑ t m i ʃ + ʔ ɑ l t ɛ	23 6		wiktionary
-57	Uyghur	fifty seven	ʔɑtmiʃ jɛttɛ	ʔ ɑ t m i ʃ + j ɛ t t ɛ	fifty seven	ʔ ɑ t m i ʃ + j ɛ t t ɛ	23 7		wiktionary
-58	Uyghur	fifty eight	ʔɑtmiʃ sɛkkiz	ʔ ɑ t m i ʃ + s ɛ k k i z	fifty eight	ʔ ɑ t m i ʃ + s ɛ k k i z	23 8		wiktionary
-59	Uyghur	fifty nine	ʔɑtmiʃ toqquz	ʔ ɑ t m i ʃ + t o q q u z	fifty nine	ʔ ɑ t m i ʃ + t o q q u z	23 9		wiktionary
-60	Uyghur	sixty	jɛtmiʃ 	j ɛ t m i ʃ	sixty	j ɛ t m i ʃ	24		wiktionary
-61	Uyghur	sixty one	jɛtmiʃ bir	j ɛ t m i ʃ + b i r	sixty one	j ɛ t m i ʃ + b i r	24 1		wiktionary
-62	Uyghur	sixty two	jɛtmiʃ ʔikki	j ɛ t m i ʃ + ʔ i k k i	sixty two	j ɛ t m i ʃ + ʔ i k k i	24 2		wiktionary
-63	Uyghur	sixty three	jɛtmiʃ ʔyt͡ʃ	j ɛ t m i ʃ + ʔ y t͡ʃ	sixty three	j ɛ t m i ʃ + ʔ y t͡ʃ	24 3		wiktionary
-64	Uyghur	sixty four	jɛtmiʃ tøt	j ɛ t m i ʃ + t ø t	sixty four	j ɛ t m i ʃ + t ø t	24 4		wiktionary
-65	Uyghur	sixty five	jɛtmiʃ bɛʃ	j ɛ t m i ʃ + b ɛ ʃ	sixty five	j ɛ t m i ʃ + b ɛ ʃ	24 5		wiktionary
-66	Uyghur	sixty six	jɛtmiʃ ʔɑltɛ	j ɛ t m i ʃ + ʔ ɑ l t ɛ	sixty six	j ɛ t m i ʃ + ʔ ɑ l t ɛ	24 6		wiktionary
-67	Uyghur	sixty seven	jɛtmiʃ jɛttɛ	j ɛ t m i ʃ + j ɛ t t ɛ	sixty seven	j ɛ t m i ʃ + j ɛ t t ɛ	24 7		wiktionary
-68	Uyghur	sixty eight	jɛtmiʃ sɛkkiz	j ɛ t m i ʃ + s ɛ k k i z	sixty eight	j ɛ t m i ʃ + s ɛ k k i z	24 8		wiktionary
-69	Uyghur	sixty nine	jɛtmiʃ toqquz	j ɛ t m i ʃ + t o q q u z	sixty nine	j ɛ t m i ʃ + t o q q u z	24 9		wiktionary
-70	Uyghur	seventy	sɛksɛn 	s ɛ k s ɛ n	seventy	s ɛ k s ɛ n	25		wiktionary
-71	Uyghur	seventy one	sɛksɛn bir	s ɛ k s ɛ n + b i r	seventy one	s ɛ k s ɛ n + b i r	25 1		wiktionary
-72	Uyghur	seventy two	sɛksɛn ʔikki	s ɛ k s ɛ n + ʔ i k k i	seventy two	s ɛ k s ɛ n + ʔ i k k i	25 2		wiktionary
-73	Uyghur	seventy three	sɛksɛn ʔyt͡ʃ	s ɛ k s ɛ n + ʔ y t͡ʃ	seventy three	s ɛ k s ɛ n + ʔ y t͡ʃ	25 3		wiktionary
-74	Uyghur	seventy four	sɛksɛn tøt	s ɛ k s ɛ n + t ø t	seventy four	s ɛ k s ɛ n + t ø t	25 4		wiktionary
-75	Uyghur	seventy five	sɛksɛn bɛʃ	s ɛ k s ɛ n + b ɛ ʃ	seventy five	s ɛ k s ɛ n + b ɛ ʃ	25 5		wiktionary
-76	Uyghur	seventy six	sɛksɛn ʔɑltɛ	s ɛ k s ɛ n + ʔ ɑ l t ɛ	seventy six	s ɛ k s ɛ n + ʔ ɑ l t ɛ	25 6		wiktionary
-77	Uyghur	seventy seven	sɛksɛn jɛttɛ	s ɛ k s ɛ n + j ɛ t t ɛ	seventy seven	s ɛ k s ɛ n + j ɛ t t ɛ	25 7		wiktionary
-78	Uyghur	seventy eight	sɛksɛn sɛkkiz	s ɛ k s ɛ n + s ɛ k k i z	seventy eight	s ɛ k s ɛ n + s ɛ k k i z	25 8		wiktionary
-79	Uyghur	seventy nine	sɛksɛn toqquz	s ɛ k s ɛ n + t o q q u z	seventy nine	s ɛ k s ɛ n + t o q q u z	25 9		wiktionary
-80	Uyghur	eighty	toqsɑn 	t o q s ɑ n	eighty	t o q s ɑ n	26		wiktionary
-81	Uyghur	eighty one	toqsɑn bir	t o q s ɑ n + b i r	eighty one	t o q s ɑ n + b i r	26 1		wiktionary
-82	Uyghur	eighty two	toqsɑn ʔikki	t o q s ɑ n + ʔ i k k i	eighty two	t o q s ɑ n + ʔ i k k i	26 2		wiktionary
-83	Uyghur	eighty three	toqsɑn ʔyt͡ʃ	t o q s ɑ n + ʔ y t͡ʃ	eighty three	t o q s ɑ n + ʔ y t͡ʃ	26 3		wiktionary
-84	Uyghur	eighty four	toqsɑn tøt	t o q s ɑ n + t ø t	eighty four	t o q s ɑ n + t ø t	26 4		wiktionary
-85	Uyghur	eighty five	toqsɑn bɛʃ	t o q s ɑ n + b ɛ ʃ	eighty five	t o q s ɑ n + b ɛ ʃ	26 5		wiktionary
-86	Uyghur	eighty six	toqsɑn ʔɑltɛ	t o q s ɑ n + ʔ ɑ l t ɛ	eighty six	t o q s ɑ n + ʔ ɑ l t ɛ	26 6		wiktionary
-87	Uyghur	eighty seven	toqsɑn jɛttɛ	t o q s ɑ n + j ɛ t t ɛ	eighty seven	t o q s ɑ n + j ɛ t t ɛ	26 7		wiktionary
-88	Uyghur	eighty eight	toqsɑn sɛkkiz	t o q s ɑ n + s ɛ k k i z	eighty eight	t o q s ɑ n + s ɛ k k i z	26 8		wiktionary
-89	Uyghur	eighty nine	toqsɑn toqquz	t o q s ɑ n + t o q q u z	eighty nine	t o q s ɑ n + t o q q u z	26 9		wiktionary
-90	Uyghur	ninety	jyz 	j y z	ninety	j y z	27		wiktionary
-91	Uyghur	ninety one	jyz bir	j y z + b i r	ninety one	j y z + b i r	27 1		wiktionary
-92	Uyghur	ninety two	jyz ʔikki	j y z + ʔ i k k i	ninety two	j y z + ʔ i k k i	27 2		wiktionary
-93	Uyghur	ninety three	jyz ʔyt͡ʃ	j y z + ʔ y t͡ʃ	ninety three	j y z + ʔ y t͡ʃ	27 3		wiktionary
-94	Uyghur	ninety four	jyz tøt	j y z + t ø t	ninety four	j y z + t ø t	27 4		wiktionary
-95	Uyghur	ninety five	jyz bɛʃ	j y z + b ɛ ʃ	ninety five	j y z + b ɛ ʃ	27 5		wiktionary
-96	Uyghur	ninety six	jyz ʔɑltɛ	j y z + ʔ ɑ l t ɛ	ninety six	j y z + ʔ ɑ l t ɛ	27 6		wiktionary
-97	Uyghur	ninety seven	jyz jɛttɛ	j y z + j ɛ t t ɛ	ninety seven	j y z + j ɛ t t ɛ	27 7		wiktionary
-98	Uyghur	ninety eight	jyz sɛkkiz	j y z + s ɛ k k i z	ninety eight	j y z + s ɛ k k i z	27 8		wiktionary
-99	Uyghur	ninety nine	jyz toqquz	j y z + t o q q u z	ninety nine	j y z + t o q q u z	27 9		wiktionary
+1	Uyghur	one	bir	b i r	one	b i r	9		wiktionary
+2	Uyghur	two	ʔikki	ʔ i k k i	two	ʔ i k k i	18		wiktionary
+3	Uyghur	three	ʔyt͡ʃ	ʔ y t͡ʃ	three	ʔ y t͡ʃ	16		wiktionary
+4	Uyghur	four	tøt 	t ø t	four	t ø t	6		wiktionary
+5	Uyghur	five	bɛʃ	b ɛ ʃ	five	b ɛ ʃ	4		wiktionary
+6	Uyghur	six	ʔɑlt 	ʔ ɑ l t ɛ	six	ʔ ɑ l t ɛ	12		wiktionary
+7	Uyghur	seven	jɛttɛ	j ɛ t t ɛ	seven	j ɛ t t ɛ	10		wiktionary
+8	Uyghur	eight	sɛkkiz	s ɛ k k i z	eight	s ɛ k k i z	1		wiktionary
+9	Uyghur	nine	toqquz	t o q q u z	nine	t o q q u z	7		wiktionary
+10	Uyghur	ten	ʔon	ʔ o n	ten	ʔ o n	14		wiktionary
+11	Uyghur	eleven	ʔon bir	ʔ o n + b i r	ten one	ʔ o n + b i r	14 9		wiktionary
+12	Uyghur	twelve	ʔon ʔikki	ʔ o n + ʔ i k k i	ten two	ʔ o n + ʔ i k k i	14 18		wiktionary
+13	Uyghur	thirteen	ʔon ʔyt͡ʃ	ʔ o n + ʔ y t͡ʃ	ten three	ʔ o n + ʔ y t͡ʃ	14 16		wiktionary
+14	Uyghur	fourteen	ʔon tøt	ʔ o n + t ø t	ten four	ʔ o n + t ø t	14 6		wiktionary
+15	Uyghur	fifteen	ʔon bɛʃ	ʔ o n + b ɛ ʃ	ten five	ʔ o n + b ɛ ʃ	14 4		wiktionary
+16	Uyghur	sixteen	ʔon ʔɑltɛ	ʔ o n + ʔ ɑ l t ɛ	ten six	ʔ o n + ʔ ɑ l t ɛ	14 12		wiktionary
+17	Uyghur	seventeen	ʔon jɛttɛ	ʔ o n + j ɛ t t ɛ	ten seven	ʔ o n + j ɛ t t ɛ	14 10		wiktionary
+18	Uyghur	eighteen	ʔon sɛkkiz	ʔ o n + s ɛ k k i z	ten eight	ʔ o n + s ɛ k k i z	14 1		wiktionary
+19	Uyghur	nineteen	ʔon toqquz	ʔ o n + t o q q u z	ten nine	ʔ o n + t o q q u z	14 7		wiktionary
+20	Uyghur	twenty	jiɡirmɛ 	j i ɡ i r m ɛ	twenty	j i ɡ i r m ɛ	17		wiktionary
+21	Uyghur	twenty one	jiɡirmɛ bir	j i ɡ i r m ɛ + b i r	twenty one	j i ɡ i r m ɛ + b i r	17 9		wiktionary
+22	Uyghur	twenty two	jiɡirmɛ ʔikki	j i ɡ i r m ɛ + ʔ i k k i	twenty two	j i ɡ i r m ɛ + ʔ i k k i	17 18		wiktionary
+23	Uyghur	twenty three	jiɡirmɛ ʔyt͡ʃ	j i ɡ i r m ɛ + ʔ y t͡ʃ	twenty three	j i ɡ i r m ɛ + ʔ y t͡ʃ	17 16		wiktionary
+24	Uyghur	twenty four	jiɡirmɛ tøt	j i ɡ i r m ɛ + t ø t	twenty four	j i ɡ i r m ɛ + t ø t	17 6		wiktionary
+25	Uyghur	twenty five	jiɡirmɛ bɛʃ	j i ɡ i r m ɛ + b ɛ ʃ	twenty five	j i ɡ i r m ɛ + b ɛ ʃ	17 4		wiktionary
+26	Uyghur	twenty six	jiɡirmɛ ʔɑltɛ	j i ɡ i r m ɛ + ʔ ɑ l t ɛ	twenty six	j i ɡ i r m ɛ + ʔ ɑ l t ɛ	17 12		wiktionary
+27	Uyghur	twenty seven	jiɡirmɛ jɛttɛ	j i ɡ i r m ɛ + j ɛ t t ɛ	twenty seven	j i ɡ i r m ɛ + j ɛ t t ɛ	17 10		wiktionary
+28	Uyghur	twenty eight	jiɡirmɛ sɛkkiz	j i ɡ i r m ɛ + s ɛ k k i z	twenty eight	j i ɡ i r m ɛ + s ɛ k k i z	17 1		wiktionary
+29	Uyghur	twenty nine	jiɡirmɛ toqquz	j i ɡ i r m ɛ + t o q q u z	twenty nine	j i ɡ i r m ɛ + t o q q u z	17 7		wiktionary
+30	Uyghur	thirty	ʔottuz 	ʔ o t t u z	thirty	ʔ o t t u z	15		wiktionary
+31	Uyghur	thirty one	ʔottuz bir	ʔ o t t u z + b i r	thirty one	ʔ o t t u z + b i r	15 9		wiktionary
+32	Uyghur	thirty two	ʔottuz ʔikki	ʔ o t t u z + ʔ i k k i	thirty two	ʔ o t t u z + ʔ i k k i	15 18		wiktionary
+33	Uyghur	thirty three	ʔottuz ʔyt͡ʃ	ʔ o t t u z + ʔ y t͡ʃ	thirty three	ʔ o t t u z + ʔ y t͡ʃ	15 16		wiktionary
+34	Uyghur	thirty four	ʔottuz tøt	ʔ o t t u z + t ø t	thirty four	ʔ o t t u z + t ø t	15 6		wiktionary
+35	Uyghur	thirty five	ʔottuz bɛʃ	ʔ o t t u z + b ɛ ʃ	thirty five	ʔ o t t u z + b ɛ ʃ	15 4		wiktionary
+36	Uyghur	thirty six	ʔottuz ʔɑltɛ	ʔ o t t u z + ʔ ɑ l t ɛ	thirty six	ʔ o t t u z + ʔ ɑ l t ɛ	15 12		wiktionary
+37	Uyghur	thirty seven	ʔottuz jɛttɛ	ʔ o t t u z + j ɛ t t ɛ	thirty seven	ʔ o t t u z + j ɛ t t ɛ	15 10		wiktionary
+38	Uyghur	thirty eight	ʔottuz sɛkkiz	ʔ o t t u z + s ɛ k k i z	thirty eight	ʔ o t t u z + s ɛ k k i z	15 1		wiktionary
+39	Uyghur	thirty nine	ʔottuz toqquz	ʔ o t t u z + t o q q u z	thirty nine	ʔ o t t u z + t o q q u z	15 7		wiktionary
+40	Uyghur	forty	ʔɛllik 	ʔ ɛ l l i k	forty	ʔ ɛ l l i k	5		wiktionary
+41	Uyghur	forty one	ʔɛllik bir	ʔ ɛ l l i k + b i r	forty one	ʔ ɛ l l i k + b i r	5 9		wiktionary
+42	Uyghur	forty two	ʔɛllik ʔikki	ʔ ɛ l l i k + ʔ i k k i	forty two	ʔ ɛ l l i k + ʔ i k k i	5 18		wiktionary
+43	Uyghur	forty three	ʔɛllik ʔyt͡ʃ	ʔ ɛ l l i k + ʔ y t͡ʃ	forty three	ʔ ɛ l l i k + ʔ y t͡ʃ	5 16		wiktionary
+44	Uyghur	forty four	ʔɛllik tøt	ʔ ɛ l l i k + t ø t	forty four	ʔ ɛ l l i k + t ø t	5 6		wiktionary
+45	Uyghur	forty five	ʔɛllik bɛʃ	ʔ ɛ l l i k + b ɛ ʃ	forty five	ʔ ɛ l l i k + b ɛ ʃ	5 4		wiktionary
+46	Uyghur	forty six	ʔɛllik ʔɑltɛ	ʔ ɛ l l i k + ʔ ɑ l t ɛ	forty six	ʔ ɛ l l i k + ʔ ɑ l t ɛ	5 12		wiktionary
+47	Uyghur	forty seven	ʔɛllik jɛttɛ	ʔ ɛ l l i k + j ɛ t t ɛ	forty seven	ʔ ɛ l l i k + j ɛ t t ɛ	5 10		wiktionary
+48	Uyghur	forty eight	ʔɛllik sɛkkiz	ʔ ɛ l l i k + s ɛ k k i z	forty eight	ʔ ɛ l l i k + s ɛ k k i z	5 1		wiktionary
+49	Uyghur	forty nine	ʔɛllik toqquz	ʔ ɛ l l i k + t o q q u z	forty nine	ʔ ɛ l l i k + t o q q u z	5 7		wiktionary
+50	Uyghur	fifty	ʔɑtmiʃ 	ʔ ɑ t m i ʃ	fifty	ʔ ɑ t m i ʃ	3		wiktionary
+51	Uyghur	fifty one	ʔɑtmiʃ bir	ʔ ɑ t m i ʃ + b i r	fifty one	ʔ ɑ t m i ʃ + b i r	3 9		wiktionary
+52	Uyghur	fifty two	ʔɑtmiʃ ʔikki	ʔ ɑ t m i ʃ + ʔ i k k i	fifty two	ʔ ɑ t m i ʃ + ʔ i k k i	3 18		wiktionary
+53	Uyghur	fifty three	ʔɑtmiʃ ʔyt͡ʃ	ʔ ɑ t m i ʃ + ʔ y t͡ʃ	fifty three	ʔ ɑ t m i ʃ + ʔ y t͡ʃ	3 16		wiktionary
+54	Uyghur	fifty four	ʔɑtmiʃ tøt	ʔ ɑ t m i ʃ + t ø t	fifty four	ʔ ɑ t m i ʃ + t ø t	3 6		wiktionary
+55	Uyghur	fifty five	ʔɑtmiʃ bɛʃ	ʔ ɑ t m i ʃ + b ɛ ʃ	fifty five	ʔ ɑ t m i ʃ + b ɛ ʃ	3 4		wiktionary
+56	Uyghur	fifty six	ʔɑtmiʃ ʔɑltɛ	ʔ ɑ t m i ʃ + ʔ ɑ l t ɛ	fifty six	ʔ ɑ t m i ʃ + ʔ ɑ l t ɛ	3 12		wiktionary
+57	Uyghur	fifty seven	ʔɑtmiʃ jɛttɛ	ʔ ɑ t m i ʃ + j ɛ t t ɛ	fifty seven	ʔ ɑ t m i ʃ + j ɛ t t ɛ	3 10		wiktionary
+58	Uyghur	fifty eight	ʔɑtmiʃ sɛkkiz	ʔ ɑ t m i ʃ + s ɛ k k i z	fifty eight	ʔ ɑ t m i ʃ + s ɛ k k i z	3 1		wiktionary
+59	Uyghur	fifty nine	ʔɑtmiʃ toqquz	ʔ ɑ t m i ʃ + t o q q u z	fifty nine	ʔ ɑ t m i ʃ + t o q q u z	3 7		wiktionary
+60	Uyghur	sixty	jɛtmiʃ 	j ɛ t m i ʃ	sixty	j ɛ t m i ʃ	13		wiktionary
+61	Uyghur	sixty one	jɛtmiʃ bir	j ɛ t m i ʃ + b i r	sixty one	j ɛ t m i ʃ + b i r	13 9		wiktionary
+62	Uyghur	sixty two	jɛtmiʃ ʔikki	j ɛ t m i ʃ + ʔ i k k i	sixty two	j ɛ t m i ʃ + ʔ i k k i	13 18		wiktionary
+63	Uyghur	sixty three	jɛtmiʃ ʔyt͡ʃ	j ɛ t m i ʃ + ʔ y t͡ʃ	sixty three	j ɛ t m i ʃ + ʔ y t͡ʃ	13 16		wiktionary
+64	Uyghur	sixty four	jɛtmiʃ tøt	j ɛ t m i ʃ + t ø t	sixty four	j ɛ t m i ʃ + t ø t	13 6		wiktionary
+65	Uyghur	sixty five	jɛtmiʃ bɛʃ	j ɛ t m i ʃ + b ɛ ʃ	sixty five	j ɛ t m i ʃ + b ɛ ʃ	13 4		wiktionary
+66	Uyghur	sixty six	jɛtmiʃ ʔɑltɛ	j ɛ t m i ʃ + ʔ ɑ l t ɛ	sixty six	j ɛ t m i ʃ + ʔ ɑ l t ɛ	13 12		wiktionary
+67	Uyghur	sixty seven	jɛtmiʃ jɛttɛ	j ɛ t m i ʃ + j ɛ t t ɛ	sixty seven	j ɛ t m i ʃ + j ɛ t t ɛ	13 10		wiktionary
+68	Uyghur	sixty eight	jɛtmiʃ sɛkkiz	j ɛ t m i ʃ + s ɛ k k i z	sixty eight	j ɛ t m i ʃ + s ɛ k k i z	13 1		wiktionary
+69	Uyghur	sixty nine	jɛtmiʃ toqquz	j ɛ t m i ʃ + t o q q u z	sixty nine	j ɛ t m i ʃ + t o q q u z	13 7		wiktionary
+70	Uyghur	seventy	sɛksɛn 	s ɛ k s ɛ n	seventy	s ɛ k s ɛ n	11		wiktionary
+71	Uyghur	seventy one	sɛksɛn bir	s ɛ k s ɛ n + b i r	seventy one	s ɛ k s ɛ n + b i r	11 9		wiktionary
+72	Uyghur	seventy two	sɛksɛn ʔikki	s ɛ k s ɛ n + ʔ i k k i	seventy two	s ɛ k s ɛ n + ʔ i k k i	11 18		wiktionary
+73	Uyghur	seventy three	sɛksɛn ʔyt͡ʃ	s ɛ k s ɛ n + ʔ y t͡ʃ	seventy three	s ɛ k s ɛ n + ʔ y t͡ʃ	11 16		wiktionary
+74	Uyghur	seventy four	sɛksɛn tøt	s ɛ k s ɛ n + t ø t	seventy four	s ɛ k s ɛ n + t ø t	11 6		wiktionary
+75	Uyghur	seventy five	sɛksɛn bɛʃ	s ɛ k s ɛ n + b ɛ ʃ	seventy five	s ɛ k s ɛ n + b ɛ ʃ	11 4		wiktionary
+76	Uyghur	seventy six	sɛksɛn ʔɑltɛ	s ɛ k s ɛ n + ʔ ɑ l t ɛ	seventy six	s ɛ k s ɛ n + ʔ ɑ l t ɛ	11 12		wiktionary
+77	Uyghur	seventy seven	sɛksɛn jɛttɛ	s ɛ k s ɛ n + j ɛ t t ɛ	seventy seven	s ɛ k s ɛ n + j ɛ t t ɛ	11 10		wiktionary
+78	Uyghur	seventy eight	sɛksɛn sɛkkiz	s ɛ k s ɛ n + s ɛ k k i z	seventy eight	s ɛ k s ɛ n + s ɛ k k i z	11 1		wiktionary
+79	Uyghur	seventy nine	sɛksɛn toqquz	s ɛ k s ɛ n + t o q q u z	seventy nine	s ɛ k s ɛ n + t o q q u z	11 7		wiktionary
+80	Uyghur	eighty	toqsɑn 	t o q s ɑ n	eighty	t o q s ɑ n	2		wiktionary
+81	Uyghur	eighty one	toqsɑn bir	t o q s ɑ n + b i r	eighty one	t o q s ɑ n + b i r	2 9		wiktionary
+82	Uyghur	eighty two	toqsɑn ʔikki	t o q s ɑ n + ʔ i k k i	eighty two	t o q s ɑ n + ʔ i k k i	2 18		wiktionary
+83	Uyghur	eighty three	toqsɑn ʔyt͡ʃ	t o q s ɑ n + ʔ y t͡ʃ	eighty three	t o q s ɑ n + ʔ y t͡ʃ	2 16		wiktionary
+84	Uyghur	eighty four	toqsɑn tøt	t o q s ɑ n + t ø t	eighty four	t o q s ɑ n + t ø t	2 6		wiktionary
+85	Uyghur	eighty five	toqsɑn bɛʃ	t o q s ɑ n + b ɛ ʃ	eighty five	t o q s ɑ n + b ɛ ʃ	2 4		wiktionary
+86	Uyghur	eighty six	toqsɑn ʔɑltɛ	t o q s ɑ n + ʔ ɑ l t ɛ	eighty six	t o q s ɑ n + ʔ ɑ l t ɛ	2 12		wiktionary
+87	Uyghur	eighty seven	toqsɑn jɛttɛ	t o q s ɑ n + j ɛ t t ɛ	eighty seven	t o q s ɑ n + j ɛ t t ɛ	2 10		wiktionary
+88	Uyghur	eighty eight	toqsɑn sɛkkiz	t o q s ɑ n + s ɛ k k i z	eighty eight	t o q s ɑ n + s ɛ k k i z	2 1		wiktionary
+89	Uyghur	eighty nine	toqsɑn toqquz	t o q s ɑ n + t o q q u z	eighty nine	t o q s ɑ n + t o q q u z	2 7		wiktionary
+90	Uyghur	ninety	jyz 	j y z	ninety	j y z	8		wiktionary
+91	Uyghur	ninety one	jyz bir	j y z + b i r	ninety one	j y z + b i r	8 9		wiktionary
+92	Uyghur	ninety two	jyz ʔikki	j y z + ʔ i k k i	ninety two	j y z + ʔ i k k i	8 18		wiktionary
+93	Uyghur	ninety three	jyz ʔyt͡ʃ	j y z + ʔ y t͡ʃ	ninety three	j y z + ʔ y t͡ʃ	8 16		wiktionary
+94	Uyghur	ninety four	jyz tøt	j y z + t ø t	ninety four	j y z + t ø t	8 6		wiktionary
+95	Uyghur	ninety five	jyz bɛʃ	j y z + b ɛ ʃ	ninety five	j y z + b ɛ ʃ	8 4		wiktionary
+96	Uyghur	ninety six	jyz ʔɑltɛ	j y z + ʔ ɑ l t ɛ	ninety six	j y z + ʔ ɑ l t ɛ	8 12		wiktionary
+97	Uyghur	ninety seven	jyz jɛttɛ	j y z + j ɛ t t ɛ	ninety seven	j y z + j ɛ t t ɛ	8 10		wiktionary
+98	Uyghur	ninety eight	jyz sɛkkiz	j y z + s ɛ k k i z	ninety eight	j y z + s ɛ k k i z	8 1		wiktionary
+99	Uyghur	ninety nine	jyz toqquz	j y z + t o q q u z	ninety nine	j y z + t o q q u z	8 7		wiktionary

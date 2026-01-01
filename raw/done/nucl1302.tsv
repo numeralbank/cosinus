@@ -1,100 +1,100 @@
 ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
-1	Georgian	one	ert-i	e ɾ tʰ + i/-	one nominative	e ɾ tʰ + i	1 13		wiktionary
-2	Georgian	two	or-i	o ɾ + i/-	two nominative	o ɾ + i	2 13		wiktionary
-3	Georgian	three	sam-i	s/sʰ a m/- + i/-	three nominative	s a m + i	3 13		wiktionary
-4	Georgian	four	otx-i	o tʰ χ + i/-	four nominative	o tʰ χ + i	4 13		wiktionary
-5	Georgian	five	xut-i	χ u tʰ + i/-	five nominative	χ u tʰ + i	5 13		wiktionary
-6	Georgian	six	ekvs-i	e kʰʷ s + i/-	six nominative	e kʰʷ s + i	6 13		wiktionary
-7	Georgian	seven	švid-i	ʃʰʷ/ʃʷ i d + i/-	seven nominative	ʃʷ i d + i	7 13		wiktionary
-8	Georgian	eight	rva	ʷ/- ɾʷ/ɾ a + i/-	eight nominative	ɾʷ a + 	8 13		wiktionary
-9	Georgian	nine	cxra	t͡sʰ/sʰ χ ɾ a + i/-	nine nominative	t͡sʰ χ ɾ a + 	9 13		wiktionary
-10	Georgian	ten	at-i	a tʰ + i/-	ten nominative	a tʰ + i	10 13		wiktionary
-11	Georgian	eleven	t-ert-met’-i	t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	0 one ten2 nominative	tʰ + e ɾ tʰ + m e tʼ + i	14 1 10 13	Glossing conventions from Comrie 2021 https://lingweb.eva.mpg.de/channumerals/TypNum_Latest_21ho.pdf	wiktionary
-12	Georgian	twelve	t-or-met’-i	t/tʰ/m + o ɾ + m e tʼ + i/-	0 two ten2 nominative	tʰ + o ɾ + m e tʼ + i	14 2 10 13		wiktionary
-13	Georgian	thirteen	t-sam-met’-i	t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	0 three ten2 nominative	t + sʰ a + m e tʼ + i	14 3 10 13		wiktionary
-14	Georgian	fourteen	t-otx-met’-i	t/tʰ/m + o tʰ χ + m e tʼ + i/-	0 four ten2 nominative	tʰ + o tʰ χ + m e tʼ + i	14 4 10 13		wiktionary
-15	Georgian	fifteen	t-xut-met’-i	t/tʰ/m + χ u tʰ + m e tʼ + i/-	0 five ten2 nominative	tʰ + χ u tʰ + m e tʼ + i	14 5 10 13		wiktionary
-16	Georgian	sixteen	t-ekvs-met’-i	t/tʰ/m + e kʰʷ s + m e tʼ + i/-	0 six ten2 nominative	tʰ + e kʰʷ s + m e tʼ + i	14 6 10 13		wiktionary
-17	Georgian	seventeen	t-švid-met’-i	t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	0 seven ten2 nominative	t + ʃʰʷ i d + m e tʼ + i	14 7 10 13		wiktionary
-18	Georgian	eighteen	t-vra-met’-i	t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	0 eight ten2 nominative	tʰ + ʷ ɾ a + m e tʼ + i	14 8 10 13		wiktionary
-19	Georgian	nineteen	[t]-cxra-met’-i	t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	0 nine ten2 nominative	t + sʰ χ ɾ a + m e tʼ + i	14 9 10 13		wiktionary
-20	Georgian	twenty	oc-i	o t͡sʰ + i/-	twenty nominative	o t͡sʰ + i	11 13		wiktionary
-21	Georgian	twenty one	oc-da-ert-i	o t͡sʰ + d a + e ɾ tʰ + i/-	twenty and one nominative	o t͡sʰ + d a + e ɾ tʰ + i	11 12 1 13		wiktionary
-22	Georgian	twenty two	oc-da-or-i	o t͡sʰ + d a + o ɾ + i/-	twenty and two nominative	o t͡sʰ + d a + o ɾ + i	11 12 2 13		wiktionary
-23	Georgian	twenty three	oc-da-sam-i	o t͡sʰ + d a + s/sʰ a m/- + i/-	twenty and three nominative	o t͡sʰ + d a + s a m + i	11 12 3 13		wiktionary
-24	Georgian	twenty four	oc-da-otx-i	o t͡sʰ + d a + o tʰ χ + i/-	twenty and four nominative	o t͡sʰ + d a + o tʰ χ + i	11 12 4 13		wiktionary
-25	Georgian	twenty five	oc-da-xut-i	o t͡sʰ + d a + χ u tʰ + i/-	twenty and five nominative	o t͡sʰ + d a + χ u tʰ + i	11 12 5 13		wiktionary
-26	Georgian	twenty six	oc-da-ekvs-i	o t͡sʰ + d a + e kʰʷ s + i/-	twenty and six nominative	o t͡sʰ + d a + e kʰʷ s + i	11 12 6 13		wiktionary
-27	Georgian	twenty seven	oc-da-švid-i	o t͡sʰ + d a + ʃʰʷ/ʃʷ i d + i/-	twenty and seven nominative	o t͡sʰ + d a + ʃʷ i d + i	11 12 7 13		wiktionary
-28	Georgian	twenty eight	oc-da-rva	o t͡sʰ + d a + ʷ/- ɾʷ/ɾ a + i/-	twenty and eight nominative	o t͡sʰ + d a + ɾʷ a + 	11 12 8 13		wiktionary
-29	Georgian	twenty nine	oc-da-cxra	o t͡sʰ + d a + t͡sʰ/sʰ χ ɾ a + i/-	twenty and nine nominative	o t͡sʰ + d a + t͡sʰ χ ɾ a + 	11 12 9 13		wiktionary
-30	Georgian	thirty	oc-da-at-i	o t͡sʰ + d a + a tʰ + i/-	twenty and ten nominative	o t͡sʰ + d a + a tʰ + i	11 12 10 13		wiktionary
-31	Georgian	thirty one	oc-da-t-ert-met’-i	o t͡sʰ + d a + t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	twenty and 0 one ten2 nominative	o t͡sʰ + d a + tʰ + e ɾ tʰ + m e tʼ + i	11 12 14 1 10 13		wiktionary
-32	Georgian	thirty two	oc-da-t-or-met’-i	o t͡sʰ + d a + t/tʰ/m + o ɾ + m e tʼ + i/-	twenty and 0 two ten2 nominative	o t͡sʰ + d a + tʰ + o ɾ + m e tʼ + i	11 12 14 2 10 13		wiktionary
-33	Georgian	thirty three	oc-da-t-sam-met’-i	o t͡sʰ + d a + t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	twenty and 0 three ten2 nominative	o t͡sʰ + d a + t + sʰ a + m e tʼ + i	11 12 14 3 10 13		wiktionary
-34	Georgian	thirty four	oc-da-t-otx-met’-i	o t͡sʰ + d a + t/tʰ/m + o tʰ χ + m e tʼ + i/-	twenty and 0 four ten2 nominative	o t͡sʰ + d a + tʰ + o tʰ χ + m e tʼ + i	11 12 14 4 10 13		wiktionary
-35	Georgian	thirty five	oc-da-t-xut-met’-i	o t͡sʰ + d a + t/tʰ/m + χ u tʰ + m e tʼ + i/-	twenty and 0 five ten2 nominative	o t͡sʰ + d a + tʰ + χ u tʰ + m e tʼ + i	11 12 14 5 10 13		wiktionary
-36	Georgian	thirty six	oc-da-t-ekvs-met’-i	o t͡sʰ + d a + t/tʰ/m + e kʰʷ s + m e tʼ + i/-	twenty and 0 six ten2 nominative	o t͡sʰ + d a + tʰ + e kʰʷ s + m e tʼ + i	11 12 14 6 10 13		wiktionary
-37	Georgian	thirty seven	oc-da-t-švid-met’-i	o t͡sʰ + d a + t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	twenty and 0 seven ten2 nominative	o t͡sʰ + d a + t + ʃʰʷ i d + m e tʼ + i	11 12 14 7 10 13		wiktionary
-38	Georgian	thirty eight	oc-da-t-vra-met’-i	o t͡sʰ + d a + t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	twenty and 0 eight ten2 nominative	o t͡sʰ + d a + tʰ + ʷ ɾ a + m e tʼ + i	11 12 14 8 10 13		wiktionary
-39	Georgian	thirty nine	oc-da-cxra-met’-i	o t͡sʰ + d a + t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	twenty and 0 nine ten2 nominative	o t͡sʰ + d a + t + sʰ χ ɾ a + m e tʼ + i	11 12 14 9 10 13		wiktionary
-40	Georgian	forty	or-m-oc-i	o ɾ + t/tʰ/m + o t͡sʰ + i/-	two 0 twenty nominative	o ɾ + m + o t͡sʰ + i	2 14 11 13		wiktionary
-41	Georgian	forty one	or-m-oc-da-ert-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + e ɾ tʰ + i/-	two 0 twenty and one nominative	o ɾ + m + o t͡sʰ + d a + e ɾ tʰ + i	2 14 11 12 1 13		wiktionary
-42	Georgian	forty two	or-m-oc-da-or-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + o ɾ + i/-	two 0 twenty and two nominative	o ɾ + m + o t͡sʰ + d a + o ɾ + i	2 14 11 12 2 13		wiktionary
-43	Georgian	forty three	or-m-oc-da-sam-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + s/sʰ a m/- + i/-	two 0 twenty and three nominative	o ɾ + m + o t͡sʰ + d a + s a m + i	2 14 11 12 3 13		wiktionary
-44	Georgian	forty four	or-m-oc-da-otx-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + o tʰ χ + i/-	two 0 twenty and four nominative	o ɾ + m + o t͡sʰ + d a + o tʰ χ + i	2 14 11 12 4 13		wiktionary
-45	Georgian	forty five	or-m-oc-da-xut-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + χ u tʰ + i/-	two 0 twenty and five nominative	o ɾ + m + o t͡sʰ + d a + χ u tʰ + i	2 14 11 12 5 13		wiktionary
-46	Georgian	forty six	or-m-oc-da-ekvs-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + e kʰʷ s + i/-	two 0 twenty and six nominative	o ɾ + m + o t͡sʰ + d a + e kʰʷ s + i	2 14 11 12 6 13		wiktionary
-47	Georgian	forty seven	or-m-oc-da-švid-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + ʃʰʷ/ʃʷ i d + i/-	two 0 twenty and seven nominative	o ɾ + m + o t͡sʰ + d a + ʃʷ i d + i	2 14 11 12 7 13		wiktionary
-48	Georgian	forty eight	or-m-oc-da-rva	o ɾ + t/tʰ/m + o t͡sʰ + d a + ʷ/- ɾʷ/ɾ a + i/-	two 0 twenty and eight nominative	o ɾ + m + o t͡sʰ + d a + ɾʷ a + 	2 14 11 12 8 13		wiktionary
-49	Georgian	forty nine	or-m-oc-da-cxra	o ɾ + t/tʰ/m + o t͡sʰ + d a + t͡sʰ/sʰ χ ɾ a + i/-	two 0 twenty and nine nominative	o ɾ + m + o t͡sʰ + d a + t͡sʰ χ ɾ a + 	2 14 11 12 9 13		wiktionary
-50	Georgian	fifty	or-m-oc-da-at-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + a tʰ + i/-	two 0 twenty and ten nominative	o ɾ + m + o t͡sʰ + d a + a tʰ + i	2 14 11 12 10 13		wiktionary
-51	Georgian	fifty one	or-m-oc-da-t-ert-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	two 0 twenty and 0 one ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + e ɾ tʰ + m e tʼ + i	2 14 11 12 14 1 10 13		wiktionary
-52	Georgian	fifty two	or-m-oc-da-t-or-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o ɾ + m e tʼ + i/-	two 0 twenty and 0 two ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + o ɾ + m e tʼ + i	2 14 11 12 14 2 10 13		wiktionary
-53	Georgian	fifty three	or-m-oc-da-t-sam-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	two 0 twenty and 0 three ten2 nominative	o ɾ + m + o t͡sʰ + d a + t + sʰ a + m e tʼ + i	2 14 11 12 14 3 10 13		wiktionary
-54	Georgian	fifty four	or-m-oc-da-t-otx-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o tʰ χ + m e tʼ + i/-	two 0 twenty and 0 four ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + o tʰ χ + m e tʼ + i	2 14 11 12 14 4 10 13		wiktionary
-55	Georgian	fifty five	or-m-oc-da-t-xut-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + χ u tʰ + m e tʼ + i/-	two 0 twenty and 0 five ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + χ u tʰ + m e tʼ + i	2 14 11 12 14 5 10 13		wiktionary
-56	Georgian	fifty six	or-m-oc-da-t-ekvs-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e kʰʷ s + m e tʼ + i/-	two 0 twenty and 0 six ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + e kʰʷ s + m e tʼ + i	2 14 11 12 14 6 10 13		wiktionary
-57	Georgian	fifty seven	or-m-oc-da-t-švid-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	two 0 twenty and 0 seven ten2 nominative	o ɾ + m + o t͡sʰ + d a + t + ʃʰʷ i d + m e tʼ + i	2 14 11 12 14 7 10 13		wiktionary
-58	Georgian	fifty eight	or-m-oc-da-t-vra-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	two 0 twenty and 0 eight ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + ʷ ɾ a + m e tʼ + i	2 14 11 12 14 8 10 13		wiktionary
-59	Georgian	fifty nine	or-m-oc-da-cxra-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	two 0 twenty and 0 nine ten2 nominative	o ɾ + m + o t͡sʰ + d a + t + sʰ χ ɾ a + m e tʼ + i	2 14 11 12 14 9 10 13		wiktionary
-60	Georgian	sixty	sam-oc-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + i/-	three 0 twenty nominative	s a + m + o t͡sʰ + i	3 14 11 13		wiktionary
-61	Georgian	sixty one	sam-oc-da-ert-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + e ɾ tʰ + i/-	three 0 twenty and one nominative	s a + m + o t͡sʰ + d a + e ɾ tʰ + i	3 14 11 12 1 13		wiktionary
-62	Georgian	sixty two	sam-oc-da-or-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + o ɾ + i/-	three 0 twenty and two nominative	s a + m + o t͡sʰ + d a + o ɾ + i	3 14 11 12 2 13		wiktionary
-63	Georgian	sixty three	sam-oc-da-sam-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + s/sʰ a m/- + i/-	three 0 twenty and three nominative	s a + m + o t͡sʰ + d a + s a m + i	3 14 11 12 3 13		wiktionary
-64	Georgian	sixty four	sam-oc-da-otx-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + o tʰ χ + i/-	three 0 twenty and four nominative	s a + m + o t͡sʰ + d a + o tʰ χ + i	3 14 11 12 4 13		wiktionary
-65	Georgian	sixty five	sam-oc-da-xut-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + χ u tʰ + i/-	three 0 twenty and five nominative	s a + m + o t͡sʰ + d a + χ u tʰ + i	3 14 11 12 5 13		wiktionary
-66	Georgian	sixty six	sam-oc-da-ekvs-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + e kʰʷ s + i/-	three 0 twenty and six nominative	s a + m + o t͡sʰ + d a + e kʰʷ s + i	3 14 11 12 6 13		wiktionary
-67	Georgian	sixty seven	sam-oc-da-švid-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + ʃʰʷ/ʃʷ i d + i/-	three 0 twenty and seven nominative	s a + m + o t͡sʰ + d a + ʃʷ i d + i	3 14 11 12 7 13		wiktionary
-68	Georgian	sixty eight	sam-oc-da-rva	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + ʷ/- ɾʷ/ɾ a + i/-	three 0 twenty and eight nominative	s a + m + o t͡sʰ + d a + ɾʷ a + 	3 14 11 12 8 13		wiktionary
-69	Georgian	sixty nine	sam-oc-da-cxra	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t͡sʰ/sʰ χ ɾ a + i/-	three 0 twenty and nine nominative	s a + m + o t͡sʰ + d a + t͡sʰ χ ɾ a + 	3 14 11 12 9 13		wiktionary
-70	Georgian	seventy	sam-oc-da-at-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + a tʰ + i/-	three 0 twenty and ten nominative	s a + m + o t͡sʰ + d a + a tʰ + i	3 14 11 12 10 13		wiktionary
-71	Georgian	seventy one	sam-oc-da-t-ert-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	three 0 twenty and 0 one ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + e ɾ tʰ + m e tʼ + i	3 14 11 12 14 1 10 13		wiktionary
-72	Georgian	seventy two	sam-oc-da-t-or-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o ɾ + m e tʼ + i/-	three 0 twenty and 0 two ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + o ɾ + m e tʼ + i	3 14 11 12 14 2 10 13		wiktionary
-73	Georgian	seventy three	sam-oc-da-t-sam-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	three 0 twenty and 0 three ten2 nominative	s a + m + o t͡sʰ + d a + t + sʰ a + m e tʼ + i	3 14 11 12 14 3 10 13		wiktionary
-74	Georgian	seventy four	sam-oc-da-t-otx-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o tʰ χ + m e tʼ + i/-	three 0 twenty and 0 four ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + o tʰ χ + m e tʼ + i	3 14 11 12 14 4 10 13		wiktionary
-75	Georgian	seventy five	sam-oc-da-t-xut-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + χ u tʰ + m e tʼ + i/-	three 0 twenty and 0 five ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + χ u tʰ + m e tʼ + i	3 14 11 12 14 5 10 13		wiktionary
-76	Georgian	seventy six	sam-oc-da-t-ekvs-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e kʰʷ s + m e tʼ + i/-	three 0 twenty and 0 six ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + e kʰʷ s + m e tʼ + i	3 14 11 12 14 6 10 13		wiktionary
-77	Georgian	seventy seven	sam-oc-da-t-švid-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	three 0 twenty and 0 seven ten2 nominative	s a + m + o t͡sʰ + d a + t + ʃʰʷ i d + m e tʼ + i	3 14 11 12 14 7 10 13		wiktionary
-78	Georgian	seventy eight	sam-oc-da-t-vra-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	three 0 twenty and 0 eight ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + ʷ ɾ a + m e tʼ + i	3 14 11 12 14 8 10 13		wiktionary
-79	Georgian	seventy nine	sam-oc-da-cxra-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	three 0 twenty and 0 nine ten2 nominative	s a + m + o t͡sʰ + d a + t + sʰ χ ɾ a + m e tʼ + i	3 14 11 12 14 9 10 13		wiktionary
-80	Georgian	eighty	otx-m-oc-i	o tʰ χ + t/tʰ/m + o t͡sʰ + i/-	four 0 twenty nominative	o tʰ χ + m + o t͡sʰ + i	4 14 11 13		wiktionary
-81	Georgian	eighty one	otx-m-oc-da-ert-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + e ɾ tʰ + i/-	four 0 twenty and one nominative	o tʰ χ + m + o t͡sʰ + d a + e ɾ tʰ + i	4 14 11 12 1 13		wiktionary
-82	Georgian	eighty two	otx-m-oc-da-or-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + o ɾ + i/-	four 0 twenty and two nominative	o tʰ χ + m + o t͡sʰ + d a + o ɾ + i	4 14 11 12 2 13		wiktionary
-83	Georgian	eighty three	otx-m-oc-da-sam-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + s/sʰ a m/- + i/-	four 0 twenty and three nominative	o tʰ χ + m + o t͡sʰ + d a + s a m + i	4 14 11 12 3 13		wiktionary
-84	Georgian	eighty four	otx-m-oc-da-otx-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + o tʰ χ + i/-	four 0 twenty and four nominative	o tʰ χ + m + o t͡sʰ + d a + o tʰ χ + i	4 14 11 12 4 13		wiktionary
-85	Georgian	eighty five	otx-m-oc-da-xut-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + χ u tʰ + i/-	four 0 twenty and five nominative	o tʰ χ + m + o t͡sʰ + d a + χ u tʰ + i	4 14 11 12 5 13		wiktionary
-86	Georgian	eighty six	otx-m-oc-da-ekvs-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + e kʰʷ s + i/-	four 0 twenty and six nominative	o tʰ χ + m + o t͡sʰ + d a + e kʰʷ s + i	4 14 11 12 6 13		wiktionary
-87	Georgian	eighty seven	otx-m-oc-da-švid-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + ʃʰʷ/ʃʷ i d + i/-	four 0 twenty and seven nominative	o tʰ χ + m + o t͡sʰ + d a + ʃʷ i d + i	4 14 11 12 7 13		wiktionary
-88	Georgian	eighty eight	otx-m-oc-da-rva	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + ʷ/- ɾʷ/ɾ a + i/-	four 0 twenty and eight nominative	o tʰ χ + m + o t͡sʰ + d a + ɾʷ a + 	4 14 11 12 8 13		wiktionary
-89	Georgian	eighty nine	otx-m-oc-da-cxra	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t͡sʰ/sʰ χ ɾ a + i/-	four 0 twenty and nine nominative	o tʰ χ + m + o t͡sʰ + d a + t͡sʰ χ ɾ a + 	4 14 11 12 9 13		wiktionary
-90	Georgian	ninety	otx-m-oc-da-at-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + a tʰ + i/-	four 0 twenty and ten nominative	o tʰ χ + m + o t͡sʰ + d a + a tʰ + i	4 14 11 12 10 13		wiktionary
-91	Georgian	ninety one	otx-m-oc-da-t-ert-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	four 0 twenty and 0 one ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + e ɾ tʰ + m e tʼ + i	4 14 11 12 14 1 10 13		wiktionary
-92	Georgian	ninety two	otx-m-oc-da-t-or-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o ɾ + m e tʼ + i/-	four 0 twenty and 0 two ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + o ɾ + m e tʼ + i	4 14 11 12 14 2 10 13		wiktionary
-93	Georgian	ninety three	otx-m-oc-da-t-sam-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	four 0 twenty and 0 three ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + t + sʰ a + m e tʼ + i	4 14 11 12 14 3 10 13		wiktionary
-94	Georgian	ninety four	otx-m-oc-da-t-otx-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o tʰ χ + m e tʼ + i/-	four 0 twenty and 0 four ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + o tʰ χ + m e tʼ + i	4 14 11 12 14 4 10 13		wiktionary
-95	Georgian	ninety five	otx-m-oc-da-t-xut-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + χ u tʰ + m e tʼ + i/-	four 0 twenty and 0 five ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + χ u tʰ + m e tʼ + i	4 14 11 12 14 5 10 13		wiktionary
-96	Georgian	ninety six	otx-m-oc-da-t-ekvs-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e kʰʷ s + m e tʼ + i/-	four 0 twenty and 0 six ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + e kʰʷ s + m e tʼ + i	4 14 11 12 14 6 10 13		wiktionary
-97	Georgian	ninety seven	otx-m-oc-da-t-švid-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	four 0 twenty and 0 seven ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + t + ʃʰʷ i d + m e tʼ + i	4 14 11 12 14 7 10 13		wiktionary
-98	Georgian	ninety eight	otx-m-oc-da-t-vra-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	four 0 twenty and 0 eight ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + ʷ ɾ a + m e tʼ + i	4 14 11 12 14 8 10 13		wiktionary
-99	Georgian	ninety nine	otx-m-oc-da-cxra-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	four 0 twenty and 0 nine ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + t + sʰ χ ɾ a + m e tʼ + i	4 14 11 12 14 9 10 13		wiktionary
+1	Georgian	one	ert-i	e ɾ tʰ + i/-	one nominative	e ɾ tʰ + i	8 7		wiktionary
+2	Georgian	two	or-i	o ɾ + i/-	two nominative	o ɾ + i	15 7		wiktionary
+3	Georgian	three	sam-i	s/sʰ a m/- + i/-	three nominative	s a m + i	13 7		wiktionary
+4	Georgian	four	otx-i	o tʰ χ + i/-	four nominative	o tʰ χ + i	5 7		wiktionary
+5	Georgian	five	xut-i	χ u tʰ + i/-	five nominative	χ u tʰ + i	4 7		wiktionary
+6	Georgian	six	ekvs-i	e kʰʷ s + i/-	six nominative	e kʰʷ s + i	10 7		wiktionary
+7	Georgian	seven	švid-i	ʃʰʷ/ʃʷ i d + i/-	seven nominative	ʃʷ i d + i	9 7		wiktionary
+8	Georgian	eight	rva	ʷ/- ɾʷ/ɾ a + i/-	eight nominative	ɾʷ a + 	3 7		wiktionary
+9	Georgian	nine	cxra	t͡sʰ/sʰ χ ɾ a + i/-	nine nominative	t͡sʰ χ ɾ a + 	6 7		wiktionary
+10	Georgian	ten	at-i	a tʰ + i/-	ten nominative	a tʰ + i	11 7		wiktionary
+11	Georgian	eleven	t-ert-met’-i	t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	0 one ten2 nominative	tʰ + e ɾ tʰ + m e tʼ + i	1 8 12 7	Glossing conventions from Comrie 2021 https://lingweb.eva.mpg.de/channumerals/TypNum_Latest_21ho.pdf	wiktionary
+12	Georgian	twelve	t-or-met’-i	t/tʰ/m + o ɾ + m e tʼ + i/-	0 two ten2 nominative	tʰ + o ɾ + m e tʼ + i	1 15 12 7		wiktionary
+13	Georgian	thirteen	t-sam-met’-i	t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	0 three ten2 nominative	t + sʰ a + m e tʼ + i	1 13 12 7		wiktionary
+14	Georgian	fourteen	t-otx-met’-i	t/tʰ/m + o tʰ χ + m e tʼ + i/-	0 four ten2 nominative	tʰ + o tʰ χ + m e tʼ + i	1 5 12 7		wiktionary
+15	Georgian	fifteen	t-xut-met’-i	t/tʰ/m + χ u tʰ + m e tʼ + i/-	0 five ten2 nominative	tʰ + χ u tʰ + m e tʼ + i	1 4 12 7		wiktionary
+16	Georgian	sixteen	t-ekvs-met’-i	t/tʰ/m + e kʰʷ s + m e tʼ + i/-	0 six ten2 nominative	tʰ + e kʰʷ s + m e tʼ + i	1 10 12 7		wiktionary
+17	Georgian	seventeen	t-švid-met’-i	t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	0 seven ten2 nominative	t + ʃʰʷ i d + m e tʼ + i	1 9 12 7		wiktionary
+18	Georgian	eighteen	t-vra-met’-i	t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	0 eight ten2 nominative	tʰ + ʷ ɾ a + m e tʼ + i	1 3 12 7		wiktionary
+19	Georgian	nineteen	[t]-cxra-met’-i	t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	0 nine ten2 nominative	t + sʰ χ ɾ a + m e tʼ + i	1 6 12 7		wiktionary
+20	Georgian	twenty	oc-i	o t͡sʰ + i/-	twenty nominative	o t͡sʰ + i	14 7		wiktionary
+21	Georgian	twenty one	oc-da-ert-i	o t͡sʰ + d a + e ɾ tʰ + i/-	twenty and one nominative	o t͡sʰ + d a + e ɾ tʰ + i	14 2 8 7		wiktionary
+22	Georgian	twenty two	oc-da-or-i	o t͡sʰ + d a + o ɾ + i/-	twenty and two nominative	o t͡sʰ + d a + o ɾ + i	14 2 15 7		wiktionary
+23	Georgian	twenty three	oc-da-sam-i	o t͡sʰ + d a + s/sʰ a m/- + i/-	twenty and three nominative	o t͡sʰ + d a + s a m + i	14 2 13 7		wiktionary
+24	Georgian	twenty four	oc-da-otx-i	o t͡sʰ + d a + o tʰ χ + i/-	twenty and four nominative	o t͡sʰ + d a + o tʰ χ + i	14 2 5 7		wiktionary
+25	Georgian	twenty five	oc-da-xut-i	o t͡sʰ + d a + χ u tʰ + i/-	twenty and five nominative	o t͡sʰ + d a + χ u tʰ + i	14 2 4 7		wiktionary
+26	Georgian	twenty six	oc-da-ekvs-i	o t͡sʰ + d a + e kʰʷ s + i/-	twenty and six nominative	o t͡sʰ + d a + e kʰʷ s + i	14 2 10 7		wiktionary
+27	Georgian	twenty seven	oc-da-švid-i	o t͡sʰ + d a + ʃʰʷ/ʃʷ i d + i/-	twenty and seven nominative	o t͡sʰ + d a + ʃʷ i d + i	14 2 9 7		wiktionary
+28	Georgian	twenty eight	oc-da-rva	o t͡sʰ + d a + ʷ/- ɾʷ/ɾ a + i/-	twenty and eight nominative	o t͡sʰ + d a + ɾʷ a + 	14 2 3 7		wiktionary
+29	Georgian	twenty nine	oc-da-cxra	o t͡sʰ + d a + t͡sʰ/sʰ χ ɾ a + i/-	twenty and nine nominative	o t͡sʰ + d a + t͡sʰ χ ɾ a + 	14 2 6 7		wiktionary
+30	Georgian	thirty	oc-da-at-i	o t͡sʰ + d a + a tʰ + i/-	twenty and ten nominative	o t͡sʰ + d a + a tʰ + i	14 2 11 7		wiktionary
+31	Georgian	thirty one	oc-da-t-ert-met’-i	o t͡sʰ + d a + t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	twenty and 0 one ten2 nominative	o t͡sʰ + d a + tʰ + e ɾ tʰ + m e tʼ + i	14 2 1 8 12 7		wiktionary
+32	Georgian	thirty two	oc-da-t-or-met’-i	o t͡sʰ + d a + t/tʰ/m + o ɾ + m e tʼ + i/-	twenty and 0 two ten2 nominative	o t͡sʰ + d a + tʰ + o ɾ + m e tʼ + i	14 2 1 15 12 7		wiktionary
+33	Georgian	thirty three	oc-da-t-sam-met’-i	o t͡sʰ + d a + t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	twenty and 0 three ten2 nominative	o t͡sʰ + d a + t + sʰ a + m e tʼ + i	14 2 1 13 12 7		wiktionary
+34	Georgian	thirty four	oc-da-t-otx-met’-i	o t͡sʰ + d a + t/tʰ/m + o tʰ χ + m e tʼ + i/-	twenty and 0 four ten2 nominative	o t͡sʰ + d a + tʰ + o tʰ χ + m e tʼ + i	14 2 1 5 12 7		wiktionary
+35	Georgian	thirty five	oc-da-t-xut-met’-i	o t͡sʰ + d a + t/tʰ/m + χ u tʰ + m e tʼ + i/-	twenty and 0 five ten2 nominative	o t͡sʰ + d a + tʰ + χ u tʰ + m e tʼ + i	14 2 1 4 12 7		wiktionary
+36	Georgian	thirty six	oc-da-t-ekvs-met’-i	o t͡sʰ + d a + t/tʰ/m + e kʰʷ s + m e tʼ + i/-	twenty and 0 six ten2 nominative	o t͡sʰ + d a + tʰ + e kʰʷ s + m e tʼ + i	14 2 1 10 12 7		wiktionary
+37	Georgian	thirty seven	oc-da-t-švid-met’-i	o t͡sʰ + d a + t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	twenty and 0 seven ten2 nominative	o t͡sʰ + d a + t + ʃʰʷ i d + m e tʼ + i	14 2 1 9 12 7		wiktionary
+38	Georgian	thirty eight	oc-da-t-vra-met’-i	o t͡sʰ + d a + t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	twenty and 0 eight ten2 nominative	o t͡sʰ + d a + tʰ + ʷ ɾ a + m e tʼ + i	14 2 1 3 12 7		wiktionary
+39	Georgian	thirty nine	oc-da-cxra-met’-i	o t͡sʰ + d a + t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	twenty and 0 nine ten2 nominative	o t͡sʰ + d a + t + sʰ χ ɾ a + m e tʼ + i	14 2 1 6 12 7		wiktionary
+40	Georgian	forty	or-m-oc-i	o ɾ + t/tʰ/m + o t͡sʰ + i/-	two 0 twenty nominative	o ɾ + m + o t͡sʰ + i	15 1 14 7		wiktionary
+41	Georgian	forty one	or-m-oc-da-ert-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + e ɾ tʰ + i/-	two 0 twenty and one nominative	o ɾ + m + o t͡sʰ + d a + e ɾ tʰ + i	15 1 14 2 8 7		wiktionary
+42	Georgian	forty two	or-m-oc-da-or-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + o ɾ + i/-	two 0 twenty and two nominative	o ɾ + m + o t͡sʰ + d a + o ɾ + i	15 1 14 2 15 7		wiktionary
+43	Georgian	forty three	or-m-oc-da-sam-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + s/sʰ a m/- + i/-	two 0 twenty and three nominative	o ɾ + m + o t͡sʰ + d a + s a m + i	15 1 14 2 13 7		wiktionary
+44	Georgian	forty four	or-m-oc-da-otx-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + o tʰ χ + i/-	two 0 twenty and four nominative	o ɾ + m + o t͡sʰ + d a + o tʰ χ + i	15 1 14 2 5 7		wiktionary
+45	Georgian	forty five	or-m-oc-da-xut-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + χ u tʰ + i/-	two 0 twenty and five nominative	o ɾ + m + o t͡sʰ + d a + χ u tʰ + i	15 1 14 2 4 7		wiktionary
+46	Georgian	forty six	or-m-oc-da-ekvs-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + e kʰʷ s + i/-	two 0 twenty and six nominative	o ɾ + m + o t͡sʰ + d a + e kʰʷ s + i	15 1 14 2 10 7		wiktionary
+47	Georgian	forty seven	or-m-oc-da-švid-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + ʃʰʷ/ʃʷ i d + i/-	two 0 twenty and seven nominative	o ɾ + m + o t͡sʰ + d a + ʃʷ i d + i	15 1 14 2 9 7		wiktionary
+48	Georgian	forty eight	or-m-oc-da-rva	o ɾ + t/tʰ/m + o t͡sʰ + d a + ʷ/- ɾʷ/ɾ a + i/-	two 0 twenty and eight nominative	o ɾ + m + o t͡sʰ + d a + ɾʷ a + 	15 1 14 2 3 7		wiktionary
+49	Georgian	forty nine	or-m-oc-da-cxra	o ɾ + t/tʰ/m + o t͡sʰ + d a + t͡sʰ/sʰ χ ɾ a + i/-	two 0 twenty and nine nominative	o ɾ + m + o t͡sʰ + d a + t͡sʰ χ ɾ a + 	15 1 14 2 6 7		wiktionary
+50	Georgian	fifty	or-m-oc-da-at-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + a tʰ + i/-	two 0 twenty and ten nominative	o ɾ + m + o t͡sʰ + d a + a tʰ + i	15 1 14 2 11 7		wiktionary
+51	Georgian	fifty one	or-m-oc-da-t-ert-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	two 0 twenty and 0 one ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + e ɾ tʰ + m e tʼ + i	15 1 14 2 1 8 12 7		wiktionary
+52	Georgian	fifty two	or-m-oc-da-t-or-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o ɾ + m e tʼ + i/-	two 0 twenty and 0 two ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + o ɾ + m e tʼ + i	15 1 14 2 1 15 12 7		wiktionary
+53	Georgian	fifty three	or-m-oc-da-t-sam-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	two 0 twenty and 0 three ten2 nominative	o ɾ + m + o t͡sʰ + d a + t + sʰ a + m e tʼ + i	15 1 14 2 1 13 12 7		wiktionary
+54	Georgian	fifty four	or-m-oc-da-t-otx-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o tʰ χ + m e tʼ + i/-	two 0 twenty and 0 four ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + o tʰ χ + m e tʼ + i	15 1 14 2 1 5 12 7		wiktionary
+55	Georgian	fifty five	or-m-oc-da-t-xut-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + χ u tʰ + m e tʼ + i/-	two 0 twenty and 0 five ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + χ u tʰ + m e tʼ + i	15 1 14 2 1 4 12 7		wiktionary
+56	Georgian	fifty six	or-m-oc-da-t-ekvs-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e kʰʷ s + m e tʼ + i/-	two 0 twenty and 0 six ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + e kʰʷ s + m e tʼ + i	15 1 14 2 1 10 12 7		wiktionary
+57	Georgian	fifty seven	or-m-oc-da-t-švid-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	two 0 twenty and 0 seven ten2 nominative	o ɾ + m + o t͡sʰ + d a + t + ʃʰʷ i d + m e tʼ + i	15 1 14 2 1 9 12 7		wiktionary
+58	Georgian	fifty eight	or-m-oc-da-t-vra-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	two 0 twenty and 0 eight ten2 nominative	o ɾ + m + o t͡sʰ + d a + tʰ + ʷ ɾ a + m e tʼ + i	15 1 14 2 1 3 12 7		wiktionary
+59	Georgian	fifty nine	or-m-oc-da-cxra-met’-i	o ɾ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	two 0 twenty and 0 nine ten2 nominative	o ɾ + m + o t͡sʰ + d a + t + sʰ χ ɾ a + m e tʼ + i	15 1 14 2 1 6 12 7		wiktionary
+60	Georgian	sixty	sam-oc-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + i/-	three 0 twenty nominative	s a + m + o t͡sʰ + i	13 1 14 7		wiktionary
+61	Georgian	sixty one	sam-oc-da-ert-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + e ɾ tʰ + i/-	three 0 twenty and one nominative	s a + m + o t͡sʰ + d a + e ɾ tʰ + i	13 1 14 2 8 7		wiktionary
+62	Georgian	sixty two	sam-oc-da-or-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + o ɾ + i/-	three 0 twenty and two nominative	s a + m + o t͡sʰ + d a + o ɾ + i	13 1 14 2 15 7		wiktionary
+63	Georgian	sixty three	sam-oc-da-sam-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + s/sʰ a m/- + i/-	three 0 twenty and three nominative	s a + m + o t͡sʰ + d a + s a m + i	13 1 14 2 13 7		wiktionary
+64	Georgian	sixty four	sam-oc-da-otx-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + o tʰ χ + i/-	three 0 twenty and four nominative	s a + m + o t͡sʰ + d a + o tʰ χ + i	13 1 14 2 5 7		wiktionary
+65	Georgian	sixty five	sam-oc-da-xut-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + χ u tʰ + i/-	three 0 twenty and five nominative	s a + m + o t͡sʰ + d a + χ u tʰ + i	13 1 14 2 4 7		wiktionary
+66	Georgian	sixty six	sam-oc-da-ekvs-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + e kʰʷ s + i/-	three 0 twenty and six nominative	s a + m + o t͡sʰ + d a + e kʰʷ s + i	13 1 14 2 10 7		wiktionary
+67	Georgian	sixty seven	sam-oc-da-švid-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + ʃʰʷ/ʃʷ i d + i/-	three 0 twenty and seven nominative	s a + m + o t͡sʰ + d a + ʃʷ i d + i	13 1 14 2 9 7		wiktionary
+68	Georgian	sixty eight	sam-oc-da-rva	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + ʷ/- ɾʷ/ɾ a + i/-	three 0 twenty and eight nominative	s a + m + o t͡sʰ + d a + ɾʷ a + 	13 1 14 2 3 7		wiktionary
+69	Georgian	sixty nine	sam-oc-da-cxra	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t͡sʰ/sʰ χ ɾ a + i/-	three 0 twenty and nine nominative	s a + m + o t͡sʰ + d a + t͡sʰ χ ɾ a + 	13 1 14 2 6 7		wiktionary
+70	Georgian	seventy	sam-oc-da-at-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + a tʰ + i/-	three 0 twenty and ten nominative	s a + m + o t͡sʰ + d a + a tʰ + i	13 1 14 2 11 7		wiktionary
+71	Georgian	seventy one	sam-oc-da-t-ert-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	three 0 twenty and 0 one ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + e ɾ tʰ + m e tʼ + i	13 1 14 2 1 8 12 7		wiktionary
+72	Georgian	seventy two	sam-oc-da-t-or-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o ɾ + m e tʼ + i/-	three 0 twenty and 0 two ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + o ɾ + m e tʼ + i	13 1 14 2 1 15 12 7		wiktionary
+73	Georgian	seventy three	sam-oc-da-t-sam-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	three 0 twenty and 0 three ten2 nominative	s a + m + o t͡sʰ + d a + t + sʰ a + m e tʼ + i	13 1 14 2 1 13 12 7		wiktionary
+74	Georgian	seventy four	sam-oc-da-t-otx-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o tʰ χ + m e tʼ + i/-	three 0 twenty and 0 four ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + o tʰ χ + m e tʼ + i	13 1 14 2 1 5 12 7		wiktionary
+75	Georgian	seventy five	sam-oc-da-t-xut-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + χ u tʰ + m e tʼ + i/-	three 0 twenty and 0 five ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + χ u tʰ + m e tʼ + i	13 1 14 2 1 4 12 7		wiktionary
+76	Georgian	seventy six	sam-oc-da-t-ekvs-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e kʰʷ s + m e tʼ + i/-	three 0 twenty and 0 six ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + e kʰʷ s + m e tʼ + i	13 1 14 2 1 10 12 7		wiktionary
+77	Georgian	seventy seven	sam-oc-da-t-švid-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	three 0 twenty and 0 seven ten2 nominative	s a + m + o t͡sʰ + d a + t + ʃʰʷ i d + m e tʼ + i	13 1 14 2 1 9 12 7		wiktionary
+78	Georgian	seventy eight	sam-oc-da-t-vra-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	three 0 twenty and 0 eight ten2 nominative	s a + m + o t͡sʰ + d a + tʰ + ʷ ɾ a + m e tʼ + i	13 1 14 2 1 3 12 7		wiktionary
+79	Georgian	seventy nine	sam-oc-da-cxra-met’-i	s/sʰ a m/- + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	three 0 twenty and 0 nine ten2 nominative	s a + m + o t͡sʰ + d a + t + sʰ χ ɾ a + m e tʼ + i	13 1 14 2 1 6 12 7		wiktionary
+80	Georgian	eighty	otx-m-oc-i	o tʰ χ + t/tʰ/m + o t͡sʰ + i/-	four 0 twenty nominative	o tʰ χ + m + o t͡sʰ + i	5 1 14 7		wiktionary
+81	Georgian	eighty one	otx-m-oc-da-ert-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + e ɾ tʰ + i/-	four 0 twenty and one nominative	o tʰ χ + m + o t͡sʰ + d a + e ɾ tʰ + i	5 1 14 2 8 7		wiktionary
+82	Georgian	eighty two	otx-m-oc-da-or-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + o ɾ + i/-	four 0 twenty and two nominative	o tʰ χ + m + o t͡sʰ + d a + o ɾ + i	5 1 14 2 15 7		wiktionary
+83	Georgian	eighty three	otx-m-oc-da-sam-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + s/sʰ a m/- + i/-	four 0 twenty and three nominative	o tʰ χ + m + o t͡sʰ + d a + s a m + i	5 1 14 2 13 7		wiktionary
+84	Georgian	eighty four	otx-m-oc-da-otx-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + o tʰ χ + i/-	four 0 twenty and four nominative	o tʰ χ + m + o t͡sʰ + d a + o tʰ χ + i	5 1 14 2 5 7		wiktionary
+85	Georgian	eighty five	otx-m-oc-da-xut-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + χ u tʰ + i/-	four 0 twenty and five nominative	o tʰ χ + m + o t͡sʰ + d a + χ u tʰ + i	5 1 14 2 4 7		wiktionary
+86	Georgian	eighty six	otx-m-oc-da-ekvs-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + e kʰʷ s + i/-	four 0 twenty and six nominative	o tʰ χ + m + o t͡sʰ + d a + e kʰʷ s + i	5 1 14 2 10 7		wiktionary
+87	Georgian	eighty seven	otx-m-oc-da-švid-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + ʃʰʷ/ʃʷ i d + i/-	four 0 twenty and seven nominative	o tʰ χ + m + o t͡sʰ + d a + ʃʷ i d + i	5 1 14 2 9 7		wiktionary
+88	Georgian	eighty eight	otx-m-oc-da-rva	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + ʷ/- ɾʷ/ɾ a + i/-	four 0 twenty and eight nominative	o tʰ χ + m + o t͡sʰ + d a + ɾʷ a + 	5 1 14 2 3 7		wiktionary
+89	Georgian	eighty nine	otx-m-oc-da-cxra	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t͡sʰ/sʰ χ ɾ a + i/-	four 0 twenty and nine nominative	o tʰ χ + m + o t͡sʰ + d a + t͡sʰ χ ɾ a + 	5 1 14 2 6 7		wiktionary
+90	Georgian	ninety	otx-m-oc-da-at-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + a tʰ + i/-	four 0 twenty and ten nominative	o tʰ χ + m + o t͡sʰ + d a + a tʰ + i	5 1 14 2 11 7		wiktionary
+91	Georgian	ninety one	otx-m-oc-da-t-ert-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e ɾ tʰ + m e tʼ + i/-	four 0 twenty and 0 one ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + e ɾ tʰ + m e tʼ + i	5 1 14 2 1 8 12 7		wiktionary
+92	Georgian	ninety two	otx-m-oc-da-t-or-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o ɾ + m e tʼ + i/-	four 0 twenty and 0 two ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + o ɾ + m e tʼ + i	5 1 14 2 1 15 12 7		wiktionary
+93	Georgian	ninety three	otx-m-oc-da-t-sam-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + s/sʰ a m/- + m e tʼ + i/-	four 0 twenty and 0 three ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + t + sʰ a + m e tʼ + i	5 1 14 2 1 13 12 7		wiktionary
+94	Georgian	ninety four	otx-m-oc-da-t-otx-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + o tʰ χ + m e tʼ + i/-	four 0 twenty and 0 four ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + o tʰ χ + m e tʼ + i	5 1 14 2 1 5 12 7		wiktionary
+95	Georgian	ninety five	otx-m-oc-da-t-xut-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + χ u tʰ + m e tʼ + i/-	four 0 twenty and 0 five ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + χ u tʰ + m e tʼ + i	5 1 14 2 1 4 12 7		wiktionary
+96	Georgian	ninety six	otx-m-oc-da-t-ekvs-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + e kʰʷ s + m e tʼ + i/-	four 0 twenty and 0 six ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + e kʰʷ s + m e tʼ + i	5 1 14 2 1 10 12 7		wiktionary
+97	Georgian	ninety seven	otx-m-oc-da-t-švid-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʃʰʷ/ʃʷ i d + m e tʼ + i/-	four 0 twenty and 0 seven ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + t + ʃʰʷ i d + m e tʼ + i	5 1 14 2 1 9 12 7		wiktionary
+98	Georgian	ninety eight	otx-m-oc-da-t-vra-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + ʷ/- ɾʷ/ɾ a + m e tʼ + i/-	four 0 twenty and 0 eight ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + tʰ + ʷ ɾ a + m e tʼ + i	5 1 14 2 1 3 12 7		wiktionary
+99	Georgian	ninety nine	otx-m-oc-da-cxra-met’-i	o tʰ χ + t/tʰ/m + o t͡sʰ + d a + t/tʰ/m + t͡sʰ/sʰ χ ɾ a + m e tʼ + i/-	four 0 twenty and 0 nine ten2 nominative	o tʰ χ + m + o t͡sʰ + d a + t + sʰ χ ɾ a + m e tʼ + i	5 1 14 2 1 6 12 7		wiktionary

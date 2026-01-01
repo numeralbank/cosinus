@@ -1,100 +1,100 @@
 ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
-1	Lamani	one	ek	e k	one	e k	1		TrailLamani1970
-2	Lamani	two	di	d i	two	d i	2		TrailLamani1970
-3	Lamani	three	tin	t i n	three	t i n	3		TrailLamani1970
-4	Lamani	four	caar	ʧ aː r	four	ʧ aː r	4		TrailLamani1970
-5	Lamani	five	paanc	p aː n ʧ	five	p aː n ʧ	5		TrailLamani1970
-6	Lamani	six	cho	ʧʰ o	six	ʧʰ o	6		TrailLamani1970
-7	Lamani	seven	saat	s aː t	seven	s aː t	7		TrailLamani1970
-8	Lamani	eight	aaT	aː ʈ	eight	aː ʈ	8		TrailLamani1970
-9	Lamani	nine	naw	n a ʊ	nine	n a ʊ	9		TrailLamani1970
-10	Lamani	ten	das	d a s	ten	d a s	10		TrailLamani1970
-11	Lamani	eleven	gyaara	g j aː + r a	one2 ten4	g j aː + r a	1 10		TrailLamani1970
-12	Lamani	twelve	baara	b aː + r a	two2 ten4	b aː + r a	2 10		TrailLamani1970
-13	Lamani	thirteen	tera	t e + r a	three2 ten4	t e + r a	3 10		TrailLamani1970
-14	Lamani	fourteen	cawda	ʧ a ʊ + d a	four2 ten2	ʧ a ʊ + d a	4 10		TrailLamani1970
-15	Lamani	fifteen	pandra	p a n d + r a	five2 ten4	p a n d + r a	5 10		TrailLamani1970
-16	Lamani	sixteen	sola	s o + l a	six2 ten3	s o + l a	6 10		TrailLamani1970
-17	Lamani	seventeen	satara	s a t a + r a	seven2 ten4	s a t a + r a	7 10		TrailLamani1970
-18	Lamani	eighteen	aTara	a ʈ a + r a	eight2 ten4	a ʈ a + r a	8 10		TrailLamani1970
-19	Lamani	nineteen	wagNis	ʋ a g ɳ + i s	minus twenty2	ʋ a g ɳ + i s	28 20		TrailLamani1970
-20	Lamani	twenty	vis	v i s	twenty	v i s	20		TrailLamani1970
-21	Lamani	twenty one	vis an ek	v i s + a n + e k	twenty and one	v i s + a n + e k	20 29 1		TrailLamani1970
-22	Lamani	twenty two	vis an di	v i s + a n + d i	twenty and two	v i s + a n + d i	20 29 2		TrailLamani1970
-23	Lamani	twenty three	vis an tin	v i s + a n + t i n	twenty and three	v i s + a n + t i n	20 29 3		TrailLamani1970
-24	Lamani	twenty four	vis an caar	v i s + a n + ʧ aː r	twenty and four	v i s + a n + ʧ aː r	20 29 4		TrailLamani1970
-25	Lamani	twenty five	vis an paanc	v i s + a n + p aː n ʧ	twenty and five	v i s + a n + p aː n ʧ	20 29 5		TrailLamani1970
-26	Lamani	twenty six	vis an cho	v i s + a n + ʧʰ o	twenty and six	v i s + a n + ʧʰ o	20 29 6		TrailLamani1970
-27	Lamani	twenty seven	vis an saat	v i s + a n + s aː t	twenty and seven	v i s + a n + s aː t	20 29 7		TrailLamani1970
-28	Lamani	twenty eight	vis an aaT	v i s + a n + aː ʈ	twenty and eight	v i s + a n + aː ʈ	20 29 8		TrailLamani1970
-29	Lamani	twenty nine	vis an naw	v i s + a n + n a ʊ	twenty and nine	v i s + a n + n a ʊ	20 29 9		TrailLamani1970
-30	Lamani	thirty	tis	t i s	thirty	t i s	21		TrailLamani1970
-31	Lamani	thirty one	tis an ek	t i s + a n + e k	thirty and one	t i s + a n + e k	21 29 1		TrailLamani1970
-32	Lamani	thirty two	tis an di	t i s + a n + d i	thirty and two	t i s + a n + d i	21 29 2		TrailLamani1970
-33	Lamani	thirty three	tis an tin	t i s + a n + t i n	thirty and three	t i s + a n + t i n	21 29 3		TrailLamani1970
-34	Lamani	thirty four	tis an caar	t i s + a n + ʧ aː r	thirty and four	t i s + a n + ʧ aː r	21 29 4		TrailLamani1970
-35	Lamani	thirty five	tis an paanc	t i s + a n + p aː n ʧ	thirty and five	t i s + a n + p aː n ʧ	21 29 5		TrailLamani1970
-36	Lamani	thirty six	tis an cho	t i s + a n + ʧʰ o	thirty and six	t i s + a n + ʧʰ o	21 29 6		TrailLamani1970
-37	Lamani	thirty seven	tis an saat	t i s + a n + s aː t	thirty and seven	t i s + a n + s aː t	21 29 7		TrailLamani1970
-38	Lamani	thirty eight	tis an aaT	t i s + a n + aː ʈ	thirty and eight	t i s + a n + aː ʈ	21 29 8		TrailLamani1970
-39	Lamani	thirty nine	tis an naw	t i s + a n + n a ʊ	thirty and nine	t i s + a n + n a ʊ	21 29 9		TrailLamani1970
-40	Lamani	forty	caaLis	ʧ aː ɭ i s	forty	ʧ aː ɭ i s	22		TrailLamani1970
-41	Lamani	forty one	caaLis an ek	ʧ aː ɭ i s + a n + e k	forty and one	ʧ aː ɭ i s + a n + e k	22 29 1		TrailLamani1970
-42	Lamani	forty two	caaLis an di	ʧ aː ɭ i s + a n + d i	forty and two	ʧ aː ɭ i s + a n + d i	22 29 2		TrailLamani1970
-43	Lamani	forty three	caaLis an tin	ʧ aː ɭ i s + a n + t i n	forty and three	ʧ aː ɭ i s + a n + t i n	22 29 3		TrailLamani1970
-44	Lamani	forty four	caaLis an caar	ʧ aː ɭ i s + a n + ʧ aː r	forty and four	ʧ aː ɭ i s + a n + ʧ aː r	22 29 4		TrailLamani1970
-45	Lamani	forty five	caaLis an paanc	ʧ aː ɭ i s + a n + p aː n ʧ	forty and five	ʧ aː ɭ i s + a n + p aː n ʧ	22 29 5		TrailLamani1970
-46	Lamani	forty six	caaLis an cho	ʧ aː ɭ i s + a n + ʧʰ o	forty and six	ʧ aː ɭ i s + a n + ʧʰ o	22 29 6		TrailLamani1970
-47	Lamani	forty seven	caaLis an saat	ʧ aː ɭ i s + a n + s aː t	forty and seven	ʧ aː ɭ i s + a n + s aː t	22 29 7		TrailLamani1970
-48	Lamani	forty eight	caaLis an aaT	ʧ aː ɭ i s + a n + aː ʈ	forty and eight	ʧ aː ɭ i s + a n + aː ʈ	22 29 8		TrailLamani1970
-49	Lamani	forty nine	caaLis an naw	ʧ aː ɭ i s + a n + n a ʊ	forty and nine	ʧ aː ɭ i s + a n + n a ʊ	22 29 9		TrailLamani1970
-50	Lamani	fifty	pacaas	p a ʧ aː s	fifty	p a ʧ aː s	23		TrailLamani1970
-51	Lamani	fifty one	pacaas an ek	p a ʧ aː s + a n + e k	fifty and one	p a ʧ aː s + a n + e k	23 29 1		TrailLamani1970
-52	Lamani	fifty two	pacaas an di	p a ʧ aː s + a n + d i	fifty and two	p a ʧ aː s + a n + d i	23 29 2		TrailLamani1970
-53	Lamani	fifty three	pacaas an tin	p a ʧ aː s + a n + t i n	fifty and three	p a ʧ aː s + a n + t i n	23 29 3		TrailLamani1970
-54	Lamani	fifty four	pacaas an caar	p a ʧ aː s + a n + ʧ aː r	fifty and four	p a ʧ aː s + a n + ʧ aː r	23 29 4		TrailLamani1970
-55	Lamani	fifty five	pacaas an paanc	p a ʧ aː s + a n + p aː n ʧ	fifty and five	p a ʧ aː s + a n + p aː n ʧ	23 29 5		TrailLamani1970
-56	Lamani	fifty six	pacaas an cho	p a ʧ aː s + a n + ʧʰ o	fifty and six	p a ʧ aː s + a n + ʧʰ o	23 29 6		TrailLamani1970
-57	Lamani	fifty seven	pacaas an saat	p a ʧ aː s + a n + s aː t	fifty and seven	p a ʧ aː s + a n + s aː t	23 29 7		TrailLamani1970
-58	Lamani	fifty eight	pacaas an aaT	p a ʧ aː s + a n + aː ʈ	fifty and eight	p a ʧ aː s + a n + aː ʈ	23 29 8		TrailLamani1970
-59	Lamani	fifty nine	pacaas an naw	p a ʧ aː s + a n + n a ʊ	fifty and nine	p a ʧ aː s + a n + n a ʊ	23 29 9		TrailLamani1970
-60	Lamani	sixty	saaT	s aː ʈ	sixty	s aː ʈ	24		TrailLamani1970
-61	Lamani	sixty one	saaT an ek	s aː ʈ + a n + e k	sixty and one	s aː ʈ + a n + e k	24 29 1		TrailLamani1970
-62	Lamani	sixty two	saaT an di	s aː ʈ + a n + d i	sixty and two	s aː ʈ + a n + d i	24 29 2		TrailLamani1970
-63	Lamani	sixty three	saaT an tin	s aː ʈ + a n + t i n	sixty and three	s aː ʈ + a n + t i n	24 29 3		TrailLamani1970
-64	Lamani	sixty four	saaT an caar	s aː ʈ + a n + ʧ aː r	sixty and four	s aː ʈ + a n + ʧ aː r	24 29 4		TrailLamani1970
-65	Lamani	sixty five	saaT an paanc	s aː ʈ + a n + p aː n ʧ	sixty and five	s aː ʈ + a n + p aː n ʧ	24 29 5		TrailLamani1970
-66	Lamani	sixty six	saaT an cho	s aː ʈ + a n + ʧʰ o	sixty and six	s aː ʈ + a n + ʧʰ o	24 29 6		TrailLamani1970
-67	Lamani	sixty seven	saaT an saat	s aː ʈ + a n + s aː t	sixty and seven	s aː ʈ + a n + s aː t	24 29 7		TrailLamani1970
-68	Lamani	sixty eight	saaT an aaT	s aː ʈ + a n + aː ʈ	sixty and eight	s aː ʈ + a n + aː ʈ	24 29 8		TrailLamani1970
-69	Lamani	sixty nine	saaT an naw	s aː ʈ + a n + n a ʊ	sixty and nine	s aː ʈ + a n + n a ʊ	24 29 9		TrailLamani1970
-70	Lamani	seventy	sattar	s a t t a r	seventy	s a t t a r	25		TrailLamani1970
-71	Lamani	seventy one	sattar an ek	s a t t a r + a n + e k	seventy and one	s a t t a r + a n + e k	25 29 1		TrailLamani1970
-72	Lamani	seventy two	sattar an di	s a t t a r + a n + d i	seventy and two	s a t t a r + a n + d i	25 29 2		TrailLamani1970
-73	Lamani	seventy three	sattar an tin	s a t t a r + a n + t i n	seventy and three	s a t t a r + a n + t i n	25 29 3		TrailLamani1970
-74	Lamani	seventy four	sattar an caar	s a t t a r + a n + ʧ aː r	seventy and four	s a t t a r + a n + ʧ aː r	25 29 4		TrailLamani1970
-75	Lamani	seventy five	sattar an paanc	s a t t a r + a n + p aː n ʧ	seventy and five	s a t t a r + a n + p aː n ʧ	25 29 5		TrailLamani1970
-76	Lamani	seventy six	sattar an cho	s a t t a r + a n + ʧʰ o	seventy and six	s a t t a r + a n + ʧʰ o	25 29 6		TrailLamani1970
-77	Lamani	seventy seven	sattar an saat	s a t t a r + a n + s aː t	seventy and seven	s a t t a r + a n + s aː t	25 29 7		TrailLamani1970
-78	Lamani	seventy eight	sattar an aaT	s a t t a r + a n + aː ʈ	seventy and eight	s a t t a r + a n + aː ʈ	25 29 8		TrailLamani1970
-79	Lamani	seventy nine	sattar an naw	s a t t a r + a n + n a ʊ	seventy and nine	s a t t a r + a n + n a ʊ	25 29 9		TrailLamani1970
-80	Lamani	eighty	aỹsi	a ɪ̃ s i	eighty	a ɪ̃ s i	26		TrailLamani1970
-81	Lamani	eighty one	aỹsi an ek	a ɪ̃ s i + a n + e k	eighty and one	a ɪ̃ s i + a n + e k	26 29 1		TrailLamani1970
-82	Lamani	eighty two	aỹsi an di	a ɪ̃ s i + a n + d i	eighty and two	a ɪ̃ s i + a n + d i	26 29 2		TrailLamani1970
-83	Lamani	eighty three	aỹsi an tin	a ɪ̃ s i + a n + t i n	eighty and three	a ɪ̃ s i + a n + t i n	26 29 3		TrailLamani1970
-84	Lamani	eighty four	aỹsi an caar	a ɪ̃ s i + a n + ʧ aː r	eighty and four	a ɪ̃ s i + a n + ʧ aː r	26 29 4		TrailLamani1970
-85	Lamani	eighty five	aỹsi an paanc	a ɪ̃ s i + a n + p aː n ʧ	eighty and five	a ɪ̃ s i + a n + p aː n ʧ	26 29 5		TrailLamani1970
-86	Lamani	eighty six	aỹsi an cho	a ɪ̃ s i + a n + ʧʰ o	eighty and six	a ɪ̃ s i + a n + ʧʰ o	26 29 6		TrailLamani1970
-87	Lamani	eighty seven	aỹsi an saat	a ɪ̃ s i + a n + s aː t	eighty and seven	a ɪ̃ s i + a n + s aː t	26 29 7		TrailLamani1970
-88	Lamani	eighty eight	aỹsi an aaT	a ɪ̃ s i + a n + aː ʈ	eighty and eight	a ɪ̃ s i + a n + aː ʈ	26 29 8		TrailLamani1970
-89	Lamani	eighty nine	aỹsi an naw	a ɪ̃ s i + a n + n a ʊ	eighty and nine	a ɪ̃ s i + a n + n a ʊ	26 29 9		TrailLamani1970
-90	Lamani	ninety	nawwad	n a ʊ ʋ a d	ninety	n a ʊ ʋ a d	27		TrailLamani1970
-91	Lamani	ninety one	nawwad an ek	n a ʊ ʋ a d + a n + e k	ninety and one	n a ʊ ʋ a d + a n + e k	27 29 1		TrailLamani1970
-92	Lamani	ninety two	nawwad an di	n a ʊ ʋ a d + a n + d i	ninety and two	n a ʊ ʋ a d + a n + d i	27 29 2		TrailLamani1970
-93	Lamani	ninety three	nawwad an tin	n a ʊ ʋ a d + a n + t i n	ninety and three	n a ʊ ʋ a d + a n + t i n	27 29 3		TrailLamani1970
-94	Lamani	ninety four	nawwad an caar	n a ʊ ʋ a d + a n + ʧ aː r	ninety and four	n a ʊ ʋ a d + a n + ʧ aː r	27 29 4		TrailLamani1970
-95	Lamani	ninety five	nawwad an paanc	n a ʊ ʋ a d + a n + p aː n ʧ	ninety and five	n a ʊ ʋ a d + a n + p aː n ʧ	27 29 5		TrailLamani1970
-96	Lamani	ninety six	nawwad an cho	n a ʊ ʋ a d + a n + ʧʰ o	ninety and six	n a ʊ ʋ a d + a n + ʧʰ o	27 29 6		TrailLamani1970
-97	Lamani	ninety seven	nawwad an saat	n a ʊ ʋ a d + a n + s aː t	ninety and seven	n a ʊ ʋ a d + a n + s aː t	27 29 7		TrailLamani1970
-98	Lamani	ninety eight	nawwad an aaT	n a ʊ ʋ a d + a n + aː ʈ	ninety and eight	n a ʊ ʋ a d + a n + aː ʈ	27 29 8		TrailLamani1970
-99	Lamani	ninety nine	nawwad an naw	n a ʊ ʋ a d + a n + n a ʊ	ninety and nine	n a ʊ ʋ a d + a n + n a ʊ	27 29 9		TrailLamani1970
+1	Lamani	one	ek	e k	one	e k	14		TrailLamani1970
+2	Lamani	two	di	d i	two	d i	31		TrailLamani1970
+3	Lamani	three	tin	t i n	three	t i n	27		TrailLamani1970
+4	Lamani	four	caar	ʧ aː r	four	ʧ aː r	9		TrailLamani1970
+5	Lamani	five	paanc	p aː n ʧ	five	p aː n ʧ	6		TrailLamani1970
+6	Lamani	six	cho	ʧʰ o	six	ʧʰ o	19		TrailLamani1970
+7	Lamani	seven	saat	s aː t	seven	s aː t	16		TrailLamani1970
+8	Lamani	eight	aaT	aː ʈ	eight	aː ʈ	2		TrailLamani1970
+9	Lamani	nine	naw	n a ʊ	nine	n a ʊ	12		TrailLamani1970
+10	Lamani	ten	das	d a s	ten	d a s	22		TrailLamani1970
+11	Lamani	eleven	gyaara	g j aː + r a	one2 ten4	g j aː + r a	15 25		TrailLamani1970
+12	Lamani	twelve	baara	b aː + r a	two2 ten4	b aː + r a	32 25		TrailLamani1970
+13	Lamani	thirteen	tera	t e + r a	three2 ten4	t e + r a	28 25		TrailLamani1970
+14	Lamani	fourteen	cawda	ʧ a ʊ + d a	four2 ten2	ʧ a ʊ + d a	10 23		TrailLamani1970
+15	Lamani	fifteen	pandra	p a n d + r a	five2 ten4	p a n d + r a	7 25		TrailLamani1970
+16	Lamani	sixteen	sola	s o + l a	six2 ten3	s o + l a	20 24		TrailLamani1970
+17	Lamani	seventeen	satara	s a t a + r a	seven2 ten4	s a t a + r a	17 25		TrailLamani1970
+18	Lamani	eighteen	aTara	a ʈ a + r a	eight2 ten4	a ʈ a + r a	3 25		TrailLamani1970
+19	Lamani	nineteen	wagNis	ʋ a g ɳ + i s	minus twenty2	ʋ a g ɳ + i s	11 30		TrailLamani1970
+20	Lamani	twenty	vis	v i s	twenty	v i s	29		TrailLamani1970
+21	Lamani	twenty one	vis an ek	v i s + a n + e k	twenty and one	v i s + a n + e k	29 1 14		TrailLamani1970
+22	Lamani	twenty two	vis an di	v i s + a n + d i	twenty and two	v i s + a n + d i	29 1 31		TrailLamani1970
+23	Lamani	twenty three	vis an tin	v i s + a n + t i n	twenty and three	v i s + a n + t i n	29 1 27		TrailLamani1970
+24	Lamani	twenty four	vis an caar	v i s + a n + ʧ aː r	twenty and four	v i s + a n + ʧ aː r	29 1 9		TrailLamani1970
+25	Lamani	twenty five	vis an paanc	v i s + a n + p aː n ʧ	twenty and five	v i s + a n + p aː n ʧ	29 1 6		TrailLamani1970
+26	Lamani	twenty six	vis an cho	v i s + a n + ʧʰ o	twenty and six	v i s + a n + ʧʰ o	29 1 19		TrailLamani1970
+27	Lamani	twenty seven	vis an saat	v i s + a n + s aː t	twenty and seven	v i s + a n + s aː t	29 1 16		TrailLamani1970
+28	Lamani	twenty eight	vis an aaT	v i s + a n + aː ʈ	twenty and eight	v i s + a n + aː ʈ	29 1 2		TrailLamani1970
+29	Lamani	twenty nine	vis an naw	v i s + a n + n a ʊ	twenty and nine	v i s + a n + n a ʊ	29 1 12		TrailLamani1970
+30	Lamani	thirty	tis	t i s	thirty	t i s	26		TrailLamani1970
+31	Lamani	thirty one	tis an ek	t i s + a n + e k	thirty and one	t i s + a n + e k	26 1 14		TrailLamani1970
+32	Lamani	thirty two	tis an di	t i s + a n + d i	thirty and two	t i s + a n + d i	26 1 31		TrailLamani1970
+33	Lamani	thirty three	tis an tin	t i s + a n + t i n	thirty and three	t i s + a n + t i n	26 1 27		TrailLamani1970
+34	Lamani	thirty four	tis an caar	t i s + a n + ʧ aː r	thirty and four	t i s + a n + ʧ aː r	26 1 9		TrailLamani1970
+35	Lamani	thirty five	tis an paanc	t i s + a n + p aː n ʧ	thirty and five	t i s + a n + p aː n ʧ	26 1 6		TrailLamani1970
+36	Lamani	thirty six	tis an cho	t i s + a n + ʧʰ o	thirty and six	t i s + a n + ʧʰ o	26 1 19		TrailLamani1970
+37	Lamani	thirty seven	tis an saat	t i s + a n + s aː t	thirty and seven	t i s + a n + s aː t	26 1 16		TrailLamani1970
+38	Lamani	thirty eight	tis an aaT	t i s + a n + aː ʈ	thirty and eight	t i s + a n + aː ʈ	26 1 2		TrailLamani1970
+39	Lamani	thirty nine	tis an naw	t i s + a n + n a ʊ	thirty and nine	t i s + a n + n a ʊ	26 1 12		TrailLamani1970
+40	Lamani	forty	caaLis	ʧ aː ɭ i s	forty	ʧ aː ɭ i s	8		TrailLamani1970
+41	Lamani	forty one	caaLis an ek	ʧ aː ɭ i s + a n + e k	forty and one	ʧ aː ɭ i s + a n + e k	8 1 14		TrailLamani1970
+42	Lamani	forty two	caaLis an di	ʧ aː ɭ i s + a n + d i	forty and two	ʧ aː ɭ i s + a n + d i	8 1 31		TrailLamani1970
+43	Lamani	forty three	caaLis an tin	ʧ aː ɭ i s + a n + t i n	forty and three	ʧ aː ɭ i s + a n + t i n	8 1 27		TrailLamani1970
+44	Lamani	forty four	caaLis an caar	ʧ aː ɭ i s + a n + ʧ aː r	forty and four	ʧ aː ɭ i s + a n + ʧ aː r	8 1 9		TrailLamani1970
+45	Lamani	forty five	caaLis an paanc	ʧ aː ɭ i s + a n + p aː n ʧ	forty and five	ʧ aː ɭ i s + a n + p aː n ʧ	8 1 6		TrailLamani1970
+46	Lamani	forty six	caaLis an cho	ʧ aː ɭ i s + a n + ʧʰ o	forty and six	ʧ aː ɭ i s + a n + ʧʰ o	8 1 19		TrailLamani1970
+47	Lamani	forty seven	caaLis an saat	ʧ aː ɭ i s + a n + s aː t	forty and seven	ʧ aː ɭ i s + a n + s aː t	8 1 16		TrailLamani1970
+48	Lamani	forty eight	caaLis an aaT	ʧ aː ɭ i s + a n + aː ʈ	forty and eight	ʧ aː ɭ i s + a n + aː ʈ	8 1 2		TrailLamani1970
+49	Lamani	forty nine	caaLis an naw	ʧ aː ɭ i s + a n + n a ʊ	forty and nine	ʧ aː ɭ i s + a n + n a ʊ	8 1 12		TrailLamani1970
+50	Lamani	fifty	pacaas	p a ʧ aː s	fifty	p a ʧ aː s	5		TrailLamani1970
+51	Lamani	fifty one	pacaas an ek	p a ʧ aː s + a n + e k	fifty and one	p a ʧ aː s + a n + e k	5 1 14		TrailLamani1970
+52	Lamani	fifty two	pacaas an di	p a ʧ aː s + a n + d i	fifty and two	p a ʧ aː s + a n + d i	5 1 31		TrailLamani1970
+53	Lamani	fifty three	pacaas an tin	p a ʧ aː s + a n + t i n	fifty and three	p a ʧ aː s + a n + t i n	5 1 27		TrailLamani1970
+54	Lamani	fifty four	pacaas an caar	p a ʧ aː s + a n + ʧ aː r	fifty and four	p a ʧ aː s + a n + ʧ aː r	5 1 9		TrailLamani1970
+55	Lamani	fifty five	pacaas an paanc	p a ʧ aː s + a n + p aː n ʧ	fifty and five	p a ʧ aː s + a n + p aː n ʧ	5 1 6		TrailLamani1970
+56	Lamani	fifty six	pacaas an cho	p a ʧ aː s + a n + ʧʰ o	fifty and six	p a ʧ aː s + a n + ʧʰ o	5 1 19		TrailLamani1970
+57	Lamani	fifty seven	pacaas an saat	p a ʧ aː s + a n + s aː t	fifty and seven	p a ʧ aː s + a n + s aː t	5 1 16		TrailLamani1970
+58	Lamani	fifty eight	pacaas an aaT	p a ʧ aː s + a n + aː ʈ	fifty and eight	p a ʧ aː s + a n + aː ʈ	5 1 2		TrailLamani1970
+59	Lamani	fifty nine	pacaas an naw	p a ʧ aː s + a n + n a ʊ	fifty and nine	p a ʧ aː s + a n + n a ʊ	5 1 12		TrailLamani1970
+60	Lamani	sixty	saaT	s aː ʈ	sixty	s aː ʈ	21		TrailLamani1970
+61	Lamani	sixty one	saaT an ek	s aː ʈ + a n + e k	sixty and one	s aː ʈ + a n + e k	21 1 14		TrailLamani1970
+62	Lamani	sixty two	saaT an di	s aː ʈ + a n + d i	sixty and two	s aː ʈ + a n + d i	21 1 31		TrailLamani1970
+63	Lamani	sixty three	saaT an tin	s aː ʈ + a n + t i n	sixty and three	s aː ʈ + a n + t i n	21 1 27		TrailLamani1970
+64	Lamani	sixty four	saaT an caar	s aː ʈ + a n + ʧ aː r	sixty and four	s aː ʈ + a n + ʧ aː r	21 1 9		TrailLamani1970
+65	Lamani	sixty five	saaT an paanc	s aː ʈ + a n + p aː n ʧ	sixty and five	s aː ʈ + a n + p aː n ʧ	21 1 6		TrailLamani1970
+66	Lamani	sixty six	saaT an cho	s aː ʈ + a n + ʧʰ o	sixty and six	s aː ʈ + a n + ʧʰ o	21 1 19		TrailLamani1970
+67	Lamani	sixty seven	saaT an saat	s aː ʈ + a n + s aː t	sixty and seven	s aː ʈ + a n + s aː t	21 1 16		TrailLamani1970
+68	Lamani	sixty eight	saaT an aaT	s aː ʈ + a n + aː ʈ	sixty and eight	s aː ʈ + a n + aː ʈ	21 1 2		TrailLamani1970
+69	Lamani	sixty nine	saaT an naw	s aː ʈ + a n + n a ʊ	sixty and nine	s aː ʈ + a n + n a ʊ	21 1 12		TrailLamani1970
+70	Lamani	seventy	sattar	s a t t a r	seventy	s a t t a r	18		TrailLamani1970
+71	Lamani	seventy one	sattar an ek	s a t t a r + a n + e k	seventy and one	s a t t a r + a n + e k	18 1 14		TrailLamani1970
+72	Lamani	seventy two	sattar an di	s a t t a r + a n + d i	seventy and two	s a t t a r + a n + d i	18 1 31		TrailLamani1970
+73	Lamani	seventy three	sattar an tin	s a t t a r + a n + t i n	seventy and three	s a t t a r + a n + t i n	18 1 27		TrailLamani1970
+74	Lamani	seventy four	sattar an caar	s a t t a r + a n + ʧ aː r	seventy and four	s a t t a r + a n + ʧ aː r	18 1 9		TrailLamani1970
+75	Lamani	seventy five	sattar an paanc	s a t t a r + a n + p aː n ʧ	seventy and five	s a t t a r + a n + p aː n ʧ	18 1 6		TrailLamani1970
+76	Lamani	seventy six	sattar an cho	s a t t a r + a n + ʧʰ o	seventy and six	s a t t a r + a n + ʧʰ o	18 1 19		TrailLamani1970
+77	Lamani	seventy seven	sattar an saat	s a t t a r + a n + s aː t	seventy and seven	s a t t a r + a n + s aː t	18 1 16		TrailLamani1970
+78	Lamani	seventy eight	sattar an aaT	s a t t a r + a n + aː ʈ	seventy and eight	s a t t a r + a n + aː ʈ	18 1 2		TrailLamani1970
+79	Lamani	seventy nine	sattar an naw	s a t t a r + a n + n a ʊ	seventy and nine	s a t t a r + a n + n a ʊ	18 1 12		TrailLamani1970
+80	Lamani	eighty	aỹsi	a ɪ̃ s i	eighty	a ɪ̃ s i	4		TrailLamani1970
+81	Lamani	eighty one	aỹsi an ek	a ɪ̃ s i + a n + e k	eighty and one	a ɪ̃ s i + a n + e k	4 1 14		TrailLamani1970
+82	Lamani	eighty two	aỹsi an di	a ɪ̃ s i + a n + d i	eighty and two	a ɪ̃ s i + a n + d i	4 1 31		TrailLamani1970
+83	Lamani	eighty three	aỹsi an tin	a ɪ̃ s i + a n + t i n	eighty and three	a ɪ̃ s i + a n + t i n	4 1 27		TrailLamani1970
+84	Lamani	eighty four	aỹsi an caar	a ɪ̃ s i + a n + ʧ aː r	eighty and four	a ɪ̃ s i + a n + ʧ aː r	4 1 9		TrailLamani1970
+85	Lamani	eighty five	aỹsi an paanc	a ɪ̃ s i + a n + p aː n ʧ	eighty and five	a ɪ̃ s i + a n + p aː n ʧ	4 1 6		TrailLamani1970
+86	Lamani	eighty six	aỹsi an cho	a ɪ̃ s i + a n + ʧʰ o	eighty and six	a ɪ̃ s i + a n + ʧʰ o	4 1 19		TrailLamani1970
+87	Lamani	eighty seven	aỹsi an saat	a ɪ̃ s i + a n + s aː t	eighty and seven	a ɪ̃ s i + a n + s aː t	4 1 16		TrailLamani1970
+88	Lamani	eighty eight	aỹsi an aaT	a ɪ̃ s i + a n + aː ʈ	eighty and eight	a ɪ̃ s i + a n + aː ʈ	4 1 2		TrailLamani1970
+89	Lamani	eighty nine	aỹsi an naw	a ɪ̃ s i + a n + n a ʊ	eighty and nine	a ɪ̃ s i + a n + n a ʊ	4 1 12		TrailLamani1970
+90	Lamani	ninety	nawwad	n a ʊ ʋ a d	ninety	n a ʊ ʋ a d	13		TrailLamani1970
+91	Lamani	ninety one	nawwad an ek	n a ʊ ʋ a d + a n + e k	ninety and one	n a ʊ ʋ a d + a n + e k	13 1 14		TrailLamani1970
+92	Lamani	ninety two	nawwad an di	n a ʊ ʋ a d + a n + d i	ninety and two	n a ʊ ʋ a d + a n + d i	13 1 31		TrailLamani1970
+93	Lamani	ninety three	nawwad an tin	n a ʊ ʋ a d + a n + t i n	ninety and three	n a ʊ ʋ a d + a n + t i n	13 1 27		TrailLamani1970
+94	Lamani	ninety four	nawwad an caar	n a ʊ ʋ a d + a n + ʧ aː r	ninety and four	n a ʊ ʋ a d + a n + ʧ aː r	13 1 9		TrailLamani1970
+95	Lamani	ninety five	nawwad an paanc	n a ʊ ʋ a d + a n + p aː n ʧ	ninety and five	n a ʊ ʋ a d + a n + p aː n ʧ	13 1 6		TrailLamani1970
+96	Lamani	ninety six	nawwad an cho	n a ʊ ʋ a d + a n + ʧʰ o	ninety and six	n a ʊ ʋ a d + a n + ʧʰ o	13 1 19		TrailLamani1970
+97	Lamani	ninety seven	nawwad an saat	n a ʊ ʋ a d + a n + s aː t	ninety and seven	n a ʊ ʋ a d + a n + s aː t	13 1 16		TrailLamani1970
+98	Lamani	ninety eight	nawwad an aaT	n a ʊ ʋ a d + a n + aː ʈ	ninety and eight	n a ʊ ʋ a d + a n + aː ʈ	13 1 2		TrailLamani1970
+99	Lamani	ninety nine	nawwad an naw	n a ʊ ʋ a d + a n + n a ʊ	ninety and nine	n a ʊ ʋ a d + a n + n a ʊ	13 1 12		TrailLamani1970
