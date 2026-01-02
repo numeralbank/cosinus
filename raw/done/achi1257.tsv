@@ -1,100 +1,100 @@
 ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
-1	Acehnese	one	sa	s a	one	s a	1		wiktionary
-2	Acehnese	two	duwa	d u w a	two	d u w a	2		wiktionary
-3	Acehnese	three	lhɛə	l h ɛ ə	three	l h ɛ ə	3		wiktionary
-4	Acehnese	four	pɯət	p ɯ ə t	four	p ɯ ə t	4		wiktionary
-5	Acehnese	five	limʌŋ	l i m ʌ ŋ	five	l i m ʌ ŋ	5		wiktionary
-6	Acehnese	six	nam	n a m	six	n a m	6		wiktionary
+1	Acehnese	one	sa	s a	one	s a	5		wiktionary
+2	Acehnese	two	duwa	d u w a	two	d u w a	12		wiktionary
+3	Acehnese	three	lhɛə	l h ɛ ə	three	l h ɛ ə	11		wiktionary
+4	Acehnese	four	pɯət	p ɯ ə t	four	p ɯ ə t	3		wiktionary
+5	Acehnese	five	limʌŋ	l i m ʌ ŋ	five	l i m ʌ ŋ	2		wiktionary
+6	Acehnese	six	nam	n a m	six	n a m	8		wiktionary
 7	Acehnese	seven	tuɟoh	t u ɟ o h	seven	t u ɟ o h	7		wiktionary
-8	Acehnese	eight	lapan	l a p a n	eight	l a p a n	8		wiktionary
-9	Acehnese	nine	sikurɯəŋ	s i + k u r ɯ ə ŋ	one2? nine	s i + k u r ɯ ə ŋ	12 9	According to Durie (1984:162), si= is a morphologically (not phonologically) conditioned allomorph of sa	wiktionary
-10	Acehnese	ten	siploh	s i + p l o h	one2? ten	s i + p l o h	12 10		wiktionary
-11	Acehnese	eleven	siblah	s i + b l a h	one2? ten2	s i + b l a h	12 11		wiktionary
-12	Acehnese	twelve	duwa blah	d u w a + b l a h	two ten2	d u w a + b l a h	2 11		wiktionary
-13	Acehnese	thirteen	lhɛə blah	l h ɛ ə + b l a h	three ten2	l h ɛ ə + b l a h	3 11		wiktionary
-14	Acehnese	fourteen	pɯət blah	p ɯ ə t + b l a h	four ten2	p ɯ ə t + b l a h	4 11		wiktionary
-15	Acehnese	fifteen	limʌŋ blah	l i m ʌ ŋ + b l a h	five ten2	l i m ʌ ŋ + b l a h	5 11		wiktionary
-16	Acehnese	sixteen	nam blah	n a m + b l a h	six ten2	n a m + b l a h	6 11		wiktionary
-17	Acehnese	seventeen	tuɟoh blah	t u ɟ o h + b l a h	seven ten2	t u ɟ o h + b l a h	7 11		wiktionary
-18	Acehnese	eighteen	lapan blah	l a p a n + b l a h	eight ten2	l a p a n + b l a h	8 11		wiktionary
-19	Acehnese	nineteen	sikurɯəŋ blah	s i + k u r ɯ ə ŋ + b l a h	one2? nine ten2	s i + k u r ɯ ə ŋ + b l a h	12 9 11		wiktionary
-20	Acehnese	twenty	duwa ploh	d u w a + p l o h	two ten	d u w a + p l o h	2 10		wiktionary
-21	Acehnese	twenty one	duwa ploh sa	d u w a + p l o h + s a	two ten one	d u w a + p l o h + s a	2 10 1		wiktionary
-22	Acehnese	twenty two	duwa ploh duwa	d u w a + p l o h + d u w a	two ten two	d u w a + p l o h + d u w a	2 10 2		wiktionary
-23	Acehnese	twenty three	duwa ploh lhɛə	d u w a + p l o h + l h ɛ ə	two ten three	d u w a + p l o h + l h ɛ ə	2 10 3		wiktionary
-24	Acehnese	twenty four	duwa ploh pɯət	d u w a + p l o h + p ɯ ə t	two ten four	d u w a + p l o h + p ɯ ə t	2 10 4		wiktionary
-25	Acehnese	twenty five	duwa ploh limʌŋ	d u w a + p l o h + l i m ʌ ŋ	two ten five	d u w a + p l o h + l i m ʌ ŋ	2 10 5		wiktionary
-26	Acehnese	twenty six	duwa ploh nam	d u w a + p l o h + n a m	two ten six	d u w a + p l o h + n a m	2 10 6		wiktionary
-27	Acehnese	twenty seven	duwa ploh tuɟoh	d u w a + p l o h + t u ɟ o h	two ten seven	d u w a + p l o h + t u ɟ o h	2 10 7		wiktionary
-28	Acehnese	twenty eight	duwa ploh lapan	d u w a + p l o h + l a p a n	two ten eight	d u w a + p l o h + l a p a n	2 10 8		wiktionary
-29	Acehnese	twenty nine	duwa ploh sikurɯəŋ	d u w a + p l o h + s i + k u r ɯ ə ŋ	two ten one2? nine	d u w a + p l o h + s i + k u r ɯ ə ŋ	2 10 12 9		wiktionary
-30	Acehnese	thirty	lhɛə ploh 	l h ɛ ə + p l o h	three ten	l h ɛ ə + p l o h	3 10		wiktionary
-31	Acehnese	thirty one	lhɛə ploh sa	l h ɛ ə + p l o h + s a	three ten one	l h ɛ ə + p l o h + s a	3 10 1		wiktionary
-32	Acehnese	thirty two	lhɛə ploh duwa	l h ɛ ə + p l o h + d u w a	three ten two	l h ɛ ə + p l o h + d u w a	3 10 2		wiktionary
-33	Acehnese	thirty three	lhɛə ploh lhɛə	l h ɛ ə + p l o h + l h ɛ ə	three ten three	l h ɛ ə + p l o h + l h ɛ ə	3 10 3		wiktionary
-34	Acehnese	thirty four	lhɛə ploh pɯət	l h ɛ ə + p l o h + p ɯ ə t	three ten four	l h ɛ ə + p l o h + p ɯ ə t	3 10 4		wiktionary
-35	Acehnese	thirty five	lhɛə ploh limʌŋ	l h ɛ ə + p l o h + l i m ʌ ŋ	three ten five	l h ɛ ə + p l o h + l i m ʌ ŋ	3 10 5		wiktionary
-36	Acehnese	thirty six	lhɛə ploh nam	l h ɛ ə + p l o h + n a m	three ten six	l h ɛ ə + p l o h + n a m	3 10 6		wiktionary
-37	Acehnese	thirty seven	lhɛə ploh tuɟoh	l h ɛ ə + p l o h + t u ɟ o h	three ten seven	l h ɛ ə + p l o h + t u ɟ o h	3 10 7		wiktionary
-38	Acehnese	thirty eight	lhɛə ploh lapan	l h ɛ ə + p l o h + l a p a n	three ten eight	l h ɛ ə + p l o h + l a p a n	3 10 8		wiktionary
-39	Acehnese	thirty nine	lhɛə ploh sikurɯəŋ	l h ɛ ə + p l o h + s i + k u r ɯ ə ŋ	three ten one2? nine	l h ɛ ə + p l o h + s i + k u r ɯ ə ŋ	3 10 12 9		wiktionary
-40	Acehnese	forty	pɯət ploh 	p ɯ ə t + p l o h	four ten	p ɯ ə t + p l o h	4 10		wiktionary
-41	Acehnese	forty one	pɯət ploh sa	p ɯ ə t + p l o h + s a	four ten one	p ɯ ə t + p l o h + s a	4 10 1		wiktionary
-42	Acehnese	forty two	pɯət ploh duwa	p ɯ ə t + p l o h + d u w a	four ten two	p ɯ ə t + p l o h + d u w a	4 10 2		wiktionary
-43	Acehnese	forty three	pɯət ploh lhɛə	p ɯ ə t + p l o h + l h ɛ ə	four ten three	p ɯ ə t + p l o h + l h ɛ ə	4 10 3		wiktionary
-44	Acehnese	forty four	pɯət ploh pɯət	p ɯ ə t + p l o h + p ɯ ə t	four ten four	p ɯ ə t + p l o h + p ɯ ə t	4 10 4		wiktionary
-45	Acehnese	forty five	pɯət ploh limʌŋ	p ɯ ə t + p l o h + l i m ʌ ŋ	four ten five	p ɯ ə t + p l o h + l i m ʌ ŋ	4 10 5		wiktionary
-46	Acehnese	forty six	pɯət ploh nam	p ɯ ə t + p l o h + n a m	four ten six	p ɯ ə t + p l o h + n a m	4 10 6		wiktionary
-47	Acehnese	forty seven	pɯət ploh tuɟoh	p ɯ ə t + p l o h + t u ɟ o h	four ten seven	p ɯ ə t + p l o h + t u ɟ o h	4 10 7		wiktionary
-48	Acehnese	forty eight	pɯət ploh lapan	p ɯ ə t + p l o h + l a p a n	four ten eight	p ɯ ə t + p l o h + l a p a n	4 10 8		wiktionary
-49	Acehnese	forty nine	pɯət ploh sikurɯəŋ	p ɯ ə t + p l o h + s i + k u r ɯ ə ŋ	four ten one2? nine	p ɯ ə t + p l o h + s i + k u r ɯ ə ŋ	4 10 12 9		wiktionary
-50	Acehnese	fifty	limʌŋ ploh 	l i m ʌ ŋ + p l o h	five ten	l i m ʌ ŋ + p l o h	5 10		wiktionary
-51	Acehnese	fifty one	limʌŋ ploh sa	l i m ʌ ŋ + p l o h + s a	five ten one	l i m ʌ ŋ + p l o h + s a	5 10 1		wiktionary
-52	Acehnese	fifty two	limʌŋ ploh duwa	l i m ʌ ŋ + p l o h + d u w a	five ten two	l i m ʌ ŋ + p l o h + d u w a	5 10 2		wiktionary
-53	Acehnese	fifty three	limʌŋ ploh lhɛə	l i m ʌ ŋ + p l o h + l h ɛ ə	five ten three	l i m ʌ ŋ + p l o h + l h ɛ ə	5 10 3		wiktionary
-54	Acehnese	fifty four	limʌŋ ploh pɯət	l i m ʌ ŋ + p l o h + p ɯ ə t	five ten four	l i m ʌ ŋ + p l o h + p ɯ ə t	5 10 4		wiktionary
-55	Acehnese	fifty five	limʌŋ ploh limʌŋ	l i m ʌ ŋ + p l o h + l i m ʌ ŋ	five ten five	l i m ʌ ŋ + p l o h + l i m ʌ ŋ	5 10 5		wiktionary
-56	Acehnese	fifty six	limʌŋ ploh nam	l i m ʌ ŋ + p l o h + n a m	five ten six	l i m ʌ ŋ + p l o h + n a m	5 10 6		wiktionary
-57	Acehnese	fifty seven	limʌŋ ploh tuɟoh	l i m ʌ ŋ + p l o h + t u ɟ o h	five ten seven	l i m ʌ ŋ + p l o h + t u ɟ o h	5 10 7		wiktionary
-58	Acehnese	fifty eight	limʌŋ ploh lapan	l i m ʌ ŋ + p l o h + l a p a n	five ten eight	l i m ʌ ŋ + p l o h + l a p a n	5 10 8		wiktionary
-59	Acehnese	fifty nine	limʌŋ ploh sikurɯəŋ	l i m ʌ ŋ + p l o h + s i + k u r ɯ ə ŋ	five ten one2? nine	l i m ʌ ŋ + p l o h + s i + k u r ɯ ə ŋ	5 10 12 9		wiktionary
-60	Acehnese	sixty	nam ploh 	n a m + p l o h	six ten	n a m + p l o h	6 10		wiktionary
-61	Acehnese	sixty one	nam ploh sa	n a m + p l o h + s a	six ten one	n a m + p l o h + s a	6 10 1		wiktionary
-62	Acehnese	sixty two	nam ploh duwa	n a m + p l o h + d u w a	six ten two	n a m + p l o h + d u w a	6 10 2		wiktionary
-63	Acehnese	sixty three	nam ploh lhɛə	n a m + p l o h + l h ɛ ə	six ten three	n a m + p l o h + l h ɛ ə	6 10 3		wiktionary
-64	Acehnese	sixty four	nam ploh pɯət	n a m + p l o h + p ɯ ə t	six ten four	n a m + p l o h + p ɯ ə t	6 10 4		wiktionary
-65	Acehnese	sixty five	nam ploh limʌŋ	n a m + p l o h + l i m ʌ ŋ	six ten five	n a m + p l o h + l i m ʌ ŋ	6 10 5		wiktionary
-66	Acehnese	sixty six	nam ploh nam	n a m + p l o h + n a m	six ten six	n a m + p l o h + n a m	6 10 6		wiktionary
-67	Acehnese	sixty seven	nam ploh tuɟoh	n a m + p l o h + t u ɟ o h	six ten seven	n a m + p l o h + t u ɟ o h	6 10 7		wiktionary
-68	Acehnese	sixty eight	nam ploh lapan	n a m + p l o h + l a p a n	six ten eight	n a m + p l o h + l a p a n	6 10 8		wiktionary
-69	Acehnese	sixty nine	nam ploh sikurɯəŋ	n a m + p l o h + s i + k u r ɯ ə ŋ	six ten one2? nine	n a m + p l o h + s i + k u r ɯ ə ŋ	6 10 12 9		wiktionary
-70	Acehnese	seventy	tuɟoh ploh 	t u ɟ o h + p l o h	seven ten	t u ɟ o h + p l o h	7 10		wiktionary
-71	Acehnese	seventy one	tuɟoh ploh sa	t u ɟ o h + p l o h + s a	seven ten one	t u ɟ o h + p l o h + s a	7 10 1		wiktionary
-72	Acehnese	seventy two	tuɟoh ploh duwa	t u ɟ o h + p l o h + d u w a	seven ten two	t u ɟ o h + p l o h + d u w a	7 10 2		wiktionary
-73	Acehnese	seventy three	tuɟoh ploh lhɛə	t u ɟ o h + p l o h + l h ɛ ə	seven ten three	t u ɟ o h + p l o h + l h ɛ ə	7 10 3		wiktionary
-74	Acehnese	seventy four	tuɟoh ploh pɯət	t u ɟ o h + p l o h + p ɯ ə t	seven ten four	t u ɟ o h + p l o h + p ɯ ə t	7 10 4		wiktionary
-75	Acehnese	seventy five	tuɟoh ploh limʌŋ	t u ɟ o h + p l o h + l i m ʌ ŋ	seven ten five	t u ɟ o h + p l o h + l i m ʌ ŋ	7 10 5		wiktionary
-76	Acehnese	seventy six	tuɟoh ploh nam	t u ɟ o h + p l o h + n a m	seven ten six	t u ɟ o h + p l o h + n a m	7 10 6		wiktionary
-77	Acehnese	seventy seven	tuɟoh ploh tuɟoh	t u ɟ o h + p l o h + t u ɟ o h	seven ten seven	t u ɟ o h + p l o h + t u ɟ o h	7 10 7		wiktionary
-78	Acehnese	seventy eight	tuɟoh ploh lapan	t u ɟ o h + p l o h + l a p a n	seven ten eight	t u ɟ o h + p l o h + l a p a n	7 10 8		wiktionary
-79	Acehnese	seventy nine	tuɟoh ploh sikurɯəŋ	t u ɟ o h + p l o h + s i + k u r ɯ ə ŋ	seven ten one2? nine	t u ɟ o h + p l o h + s i + k u r ɯ ə ŋ	7 10 12 9		wiktionary
-80	Acehnese	eighty	lapan ploh 	l a p a n + p l o h	eight ten	l a p a n + p l o h	8 10		wiktionary
-81	Acehnese	eighty one	lapan ploh sa	l a p a n + p l o h + s a	eight ten one	l a p a n + p l o h + s a	8 10 1		wiktionary
-82	Acehnese	eighty two	lapan ploh duwa	l a p a n + p l o h + d u w a	eight ten two	l a p a n + p l o h + d u w a	8 10 2		wiktionary
-83	Acehnese	eighty three	lapan ploh lhɛə	l a p a n + p l o h + l h ɛ ə	eight ten three	l a p a n + p l o h + l h ɛ ə	8 10 3		wiktionary
-84	Acehnese	eighty four	lapan ploh pɯət	l a p a n + p l o h + p ɯ ə t	eight ten four	l a p a n + p l o h + p ɯ ə t	8 10 4		wiktionary
-85	Acehnese	eighty five	lapan ploh limʌŋ	l a p a n + p l o h + l i m ʌ ŋ	eight ten five	l a p a n + p l o h + l i m ʌ ŋ	8 10 5		wiktionary
-86	Acehnese	eighty six	lapan ploh nam	l a p a n + p l o h + n a m	eight ten six	l a p a n + p l o h + n a m	8 10 6		wiktionary
-87	Acehnese	eighty seven	lapan ploh tuɟoh	l a p a n + p l o h + t u ɟ o h	eight ten seven	l a p a n + p l o h + t u ɟ o h	8 10 7		wiktionary
-88	Acehnese	eighty eight	lapan ploh lapan	l a p a n + p l o h + l a p a n	eight ten eight	l a p a n + p l o h + l a p a n	8 10 8		wiktionary
-89	Acehnese	eighty nine	lapan ploh sikurɯəŋ	l a p a n + p l o h + s i + k u r ɯ ə ŋ	eight ten one2? nine	l a p a n + p l o h + s i + k u r ɯ ə ŋ	8 10 12 9		wiktionary
-90	Acehnese	ninety	sikurɯəŋ ploh 	s i + k u r ɯ ə ŋ + p l o h	one2? nine ten	s i + k u r ɯ ə ŋ + p l o h	12 9 10		wiktionary
-91	Acehnese	ninety one	sikurɯəŋ ploh sa	s i + k u r ɯ ə ŋ + p l o h + s a	one2? nine ten one	s i + k u r ɯ ə ŋ + p l o h + s a	12 9 10 1		wiktionary
-92	Acehnese	ninety two	sikurɯəŋ ploh duwa	s i + k u r ɯ ə ŋ + p l o h + d u w a	one2? nine ten two	s i + k u r ɯ ə ŋ + p l o h + d u w a	12 9 10 2		wiktionary
-93	Acehnese	ninety three	sikurɯəŋ ploh lhɛə	s i + k u r ɯ ə ŋ + p l o h + l h ɛ ə	one2? nine ten three	s i + k u r ɯ ə ŋ + p l o h + l h ɛ ə	12 9 10 3		wiktionary
-94	Acehnese	ninety four	sikurɯəŋ ploh pɯət	s i + k u r ɯ ə ŋ + p l o h + p ɯ ə t	one2? nine ten four	s i + k u r ɯ ə ŋ + p l o h + p ɯ ə t	12 9 10 4		wiktionary
-95	Acehnese	ninety five	sikurɯəŋ ploh limʌŋ	s i + k u r ɯ ə ŋ + p l o h + l i m ʌ ŋ	one2? nine ten five	s i + k u r ɯ ə ŋ + p l o h + l i m ʌ ŋ	12 9 10 5		wiktionary
-96	Acehnese	ninety six	sikurɯəŋ ploh nam	s i + k u r ɯ ə ŋ + p l o h + n a m	one2? nine ten six	s i + k u r ɯ ə ŋ + p l o h + n a m	12 9 10 6		wiktionary
-97	Acehnese	ninety seven	sikurɯəŋ ploh tuɟoh	s i + k u r ɯ ə ŋ + p l o h + t u ɟ o h	one2? nine ten seven	s i + k u r ɯ ə ŋ + p l o h + t u ɟ o h	12 9 10 7		wiktionary
-98	Acehnese	ninety eight	sikurɯəŋ ploh lapan	s i + k u r ɯ ə ŋ + p l o h + l a p a n	one2? nine ten eight	s i + k u r ɯ ə ŋ + p l o h + l a p a n	12 9 10 8		wiktionary
-99	Acehnese	ninety nine	sikurɯəŋ ploh sikurɯəŋ	s i + k u r ɯ ə ŋ + p l o h + s i + k u r ɯ ə ŋ	one2? nine ten one2? nine	s i + k u r ɯ ə ŋ + p l o h + s i + k u r ɯ ə ŋ	12 9 10 12 9		wiktionary
+8	Acehnese	eight	lapan	l a p a n	eight	l a p a n	1		wiktionary
+9	Acehnese	nine	sikurɯəŋ	s i + k u r ɯ ə ŋ	one2? nine	s i + k u r ɯ ə ŋ	6 4	According to Durie (1984:162), si= is a morphologically (not phonologically) conditioned allomorph of sa	wiktionary
+10	Acehnese	ten	siploh	s i + p l o h	one2? ten	s i + p l o h	6 9		wiktionary
+11	Acehnese	eleven	siblah	s i + b l a h	one2? ten2	s i + b l a h	6 10		wiktionary
+12	Acehnese	twelve	duwa blah	d u w a + b l a h	two ten2	d u w a + b l a h	12 10		wiktionary
+13	Acehnese	thirteen	lhɛə blah	l h ɛ ə + b l a h	three ten2	l h ɛ ə + b l a h	11 10		wiktionary
+14	Acehnese	fourteen	pɯət blah	p ɯ ə t + b l a h	four ten2	p ɯ ə t + b l a h	3 10		wiktionary
+15	Acehnese	fifteen	limʌŋ blah	l i m ʌ ŋ + b l a h	five ten2	l i m ʌ ŋ + b l a h	2 10		wiktionary
+16	Acehnese	sixteen	nam blah	n a m + b l a h	six ten2	n a m + b l a h	8 10		wiktionary
+17	Acehnese	seventeen	tuɟoh blah	t u ɟ o h + b l a h	seven ten2	t u ɟ o h + b l a h	7 10		wiktionary
+18	Acehnese	eighteen	lapan blah	l a p a n + b l a h	eight ten2	l a p a n + b l a h	1 10		wiktionary
+19	Acehnese	nineteen	sikurɯəŋ blah	s i + k u r ɯ ə ŋ + b l a h	one2? nine ten2	s i + k u r ɯ ə ŋ + b l a h	6 4 10		wiktionary
+20	Acehnese	twenty	duwa ploh	d u w a + p l o h	two ten	d u w a + p l o h	12 9		wiktionary
+21	Acehnese	twenty one	duwa ploh sa	d u w a + p l o h + s a	two ten one	d u w a + p l o h + s a	12 9 5		wiktionary
+22	Acehnese	twenty two	duwa ploh duwa	d u w a + p l o h + d u w a	two ten two	d u w a + p l o h + d u w a	12 9 12		wiktionary
+23	Acehnese	twenty three	duwa ploh lhɛə	d u w a + p l o h + l h ɛ ə	two ten three	d u w a + p l o h + l h ɛ ə	12 9 11		wiktionary
+24	Acehnese	twenty four	duwa ploh pɯət	d u w a + p l o h + p ɯ ə t	two ten four	d u w a + p l o h + p ɯ ə t	12 9 3		wiktionary
+25	Acehnese	twenty five	duwa ploh limʌŋ	d u w a + p l o h + l i m ʌ ŋ	two ten five	d u w a + p l o h + l i m ʌ ŋ	12 9 2		wiktionary
+26	Acehnese	twenty six	duwa ploh nam	d u w a + p l o h + n a m	two ten six	d u w a + p l o h + n a m	12 9 8		wiktionary
+27	Acehnese	twenty seven	duwa ploh tuɟoh	d u w a + p l o h + t u ɟ o h	two ten seven	d u w a + p l o h + t u ɟ o h	12 9 7		wiktionary
+28	Acehnese	twenty eight	duwa ploh lapan	d u w a + p l o h + l a p a n	two ten eight	d u w a + p l o h + l a p a n	12 9 1		wiktionary
+29	Acehnese	twenty nine	duwa ploh sikurɯəŋ	d u w a + p l o h + s i + k u r ɯ ə ŋ	two ten one2? nine	d u w a + p l o h + s i + k u r ɯ ə ŋ	12 9 6 4		wiktionary
+30	Acehnese	thirty	lhɛə ploh 	l h ɛ ə + p l o h	three ten	l h ɛ ə + p l o h	11 9		wiktionary
+31	Acehnese	thirty one	lhɛə ploh sa	l h ɛ ə + p l o h + s a	three ten one	l h ɛ ə + p l o h + s a	11 9 5		wiktionary
+32	Acehnese	thirty two	lhɛə ploh duwa	l h ɛ ə + p l o h + d u w a	three ten two	l h ɛ ə + p l o h + d u w a	11 9 12		wiktionary
+33	Acehnese	thirty three	lhɛə ploh lhɛə	l h ɛ ə + p l o h + l h ɛ ə	three ten three	l h ɛ ə + p l o h + l h ɛ ə	11 9 11		wiktionary
+34	Acehnese	thirty four	lhɛə ploh pɯət	l h ɛ ə + p l o h + p ɯ ə t	three ten four	l h ɛ ə + p l o h + p ɯ ə t	11 9 3		wiktionary
+35	Acehnese	thirty five	lhɛə ploh limʌŋ	l h ɛ ə + p l o h + l i m ʌ ŋ	three ten five	l h ɛ ə + p l o h + l i m ʌ ŋ	11 9 2		wiktionary
+36	Acehnese	thirty six	lhɛə ploh nam	l h ɛ ə + p l o h + n a m	three ten six	l h ɛ ə + p l o h + n a m	11 9 8		wiktionary
+37	Acehnese	thirty seven	lhɛə ploh tuɟoh	l h ɛ ə + p l o h + t u ɟ o h	three ten seven	l h ɛ ə + p l o h + t u ɟ o h	11 9 7		wiktionary
+38	Acehnese	thirty eight	lhɛə ploh lapan	l h ɛ ə + p l o h + l a p a n	three ten eight	l h ɛ ə + p l o h + l a p a n	11 9 1		wiktionary
+39	Acehnese	thirty nine	lhɛə ploh sikurɯəŋ	l h ɛ ə + p l o h + s i + k u r ɯ ə ŋ	three ten one2? nine	l h ɛ ə + p l o h + s i + k u r ɯ ə ŋ	11 9 6 4		wiktionary
+40	Acehnese	forty	pɯət ploh 	p ɯ ə t + p l o h	four ten	p ɯ ə t + p l o h	3 9		wiktionary
+41	Acehnese	forty one	pɯət ploh sa	p ɯ ə t + p l o h + s a	four ten one	p ɯ ə t + p l o h + s a	3 9 5		wiktionary
+42	Acehnese	forty two	pɯət ploh duwa	p ɯ ə t + p l o h + d u w a	four ten two	p ɯ ə t + p l o h + d u w a	3 9 12		wiktionary
+43	Acehnese	forty three	pɯət ploh lhɛə	p ɯ ə t + p l o h + l h ɛ ə	four ten three	p ɯ ə t + p l o h + l h ɛ ə	3 9 11		wiktionary
+44	Acehnese	forty four	pɯət ploh pɯət	p ɯ ə t + p l o h + p ɯ ə t	four ten four	p ɯ ə t + p l o h + p ɯ ə t	3 9 3		wiktionary
+45	Acehnese	forty five	pɯət ploh limʌŋ	p ɯ ə t + p l o h + l i m ʌ ŋ	four ten five	p ɯ ə t + p l o h + l i m ʌ ŋ	3 9 2		wiktionary
+46	Acehnese	forty six	pɯət ploh nam	p ɯ ə t + p l o h + n a m	four ten six	p ɯ ə t + p l o h + n a m	3 9 8		wiktionary
+47	Acehnese	forty seven	pɯət ploh tuɟoh	p ɯ ə t + p l o h + t u ɟ o h	four ten seven	p ɯ ə t + p l o h + t u ɟ o h	3 9 7		wiktionary
+48	Acehnese	forty eight	pɯət ploh lapan	p ɯ ə t + p l o h + l a p a n	four ten eight	p ɯ ə t + p l o h + l a p a n	3 9 1		wiktionary
+49	Acehnese	forty nine	pɯət ploh sikurɯəŋ	p ɯ ə t + p l o h + s i + k u r ɯ ə ŋ	four ten one2? nine	p ɯ ə t + p l o h + s i + k u r ɯ ə ŋ	3 9 6 4		wiktionary
+50	Acehnese	fifty	limʌŋ ploh 	l i m ʌ ŋ + p l o h	five ten	l i m ʌ ŋ + p l o h	2 9		wiktionary
+51	Acehnese	fifty one	limʌŋ ploh sa	l i m ʌ ŋ + p l o h + s a	five ten one	l i m ʌ ŋ + p l o h + s a	2 9 5		wiktionary
+52	Acehnese	fifty two	limʌŋ ploh duwa	l i m ʌ ŋ + p l o h + d u w a	five ten two	l i m ʌ ŋ + p l o h + d u w a	2 9 12		wiktionary
+53	Acehnese	fifty three	limʌŋ ploh lhɛə	l i m ʌ ŋ + p l o h + l h ɛ ə	five ten three	l i m ʌ ŋ + p l o h + l h ɛ ə	2 9 11		wiktionary
+54	Acehnese	fifty four	limʌŋ ploh pɯət	l i m ʌ ŋ + p l o h + p ɯ ə t	five ten four	l i m ʌ ŋ + p l o h + p ɯ ə t	2 9 3		wiktionary
+55	Acehnese	fifty five	limʌŋ ploh limʌŋ	l i m ʌ ŋ + p l o h + l i m ʌ ŋ	five ten five	l i m ʌ ŋ + p l o h + l i m ʌ ŋ	2 9 2		wiktionary
+56	Acehnese	fifty six	limʌŋ ploh nam	l i m ʌ ŋ + p l o h + n a m	five ten six	l i m ʌ ŋ + p l o h + n a m	2 9 8		wiktionary
+57	Acehnese	fifty seven	limʌŋ ploh tuɟoh	l i m ʌ ŋ + p l o h + t u ɟ o h	five ten seven	l i m ʌ ŋ + p l o h + t u ɟ o h	2 9 7		wiktionary
+58	Acehnese	fifty eight	limʌŋ ploh lapan	l i m ʌ ŋ + p l o h + l a p a n	five ten eight	l i m ʌ ŋ + p l o h + l a p a n	2 9 1		wiktionary
+59	Acehnese	fifty nine	limʌŋ ploh sikurɯəŋ	l i m ʌ ŋ + p l o h + s i + k u r ɯ ə ŋ	five ten one2? nine	l i m ʌ ŋ + p l o h + s i + k u r ɯ ə ŋ	2 9 6 4		wiktionary
+60	Acehnese	sixty	nam ploh 	n a m + p l o h	six ten	n a m + p l o h	8 9		wiktionary
+61	Acehnese	sixty one	nam ploh sa	n a m + p l o h + s a	six ten one	n a m + p l o h + s a	8 9 5		wiktionary
+62	Acehnese	sixty two	nam ploh duwa	n a m + p l o h + d u w a	six ten two	n a m + p l o h + d u w a	8 9 12		wiktionary
+63	Acehnese	sixty three	nam ploh lhɛə	n a m + p l o h + l h ɛ ə	six ten three	n a m + p l o h + l h ɛ ə	8 9 11		wiktionary
+64	Acehnese	sixty four	nam ploh pɯət	n a m + p l o h + p ɯ ə t	six ten four	n a m + p l o h + p ɯ ə t	8 9 3		wiktionary
+65	Acehnese	sixty five	nam ploh limʌŋ	n a m + p l o h + l i m ʌ ŋ	six ten five	n a m + p l o h + l i m ʌ ŋ	8 9 2		wiktionary
+66	Acehnese	sixty six	nam ploh nam	n a m + p l o h + n a m	six ten six	n a m + p l o h + n a m	8 9 8		wiktionary
+67	Acehnese	sixty seven	nam ploh tuɟoh	n a m + p l o h + t u ɟ o h	six ten seven	n a m + p l o h + t u ɟ o h	8 9 7		wiktionary
+68	Acehnese	sixty eight	nam ploh lapan	n a m + p l o h + l a p a n	six ten eight	n a m + p l o h + l a p a n	8 9 1		wiktionary
+69	Acehnese	sixty nine	nam ploh sikurɯəŋ	n a m + p l o h + s i + k u r ɯ ə ŋ	six ten one2? nine	n a m + p l o h + s i + k u r ɯ ə ŋ	8 9 6 4		wiktionary
+70	Acehnese	seventy	tuɟoh ploh 	t u ɟ o h + p l o h	seven ten	t u ɟ o h + p l o h	7 9		wiktionary
+71	Acehnese	seventy one	tuɟoh ploh sa	t u ɟ o h + p l o h + s a	seven ten one	t u ɟ o h + p l o h + s a	7 9 5		wiktionary
+72	Acehnese	seventy two	tuɟoh ploh duwa	t u ɟ o h + p l o h + d u w a	seven ten two	t u ɟ o h + p l o h + d u w a	7 9 12		wiktionary
+73	Acehnese	seventy three	tuɟoh ploh lhɛə	t u ɟ o h + p l o h + l h ɛ ə	seven ten three	t u ɟ o h + p l o h + l h ɛ ə	7 9 11		wiktionary
+74	Acehnese	seventy four	tuɟoh ploh pɯət	t u ɟ o h + p l o h + p ɯ ə t	seven ten four	t u ɟ o h + p l o h + p ɯ ə t	7 9 3		wiktionary
+75	Acehnese	seventy five	tuɟoh ploh limʌŋ	t u ɟ o h + p l o h + l i m ʌ ŋ	seven ten five	t u ɟ o h + p l o h + l i m ʌ ŋ	7 9 2		wiktionary
+76	Acehnese	seventy six	tuɟoh ploh nam	t u ɟ o h + p l o h + n a m	seven ten six	t u ɟ o h + p l o h + n a m	7 9 8		wiktionary
+77	Acehnese	seventy seven	tuɟoh ploh tuɟoh	t u ɟ o h + p l o h + t u ɟ o h	seven ten seven	t u ɟ o h + p l o h + t u ɟ o h	7 9 7		wiktionary
+78	Acehnese	seventy eight	tuɟoh ploh lapan	t u ɟ o h + p l o h + l a p a n	seven ten eight	t u ɟ o h + p l o h + l a p a n	7 9 1		wiktionary
+79	Acehnese	seventy nine	tuɟoh ploh sikurɯəŋ	t u ɟ o h + p l o h + s i + k u r ɯ ə ŋ	seven ten one2? nine	t u ɟ o h + p l o h + s i + k u r ɯ ə ŋ	7 9 6 4		wiktionary
+80	Acehnese	eighty	lapan ploh 	l a p a n + p l o h	eight ten	l a p a n + p l o h	1 9		wiktionary
+81	Acehnese	eighty one	lapan ploh sa	l a p a n + p l o h + s a	eight ten one	l a p a n + p l o h + s a	1 9 5		wiktionary
+82	Acehnese	eighty two	lapan ploh duwa	l a p a n + p l o h + d u w a	eight ten two	l a p a n + p l o h + d u w a	1 9 12		wiktionary
+83	Acehnese	eighty three	lapan ploh lhɛə	l a p a n + p l o h + l h ɛ ə	eight ten three	l a p a n + p l o h + l h ɛ ə	1 9 11		wiktionary
+84	Acehnese	eighty four	lapan ploh pɯət	l a p a n + p l o h + p ɯ ə t	eight ten four	l a p a n + p l o h + p ɯ ə t	1 9 3		wiktionary
+85	Acehnese	eighty five	lapan ploh limʌŋ	l a p a n + p l o h + l i m ʌ ŋ	eight ten five	l a p a n + p l o h + l i m ʌ ŋ	1 9 2		wiktionary
+86	Acehnese	eighty six	lapan ploh nam	l a p a n + p l o h + n a m	eight ten six	l a p a n + p l o h + n a m	1 9 8		wiktionary
+87	Acehnese	eighty seven	lapan ploh tuɟoh	l a p a n + p l o h + t u ɟ o h	eight ten seven	l a p a n + p l o h + t u ɟ o h	1 9 7		wiktionary
+88	Acehnese	eighty eight	lapan ploh lapan	l a p a n + p l o h + l a p a n	eight ten eight	l a p a n + p l o h + l a p a n	1 9 1		wiktionary
+89	Acehnese	eighty nine	lapan ploh sikurɯəŋ	l a p a n + p l o h + s i + k u r ɯ ə ŋ	eight ten one2? nine	l a p a n + p l o h + s i + k u r ɯ ə ŋ	1 9 6 4		wiktionary
+90	Acehnese	ninety	sikurɯəŋ ploh 	s i + k u r ɯ ə ŋ + p l o h	one2? nine ten	s i + k u r ɯ ə ŋ + p l o h	6 4 9		wiktionary
+91	Acehnese	ninety one	sikurɯəŋ ploh sa	s i + k u r ɯ ə ŋ + p l o h + s a	one2? nine ten one	s i + k u r ɯ ə ŋ + p l o h + s a	6 4 9 5		wiktionary
+92	Acehnese	ninety two	sikurɯəŋ ploh duwa	s i + k u r ɯ ə ŋ + p l o h + d u w a	one2? nine ten two	s i + k u r ɯ ə ŋ + p l o h + d u w a	6 4 9 12		wiktionary
+93	Acehnese	ninety three	sikurɯəŋ ploh lhɛə	s i + k u r ɯ ə ŋ + p l o h + l h ɛ ə	one2? nine ten three	s i + k u r ɯ ə ŋ + p l o h + l h ɛ ə	6 4 9 11		wiktionary
+94	Acehnese	ninety four	sikurɯəŋ ploh pɯət	s i + k u r ɯ ə ŋ + p l o h + p ɯ ə t	one2? nine ten four	s i + k u r ɯ ə ŋ + p l o h + p ɯ ə t	6 4 9 3		wiktionary
+95	Acehnese	ninety five	sikurɯəŋ ploh limʌŋ	s i + k u r ɯ ə ŋ + p l o h + l i m ʌ ŋ	one2? nine ten five	s i + k u r ɯ ə ŋ + p l o h + l i m ʌ ŋ	6 4 9 2		wiktionary
+96	Acehnese	ninety six	sikurɯəŋ ploh nam	s i + k u r ɯ ə ŋ + p l o h + n a m	one2? nine ten six	s i + k u r ɯ ə ŋ + p l o h + n a m	6 4 9 8		wiktionary
+97	Acehnese	ninety seven	sikurɯəŋ ploh tuɟoh	s i + k u r ɯ ə ŋ + p l o h + t u ɟ o h	one2? nine ten seven	s i + k u r ɯ ə ŋ + p l o h + t u ɟ o h	6 4 9 7		wiktionary
+98	Acehnese	ninety eight	sikurɯəŋ ploh lapan	s i + k u r ɯ ə ŋ + p l o h + l a p a n	one2? nine ten eight	s i + k u r ɯ ə ŋ + p l o h + l a p a n	6 4 9 1		wiktionary
+99	Acehnese	ninety nine	sikurɯəŋ ploh sikurɯəŋ	s i + k u r ɯ ə ŋ + p l o h + s i + k u r ɯ ə ŋ	one2? nine ten one2? nine	s i + k u r ɯ ə ŋ + p l o h + s i + k u r ɯ ə ŋ	6 4 9 6 4		wiktionary
