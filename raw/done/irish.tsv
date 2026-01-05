@@ -19,24 +19,113 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 18	Irish	eighteen	ocht déag	ɔxt̪ˠdʲeːg	ɔ x t̪ˠ + dʲ eː/ɛ g/ç	eight ten	ɔ x t̪ˠ + dʲ eː/ɛ g/ç	8 11		Dellert2020;Focloir_Scoile1998
 19	Irish	nineteen	naoi déag	n̪ˠiːdʲeːg	n̪ˠ iː + dʲ eː/ɛ g/ç	nine ten	n̪ˠ iː + dʲ eː/ɛ g/ç	9 11		Dellert2020;Focloir_Scoile1998
 20	Irish	twenty	fiche	fʲɪçə	fʲ ɪ ç ə	twenty	fʲ ɪ ç ə	20		Dellert2020;Focloir_Scoile1998
-21	Irish	twenty one	fiche a haon	fʲɪçəheːnˠ	fʲ ɪ ç -/ə + ə + h/- eː nˠ	twenty and one	fʲ ɪ ç -/ə + ə + h/- eː nˠ	20 16 1		Dellert2020;Focloir_Scoile1998;Heggarty2024
-22	Irish	twenty two	fiche a dó	fʲɪçəd̪ˠoː	fʲ ɪ ç -/ə + ə + d̪ˠ oː	twenty and two	fʲ ɪ ç -/ə + ə + d̪ˠ oː	20 16 2		Dellert2020;Focloir_Scoile1998;Heggarty2024
-23	Irish	twenty three	fiche a trí	fʲɪçətʲɾʲiː	fʲ ɪ ç -/ə + ə + tʲ ɾʲ iː	twenty and three	fʲ ɪ ç -/ə + ə + tʲ ɾʲ iː	20 16 3		Dellert2020;Focloir_Scoile1998;Heggarty2024
-24	Irish	twenty four	fiche a ceathair	fʲɪçəcahəɾʲ	fʲ ɪ ç -/ə + ə + c a h ə ɾʲ	twenty and four	fʲ ɪ ç -/ə + ə + c a h ə ɾʲ	20 16 4		Dellert2020;Focloir_Scoile1998
-25	Irish	twenty five	fiche a cúig	fʲɪçəkuːɟ	fʲ ɪ ç -/ə + ə + k uː ɟ	twenty and five	fʲ ɪ ç -/ə + ə + k uː ɟ	20 16 5		Dellert2020;Focloir_Scoile1998
-26	Irish	twenty six	fiche a sé	fʲɪçəʃeː	fʲ ɪ ç -/ə + ə + ʃ eː	twenty and six	fʲ ɪ ç -/ə + ə + ʃ eː	20 16 6		Dellert2020;Focloir_Scoile1998
-27	Irish	twenty seven	fiche a seacht	fʲɪçəʃaxt̪ˠ	fʲ ɪ ç -/ə + ə + ʃ a x t̪ˠ	twenty and seven	fʲ ɪ ç -/ə + ə + ʃ a x t̪ˠ	20 16 7		Dellert2020;Focloir_Scoile1998
-28	Irish	twenty eight	fiche a hocht	fʲɪçəhɔxt̪ˠ	fʲ ɪ ç -/ə + ə + h/- ɔ x t̪ˠ	twenty and eight	fʲ ɪ ç -/ə + ə + h/- ɔ x t̪ˠ	20 16 8		Dellert2020;Focloir_Scoile1998
-29	Irish	twenty nine	fiche a naoi	fʲɪçən̪ˠiː	fʲ ɪ ç -/ə + ə + n̪ˠ iː	twenty and nine	fʲ ɪ ç -/ə + ə + n̪ˠ iː	20 16 9		Dellert2020;Focloir_Scoile1998
-30	Irish	thirty	tríocha	tʲɾʲiːxə	tʲ ɾʲ iː + x ə	three -ty	tʲ ɾʲ iː + x ə	3 12		Focloir_Scoile1998;Heggarty2024
-31	Irish	thirty one	tríocha a haon	tʲɾʲiːxəheːnˠ	tʲ ɾʲ iː + x -/ə + ə + h/- eː nˠ	three -ty and one	tʲ ɾʲ iː + x -/ə + ə + h/- eː nˠ	3 12 16 1		Focloir_Scoile1998;Heggarty2024
-32	Irish	thirty two	tríocha a dó	tʲɾʲiːxəd̪ˠoː	tʲ ɾʲ iː + x -/ə + ə + d̪ˠ oː	three -ty and two	tʲ ɾʲ iː + x -/ə + ə + d̪ˠ oː	3 12 16 2		Focloir_Scoile1998;Heggarty2024
-33	Irish	thirty three	tríocha a trí	tʲɾʲiːxətʲɾʲiː	tʲ ɾʲ iː + x -/ə + ə + tʲ ɾʲ iː	three -ty and three	tʲ ɾʲ iː + x -/ə + ə + tʲ ɾʲ iː	3 12 16 3		Focloir_Scoile1998;Heggarty2024
-34	Irish	thirty four	tríocha a ceathair	tʲɾʲiːxəcahəɾʲ	tʲ ɾʲ iː + x -/ə + ə + c a h ə ɾʲ	three -ty and four	tʲ ɾʲ iː + x -/ə + ə + c a h ə ɾʲ	3 12 16 4		Focloir_Scoile1998;Heggarty2024
-35	Irish	thirty five	tríocha a cúig	tʲɾʲiːxəkuːɟ	tʲ ɾʲ iː + x -/ə + ə + k uː ɟ	three -ty and five	tʲ ɾʲ iː + x -/ə + ə + k uː ɟ	3 12 16 5		Focloir_Scoile1998;Heggarty2024
-36	Irish	thirty six	tríocha a sé	tʲɾʲiːxəʃeː	tʲ ɾʲ iː + x -/ə + ə + ʃ eː	three -ty and six	tʲ ɾʲ iː + x -/ə + ə + ʃ eː	3 12 16 6		Dellert2020;Focloir_Scoile1998;Heggarty2024
-37	Irish	thirty seven	tríocha a seacht	tʲɾʲiːxəʃaxt̪ˠ	tʲ ɾʲ iː + x -/ə + ə + ʃ a x t̪ˠ	three -ty and seven	tʲ ɾʲ iː + x -/ə + ə + ʃ a x t̪ˠ	3 12 16 7		Dellert2020;Focloir_Scoile1998;Heggarty2024
-38	Irish	thirty eight	tríocha a hocht	tʲɾʲiːxəhɔxt̪ˠ	tʲ ɾʲ iː + x -/ə + ə + h/- ɔ x t̪ˠ	three -ty and eight	tʲ ɾʲ iː + x -/ə + ə + h/- ɔ x t̪ˠ	3 12 16 8		Dellert2020;Focloir_Scoile1998;Heggarty2024
-39	Irish	thirty nine	tríocha a naoi	tʲɾʲiːxən̪ˠiː	tʲ ɾʲ iː + x -/ə + ə + n̪ˠ iː	three -ty and nine	tʲ ɾʲ iː + x -/ə + ə + n̪ˠ iː	3 12 16 9		Dellert2020;Focloir_Scoile1998;Heggarty2024
+21	Irish	twenty one	fiche a haon	fʲɪçəheːnˠ	fʲ ɪ ç ə + -/ə + h/- eː nˠ	twenty numeral_particle one	fʲ ɪ ç ə + -/ə + h/- eː nˠ	20 15 1		Dellert2020;Focloir_Scoile1998;Heggarty2024
+22	Irish	twenty two	fiche a dó	fʲɪçəd̪ˠoː	fʲ ɪ ç ə + -/ə + d̪ˠ oː	twenty numeral_particle two	fʲ ɪ ç ə + -/ə + d̪ˠ oː	20 15 2		Dellert2020;Focloir_Scoile1998;Heggarty2024
+23	Irish	twenty three	fiche a trí	fʲɪçətʲɾʲiː	fʲ ɪ ç ə + -/ə + tʲ ɾʲ iː	twenty numeral_particle three	fʲ ɪ ç ə + -/ə + tʲ ɾʲ iː	20 15 3		Dellert2020;Focloir_Scoile1998;Heggarty2024
+24	Irish	twenty four	fiche a ceathair	fʲɪçəcahəɾʲ	fʲ ɪ ç ə + -/ə + c a h ə ɾʲ	twenty numeral_particle four	fʲ ɪ ç ə + -/ə + c a h ə ɾʲ	20 15 4		Dellert2020;Focloir_Scoile1998
+25	Irish	twenty five	fiche a cúig	fʲɪçəkuːɟ	fʲ ɪ ç ə + -/ə + k uː ɟ	twenty numeral_particle five	fʲ ɪ ç ə + -/ə + k uː ɟ	20 15 5		Dellert2020;Focloir_Scoile1998
+26	Irish	twenty six	fiche a sé	fʲɪçəʃeː	fʲ ɪ ç ə + -/ə + ʃ eː	twenty numeral_particle six	fʲ ɪ ç ə + -/ə + ʃ eː	20 15 6		Dellert2020;Focloir_Scoile1998
+27	Irish	twenty seven	fiche a seacht	fʲɪçəʃaxt̪ˠ	fʲ ɪ ç ə + -/ə + ʃ a x t̪ˠ	twenty numeral_particle seven	fʲ ɪ ç ə + -/ə + ʃ a x t̪ˠ	20 15 7		Dellert2020;Focloir_Scoile1998
+28	Irish	twenty eight	fiche a hocht	fʲɪçəhɔxt̪ˠ	fʲ ɪ ç ə + -/ə + h/- ɔ x t̪ˠ	twenty numeral_particle eight	fʲ ɪ ç ə + -/ə + h/- ɔ x t̪ˠ	20 15 8		Dellert2020;Focloir_Scoile1998
+29	Irish	twenty nine	fiche a naoi	fʲɪçən̪ˠiː	fʲ ɪ ç ə + -/ə + n̪ˠ iː	twenty numeral_particle nine	fʲ ɪ ç ə + -/ə + n̪ˠ iː	20 15 9		Dellert2020;Focloir_Scoile1998
+30	Irish	thirty	tríocha	tʲɾʲiːxə	tʲ ɾʲ iː x ə	thirty	tʲ ɾʲ iː x ə	30		Focloir_Scoile1998;Heggarty2024
+31	Irish	thirty one	tríocha a haon	tʲɾʲiːxəheːnˠ	tʲ ɾʲ iː x ə + -/ə + h/- eː nˠ	thirty numeral_particle one	tʲ ɾʲ iː x ə + -/ə + h/- eː nˠ	30 15 1		Focloir_Scoile1998;Heggarty2024
+32	Irish	thirty two	tríocha a dó	tʲɾʲiːxəd̪ˠoː	tʲ ɾʲ iː x ə + -/ə + d̪ˠ oː	thirty numeral_particle two	tʲ ɾʲ iː x ə + -/ə + d̪ˠ oː	30 15 2		Focloir_Scoile1998;Heggarty2024
+33	Irish	thirty three	tríocha a trí	tʲɾʲiːxətʲɾʲiː	tʲ ɾʲ iː x ə + -/ə + tʲ ɾʲ iː	thirty numeral_particle three	tʲ ɾʲ iː x ə + -/ə + tʲ ɾʲ iː	30 15 3		Focloir_Scoile1998;Heggarty2024
+34	Irish	thirty four	tríocha a ceathair	tʲɾʲiːxəcahəɾʲ	tʲ ɾʲ iː x ə + -/ə + c a h ə ɾʲ	thirty numeral_particle four	tʲ ɾʲ iː x ə + -/ə + c a h ə ɾʲ	30 15 4		Focloir_Scoile1998;Heggarty2024
+35	Irish	thirty five	tríocha a cúig	tʲɾʲiːxəkuːɟ	tʲ ɾʲ iː x ə + -/ə + k uː ɟ	thirty numeral_particle five	tʲ ɾʲ iː x ə + -/ə + k uː ɟ	30 15 5		Focloir_Scoile1998;Heggarty2024
+36	Irish	thirty six	tríocha a sé	tʲɾʲiːxəʃeː	tʲ ɾʲ iː x ə + -/ə + ʃ eː	thirty numeral_particle six	tʲ ɾʲ iː x ə + -/ə + ʃ eː	30 15 6		Dellert2020;Focloir_Scoile1998;Heggarty2024
+37	Irish	thirty seven	tríocha a seacht	tʲɾʲiːxəʃaxt̪ˠ	tʲ ɾʲ iː x ə + -/ə + ʃ a x t̪ˠ	thirty numeral_particle seven	tʲ ɾʲ iː x ə + -/ə + ʃ a x t̪ˠ	30 15 7		Dellert2020;Focloir_Scoile1998;Heggarty2024
+38	Irish	thirty eight	tríocha a hocht	tʲɾʲiːxəhɔxt̪ˠ	tʲ ɾʲ iː x ə + -/ə + h/- ɔ x t̪ˠ	thirty numeral_particle eight	tʲ ɾʲ iː x ə + -/ə + h/- ɔ x t̪ˠ	30 15 8		Dellert2020;Focloir_Scoile1998;Heggarty2024
+39	Irish	thirty nine	tríocha a naoi	tʲɾʲiːxən̪ˠiː	tʲ ɾʲ iː x ə + -/ə + n̪ˠ iː	thirty numeral_particle nine	tʲ ɾʲ iː x ə + -/ə + n̪ˠ iː	30 15 9		Dellert2020;Focloir_Scoile1998;Heggarty2024
 40	Irish	forty	daichead	d̪ˠaçəd̪ˠ	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ	two twenty suff.gen.sg.	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ	2 20 21		Focloir_Scoile1998;Heggarty2024;Teanglann2025
-41	Irish	forty	ceathracha	cahɾˠəxə	c a h -/ə ɾˠ/ɾʲ ə/- + x ə	four -ty	c a h -/ə ɾˠ/ɾʲ ə/- + x ə	4 12		Focloir_Scoile1998
+41	Irish	forty	ceathracha	cahɾˠəxə	c a h ɾˠ ə x ə	forty	c a h ɾˠ ə x ə	40		Focloir_Scoile1998
+42	Irish	forty one	daichead a haon	d̪ˠaçəd̪ˠəheːnˠ	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + h/- eː nˠ	two twenty suff.gen.sg. numeral_particle one	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + h/- eː nˠ	2 20 21 15 1		Focloir_Scoile1998;Heggarty2024;Teanglann2025
+43	Irish	forty one	ceathracha a haon	cahɾˠəxəheːnˠ	c a h ɾˠ ə x ə + -/ə + h/- eː nˠ	forty numeral_particle one	c a h ɾˠ ə x ə + -/ə + h/- eː nˠ	40 15 1		Focloir_Scoile1998;Heggarty2024
+44	Irish	forty two	daichead a dó	d̪ˠaçəd̪ˠəd̪ˠoː	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + d̪ˠ oː	two twenty suff.gen.sg. numeral_particle two	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + d̪ˠ oː	2 20 21 15 2		Focloir_Scoile1998;Heggarty2024;Teanglann2025
+45	Irish	forty two	ceathracha a dó	cahɾˠəxəd̪ˠoː	c a h ɾˠ ə x ə + -/ə + d̪ˠ oː	forty numeral_particle two	c a h ɾˠ ə x ə + -/ə + d̪ˠ oː	40 15 2		Focloir_Scoile1998;Heggarty2024
+46	Irish	forty three	daichead a trí	d̪ˠaçəd̪ˠətʲɾʲiː	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + tʲ ɾʲ iː	two twenty suff.gen.sg. numeral_particle three	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + tʲ ɾʲ iː	2 20 21 15 3		Focloir_Scoile1998;Heggarty2024;Teanglann2025
+47	Irish	forty three	ceathracha a trí	cahɾˠəxətʲɾʲiː	c a h ɾˠ ə x ə + -/ə + tʲ ɾʲ iː	forty numeral_particle three	c a h ɾˠ ə x ə + -/ə + tʲ ɾʲ iː	40 15 3		Focloir_Scoile1998;Heggarty2024
+48	Irish	forty four	daichead a ceathair	d̪ˠaçəd̪ˠəcahəɾʲ	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + c a h ə ɾʲ	two twenty suff.gen.sg. numeral_particle four	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + c a h ə ɾʲ	2 20 21 15 4		Focloir_Scoile1998;Heggarty2024;Teanglann2025
+49	Irish	forty four	ceathracha a ceathair	cahɾˠəxəcahəɾʲ	c a h ɾˠ ə x ə + -/ə + c a h ə ɾʲ	forty numeral_particle four	c a h ɾˠ ə x ə + -/ə + c a h ə ɾʲ	40 15 4		Focloir_Scoile1998
+50	Irish	forty five	daichead a cúig	d̪ˠaçəd̪ˠəkuːɟ	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + k uː ɟ	two twenty suff.gen.sg. numeral_particle five	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + k uː ɟ	2 20 21 15 5		Focloir_Scoile1998;Heggarty2024;Teanglann2025
+51	Irish	forty five	ceathracha a cúig	cahɾˠəxəkuːɟ	c a h ɾˠ ə x ə + -/ə + k uː ɟ	forty numeral_particle five	c a h ɾˠ ə x ə + -/ə + k uː ɟ	40 15 5		Focloir_Scoile1998
+52	Irish	forty six	daichead a sé	d̪ˠaçəd̪ˠəʃeː	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + ʃ eː	two twenty suff.gen.sg. numeral_particle six	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + ʃ eː	2 20 21 15 6		Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025
+53	Irish	forty six	ceathracha a sé	cahɾˠəxəʃeː	c a h ɾˠ ə x ə + -/ə + ʃ eː	forty numeral_particle six	c a h ɾˠ ə x ə + -/ə + ʃ eː	40 15 6		Dellert2020;Focloir_Scoile1998
+54	Irish	forty seven	daichead a seacht	d̪ˠaçəd̪ˠəʃaxt̪ˠ	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + ʃ a x t̪ˠ	two twenty suff.gen.sg. numeral_particle seven	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + ʃ a x t̪ˠ	2 20 21 15 7		Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025
+55	Irish	forty seven	ceathracha a seacht	cahɾˠəxəʃaxt̪ˠ	c a h ɾˠ ə x ə + -/ə + ʃ a x t̪ˠ	forty numeral_particle seven	c a h ɾˠ ə x ə + -/ə + ʃ a x t̪ˠ	40 15 7		Dellert2020;Focloir_Scoile1998
+56	Irish	forty eight	daichead a hocht	d̪ˠaçəd̪ˠəhɔxt̪ˠ	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + h/- ɔ x t̪ˠ	two twenty suff.gen.sg. numeral_particle eight	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + h/- ɔ x t̪ˠ	2 20 21 15 8		Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025
+57	Irish	forty eight	ceathracha a hocht	cahɾˠəxəhɔxt̪ˠ	c a h ɾˠ ə x ə + -/ə + h/- ɔ x t̪ˠ	forty numeral_particle eight	c a h ɾˠ ə x ə + -/ə + h/- ɔ x t̪ˠ	40 15 8		Dellert2020;Focloir_Scoile1998
+58	Irish	forty nine	daichead a naoi	d̪ˠaçəd̪ˠən̪ˠiː	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + n̪ˠ iː	two twenty suff.gen.sg. numeral_particle nine	d̪ˠ a/oː + -/fʲ -/ɪ ç ə + d̪ˠ + ə + n̪ˠ iː	2 20 21 15 9		Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025
+59	Irish	forty nine	ceathracha a naoi	cahɾˠəxən̪ˠiː	c a h ɾˠ ə x ə + -/ə + n̪ˠ iː	forty numeral_particle nine	c a h ɾˠ ə x ə + -/ə + n̪ˠ iː	40 15 9		Dellert2020;Focloir_Scoile1998
+60	Irish	fifty	caoga	kiːɡə	k iː ɡ ə	fifty	k iː ɡ ə	50 15		Dellert2020;Focloir_Scoile1998
+61	Irish	fifty one	caoga a haon	kiːɡəheːnˠ	k iː ɡ ə + -/ə + h/- eː nˠ	fifty numeral_particle one	k iː ɡ ə + -/ə + h/- eː nˠ	50 15 1		Dellert2020;Focloir_Scoile1998;Heggarty2024
+62	Irish	fifty two	caoga a dó	kiːɡəd̪ˠoː	k iː ɡ ə + -/ə + d̪ˠ oː	fifty numeral_particle two	k iː ɡ ə + -/ə + d̪ˠ oː	50 15 2		Dellert2020;Focloir_Scoile1998;Heggarty2024;Teanglann2025
+63	Irish	fifty three	caoga a trí	kiːɡətʲɾʲiː	k iː ɡ ə + -/ə + tʲ ɾʲ iː	fifty numeral_particle three	k iː ɡ ə + -/ə + tʲ ɾʲ iː	50 15 3		Dellert2020;Focloir_Scoile1998;Heggarty2024
+64	Irish	fifty four	caoga a ceathair	kiːɡəcahəɾʲ	k iː ɡ ə + -/ə + c a h ə ɾʲ	fifty numeral_particle four	k iː ɡ ə + -/ə + c a h ə ɾʲ	50 15 4		Dellert2020;Focloir_Scoile1998
+65	Irish	fifty five	caoga a cúig	kiːɡəkuːɟ	k iː ɡ ə + -/ə + k uː ɟ	fifty numeral_particle five	k iː ɡ ə + -/ə + k uː ɟ	50 15 5		Dellert2020;Focloir_Scoile1998
+66	Irish	fifty six	caoga a sé	kiːɡəʃeː	k iː ɡ ə + -/ə + ʃ eː	fifty numeral_particle six	k iː ɡ ə + -/ə + ʃ eː	50 15 6		Dellert2020;Focloir_Scoile1998
+67	Irish	fifty seven	caoga a seacht	kiːɡəʃaxt̪ˠ	k iː ɡ ə + -/ə + ʃ a x t̪ˠ	fifty numeral_particle seven	k iː ɡ ə + -/ə + ʃ a x t̪ˠ	50 15 7		Dellert2020;Focloir_Scoile1998
+68	Irish	fifty eight	caoga a hocht	kiːɡəhɔxt̪ˠ	k iː ɡ ə + -/ə + h/- ɔ x t̪ˠ	fifty numeral_particle eight	k iː ɡ ə + -/ə + h/- ɔ x t̪ˠ	50 15 8		Dellert2020;Focloir_Scoile1998
+69	Irish	fifty nine	caoga a naoi	kiːɡən̪ˠiː	k iː ɡ ə + -/ə + n̪ˠ iː	fifty numeral_particle nine	k iː ɡ ə + -/ə + n̪ˠ iː	50 15 9		Dellert2020;Focloir_Scoile1998
+70	Irish	sixty	seasca	ʃaskə	ʃ a s k ə	sixty	ʃ a s k ə	60		Dellert2020;Focloir_Scoile1998
+71	Irish	sixty one	seasca a haon	ʃaskəheːnˠ	ʃ a s k ə + -/ə + h/- eː nˠ	sixty numeral_particle one	ʃ a s k ə + -/ə + h/- eː nˠ	60 15 1		Dellert2020;Focloir_Scoile1998;Heggarty2024
+72	Irish	sixty two	seasca a dó	ʃaskəd̪ˠoː	ʃ a s k ə + -/ə + d̪ˠ oː	sixty numeral_particle two	ʃ a s k ə + -/ə + d̪ˠ oː	60 15 2		Dellert2020;Focloir_Scoile1998;Heggarty2024
+73	Irish	sixty three	seasca a trí	ʃaskətʲɾʲiː	ʃ a s k ə + -/ə + tʲ ɾʲ iː	sixty numeral_particle three	ʃ a s k ə + -/ə + tʲ ɾʲ iː	60 15 3		Dellert2020;Focloir_Scoile1998;Heggarty2024
+74	Irish	sixty four	seasca a ceathair	ʃaskəcahəɾʲ	ʃ a s k ə + -/ə + c a h ə ɾʲ	sixty numeral_particle four	ʃ a s k ə + -/ə + c a h ə ɾʲ	60 15 4		Dellert2020;Focloir_Scoile1998
+75	Irish	sixty five	seasca a cúig	ʃaskəkuːɟ	ʃ a s k ə + -/ə + k uː ɟ	sixty numeral_particle five	ʃ a s k ə + -/ə + k uː ɟ	60 15 5		Dellert2020;Focloir_Scoile1998
+76	Irish	sixty six	seasca a sé	ʃaskəʃeː	ʃ a s k ə + -/ə + ʃ eː	sixty numeral_particle six	ʃ a s k ə + -/ə + ʃ eː	60 15 6		Dellert2020;Focloir_Scoile1998
+77	Irish	sixty seven	seasca a seacht	ʃaskəʃaxt̪ˠ	ʃ a s k ə + -/ə + ʃ a x t̪ˠ	sixty numeral_particle seven	ʃ a s k ə + -/ə + ʃ a x t̪ˠ	60 15 7		Dellert2020;Focloir_Scoile1998
+78	Irish	sixty eight	seasca a hocht	ʃaskəhɔxt̪ˠ	ʃ a s k ə + -/ə + h/- ɔ x t̪ˠ	sixty numeral_particle eight	ʃ a s k ə + -/ə + h/- ɔ x t̪ˠ	60 15 8		Dellert2020;Focloir_Scoile1998
+79	Irish	sixty nine	seasca a naoi	ʃaskən̪ˠiː	ʃ a s k ə + -/ə + n̪ˠ iː	sixty numeral_particle nine	ʃ a s k ə + -/ə + n̪ˠ iː	60 15 9		Dellert2020;Focloir_Scoile1998
+80	Irish	seventy	seachtó	ʃaxt̪ˠoː	ʃ a x t̪ˠ oː	seventy	ʃ a x t̪ˠ oː	70		Dellert2020;Focloir_Scoile1998
+81	Irish	seventy one	seachtó a haon	ʃaxt̪ˠoːəheːnˠ	ʃ a x t̪ˠ oː + ə + h/- eː nˠ	seventy numeral_particle one	ʃ a x t̪ˠ oː + ə + h/- eː nˠ	70 15 1		Dellert2020;Focloir_Scoile1998;Heggarty2024
+82	Irish	seventy two	seachtó a dó	ʃaxt̪ˠoːəd̪ˠoː	ʃ a x t̪ˠ oː + ə + d̪ˠ oː	seventy numeral_particle two	ʃ a x t̪ˠ oː + ə + d̪ˠ oː	70 15 2		Dellert2020;Focloir_Scoile1998;Heggarty2024
+83	Irish	seventy three	seachtó a trí	ʃaxt̪ˠoːətʲɾʲiː	ʃ a x t̪ˠ oː + ə + tʲ ɾʲ iː	seventy numeral_particle three	ʃ a x t̪ˠ oː + ə + tʲ ɾʲ iː	70 15 3		Dellert2020;Focloir_Scoile1998;Heggarty2024
+84	Irish	seventy four	seachtó a ceathair	ʃaxt̪ˠoːəcahəɾʲ	ʃ a x t̪ˠ oː + ə + c a h ə ɾʲ	seventy numeral_particle four	ʃ a x t̪ˠ oː + ə + c a h ə ɾʲ	70 15 4		Dellert2020;Focloir_Scoile1998
+85	Irish	seventy five	seachtó a cúig	ʃaxt̪ˠoːəkuːɟ	ʃ a x t̪ˠ oː + ə + k uː ɟ	seventy numeral_particle five	ʃ a x t̪ˠ oː + ə + k uː ɟ	70 15 5		Dellert2020;Focloir_Scoile1998
+86	Irish	seventy six	seachtó a sé	ʃaxt̪ˠoːəʃeː	ʃ a x t̪ˠ oː + ə + ʃ eː	seventy numeral_particle six	ʃ a x t̪ˠ oː + ə + ʃ eː	70 15 6		Dellert2020;Focloir_Scoile1998
+87	Irish	seventy seven	seachtó a seacht	ʃaxt̪ˠoːəʃaxt̪ˠ	ʃ a x t̪ˠ oː + ə + ʃ a x t̪ˠ	seventy numeral_particle seven	ʃ a x t̪ˠ oː + ə + ʃ a x t̪ˠ	70 15 7		Dellert2020;Focloir_Scoile1998
+88	Irish	seventy eight	seachtó a hocht	ʃaxt̪ˠoːəhɔxt̪ˠ	ʃ a x t̪ˠ oː + ə + h/- ɔ x t̪ˠ	seventy numeral_particle eight	ʃ a x t̪ˠ oː + ə + h/- ɔ x t̪ˠ	70 15 8		Dellert2020;Focloir_Scoile1998
+89	Irish	seventy nine	seachtó a naoi	ʃaxt̪ˠoːən̪ˠiː	ʃ a x t̪ˠ oː + ə + n̪ˠ iː	seventy numeral_particle nine	ʃ a x t̪ˠ oː + ə + n̪ˠ iː	70 15 9		Dellert2020;Focloir_Scoile1998
+90	Irish	eighty	ochtó	ɔxt̪ˠoː	ɔ x t̪ˠ oː	eighty	ɔ x t̪ˠ oː	80		Dellert2020;Focloir_Scoile1998
+91	Irish	eighty one	ochtó a haon	ɔxt̪ˠoːəheːnˠ	ɔ x t̪ˠ oː + ə + h/- eː nˠ	eighty numeral_particle one	ɔ x t̪ˠ oː + ə + h/- eː nˠ	80 15 1		Dellert2020;Focloir_Scoile1998;Heggarty2024
+92	Irish	eighty two	ochtó a dó	ɔxt̪ˠoːəd̪ˠoː	ɔ x t̪ˠ oː + ə + d̪ˠ oː	eighty numeral_particle two	ɔ x t̪ˠ oː + ə + d̪ˠ oː	80 15 2		Dellert2020;Focloir_Scoile1998;Heggarty2024
+93	Irish	eighty three	ochtó a trí	ɔxt̪ˠoːətʲɾʲiː	ɔ x t̪ˠ oː + ə + tʲ ɾʲ iː	eighty numeral_particle three	ɔ x t̪ˠ oː + ə + tʲ ɾʲ iː	80 15 3		Dellert2020;Focloir_Scoile1998;Heggarty2024
+94	Irish	eighty four	ochtó a ceathair	ɔxt̪ˠoːəcahəɾʲ	ɔ x t̪ˠ oː + ə + c a h ə ɾʲ	eighty numeral_particle four	ɔ x t̪ˠ oː + ə + c a h ə ɾʲ	80 15 4		Dellert2020;Focloir_Scoile1998
+95	Irish	eighty five	ochtó a cúig	ɔxt̪ˠoːəkuːɟ	ɔ x t̪ˠ oː + ə + k uː ɟ	eighty numeral_particle five	ɔ x t̪ˠ oː + ə + k uː ɟ	80 15 5		Dellert2020;Focloir_Scoile1998
+96	Irish	eighty six	ochtó a sé	ɔxt̪ˠoːəʃeː	ɔ x t̪ˠ oː + ə + ʃ eː	eighty numeral_particle six	ɔ x t̪ˠ oː + ə + ʃ eː	80 15 6		Dellert2020;Focloir_Scoile1998
+97	Irish	eighty seven	ochtó a seacht	ɔxt̪ˠoːəʃaxt̪ˠ	ɔ x t̪ˠ oː + ə + ʃ a x t̪ˠ	eighty numeral_particle seven	ɔ x t̪ˠ oː + ə + ʃ a x t̪ˠ	80 15 7		Dellert2020;Focloir_Scoile1998
+98	Irish	eighty eight	ochtó a hocht	ɔxt̪ˠoːəhɔxt̪ˠ	ɔ x t̪ˠ oː + ə + h/- ɔ x t̪ˠ	eighty numeral_particle eight	ɔ x t̪ˠ oː + ə + h/- ɔ x t̪ˠ	80 15 8		Dellert2020;Focloir_Scoile1998
+99	Irish	eighty nine	ochtó a naoi	ɔxt̪ˠoːən̪ˠiː	ɔ x t̪ˠ oː + ə + n̪ˠ iː	eighty numeral_particle nine	ɔ x t̪ˠ oː + ə + n̪ˠ iː	80 15 9		Dellert2020;Focloir_Scoile1998
+100	Irish	ninety	nócha	n̪ˠoːxə	n̪ˠ oː x ə	ninety	n̪ˠ oː x ə	90		Dellert2020;Focloir_Scoile1998
+101	Irish	ninety one	nócha a haon	n̪ˠoːxəheːnˠ	n̪ˠ oː x ə + -/ə + h/- eː nˠ	ninety numeral_particle one	n̪ˠ oː x ə + -/ə + h/- eː nˠ	90 15 1		Dellert2020;Focloir_Scoile1998;Heggarty2024
+102	Irish	ninety two	nócha a dó	n̪ˠoːxəd̪ˠoː	n̪ˠ oː x ə + -/ə + d̪ˠ oː	ninety numeral_particle two	n̪ˠ oː x ə + -/ə + d̪ˠ oː	90 15 2		Dellert2020;Focloir_Scoile1998;Heggarty2024
+103	Irish	ninety three	nócha a trí	n̪ˠoːxətʲɾʲiː	n̪ˠ oː x ə + -/ə + tʲ ɾʲ iː	ninety numeral_particle three	n̪ˠ oː x ə + -/ə + tʲ ɾʲ iː	90 15 3		Dellert2020;Focloir_Scoile1998;Heggarty2024
+104	Irish	ninety four	nócha a ceathair	n̪ˠoːxəcahəɾʲ	n̪ˠ oː x ə + -/ə + c a h ə ɾʲ	ninety numeral_particle four	n̪ˠ oː x ə + -/ə + c a h ə ɾʲ	90 15 4		Dellert2020;Focloir_Scoile1998
+105	Irish	ninety five	nócha a cúig	n̪ˠoːxəkuːɟ	n̪ˠ oː x ə + -/ə + k uː ɟ	ninety numeral_particle five	n̪ˠ oː x ə + -/ə + k uː ɟ	90 15 5		Dellert2020;Focloir_Scoile1998
+106	Irish	ninety six	nócha a sé	n̪ˠoːxəʃeː	n̪ˠ oː x ə + -/ə + ʃ eː	ninety numeral_particle six	n̪ˠ oː x ə + -/ə + ʃ eː	90 15 6		Dellert2020;Focloir_Scoile1998
+107	Irish	ninety seven	nócha a seacht	n̪ˠoːxəʃaxt̪ˠ	n̪ˠ oː x ə + -/ə + ʃ a x t̪ˠ	ninety numeral_particle seven	n̪ˠ oː x ə + -/ə + ʃ a x t̪ˠ	90 15 7		Dellert2020;Focloir_Scoile1998
+108	Irish	ninety eight	nócha a hocht	n̪ˠoːxəhɔxt̪ˠ	n̪ˠ oː x ə + -/ə + h/- ɔ x t̪ˠ	ninety numeral_particle eight	n̪ˠ oː x ə + -/ə + h/- ɔ x t̪ˠ	90 15 8		Dellert2020;Focloir_Scoile1998
+109	Irish	ninety nine	nócha a naoi	n̪ˠoːxən̪ˠiː	n̪ˠ oː x ə + -/ə + n̪ˠ iː	ninety numeral_particle nine	n̪ˠ oː x ə + -/ə + n̪ˠ iː	90 15 9		Dellert2020;Focloir_Scoile1998
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
+#@css=menu:show|database:hide
+#@basics=CONCEPT|DOCULECT|NOTE|TOKENS
+#@_selected_doculects=Irish
+#@_selected_concepts=forty one
+#@sorted_taxa=Irish
+#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty|forty one|forty two|forty three|forty four|forty five|forty six|forty seven|forty eight|forty nine|fifty|fifty one|fifty two|fifty three|fifty four|fifty five|fifty six|fifty seven|fifty eight|fifty nine|sixty|sixty one|sixty two|sixty three|sixty four|sixty five|sixty six|sixty seven|sixty eight|sixty nine|seventy|seventy one|seventy two|seventy three|seventy four|seventy five|seventy six|seventy seven|seventy eight|seventy nine|eighty|eighty one|eighty two|eighty three|eighty four|eighty five|eighty six|eighty seven|eighty eight|eighty nine|ninety|ninety one|ninety two|ninety three|ninety four|ninety five|ninety six|ninety seven|ninety eight|ninety nine
+#@display=filedisplay|glosses
+#@missing_marker=Ø
+#@separator=
+#@gap_marker=-
+#@formatter=false
+#@root_formatter=COGIDS
+#@note_formatter=NOTE
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=irish.tsv
+#@navbar=true
+#@_morphology_mode=full
