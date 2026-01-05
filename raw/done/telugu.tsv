@@ -23,17 +23,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 22	Telugu	twenty two	iravai rendu	iɾavaɪ̯ renɖu	i ɾ a + v/p aɪ̯/a -/d -/i + r e n ɖ u	twice ten two	11 10 2	Telugu
 23	Telugu	twenty three	iravai mudu	iɾavaɪ̯ muːɖu	i ɾ a + v/p aɪ̯/a -/d -/i + m uː ɖ u	twice ten three	11 10 3	Telugu
 24	Telugu	twenty four	iravai nalugu	iɾavaɪ̯ naːlugu	i ɾ a + v/p aɪ̯/a -/d -/i + n aː l u g u	twice ten four	11 10 4	Telugu
-25	Telugu	twenty five	iravai aidu	iɾavaɪ̯ ajdu	i ɾ a + v/p aɪ̯/a -/d -/i + a j i d u	twice ten five	11 10 5	Telugu
+25	Telugu	twenty five	iravai aidu	iɾavaɪ̯ ajdu	i ɾ a + v/p aɪ̯/a -/d -/i + a j d u	twice ten five	11 10 5	Telugu
 26	Telugu	twenty six	iravai aru	iɾavaɪ̯ aːɾu	i ɾ a + v/p aɪ̯/a -/d -/i + aː ɾ u	twice ten six	11 10 6	Telugu
 27	Telugu	twenty seven	iravai edu	iɾavaɪ̯ eːɖu	i ɾ a + v/p aɪ̯/a -/d -/i + eː ɖ u	twice ten seven	11 10 7	Telugu
 28	Telugu	twenty eight	iravai enimidi	iɾavaɪ̯ enimidi	i ɾ a + v/p aɪ̯/a -/d -/i + e n i m i d i	twice ten eight	11 10 8	Telugu
-29	Telugu	twenty nine	iravai tommidi	iɾavaɪ̯ tomːidi	i ɾ a + v/p aɪ̯/a -/d -/i + t + o mː i d i	twice ten nine	11 10 9	Telugu
+29	Telugu	twenty nine	iravai tommidi	iɾavaɪ̯ tomːidi	i ɾ a + v/p aɪ̯/a -/d -/i + t o mː i d i	twice ten nine	11 10 9	Telugu
 30	Telugu	thirty	muppai	mupːaɪ̯	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i	three ten	3 10	Telugu
 31	Telugu	thirty one	muppai okati	mupːaɪ̯ okaʈi	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i + o k a ʈ i	three ten one	3 10 1	Telugu
 32	Telugu	thirty two	muppai rendu	mupːaɪ̯ renɖu	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i + r e n ɖ u	three ten two	3 10 2	Telugu
 33	Telugu	thirty three	muppai mudu	mupːaɪ̯ muːɖu	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i + m uː ɖ u	three ten three	3 10 3	Telugu
 34	Telugu	thirty four	muppai nalugu	mupːaɪ̯ naːlugu	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i + n aː l u g u	three ten four	3 10 4	Telugu
-35	Telugu	thirty five	muppai aidu	mupːaɪ̯ ajdu	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i + a j i d u	three ten five	3 10 5	Telugu
+35	Telugu	thirty five	muppai aidu	mupːaɪ̯ ajdu	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i + a j d u	three ten five	3 10 5	Telugu
 36	Telugu	thirty six	muppai aru	mupːaɪ̯ aːɾu	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i + aː ɾ u	three ten six	3 10 6	Telugu
 37	Telugu	thirty seven	muppai edu	mupːaɪ̯ eːɖu	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i + eː ɖ u	three ten seven	3 10 7	Telugu
 38	Telugu	thirty eight	muppai enimidi	mupːaɪ̯ enimidi	m u/uː -/ɖ -/u + pː/p aɪ̯/a -/d -/i + e n i m i d i	three ten eight	3 10 8	Telugu
@@ -53,7 +53,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 52	Telugu	fifty two	yabai rendu	ja:baɪ̯ renɖu	j/a aː/j -/d -/u + b/p aɪ̯/a -/d -/i + r e n ɖ u	five ten two	5 10 2	Telugu
 53	Telugu	fifty three	yabai mudu	ja:baɪ̯ muːɖu	j/a aː/j -/d -/u + b/p aɪ̯/a -/d -/i + m uː ɖ u	five ten three	5 10 3	Telugu
 54	Telugu	fifty four	yabai nalugu	ja:baɪ̯ naːlugu	j/a aː/j -/d -/u + b/p aɪ̯/a -/d -/i + n aː l u g u	five ten four	5 10 4	Telugu
-55	Telugu	fifty five	yabai aidu	ja:baɪ̯ ajdu	j/a aː/j -/d -/u + b/p aɪ̯/a -/d -/i + a j ɖ u	five ten five	5 10 5	Telugu
+55	Telugu	fifty five	yabai aidu	ja:baɪ̯ ajdu	j/a aː/j -/d -/u + b/p aɪ̯/a -/d -/i + a j d u	five ten five	5 10 5	Telugu
 56	Telugu	fifty six	yabai aru	ja:baɪ̯ aːɾu	j/a aː/j -/d -/u + b/p aɪ̯/a -/d -/i + aː ɾ u	five ten six	5 10 6	Telugu
 57	Telugu	fifty seven	yabai edu	ja:baɪ̯ eːɖu	j/a aː/j -/d -/u + b/p aɪ̯/a -/d -/i + eː ɖ u	five ten seven	5 10 7	Telugu
 58	Telugu	fifty eight	yabai enimidi	ja:baɪ̯ enimidi	j/a aː/j -/d -/u + b/p aɪ̯/a -/d -/i + e n i m i d i	five ten eight	5 10 8	Telugu
