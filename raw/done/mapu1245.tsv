@@ -1,0 +1,101 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
+1	Mapudungun	one	kiñe	kiɲe	k i ɲ e	8	one	Mapudungun2 Mapudungun1[15]	Mapudungun5 offers all numbers from 1 to 100. It is a manuscript done in a Mapudungun school; it only contains a few typos that I have corrected based on all other sources, i.e. Mapudungun1, Mapudungun2, Mapudungun3 and Mapudungun4.
+2	Mapudungun	two	epu	epu	e p u	1	two	Mapudungun2 Mapudungun1[15]	In the previous work, my main source was Mapudungun2, which is a reference dictionary hosted on the site of the University of Temuco. However, it is currently offline (I do not know why).
+3	Mapudungun	three	küla	kɘla	k ɘ l a	7	three	Mapudungun2 Mapudungun1[15]	Another source for numerals in Mapudungun is Chan's website (https://lingweb.eva.mpg.de/channumerals/Mapudungun.htm), which is a source we will site in general. However, the orthography and the phonetic/phonological interpretation I report here is slightly different on the basis of the available literature.
+4	Mapudungun	four	meli	meli	m e l i	9	four	Mapudungun2 Mapudungun1[15]	Regarding the phonological interpretation, I mostly refer to Mapudungun4
+5	Mapudungun	five	kechu	keʧu	k e ʧ u	6	five	Mapudungun2 Mapudungun1[15]	
+6	Mapudungun	six	kayu	kaju	k a j u	5	six	Mapudungun2 Mapudungun1[15]	
+7	Mapudungun	seven	regle	ʐeɣle	ʐ e ɣ l e	10	seven	Mapudungun2 Mapudungun1[15]	
+8	Mapudungun	eight	pura	puʐa	p u ʐ a	2	eight	Mapudungun2 Mapudungun1[15]	
+9	Mapudungun	nine	aylla	ajʎa	a j ʎ a	4	nine	Mapudungun2 Mapudungun1[15]	
+10	Mapudungun	ten	mari	maʐi	m a ʐ i	3	ten	Mapudungun2 Mapudungun1[15]	
+11	Mapudungun	eleven	mari kiñe	maʐi kiɲe	m a ʐ i + k i ɲ e	3 8	ten one	Mapudungun2 Mapudungun1[15]	
+12	Mapudungun	twelve	mari epu	maʐi epu	m a ʐ i + e p u	3 1	ten two	Mapudungun2	
+13	Mapudungun	thirteen	mari küla	maʐi kɘla	m a ʐ i + k ɘ l a	3 7	ten three	Mapudungun2	
+14	Mapudungun	fourteen	mari meli	maʐi meli	m a ʐ i + m e l i	3 9	ten four	Mapudungun2	
+15	Mapudungun	fifteen	mari kechu	maʐi keʧu	m a ʐ i + k e ʧ u	3 6	ten five	Mapudungun2	
+16	Mapudungun	sixteen	mari kayu	maʐi kaju	m a ʐ i + k a j u	3 5	ten six	Mapudungun2	
+17	Mapudungun	seventeen	mari regle	maʐi ʐeɣle	m a ʐ i + ʐ e ɣ l e	3 10	ten seven	Mapudungun2	
+18	Mapudungun	eighteen	mari pura	maʐi puʐa	m a ʐ i + p u ʐ a	3 2	ten eight	Mapudungun2	
+19	Mapudungun	nineteen	mari aylla	maʐi ajʎa	m a ʐ i + a j ʎ a	3 4	ten nine	Mapudungun2	
+20	Mapudungun	twenty	epu mari	epu maʐi	e p u + m a ʐ i	1 3	two ten	Mapudungun2 Mapudungun1[15]	
+21	Mapudungun	twenty one	epu mari kiñe	epu maʐi kiɲe	e p u + m a ʐ i + k i ɲ e	1 3 2008	two ten one	Mapudungun2	
+22	Mapudungun	twenty two	epu mari epu	epu maʐi epu	e p u + m a ʐ i + e p u	1 3 2001	two ten two	Mapudungun2	
+23	Mapudungun	twenty three	epu mari küla	epu maʐi kɘla	e p u + m a ʐ i + k ɘ l a	1 3 2007	two ten three	Mapudungun2	
+24	Mapudungun	twenty four	epu mari meli	epu maʐi meli	e p u + m a ʐ i + m e l i	1 3 2009	two ten four	Mapudungun2	
+25	Mapudungun	twenty five	epu mari kechu	epu maʐi keʧu	e p u + m a ʐ i + k e ʧ u	1 3 2006	two ten five	Mapudungun2	
+26	Mapudungun	twenty six	epu mari kayu	epu maʐi kaju	e p u + m a ʐ i + k a j u	1 3 2005	two ten six	Mapudungun2	
+27	Mapudungun	twenty seven	epu mari regle	epu maʐi ʐeɣle	e p u + m a ʐ i + ʐ e ɣ l e	1 3 10	two ten seven	Mapudungun2	
+28	Mapudungun	twenty eight	epu mari pura	epu maʐi puʐa	e p u + m a ʐ i + p u ʐ a	1 3 2002	two ten eight	Mapudungun2 Mapudungun1[15]	
+29	Mapudungun	twenty nine	epu mari aylla	epu maʐi ajʎa	e p u + m a ʐ i + a j ʎ a	1 3 2004	two ten nine	Mapudungun2	
+30	Mapudungun	thirty	küla mari	kɘla maʐi	k ɘ l a + m a ʐ i	7 3	three ten	Mapudungun2	
+31	Mapudungun	thirty one	küla mari kiñe	kɘla maʐi kiɲe	k ɘ l a + m a ʐ i + k i ɲ e	7 3 2008	three ten one	Mapudungun2	
+32	Mapudungun	thirty two	küla mari epu	kɘla maʐi epu	k ɘ l a + m a ʐ i + e p u	7 3 2001	three ten two	Mapudungun2	
+33	Mapudungun	thirty three	küla mari küla	kɘla maʐi kɘla	k ɘ l a + m a ʐ i + k ɘ l a	7 3 2007	three ten three	Mapudungun2	
+34	Mapudungun	thirty four	küla mari meli	kɘla maʐi meli	k ɘ l a + m a ʐ i + m e l i	7 3 2009	three ten four	Mapudungun2	
+35	Mapudungun	thirty five	küla mari kechu	kɘla maʐi keʧu	k ɘ l a + m a ʐ i + k e ʧ u	7 3 2006	three ten five	Mapudungun2	
+36	Mapudungun	thirty six	küla mari kayu	kɘla maʐi kaju	k ɘ l a + m a ʐ i + k a j u	7 3 2005	three ten six	Mapudungun2	
+37	Mapudungun	thirty seven	küla mari regle	kɘla maʐi ʐeɣle	k ɘ l a + m a ʐ i + ʐ e ɣ l e	7 3 10	three ten seven	Mapudungun2	
+38	Mapudungun	thirty eight	küla mari pura	kɘla maʐi puʐa	k ɘ l a + m a ʐ i + p u ʐ a	7 3 2002	three ten eight	Mapudungun2	
+39	Mapudungun	thirty nine	küla mari aylla	kɘla maʐi ajʎa	k ɘ l a + m a ʐ i + a j ʎ a	7 3 2004	three ten nine	Mapudungun2	
+40	Mapudungun	forty	meli mari	meli maʐi	m e l i + m a ʐ i	9 3	four ten	Mapudungun2	
+41	Mapudungun	forty one	meli mari kiñe	meli maʐi kiɲe	m e l i + m a ʐ i + k i ɲ e	9 3 2008	four ten one	Mapudungun5	
+42	Mapudungun	forty two	meli mari epu	meli maʐi epu	m e l i + m a ʐ i + e p u	9 3 2001	four ten two	Mapudungun5	
+43	Mapudungun	forty three	meli mari küla	meli maʐi kɘla	m e l i + m a ʐ i + k ɘ l a	9 3 2007	four ten three	Mapudungun5	
+44	Mapudungun	forty four	meli mari meli	meli maʐi meli	m e l i + m a ʐ i + m e l i	9 3 2009	four ten four	Mapudungun5	
+45	Mapudungun	forty five	meli mari kechu	meli maʐi keʧu	m e l i + m a ʐ i + k e ʧ u	9 3 2006	four ten five	Mapudungun5	
+46	Mapudungun	forty six	meli mari kayu	meli maʐi kaju	m e l i + m a ʐ i + k a j u	9 3 2005	four ten six	Mapudungun5	
+47	Mapudungun	forty seven	meli mari regle	meli maʐi ʐeɣle	m e l i + m a ʐ i + ʐ e ɣ l e	9 3 10	four ten seven	Mapudungun5	
+48	Mapudungun	forty eight	meli mari pura	meli maʐi puʐa	m e l i + m a ʐ i + p u ʐ a	9 3 2002	four ten eight	Mapudungun5	
+49	Mapudungun	forty nine	meli mari aylla	meli maʐi ajʎa	m e l i + m a ʐ i + a j ʎ a	9 3 2004	four ten nine	Mapudungun5	
+50	Mapudungun	fifty	kechu mari	keʧu maʐi	k e ʧ u + m a ʐ i	6 3	five ten	Mapudungun5	
+51	Mapudungun	fifty one	kechu mari kiñe	keʧu maʐi kiɲe	k e ʧ u + m a ʐ i + k i ɲ e	6 3 2008	five ten one	Mapudungun5	
+52	Mapudungun	fifty two	kechu mari epu	keʧu maʐi epu	k e ʧ u + m a ʐ i + e p u	6 3 2001	five ten two	Mapudungun5	
+53	Mapudungun	fifty three	kechu mari küla	keʧu maʐi kɘla	k e ʧ u + m a ʐ i + k ɘ l a	6 3 2007	five ten three	Mapudungun5	
+54	Mapudungun	fifty four	kechu mari meli	keʧu maʐi meli	k e ʧ u + m a ʐ i + m e l i	6 3 2009	five ten four	Mapudungun5	
+55	Mapudungun	fifty five	kechu mari kechu	keʧu maʐi keʧu	k e ʧ u + m a ʐ i + k e ʧ u	6 3 2006	five ten five	Mapudungun5	
+56	Mapudungun	fifty six	kechu mari kayu	keʧu maʐi kaju	k e ʧ u + m a ʐ i + k a j u	6 3 2005	five ten six	Mapudungun5	
+57	Mapudungun	fifty seven	kechu mari regle	keʧu maʐi ʐeɣle	k e ʧ u + m a ʐ i + ʐ e ɣ l e	6 3 10	five ten seven	Mapudungun5	
+58	Mapudungun	fifty eight	kechu mari pura	keʧu maʐi puʐa	k e ʧ u + m a ʐ i + p u ʐ a	6 3 2002	five ten eight	Mapudungun5	
+59	Mapudungun	fifty nine	kechu mari aylla	keʧu maʐi ajʎa	k e ʧ u + m a ʐ i + a j ʎ a	6 3 2004	five ten nine	Mapudungun5	
+60	Mapudungun	sixty	kayu mari	kaju maʐi	k a j u + m a ʐ i	5 3	six ten	Mapudungun5	
+61	Mapudungun	sixty one	kayu mari kiñe	kaju maʐi kiɲe	k a j u + m a ʐ i + k i ɲ e	5 3 2008	six ten one	Mapudungun5	
+62	Mapudungun	sixty two	kayu mari epu	kaju maʐi epu	k a j u + m a ʐ i + e p u	5 3 2001	six ten two	Mapudungun5	
+63	Mapudungun	sixty three	kayu mari küla	kaju maʐi kɘla	k a j u + m a ʐ i + k ɘ l a	5 3 2007	six ten three	Mapudungun5	
+64	Mapudungun	sixty four	kayu mari meli	kaju maʐi meli	k a j u + m a ʐ i + m e l i	5 3 2009	six ten four	Mapudungun5	
+65	Mapudungun	sixty five	kayu mari kechu	kaju maʐi keʧu	k a j u + m a ʐ i + k e ʧ u	5 3 2006	six ten five	Mapudungun5	
+66	Mapudungun	sixty six	kayu mari kayu	kaju maʐi kaju	k a j u + m a ʐ i + k a j u	5 3 2005	six ten six	Mapudungun5	
+67	Mapudungun	sixty seven	kayu mari regle	kaju maʐi ʐeɣle	k a j u + m a ʐ i + ʐ e ɣ l e	5 3 10	six ten seven	Mapudungun5	
+68	Mapudungun	sixty eight	kayu mari pura	kaju maʐi puʐa	k a j u + m a ʐ i + p u ʐ a	5 3 2002	six ten eight	Mapudungun5	
+69	Mapudungun	sixty nine	kayu mari aylla	kaju maʐi ajʎa	k a j u + m a ʐ i + a j ʎ a	5 3 2004	six ten nine	Mapudungun5	
+70	Mapudungun	seventy	regle mari	ʐeɣle maʐi	ʐ e ɣ l e + m a ʐ i	10 3	seven ten	Mapudungun5	
+71	Mapudungun	seventy one	regle mari kiñe	ʐeɣle maʐi kiɲe	ʐ e ɣ l e + m a ʐ i + k i ɲ e	10 3 2008	seven ten one	Mapudungun5	
+72	Mapudungun	seventy two	regle mari epu	ʐeɣle maʐi epu	ʐ e ɣ l e + m a ʐ i + e p u	10 3 2001	seven ten two	Mapudungun5	
+73	Mapudungun	seventy three	regle mari küla	ʐeɣle maʐi kɘla	ʐ e ɣ l e + m a ʐ i + k ɘ l a	10 3 2007	seven ten three	Mapudungun5	
+74	Mapudungun	seventy four	regle mari meli	ʐeɣle maʐi meli	ʐ e ɣ l e + m a ʐ i + m e l i	10 3 2009	seven ten four	Mapudungun5	
+75	Mapudungun	seventy five	regle mari kechu	ʐeɣle maʐi keʧu	ʐ e ɣ l e + m a ʐ i + k e ʧ u	10 3 2006	seven ten five	Mapudungun5	
+76	Mapudungun	seventy six	regle mari kayu	ʐeɣle maʐi kaju	ʐ e ɣ l e + m a ʐ i + k a j u	10 3 2005	seven ten six	Mapudungun5	
+77	Mapudungun	seventy seven	regle mari regle	ʐeɣle maʐi ʐeɣle	ʐ e ɣ l e + m a ʐ i + ʐ e ɣ l e	10 3 10	seven ten seven	Mapudungun5	
+78	Mapudungun	seventy eight	regle mari pura	ʐeɣle maʐi puʐa	ʐ e ɣ l e + m a ʐ i + p u ʐ a	10 3 2002	seven ten eight	Mapudungun5	
+79	Mapudungun	seventy nine	regle mari aylla	ʐeɣle maʐi ajʎa	ʐ e ɣ l e + m a ʐ i + a j ʎ a	10 3 2004	seven ten nine	Mapudungun5	
+80	Mapudungun	eighty	pura mari	puʐa maʐi	p u ʐ a + m a ʐ i	2 3	eight ten	Mapudungun5	
+81	Mapudungun	eighty one	pura mari kiñe	puʐa maʐi kiɲe	p u ʐ a + m a ʐ i + k i ɲ e	2 3 2008	eight ten one	Mapudungun5	
+82	Mapudungun	eighty two	pura mari epu	puʐa maʐi epu	p u ʐ a + m a ʐ i + e p u	2 3 2001	eight ten two	Mapudungun5	
+83	Mapudungun	eighty three	pura mari küla	puʐa maʐi kɘla	p u ʐ a + m a ʐ i + k ɘ l a	2 3 2007	eight ten three	Mapudungun5	
+84	Mapudungun	eighty four	pura mari meli	puʐa maʐi meli	p u ʐ a + m a ʐ i + m e l i	2 3 2009	eight ten four	Mapudungun5	
+85	Mapudungun	eighty five	pura mari kechu	puʐa maʐi keʧu	p u ʐ a + m a ʐ i + k e ʧ u	2 3 2006	eight ten five	Mapudungun5	
+86	Mapudungun	eighty six	pura mari kayu	puʐa maʐi kaju	p u ʐ a + m a ʐ i + k a j u	2 3 2005	eight ten six	Mapudungun5	
+87	Mapudungun	eighty seven	pura mari regle	puʐa maʐi ʐeɣle	p u ʐ a + m a ʐ i + ʐ e ɣ l e	2 3 10	eight ten seven	Mapudungun5	
+88	Mapudungun	eighty eight	pura mari pura	puʐa maʐi puʐa	p u ʐ a + m a ʐ i + p u ʐ a	2 3 2002	eight ten eight	Mapudungun5	
+89	Mapudungun	eighty nine	pura mari aylla	puʐa maʐi ajʎa	p u ʐ a + m a ʐ i + a j ʎ a	2 3 2004	eight ten nine	Mapudungun5	
+90	Mapudungun	ninety	aylla mari	ajʎa maʐi	a j ʎ a + m a ʐ i	4 3	nine ten	Mapudungun5	
+91	Mapudungun	ninety one	aylla mari kiñe	ajʎa maʐi kiɲe	a j ʎ a + m a ʐ i + k i ɲ e	4 3 2008	nine ten one	Mapudungun5	
+92	Mapudungun	ninety two	aylla mari epu	ajʎa maʐi epu	a j ʎ a + m a ʐ i + e p u	4 3 2001	nine ten two	Mapudungun5	
+93	Mapudungun	ninety three	aylla mari küla	ajʎa maʐi kɘla	a j ʎ a + m a ʐ i + k ɘ l a	4 3 2007	nine ten three	Mapudungun5	
+94	Mapudungun	ninety four	aylla mari meli	ajʎa maʐi meli	a j ʎ a + m a ʐ i + m e l i	4 3 2009	nine ten four	Mapudungun5	
+95	Mapudungun	ninety five	aylla mari kechu	ajʎa maʐi keʧu	a j ʎ a + m a ʐ i + k e ʧ u	4 3 2006	nine ten five	Mapudungun5	
+96	Mapudungun	ninety six	aylla mari kayu	ajʎa maʐi kaju	a j ʎ a + m a ʐ i + k a j u	4 3 2005	nine ten six	Mapudungun5	
+97	Mapudungun	ninety seven	aylla mari regle	ajʎa maʐi ʐeɣle	a j ʎ a + m a ʐ i + ʐ e ɣ l e	4 3 10	nine ten seven	Mapudungun5	
+98	Mapudungun	ninety eight	aylla mari pura	ajʎa maʐi puʐa	a j ʎ a + m a ʐ i + p u ʐ a	4 3 2002	nine ten eight	Mapudungun5	
+99	Mapudungun	ninety nine	aylla mari aylla	ajʎa maʐi ajʎa	a j ʎ a + m a ʐ i + a j ʎ a	4 3 2004	nine ten nine	Mapudungun5	
+100	Mapudungun	hundred	pataka	pataka	p a t a k a	11	hundred	Mapudungun1[15] Mapudungun3[79] Mapudungun5	
