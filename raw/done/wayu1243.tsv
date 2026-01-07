@@ -9,15 +9,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 8	Wayuu	six	aipirua	aipirua	a i p i r u a	24	six	Wayuu1[259]	
 9	Wayuu	seven	akaraishi	akaraiʃi	a k a r a i ʃ i	11	seven	Wayuu1[259]	
 10	Wayuu	eight	mekiisalü	mekiːsaɺɨ	m e k iː + s a ɺ ɨ	14 8	? ?	Wayuu1[259]	The segmentation of numbers 'eight' and 'nine' are unclear. In the available literature the possible morphemes that form them are not addressed. There exists the feminine morpheme -saɺɨ (used with verbs) with variant -sat (Wayuu1[170]) and both forms are documented with numbers 'eight' and 'nine' (Wayuu2[27]).
-11	Wayuu	nine	mekie’etasalü	mekieʔetasaɺɨ	m e k i/iː + e ʔ e t a + s a ɺ ɨ	14 7 2008	? ? ?	Wayuu1[259]	I do not find the possible morpheme -saɺɨ in the word for 'nine' attested in the 19th-century (Wayuu4 [24]), this may indicate that it is a morpheme and that was added later.
+11	Wayuu	nine	mekie’etasalü	mekieʔetasaɺɨ	m e k i/iː + e ʔ e t a + s a ɺ ɨ	14 7 8	? ? ?	Wayuu1[259]	I do not find the possible morpheme -saɺɨ in the word for 'nine' attested in the 19th-century (Wayuu4 [24]), this may indicate that it is a morpheme and that was added later.
 12	Wayuu	ten	po’loo	poʔɺoː	p o ʔ ɺ oː	4	ten1	Wayuu1[259]	
 13	Wayuu	eleven	po’loo waneeshimüin	poʔɺoː waneːʃimɨin	p o ʔ ɺ oː + w a n eː + ʃ i -/a + m ɨ i n	4 3 5 6	ten1 one MASCULINE ALLATIVE	Wayuu1[259]	-mɨin is an allative (Wayuu1[116])
 14	Wayuu	twelve	po’loo piamamüin	poʔɺoː piamamɨin	p o ʔ ɺ oː + p i a m a + m ɨ i n	4 20 6	ten1 two ALLATIVE	Wayuu1[259]	
-15	Wayuu	thirteen	po’loo apünüinmüin	poʔɺoː apɨnɨinmɨin	p o ʔ ɺ oː + a p ɨ n ɨ i n + m ɨ i n	4 12 2006	ten1 three ALLATIVE	Wayuu1[259]	
-16	Wayuu	fourteen	po’loo pienchimüin	poʔɺoː pienʧimɨin	p o ʔ ɺ oː + p i e n ʧ i + m ɨ i n	4 1 2006	ten1 four ALLATIVE	Wayuu1[259]	
-17	Wayuu	fifteen	po’loo ja’ralimüin	poʔɺoː haʔraɺimɨin	p o ʔ ɺ oː + h a ʔ r a ɺ i + m ɨ i n	4 9 2006	ten1 five ALLATIVE	Wayuu1[259]	
+15	Wayuu	thirteen	po’loo apünüinmüin	poʔɺoː apɨnɨinmɨin	p o ʔ ɺ oː + a p ɨ n ɨ i n + m ɨ i n	4 12 6	ten1 three ALLATIVE	Wayuu1[259]
+16	Wayuu	fourteen	po’loo pienchimüin	poʔɺoː pienʧimɨin	p o ʔ ɺ oː + p i e n ʧ i + m ɨ i n	4 1 6	ten1 four ALLATIVE	Wayuu1[259]
+17	Wayuu	fifteen	po’loo ja’ralimüin	poʔɺoː haʔraɺimɨin	p o ʔ ɺ oː + h a ʔ r a ɺ i + m ɨ i n	4 9 6	ten1 five ALLATIVE	Wayuu1[259]
 18	Wayuu	sixteen	po’loo aipiruamüin	poʔɺoː aipiruamɨin	p o ʔ ɺ oː + a i p i r u a + m ɨ i n	4 24 6	ten1 six ALLATIVE	Wayuu1[259]	
-19	Wayuu	seventeen	po’loo akaraishimüin	poʔɺoː akaraiʃimɨin	p o ʔ ɺ oː + a k a r a i ʃ i + m ɨ i n	4 11 2006	ten1 seven ALLATIVE	Wayuu1[259]	
+19	Wayuu	seventeen	po’loo akaraishimüin	poʔɺoː akaraiʃimɨin	p o ʔ ɺ oː + a k a r a i ʃ i + m ɨ i n	4 11 6	ten1 seven ALLATIVE	Wayuu1[259]
 20	Wayuu	eighteen	po’loo mekiisalümüin	poʔɺoː mekiːsaɺɨmɨin	p o ʔ ɺ oː + m e k iː + s a ɺ ɨ + m ɨ i n	4 14 8 6	ten1 ? ? ALLATIVE	Wayuu1[259]	
 21	Wayuu	nineteen	po’loo mekie’etasalümüin	poʔɺoː mekieʔetasaɺɨmɨin	p o ʔ ɺ oː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	4 14 7 8 6	ten1 ? ? ? ALLATIVE	Wayuu1[259]	
 22	Wayuu	twenty	piama shikii	piama ʃikiː	p i a m a + ʃ i k iː	20 17	two ten2	Wayuu1[259]	ʃikiː is the possessed form of third person feminine of 'head' (Wayuu1[254])
@@ -100,4 +100,3 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 99	Wayuu	ninety seven	mekie’etasalü shikii akaraishimüin	mekieʔetasaɺɨ ʃikiː akaraiʃimɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	14 7 8 17 11 6	? ? ? ten2 seven ALLATIVE	Wayuu1[261]	
 100	Wayuu	ninety eight	mekie’etasalü shikii mekiisalümüin	mekieʔetasaɺɨ ʃikiː mekiːsaɺɨmɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n	14 7 8 17 14 8 6	? ? ? ten2 ? ? ALLATIVE	Wayuu1[261]	
 101	Wayuu	ninety nine	mekie’etasalü shikii mekie’etasalüimüin	mekieʔetasaɺɨ ʃikiː mekieʔetasaɺɨmɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	14 7 8 17 14 7 8 6	? ? ? ten2 ? ? ? ALLATIVE	Wayuu1[261]	
-102	Wayuu	hundred	po’loo shikii	poʔɺoː ʃikiː	p o ʔ ɺ oː + ʃ i k iː	4 17	ten1 ten2	Wayuu1[261]	

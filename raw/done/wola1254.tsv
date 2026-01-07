@@ -1,101 +1,101 @@
 ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	COGIDS	GLOTTOCODE	ALIGNMENT	NOTE	SOURCE
-1	Wolam	1	tak	t a k	one	1	wola1254	t a k		vanDam2026
-2	Wolam	2	ləmeʔ	l ə m e ʔ	two2	2	wola1254	l ə m e ʔ	borrowed from Tikhir, replacingi ni	vanDam2026
-100	Wolam	2	ni	n i	two	2	wola1254	n i	only used for marking dual, e.g. "we two"	vanDam2026
-3	Wolam	3	hameʔ	h a m e ʔ	three2	3	wola1254	h a m e ʔ	borrowed from Tikhir, replacing ham	vanDam2026
-4	Wolam	4	pəle	p ə l e	four	4	wola1254	p ə l e		vanDam2026
-5	Wolam	5	pəŋu	p ə ŋ u	five	5	wola1254	p ə ŋ u		vanDam2026
-6	Wolam	6	ajuk	a j u k	six	6	wola1254	a j u k		vanDam2026
-7	Wolam	7	tʃiɲat	tʃ i ɲ a t	seven	7	wola1254	tʃ i ɲ a t		vanDam2026
-8	Wolam	8	pəti	p ə t i	eight	8	wola1254	p ə t i		vanDam2026
-9	Wolam	9	ləkau	l ə k au	nine	9	wola1254	l ə k au		vanDam2026
-10	Wolam	10	tʰe	tʰ e	ten	98	wola1254	tʰ e		vanDam2026
-11	Wolam	11	tʰe kə tak	tʰ e + k ə + t a k	ten attr one	98 99 1	wola1254	tʰ e + k ə + t a k		vanDam2026
-12	Wolam	12	tʰe kə ləmeʔ	tʰ e + k ə + l ə m e ʔ	ten attr two2	98 99 2	wola1254	tʰ e + k ə + l ə m e ʔ		vanDam2026
-13	Wolam	13	tʰe kə hameʔ	tʰ e + k ə + h a m e ʔ	ten attr three2	98 99 3	wola1254	tʰ e + k ə + h a m e ʔ		vanDam2026
-14	Wolam	14	tʰe kə pəle	tʰ e + k ə + p ə l e	ten attr four	98 99 4	wola1254	tʰ e + k ə + p ə l e		vanDam2026
-15	Wolam	15	tʰe kə pəŋu	tʰ e + k ə + p ə ŋ u	ten attr five	98 99 5	wola1254	tʰ e + k ə + p ə ŋ u		vanDam2026
-16	Wolam	16	tʰe kə ajuk	tʰ e + k ə + a j u k	ten attr six	98 99 6	wola1254	tʰ e + k ə + a j u k		vanDam2026
-17	Wolam	17	tʰe kə tʃiɲat	tʰ e + k ə + tʃ i ɲ a t	ten attr seven	98 99 7	wola1254	tʰ e + k ə + tʃ i ɲ a t		vanDam2026
-18	Wolam	18	tʰe kə pəti	tʰ e + k ə + p ə t i	ten attr eight	98 99 8	wola1254	tʰ e + k ə + p ə t i		vanDam2026
-19	Wolam	19	tʰe kə ləkau	tʰ e + k ə + l ə k au	ten attr nine	98 99 9	wola1254	tʰ e + k ə + l ə k au		vanDam2026
-20	Wolam	20	kʰi	kʰ i	twenty 	20	wola1254	kʰ i		vanDam2026
-21	Wolam	21	kʰi kə tak	kʰ i + k ə + t a k	twenty attr one	20 99 1	wola1254	kʰ i + k ə + t a k		vanDam2026
-22	Wolam	22	kʰi kə ləmeʔ	kʰ i + k ə + l ə m e ʔ	twenty attr two2	20 99 2	wola1254	kʰ i + k ə + l ə m e ʔ		vanDam2026
-23	Wolam	23	kʰi kə hameʔ	kʰ i + k ə + h a m e ʔ	twenty attr three2	20 99 3	wola1254	kʰ i + k ə + h a m e ʔ		vanDam2026
-24	Wolam	24	kʰi kə pəle	kʰ i + k ə + p ə l e	twenty attr four	20 99 4	wola1254	kʰ i + k ə + p ə l e		vanDam2026
-25	Wolam	25	kʰi kə pəŋu	kʰ i + k ə + p ə ŋ u	twenty attr five	20 99 5	wola1254	kʰ i + k ə + p ə ŋ u		vanDam2026
-26	Wolam	26	kʰi kə ajuk	kʰ i + k ə + a j u k	twenty attr six	20 99 6	wola1254	kʰ i + k ə + a j u k		vanDam2026
-27	Wolam	27	kʰi kə tʃiɲat	kʰ i + k ə + tʃ i ɲ a t	twenty attr seven	20 99 7	wola1254	kʰ i + k ə + tʃ i ɲ a t		vanDam2026
-28	Wolam	28	kʰi kə pəti	kʰ i + k ə + p ə t i	twenty attr eight	20 99 8	wola1254	kʰ i + k ə + p ə t i		vanDam2026
-29	Wolam	29	kʰi kə ləkau	kʰ i + k ə + l ə k au	twenty attr nine	20 99 9	wola1254	kʰ i + k ə + l ə k au		vanDam2026
-30	Wolam	30	au ham	au + h a m	ten2 three 	10 three 	wola1254	au + h a m		vanDam2026
-31	Wolam	31	au ham kə tak	au + h a m + k ə + t a k	ten2 three attr one	10 three 99 1	wola1254	au + h a m + k ə + t a k		vanDam2026
-32	Wolam	32	au ham kə ləmeʔ	au + h a m + k ə + l ə m e ʔ	ten2 three attr two2	10 three 99 2	wola1254	au + h a m + k ə + l ə m e ʔ		vanDam2026
-33	Wolam	33	au ham kə hameʔ	au + h a m + k ə + h a m e ʔ	ten2 three attr three2	10 three 99 3	wola1254	au + h a m + k ə + h a m e ʔ		vanDam2026
-34	Wolam	34	au ham kə pəle	au + h a m + k ə + p ə l e	ten2 three attr four	10 three 99 4	wola1254	au + h a m + k ə + p ə l e		vanDam2026
-35	Wolam	35	au ham kə pəŋu	au + h a m + k ə + p ə ŋ u	ten2 three attr five	10 three 99 5	wola1254	au + h a m + k ə + p ə ŋ u		vanDam2026
-36	Wolam	36	au ham kə ajuk	au + h a m + k ə + a j u k	ten2 three attr six	10 three 99 6	wola1254	au + h a m + k ə + a j u k		vanDam2026
-37	Wolam	37	au ham kə tʃiɲat	au + h a m + k ə + tʃ i ɲ a t	ten2 three attr seven	10 three 99 7	wola1254	au + h a m + k ə + tʃ i ɲ a t		vanDam2026
-38	Wolam	38	au ham kə pəti	au + h a m + k ə + p ə t i	ten2 three attr eight	10 three 99 8	wola1254	au + h a m + k ə + p ə t i		vanDam2026
-39	Wolam	39	au ham kə ləkau	au + h a m + k ə + l ə k au	ten2 three attr nine	10 three 99 9	wola1254	au + h a m + k ə + l ə k au		vanDam2026
-40	Wolam	40	au pəle	au + p ə l e	ten2 four 	10 4	wola1254	au + p ə l e		vanDam2026
-41	Wolam	41	au pəle kə tak	au + p ə l e + k ə + t a k	ten2 four attr one	10 4 99 1	wola1254	au + p ə l e + k ə + t a k		vanDam2026
-42	Wolam	42	au pəle kə ləmeʔ	au + p ə l e + k ə + l ə m e ʔ	ten2 four attr two2	10 4 99 2	wola1254	au + p ə l e + k ə + l ə m e ʔ		vanDam2026
-43	Wolam	43	au pəle kə hameʔ	au + p ə l e + k ə + h a m e ʔ	ten2 four attr three2	10 4 99 3	wola1254	au + p ə l e + k ə + h a m e ʔ		vanDam2026
-44	Wolam	44	au pəle kə pəle	au + p ə l e + k ə + p ə l e	ten2 four attr four	10 4 99 4	wola1254	au + p ə l e + k ə + p ə l e		vanDam2026
-45	Wolam	45	au pəle kə pəŋu	au + p ə l e + k ə + p ə ŋ u	ten2 four attr five	10 4 99 5	wola1254	au + p ə l e + k ə + p ə ŋ u		vanDam2026
-46	Wolam	46	au pəle kə ajuk	au + p ə l e + k ə + a j u k	ten2 four attr six	10 4 99 6	wola1254	au + p ə l e + k ə + a j u k		vanDam2026
-47	Wolam	47	au pəle kə tʃiɲat	au + p ə l e + k ə + tʃ i ɲ a t	ten2 four attr seven	10 4 99 7	wola1254	au + p ə l e + k ə + tʃ i ɲ a t		vanDam2026
-48	Wolam	48	au pəle kə pəti	au + p ə l e + k ə + p ə t i	ten2 four attr eight	10 4 99 8	wola1254	au + p ə l e + k ə + p ə t i		vanDam2026
-49	Wolam	49	au pəle kə ləkau	au + p ə l e + k ə + l ə k au	ten2 four attr nine	10 4 99 9	wola1254	au + p ə l e + k ə + l ə k au		vanDam2026
-50	Wolam	50	au pəŋu	au + p ə ŋ u	ten2 five 	10 5	wola1254	au + p ə ŋ u		vanDam2026
-51	Wolam	51	au pəŋu kə tak	au + p ə ŋ u + k ə + t a k	ten2 five attr one	10 5 99 1	wola1254	au + p ə ŋ u + k ə + t a k		vanDam2026
-52	Wolam	52	au pəŋu kə ləmeʔ	au + p ə ŋ u + k ə + l ə m e ʔ	ten2 five attr two2	10 5 99 2	wola1254	au + p ə ŋ u + k ə + l ə m e ʔ		vanDam2026
-53	Wolam	53	au pəŋu kə hameʔ	au + p ə ŋ u + k ə + h a m e ʔ	ten2 five attr three2	10 5 99 3	wola1254	au + p ə ŋ u + k ə + h a m e ʔ		vanDam2026
-54	Wolam	54	au pəŋu kə pəle	au + p ə ŋ u + k ə + p ə l e	ten2 five attr four	10 5 99 4	wola1254	au + p ə ŋ u + k ə + p ə l e		vanDam2026
-55	Wolam	55	au pəŋu kə pəŋu	au + p ə ŋ u + k ə + p ə ŋ u	ten2 five attr five	10 5 99 5	wola1254	au + p ə ŋ u + k ə + p ə ŋ u		vanDam2026
-56	Wolam	56	au pəŋu kə ajuk	au + p ə ŋ u + k ə + a j u k	ten2 five attr six	10 5 99 6	wola1254	au + p ə ŋ u + k ə + a j u k		vanDam2026
-57	Wolam	57	au pəŋu kə tʃiɲat	au + p ə ŋ u + k ə + tʃ i ɲ a t	ten2 five attr seven	10 5 99 7	wola1254	au + p ə ŋ u + k ə + tʃ i ɲ a t		vanDam2026
-58	Wolam	58	au pəŋu kə pəti	au + p ə ŋ u + k ə + p ə t i	ten2 five attr eight	10 5 99 8	wola1254	au + p ə ŋ u + k ə + p ə t i		vanDam2026
-59	Wolam	59	au pəŋu kə ləkau	au + p ə ŋ u + k ə + l ə k au	ten2 five attr nine	10 5 99 9	wola1254	au + p ə ŋ u + k ə + l ə k au		vanDam2026
-60	Wolam	60	au ajuk	au + a j u k	ten2 six 	10 6 	wola1254	au + a j u k		vanDam2026
-61	Wolam	61	au ajuk kə tak	au + a j u k + k ə + t a k	ten2 six attr one	10 6 99 1	wola1254	au + a j u k + k ə + t a k		vanDam2026
-62	Wolam	62	au ajuk kə ləmeʔ	au + a j u k + k ə + l ə m e ʔ	ten2 six attr two2	10 6 99 2	wola1254	au + a j u k + k ə + l ə m e ʔ		vanDam2026
-63	Wolam	63	au ajuk kə hameʔ	au + a j u k + k ə + h a m e ʔ	ten2 six attr three2	10 6 99 3	wola1254	au + a j u k + k ə + h a m e ʔ		vanDam2026
-64	Wolam	64	au ajuk kə pəle	au + a j u k + k ə + p ə l e	ten2 six attr four	10 6 99 4	wola1254	au + a j u k + k ə + p ə l e		vanDam2026
-65	Wolam	65	au ajuk kə pəŋu	au + a j u k + k ə + p ə ŋ u	ten2 six attr five	10 6 99 5	wola1254	au + a j u k + k ə + p ə ŋ u		vanDam2026
-66	Wolam	66	au ajuk kə ajuk	au + a j u k + k ə + a j u k	ten2 six attr six	10 6 99 6	wola1254	au + a j u k + k ə + a j u k		vanDam2026
-67	Wolam	67	au ajuk kə tʃiɲat	au + a j u k + k ə + tʃ i ɲ a t	ten2 six attr seven	10 6 99 7	wola1254	au + a j u k + k ə + tʃ i ɲ a t		vanDam2026
-68	Wolam	68	au ajuk kə pəti	au + a j u k + k ə + p ə t i	ten2 six attr eight	10 6 99 8	wola1254	au + a j u k + k ə + p ə t i		vanDam2026
-69	Wolam	69	au ajuk kə ləkau	au + a j u k + k ə + l ə k au	ten2 six attr nine	10 6 99 9	wola1254	au + a j u k + k ə + l ə k au		vanDam2026
-70	Wolam	70	au tʃiɲat	au + tʃ i ɲ a t	ten2 seven 	10 7 	wola1254	au + tʃ i ɲ a t		vanDam2026
-71	Wolam	71	au tʃiɲat kə tak	au + tʃ i ɲ a t + k ə + t a k	ten2 seven attr one	10 7 99 1	wola1254	au + tʃ i ɲ a t + k ə + t a k		vanDam2026
-72	Wolam	72	au tʃiɲat kə ləmeʔ	au + tʃ i ɲ a t + k ə + l ə m e ʔ	ten2 seven attr two2	10 7 99 2	wola1254	au + tʃ i ɲ a t + k ə + l ə m e ʔ		vanDam2026
-73	Wolam	73	au tʃiɲat kə hameʔ	au + tʃ i ɲ a t + k ə + h a m e ʔ	ten2 seven attr three2	10 7 99 3	wola1254	au + tʃ i ɲ a t + k ə + h a m e ʔ		vanDam2026
-74	Wolam	74	au tʃiɲat kə pəle	au + tʃ i ɲ a t + k ə + p ə l e	ten2 seven attr four	10 7 99 4	wola1254	au + tʃ i ɲ a t + k ə + p ə l e		vanDam2026
-75	Wolam	75	au tʃiɲat kə pəŋu	au + tʃ i ɲ a t + k ə + p ə ŋ u	ten2 seven attr five	10 7 99 5	wola1254	au + tʃ i ɲ a t + k ə + p ə ŋ u		vanDam2026
-76	Wolam	76	au tʃiɲat kə ajuk	au + tʃ i ɲ a t + k ə + a j u k	ten2 seven attr six	10 7 99 6	wola1254	au + tʃ i ɲ a t + k ə + a j u k		vanDam2026
-77	Wolam	77	au tʃiɲat kə tʃiɲat	au + tʃ i ɲ a t + k ə + tʃ i ɲ a t	ten2 seven attr seven	10 7 99 7	wola1254	au + tʃ i ɲ a t + k ə + tʃ i ɲ a t		vanDam2026
-78	Wolam	78	au tʃiɲat kə pəti	au + tʃ i ɲ a t + k ə + p ə t i	ten2 seven attr eight	10 7 99 8	wola1254	au + tʃ i ɲ a t + k ə + p ə t i		vanDam2026
-79	Wolam	79	au tʃiɲat kə ləkau	au + tʃ i ɲ a t + k ə + l ə k au	ten2 seven attr nine	10 7 99 9	wola1254	au + tʃ i ɲ a t + k ə + l ə k au		vanDam2026
-80	Wolam	80	au pəti	au + p ə t i	ten2 eight 	10 8 	wola1254	au + p ə t i		vanDam2026
-81	Wolam	81	au pəti kə tak	au + p ə t i + k ə + t a k	ten2 eight attr one	10 8 99 1	wola1254	au + p ə t i + k ə + t a k		vanDam2026
-82	Wolam	82	au pəti kə ləmeʔ	au + p ə t i + k ə + l ə m e ʔ	ten2 eight attr two2	10 8 99 2	wola1254	au + p ə t i + k ə + l ə m e ʔ		vanDam2026
-83	Wolam	83	au pəti kə hameʔ	au + p ə t i + k ə + h a m e ʔ	ten2 eight attr three2	10 8 99 3	wola1254	au + p ə t i + k ə + h a m e ʔ		vanDam2026
-84	Wolam	84	au pəti kə pəle	au + p ə t i + k ə + p ə l e	ten2 eight attr four	10 8 99 4	wola1254	au + p ə t i + k ə + p ə l e		vanDam2026
-85	Wolam	85	au pəti kə pəŋu	au + p ə t i + k ə + p ə ŋ u	ten2 eight attr five	10 8 99 5	wola1254	au + p ə t i + k ə + p ə ŋ u		vanDam2026
-86	Wolam	86	au pəti kə ajuk	au + p ə t i + k ə + a j u k	ten2 eight attr six	10 8 99 6	wola1254	au + p ə t i + k ə + a j u k		vanDam2026
-87	Wolam	87	au pəti kə tʃiɲat	au + p ə t i + k ə + tʃ i ɲ a t	ten2 eight attr seven	10 8 99 7	wola1254	au + p ə t i + k ə + tʃ i ɲ a t		vanDam2026
-88	Wolam	88	au pəti kə pəti	au + p ə t i + k ə + p ə t i	ten2 eight attr eight	10 8 99 8	wola1254	au + p ə t i + k ə + p ə t i		vanDam2026
-89	Wolam	89	au pəti kə ləkau	au + p ə t i + k ə + l ə k au	ten2 eight attr nine	10 8 99 9	wola1254	au + p ə t i + k ə + l ə k au		vanDam2026
-90	Wolam	90	au ləkau	au + l ə k au	ten2 nine 	10 9 	wola1254	au + l ə k au		vanDam2026
-91	Wolam	91	au ləkau kə tak	au + l ə k au + k ə + t a k	ten2 nine attr one	10 9 99 1	wola1254	au + l ə k au + k ə + t a k		vanDam2026
-92	Wolam	92	au ləkau kə ləmeʔ	au + l ə k au + k ə + l ə m e ʔ	ten2 nine attr two2	10 9 99 2	wola1254	au + l ə k au + k ə + l ə m e ʔ		vanDam2026
-93	Wolam	93	au ləkau kə hameʔ	au + l ə k au + k ə + h a m e ʔ	ten2 nine attr three2	10 9 99 3	wola1254	au + l ə k au + k ə + h a m e ʔ		vanDam2026
-94	Wolam	94	au ləkau kə pəle	au + l ə k au + k ə + p ə l e	ten2 nine attr four	10 9 99 4	wola1254	au + l ə k au + k ə + p ə l e		vanDam2026
-95	Wolam	95	au ləkau kə pəŋu	au + l ə k au + k ə + p ə ŋ u	ten2 nine attr five	10 9 99 5	wola1254	au + l ə k au + k ə + p ə ŋ u		vanDam2026
-96	Wolam	96	au ləkau kə ajuk	au + l ə k au + k ə + a j u k	ten2 nine attr six	10 9 99 6	wola1254	au + l ə k au + k ə + a j u k		vanDam2026
-97	Wolam	97	au ləkau kə tʃiɲat	au + l ə k au + k ə + tʃ i ɲ a t	ten2 nine attr seven	10 9 99 7	wola1254	au + l ə k au + k ə + tʃ i ɲ a t		vanDam2026
-98	Wolam	98	au ləkau kə pəti	au + l ə k au + k ə + p ə t i	ten2 nine attr eight	10 9 99 8	wola1254	au + l ə k au + k ə + p ə t i		vanDam2026
-99	Wolam	99	au ləkau kə ləkau	au + l ə k au + k ə + l ə k au	ten2 nine attr nine	10 9 99 9	wola1254	au + l ə k au + k ə + l ə k au		vanDam2026
+1	Wolam	one	tak	t a k	one	1	wola1254	t a k		vanDam2026
+2	Wolam	two	ləmeʔ	l ə m e ʔ	two2	2	wola1254	l ə m e ʔ	borrowed from Tikhir, replacingi ni	vanDam2026
+100	Wolam	two	ni	n i	two	22	wola1254	n i	only used for marking dual, e.g. "we two"	vanDam2026
+3	Wolam	three	hameʔ	h a m e ʔ	three2	3	wola1254	h a m e ʔ	borrowed from Tikhir, replacing ham	vanDam2026
+4	Wolam	four	pəle	p ə l e	four	4	wola1254	p ə l e		vanDam2026
+5	Wolam	five	pəŋu	p ə ŋ u	five	5	wola1254	p ə ŋ u		vanDam2026
+6	Wolam	six	ajuk	a j u k	six	6	wola1254	a j u k		vanDam2026
+7	Wolam	seven	tʃiɲat	tʃ i ɲ a t	seven	7	wola1254	tʃ i ɲ a t		vanDam2026
+8	Wolam	eight	pəti	p ə t i	eight	8	wola1254	p ə t i		vanDam2026
+9	Wolam	nine	ləkau	l ə k au	nine	9	wola1254	l ə k au		vanDam2026
+10	Wolam	ten	tʰe	tʰ e	ten	98	wola1254	tʰ e		vanDam2026
+11	Wolam	eleven	tʰe kə tak	tʰ e + k ə + t a k	ten attr one	98 99 1	wola1254	tʰ e + k ə + t a k		vanDam2026
+12	Wolam	twelve	tʰe kə ləmeʔ	tʰ e + k ə + l ə m e ʔ	ten attr two2	98 99 2	wola1254	tʰ e + k ə + l ə m e ʔ		vanDam2026
+13	Wolam	thirteen	tʰe kə hameʔ	tʰ e + k ə + h a m e ʔ	ten attr three2	98 99 3	wola1254	tʰ e + k ə + h a m e ʔ		vanDam2026
+14	Wolam	fourteen	tʰe kə pəle	tʰ e + k ə + p ə l e	ten attr four	98 99 4	wola1254	tʰ e + k ə + p ə l e		vanDam2026
+15	Wolam	fifteen	tʰe kə pəŋu	tʰ e + k ə + p ə ŋ u	ten attr five	98 99 5	wola1254	tʰ e + k ə + p ə ŋ u		vanDam2026
+16	Wolam	sixteen	tʰe kə ajuk	tʰ e + k ə + a j u k	ten attr six	98 99 6	wola1254	tʰ e + k ə + a j u k		vanDam2026
+17	Wolam	seventeen	tʰe kə tʃiɲat	tʰ e + k ə + tʃ i ɲ a t	ten attr seven	98 99 7	wola1254	tʰ e + k ə + tʃ i ɲ a t		vanDam2026
+18	Wolam	eighteen	tʰe kə pəti	tʰ e + k ə + p ə t i	ten attr eight	98 99 8	wola1254	tʰ e + k ə + p ə t i		vanDam2026
+19	Wolam	nineteen	tʰe kə ləkau	tʰ e + k ə + l ə k au	ten attr nine	98 99 9	wola1254	tʰ e + k ə + l ə k au		vanDam2026
+20	Wolam	twenty	kʰi	kʰ i	twenty 	20	wola1254	kʰ i		vanDam2026
+21	Wolam	twenty one	kʰi kə tak	kʰ i + k ə + t a k	twenty attr one	20 99 1	wola1254	kʰ i + k ə + t a k		vanDam2026
+22	Wolam	twenty two	kʰi kə ləmeʔ	kʰ i + k ə + l ə m e ʔ	twenty attr two2	20 99 2	wola1254	kʰ i + k ə + l ə m e ʔ		vanDam2026
+23	Wolam	twenty three	kʰi kə hameʔ	kʰ i + k ə + h a m e ʔ	twenty attr three2	20 99 3	wola1254	kʰ i + k ə + h a m e ʔ		vanDam2026
+24	Wolam	twenty four	kʰi kə pəle	kʰ i + k ə + p ə l e	twenty attr four	20 99 4	wola1254	kʰ i + k ə + p ə l e		vanDam2026
+25	Wolam	twenty five	kʰi kə pəŋu	kʰ i + k ə + p ə ŋ u	twenty attr five	20 99 5	wola1254	kʰ i + k ə + p ə ŋ u		vanDam2026
+26	Wolam	twenty six	kʰi kə ajuk	kʰ i + k ə + a j u k	twenty attr six	20 99 6	wola1254	kʰ i + k ə + a j u k		vanDam2026
+27	Wolam	twenty seven	kʰi kə tʃiɲat	kʰ i + k ə + tʃ i ɲ a t	twenty attr seven	20 99 7	wola1254	kʰ i + k ə + tʃ i ɲ a t		vanDam2026
+28	Wolam	twenty eight	kʰi kə pəti	kʰ i + k ə + p ə t i	twenty attr eight	20 99 8	wola1254	kʰ i + k ə + p ə t i		vanDam2026
+29	Wolam	twenty nine	kʰi kə ləkau	kʰ i + k ə + l ə k au	twenty attr nine	20 99 9	wola1254	kʰ i + k ə + l ə k au		vanDam2026
+30	Wolam	thirty	au ham	au + h a m	ten2 three 	10 33 	wola1254	au + h a m		vanDam2026
+31	Wolam	thirty one	au ham kə tak	au + h a m + k ə + t a k	ten2 three attr one	10 33 99 1	wola1254	au + h a m + k ə + t a k		vanDam2026
+32	Wolam	thirty two	au ham kə ləmeʔ	au + h a m + k ə + l ə m e ʔ	ten2 three attr two2	10 33 99 2	wola1254	au + h a m + k ə + l ə m e ʔ		vanDam2026
+33	Wolam	thirty three	au ham kə hameʔ	au + h a m + k ə + h a m e ʔ	ten2 three attr three2	10 33 99 3	wola1254	au + h a m + k ə + h a m e ʔ		vanDam2026
+34	Wolam	thirty four	au ham kə pəle	au + h a m + k ə + p ə l e	ten2 three attr four	10 33 99 4	wola1254	au + h a m + k ə + p ə l e		vanDam2026
+35	Wolam	thirty five	au ham kə pəŋu	au + h a m + k ə + p ə ŋ u	ten2 three attr five	10 33 99 5	wola1254	au + h a m + k ə + p ə ŋ u		vanDam2026
+36	Wolam	thirty six	au ham kə ajuk	au + h a m + k ə + a j u k	ten2 three attr six	10 33 99 6	wola1254	au + h a m + k ə + a j u k		vanDam2026
+37	Wolam	thirty seven	au ham kə tʃiɲat	au + h a m + k ə + tʃ i ɲ a t	ten2 three attr seven	10 33 99 7	wola1254	au + h a m + k ə + tʃ i ɲ a t		vanDam2026
+38	Wolam	thirty eight	au ham kə pəti	au + h a m + k ə + p ə t i	ten2 three attr eight	10 33 99 8	wola1254	au + h a m + k ə + p ə t i		vanDam2026
+39	Wolam	thirty nine	au ham kə ləkau	au + h a m + k ə + l ə k au	ten2 three attr nine	10 33 99 9	wola1254	au + h a m + k ə + l ə k au		vanDam2026
+40	Wolam	forty	au pəle	au + p ə l e	ten2 four 	10 4	wola1254	au + p ə l e		vanDam2026
+41	Wolam	forty one	au pəle kə tak	au + p ə l e + k ə + t a k	ten2 four attr one	10 4 99 1	wola1254	au + p ə l e + k ə + t a k		vanDam2026
+42	Wolam	forty two	au pəle kə ləmeʔ	au + p ə l e + k ə + l ə m e ʔ	ten2 four attr two2	10 4 99 2	wola1254	au + p ə l e + k ə + l ə m e ʔ		vanDam2026
+43	Wolam	forty three	au pəle kə hameʔ	au + p ə l e + k ə + h a m e ʔ	ten2 four attr three2	10 4 99 3	wola1254	au + p ə l e + k ə + h a m e ʔ		vanDam2026
+44	Wolam	forty four	au pəle kə pəle	au + p ə l e + k ə + p ə l e	ten2 four attr four	10 4 99 4	wola1254	au + p ə l e + k ə + p ə l e		vanDam2026
+45	Wolam	forty five	au pəle kə pəŋu	au + p ə l e + k ə + p ə ŋ u	ten2 four attr five	10 4 99 5	wola1254	au + p ə l e + k ə + p ə ŋ u		vanDam2026
+46	Wolam	forty six	au pəle kə ajuk	au + p ə l e + k ə + a j u k	ten2 four attr six	10 4 99 6	wola1254	au + p ə l e + k ə + a j u k		vanDam2026
+47	Wolam	forty seven	au pəle kə tʃiɲat	au + p ə l e + k ə + tʃ i ɲ a t	ten2 four attr seven	10 4 99 7	wola1254	au + p ə l e + k ə + tʃ i ɲ a t		vanDam2026
+48	Wolam	forty eight	au pəle kə pəti	au + p ə l e + k ə + p ə t i	ten2 four attr eight	10 4 99 8	wola1254	au + p ə l e + k ə + p ə t i		vanDam2026
+49	Wolam	forty nine	au pəle kə ləkau	au + p ə l e + k ə + l ə k au	ten2 four attr nine	10 4 99 9	wola1254	au + p ə l e + k ə + l ə k au		vanDam2026
+50	Wolam	fifty	au pəŋu	au + p ə ŋ u	ten2 five 	10 5	wola1254	au + p ə ŋ u		vanDam2026
+51	Wolam	fifty one	au pəŋu kə tak	au + p ə ŋ u + k ə + t a k	ten2 five attr one	10 5 99 1	wola1254	au + p ə ŋ u + k ə + t a k		vanDam2026
+52	Wolam	fifty two	au pəŋu kə ləmeʔ	au + p ə ŋ u + k ə + l ə m e ʔ	ten2 five attr two2	10 5 99 2	wola1254	au + p ə ŋ u + k ə + l ə m e ʔ		vanDam2026
+53	Wolam	fifty three	au pəŋu kə hameʔ	au + p ə ŋ u + k ə + h a m e ʔ	ten2 five attr three2	10 5 99 3	wola1254	au + p ə ŋ u + k ə + h a m e ʔ		vanDam2026
+54	Wolam	fifty four	au pəŋu kə pəle	au + p ə ŋ u + k ə + p ə l e	ten2 five attr four	10 5 99 4	wola1254	au + p ə ŋ u + k ə + p ə l e		vanDam2026
+55	Wolam	fifty five	au pəŋu kə pəŋu	au + p ə ŋ u + k ə + p ə ŋ u	ten2 five attr five	10 5 99 5	wola1254	au + p ə ŋ u + k ə + p ə ŋ u		vanDam2026
+56	Wolam	fifty six	au pəŋu kə ajuk	au + p ə ŋ u + k ə + a j u k	ten2 five attr six	10 5 99 6	wola1254	au + p ə ŋ u + k ə + a j u k		vanDam2026
+57	Wolam	fifty seven	au pəŋu kə tʃiɲat	au + p ə ŋ u + k ə + tʃ i ɲ a t	ten2 five attr seven	10 5 99 7	wola1254	au + p ə ŋ u + k ə + tʃ i ɲ a t		vanDam2026
+58	Wolam	fifty eight	au pəŋu kə pəti	au + p ə ŋ u + k ə + p ə t i	ten2 five attr eight	10 5 99 8	wola1254	au + p ə ŋ u + k ə + p ə t i		vanDam2026
+59	Wolam	fifty nine	au pəŋu kə ləkau	au + p ə ŋ u + k ə + l ə k au	ten2 five attr nine	10 5 99 9	wola1254	au + p ə ŋ u + k ə + l ə k au		vanDam2026
+60	Wolam	sixty	au ajuk	au + a j u k	ten2 six 	10 6 	wola1254	au + a j u k		vanDam2026
+61	Wolam	sixty one	au ajuk kə tak	au + a j u k + k ə + t a k	ten2 six attr one	10 6 99 1	wola1254	au + a j u k + k ə + t a k		vanDam2026
+62	Wolam	sixty two	au ajuk kə ləmeʔ	au + a j u k + k ə + l ə m e ʔ	ten2 six attr two2	10 6 99 2	wola1254	au + a j u k + k ə + l ə m e ʔ		vanDam2026
+63	Wolam	sixty three	au ajuk kə hameʔ	au + a j u k + k ə + h a m e ʔ	ten2 six attr three2	10 6 99 3	wola1254	au + a j u k + k ə + h a m e ʔ		vanDam2026
+64	Wolam	sixty four	au ajuk kə pəle	au + a j u k + k ə + p ə l e	ten2 six attr four	10 6 99 4	wola1254	au + a j u k + k ə + p ə l e		vanDam2026
+65	Wolam	sixty five	au ajuk kə pəŋu	au + a j u k + k ə + p ə ŋ u	ten2 six attr five	10 6 99 5	wola1254	au + a j u k + k ə + p ə ŋ u		vanDam2026
+66	Wolam	sixty six	au ajuk kə ajuk	au + a j u k + k ə + a j u k	ten2 six attr six	10 6 99 6	wola1254	au + a j u k + k ə + a j u k		vanDam2026
+67	Wolam	sixty seven	au ajuk kə tʃiɲat	au + a j u k + k ə + tʃ i ɲ a t	ten2 six attr seven	10 6 99 7	wola1254	au + a j u k + k ə + tʃ i ɲ a t		vanDam2026
+68	Wolam	sixty eight	au ajuk kə pəti	au + a j u k + k ə + p ə t i	ten2 six attr eight	10 6 99 8	wola1254	au + a j u k + k ə + p ə t i		vanDam2026
+69	Wolam	sixty nine	au ajuk kə ləkau	au + a j u k + k ə + l ə k au	ten2 six attr nine	10 6 99 9	wola1254	au + a j u k + k ə + l ə k au		vanDam2026
+70	Wolam	seventy	au tʃiɲat	au + tʃ i ɲ a t	ten2 seven 	10 7 	wola1254	au + tʃ i ɲ a t		vanDam2026
+71	Wolam	seventy one	au tʃiɲat kə tak	au + tʃ i ɲ a t + k ə + t a k	ten2 seven attr one	10 7 99 1	wola1254	au + tʃ i ɲ a t + k ə + t a k		vanDam2026
+72	Wolam	seventy two	au tʃiɲat kə ləmeʔ	au + tʃ i ɲ a t + k ə + l ə m e ʔ	ten2 seven attr two2	10 7 99 2	wola1254	au + tʃ i ɲ a t + k ə + l ə m e ʔ		vanDam2026
+73	Wolam	seventy three	au tʃiɲat kə hameʔ	au + tʃ i ɲ a t + k ə + h a m e ʔ	ten2 seven attr three2	10 7 99 3	wola1254	au + tʃ i ɲ a t + k ə + h a m e ʔ		vanDam2026
+74	Wolam	seventy four	au tʃiɲat kə pəle	au + tʃ i ɲ a t + k ə + p ə l e	ten2 seven attr four	10 7 99 4	wola1254	au + tʃ i ɲ a t + k ə + p ə l e		vanDam2026
+75	Wolam	seventy five	au tʃiɲat kə pəŋu	au + tʃ i ɲ a t + k ə + p ə ŋ u	ten2 seven attr five	10 7 99 5	wola1254	au + tʃ i ɲ a t + k ə + p ə ŋ u		vanDam2026
+76	Wolam	seventy six	au tʃiɲat kə ajuk	au + tʃ i ɲ a t + k ə + a j u k	ten2 seven attr six	10 7 99 6	wola1254	au + tʃ i ɲ a t + k ə + a j u k		vanDam2026
+77	Wolam	seventy seven	au tʃiɲat kə tʃiɲat	au + tʃ i ɲ a t + k ə + tʃ i ɲ a t	ten2 seven attr seven	10 7 99 7	wola1254	au + tʃ i ɲ a t + k ə + tʃ i ɲ a t		vanDam2026
+78	Wolam	seventy eight	au tʃiɲat kə pəti	au + tʃ i ɲ a t + k ə + p ə t i	ten2 seven attr eight	10 7 99 8	wola1254	au + tʃ i ɲ a t + k ə + p ə t i		vanDam2026
+79	Wolam	seventy nine	au tʃiɲat kə ləkau	au + tʃ i ɲ a t + k ə + l ə k au	ten2 seven attr nine	10 7 99 9	wola1254	au + tʃ i ɲ a t + k ə + l ə k au		vanDam2026
+80	Wolam	eighty	au pəti	au + p ə t i	ten2 eight 	10 8 	wola1254	au + p ə t i		vanDam2026
+81	Wolam	eighty one	au pəti kə tak	au + p ə t i + k ə + t a k	ten2 eight attr one	10 8 99 1	wola1254	au + p ə t i + k ə + t a k		vanDam2026
+82	Wolam	eighty two	au pəti kə ləmeʔ	au + p ə t i + k ə + l ə m e ʔ	ten2 eight attr two2	10 8 99 2	wola1254	au + p ə t i + k ə + l ə m e ʔ		vanDam2026
+83	Wolam	eighty three	au pəti kə hameʔ	au + p ə t i + k ə + h a m e ʔ	ten2 eight attr three2	10 8 99 3	wola1254	au + p ə t i + k ə + h a m e ʔ		vanDam2026
+84	Wolam	eighty four	au pəti kə pəle	au + p ə t i + k ə + p ə l e	ten2 eight attr four	10 8 99 4	wola1254	au + p ə t i + k ə + p ə l e		vanDam2026
+85	Wolam	eighty five	au pəti kə pəŋu	au + p ə t i + k ə + p ə ŋ u	ten2 eight attr five	10 8 99 5	wola1254	au + p ə t i + k ə + p ə ŋ u		vanDam2026
+86	Wolam	eighty six	au pəti kə ajuk	au + p ə t i + k ə + a j u k	ten2 eight attr six	10 8 99 6	wola1254	au + p ə t i + k ə + a j u k		vanDam2026
+87	Wolam	eighty seven	au pəti kə tʃiɲat	au + p ə t i + k ə + tʃ i ɲ a t	ten2 eight attr seven	10 8 99 7	wola1254	au + p ə t i + k ə + tʃ i ɲ a t		vanDam2026
+88	Wolam	eighty eight	au pəti kə pəti	au + p ə t i + k ə + p ə t i	ten2 eight attr eight	10 8 99 8	wola1254	au + p ə t i + k ə + p ə t i		vanDam2026
+89	Wolam	eighty nine	au pəti kə ləkau	au + p ə t i + k ə + l ə k au	ten2 eight attr nine	10 8 99 9	wola1254	au + p ə t i + k ə + l ə k au		vanDam2026
+90	Wolam	ninety	au ləkau	au + l ə k au	ten2 nine 	10 9 	wola1254	au + l ə k au		vanDam2026
+91	Wolam	ninety one	au ləkau kə tak	au + l ə k au + k ə + t a k	ten2 nine attr one	10 9 99 1	wola1254	au + l ə k au + k ə + t a k		vanDam2026
+92	Wolam	ninety two	au ləkau kə ləmeʔ	au + l ə k au + k ə + l ə m e ʔ	ten2 nine attr two2	10 9 99 2	wola1254	au + l ə k au + k ə + l ə m e ʔ		vanDam2026
+93	Wolam	ninety three	au ləkau kə hameʔ	au + l ə k au + k ə + h a m e ʔ	ten2 nine attr three2	10 9 99 3	wola1254	au + l ə k au + k ə + h a m e ʔ		vanDam2026
+94	Wolam	ninety four	au ləkau kə pəle	au + l ə k au + k ə + p ə l e	ten2 nine attr four	10 9 99 4	wola1254	au + l ə k au + k ə + p ə l e		vanDam2026
+95	Wolam	ninety five	au ləkau kə pəŋu	au + l ə k au + k ə + p ə ŋ u	ten2 nine attr five	10 9 99 5	wola1254	au + l ə k au + k ə + p ə ŋ u		vanDam2026
+96	Wolam	ninety six	au ləkau kə ajuk	au + l ə k au + k ə + a j u k	ten2 nine attr six	10 9 99 6	wola1254	au + l ə k au + k ə + a j u k		vanDam2026
+97	Wolam	ninety seven	au ləkau kə tʃiɲat	au + l ə k au + k ə + tʃ i ɲ a t	ten2 nine attr seven	10 9 99 7	wola1254	au + l ə k au + k ə + tʃ i ɲ a t		vanDam2026
+98	Wolam	ninety eight	au ləkau kə pəti	au + l ə k au + k ə + p ə t i	ten2 nine attr eight	10 9 99 8	wola1254	au + l ə k au + k ə + p ə t i		vanDam2026
+99	Wolam	ninety nine	au ləkau kə ləkau	au + l ə k au + k ə + l ə k au	ten2 nine attr nine	10 9 99 9	wola1254	au + l ə k au + k ə + l ə k au		vanDam2026
