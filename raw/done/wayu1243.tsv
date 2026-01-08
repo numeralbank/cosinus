@@ -1,6 +1,6 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 1	Wayuu	one	wanee	waneː	w a n eː	3	one	Wayuu1[259]	There is uncertainty about the segmentation of some numerals, particularly from a diachronic perspective, in particular numbers 'eight' and 'nine'. Wayuu5 only reconstructs for Proto-Lokono-Wayuunaiki the numbers from ‘one’ to ‘four’, so it does not offer information on ‘eight’ and ‘nine’.
-2	Wayuu	one	waneeshia	waneːʃia	w a n eː + ʃ i a	3 5	one MASCULINE	Wayuu1[259]	For number one also a masculine and feminine form are attested (Wayuu2[26-27])
+2	Wayuu	one	waneeshia	waneːʃia	w a n eː + ʃ i a	3 7	one MASCULINE	Wayuu1[259]	For number one also a masculine and feminine form are attested (Wayuu2[26-27])
 3	Wayuu	one	waneesia	waneːsia	w a n eː + s i a	3 2	one FEMININE	Wayuu1[259]	
 4	Wayuu	two	piama	piama	p i a m a	20	two	Wayuu1[259]	
 5	Wayuu	three	apünüin	apɨnɨin	a p ɨ n ɨ i n	12	three	Wayuu1[259]	
@@ -8,95 +8,117 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 7	Wayuu	five	ja’rai	haʔrai	h a ʔ r a -/ɺ i	9	five	Wayuu1[259]	
 8	Wayuu	six	aipirua	aipirua	a i p i r u a	24	six	Wayuu1[259]	
 9	Wayuu	seven	akaraishi	akaraiʃi	a k a r a i ʃ i	11	seven	Wayuu1[259]	
-10	Wayuu	eight	mekiisalü	mekiːsaɺɨ	m e k iː + s a ɺ ɨ	14 8	? ?	Wayuu1[259]	The segmentation of numbers 'eight' and 'nine' are unclear. In the available literature the possible morphemes that form them are not addressed. There exists the feminine morpheme -saɺɨ (used with verbs) with variant -sat (Wayuu1[170]) and both forms are documented with numbers 'eight' and 'nine' (Wayuu2[27]).
-11	Wayuu	nine	mekie’etasalü	mekieʔetasaɺɨ	m e k i/iː + e ʔ e t a + s a ɺ ɨ	14 7 8	? ? ?	Wayuu1[259]	I do not find the possible morpheme -saɺɨ in the word for 'nine' attested in the 19th-century (Wayuu4 [24]), this may indicate that it is a morpheme and that was added later.
+10	Wayuu	eight	mekiisalü	mekiːsaɺɨ	m e k iː s a ɺ ɨ	13	eight	Wayuu1[259]	The segmentation of numbers 'eight' and 'nine' are unclear. In the available literature the possible morphemes that form them are not addressed. There exists the feminine morpheme -saɺɨ (used with verbs) with variant -sat (Wayuu1[170]) and both forms are documented with numbers 'eight' and 'nine' (Wayuu2[27]).
+11	Wayuu	nine	mekie’etasalü	mekieʔetasaɺɨ	m e k i e ʔ e t a s a ɺ ɨ	10	nine	Wayuu1[259]	I do not find the possible morpheme -saɺɨ in the word for 'nine' attested in the 19th-century (Wayuu4 [24]), this may indicate that it is a morpheme and that was added later.
 12	Wayuu	ten	po’loo	poʔɺoː	p o ʔ ɺ oː	4	ten1	Wayuu1[259]	
-13	Wayuu	eleven	po’loo waneeshimüin	poʔɺoː waneːʃimɨin	p o ʔ ɺ oː + w a n eː + ʃ i -/a + m ɨ i n	4 3 5 6	ten1 one MASCULINE ALLATIVE	Wayuu1[259]	-mɨin is an allative (Wayuu1[116])
+13	Wayuu	eleven	po’loo waneeshimüin	poʔɺoː waneːʃimɨin	p o ʔ ɺ oː + w a n eː + ʃ i -/a + m ɨ i n	4 3 7 6	ten1 one MASCULINE ALLATIVE	Wayuu1[259]	-mɨin is an allative (Wayuu1[116])
 14	Wayuu	twelve	po’loo piamamüin	poʔɺoː piamamɨin	p o ʔ ɺ oː + p i a m a + m ɨ i n	4 20 6	ten1 two ALLATIVE	Wayuu1[259]	
 15	Wayuu	thirteen	po’loo apünüinmüin	poʔɺoː apɨnɨinmɨin	p o ʔ ɺ oː + a p ɨ n ɨ i n + m ɨ i n	4 12 6	ten1 three ALLATIVE	Wayuu1[259]	
 16	Wayuu	fourteen	po’loo pienchimüin	poʔɺoː pienʧimɨin	p o ʔ ɺ oː + p i e n ʧ i + m ɨ i n	4 1 6	ten1 four ALLATIVE	Wayuu1[259]	
 17	Wayuu	fifteen	po’loo ja’ralimüin	poʔɺoː haʔraɺimɨin	p o ʔ ɺ oː + h a ʔ r a ɺ i + m ɨ i n	4 9 6	ten1 five ALLATIVE	Wayuu1[259]	
 18	Wayuu	sixteen	po’loo aipiruamüin	poʔɺoː aipiruamɨin	p o ʔ ɺ oː + a i p i r u a + m ɨ i n	4 24 6	ten1 six ALLATIVE	Wayuu1[259]	
 19	Wayuu	seventeen	po’loo akaraishimüin	poʔɺoː akaraiʃimɨin	p o ʔ ɺ oː + a k a r a i ʃ i + m ɨ i n	4 11 6	ten1 seven ALLATIVE	Wayuu1[259]	
-20	Wayuu	eighteen	po’loo mekiisalümüin	poʔɺoː mekiːsaɺɨmɨin	p o ʔ ɺ oː + m e k iː + s a ɺ ɨ + m ɨ i n	4 14 8 6	ten1 ? ? ALLATIVE	Wayuu1[259]	
-21	Wayuu	nineteen	po’loo mekie’etasalümüin	poʔɺoː mekieʔetasaɺɨmɨin	p o ʔ ɺ oː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	4 14 7 8 6	ten1 ? ? ? ALLATIVE	Wayuu1[259]	
+20	Wayuu	eighteen	po’loo mekiisalümüin	poʔɺoː mekiːsaɺɨmɨin	p o ʔ ɺ oː + m e k iː s a ɺ ɨ + m ɨ i n	4 13 6	ten1 eight ALLATIVE	Wayuu1[259]	
+21	Wayuu	nineteen	po’loo mekie’etasalümüin	poʔɺoː mekieʔetasaɺɨmɨin	p o ʔ ɺ oː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n	4 10 6	ten1 nine ALLATIVE	Wayuu1[259]	
 22	Wayuu	twenty	piama shikii	piama ʃikiː	p i a m a + ʃ i k iː	20 17	two ten2	Wayuu1[259]	ʃikiː is the possessed form of third person feminine of 'head' (Wayuu1[254])
-23	Wayuu	twenty one	piama shikii waneeshimüin	piama ʃikiː waneːʃimɨin	p i a m a + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	20 17 3 5 6	two ten2 one MASCULINE ALLATIVE	Wayuu1[259]	
+23	Wayuu	twenty one	piama shikii waneeshimüin	piama ʃikiː waneːʃimɨin	p i a m a + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	20 17 3 7 6	two ten2 one MASCULINE ALLATIVE	Wayuu1[259]	
 24	Wayuu	twenty two	piama shikii piamamüin	piama ʃikiː piamamɨin	p i a m a + ʃ i k iː + p i a m a + m ɨ i n	20 17 20 6	two ten2 two ALLATIVE	Wayuu1[259]	
 25	Wayuu	twenty three	piama shikii apünüinmüin	piama ʃikiː apɨnɨinmɨin	p i a m a + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	20 17 12 6	two ten2 three ALLATIVE	Wayuu1[259]	
 26	Wayuu	twenty four	piama shikii pienchimüin	piama ʃikiː pienʧimɨin	p i a m a + ʃ i k iː + p i e n ʧ i + m ɨ i n	20 17 1 6	two ten2 four ALLATIVE	Wayuu1[259]	
 27	Wayuu	twenty five	piama shikii ja’ralimüin	piama ʃikiː haʔraɺimɨin	p i a m a + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	20 17 9 6	two ten2 five ALLATIVE	Wayuu1[259]	
 28	Wayuu	twenty six	piama shikii aipiruamüin	piama ʃikiː aipiruamɨin	p i a m a + ʃ i k iː + a i p i r u a + m ɨ i n	20 17 24 6	two ten2 six ALLATIVE	Wayuu1[259]	
 29	Wayuu	twenty seven	piama shikii akaraishimüin	piama ʃikiː akaraiʃimɨin	p i a m a + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	20 17 11 6	two ten2 seven ALLATIVE	Wayuu1[259]	
-30	Wayuu	twenty eight	piama shikii mekiisalümüin	piama ʃikiː mekiːsaɺɨmɨin	p i a m a + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n	20 17 14 8 6	two ten2 ? ? ALLATIVE	Wayuu1[259]	
-31	Wayuu	twenty nine	piama shikii mekie’etasalümüin	piama ʃikiː mekieʔetasaɺɨmɨin	p i a m a + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	20 17 14 7 8 6	two ten2 ? ? ? ALLATIVE	Wayuu1[259]	
+30	Wayuu	twenty eight	piama shikii mekiisalümüin	piama ʃikiː mekiːsaɺɨmɨin	p i a m a + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n	20 17 13 6	two ten2 eight ALLATIVE	Wayuu1[259]	
+31	Wayuu	twenty nine	piama shikii mekie’etasalümüin	piama ʃikiː mekieʔetasaɺɨmɨin	p i a m a + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n	20 17 10 6	two ten2 nine ALLATIVE	Wayuu1[259]	
 32	Wayuu	thirty	apünüin shikii	apɨnɨin ʃikiː	a p ɨ n ɨ i n + ʃ i k iː	12 17	three ten2	Wayuu1[259]	
-33	Wayuu	thirty one	apünüin shikii waneeshimüin	apɨnɨin ʃikiː waneːʃimɨin	a p ɨ n ɨ i n + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	12 17 3 5 6	three ten2 one MASCULINE ALLATIVE	Wayuu1[259]	
+33	Wayuu	thirty one	apünüin shikii waneeshimüin	apɨnɨin ʃikiː waneːʃimɨin	a p ɨ n ɨ i n + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	12 17 3 7 6	three ten2 one MASCULINE ALLATIVE	Wayuu1[259]	
 34	Wayuu	thirty two	apünüin shikii piamamüin	apɨnɨin ʃikiː piamamɨin	a p ɨ n ɨ i n + ʃ i k iː + p i a m a + m ɨ i n	12 17 20 6	three ten2 two ALLATIVE	Wayuu1[259]	
 35	Wayuu	thirty three	apünüin shikii apünüinmüin	apɨnɨin ʃikiː apɨnɨinmɨin	a p ɨ n ɨ i n + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	12 17 12 6	three ten2 three ALLATIVE	Wayuu1[259]	
 36	Wayuu	thirty four	apünüin shikii pienchimüin	apɨnɨin ʃikiː pienʧimɨin	a p ɨ n ɨ i n + ʃ i k iː + p i e n ʧ i + m ɨ i n	12 17 1 6	three ten2 four ALLATIVE	Wayuu1[259]	
 37	Wayuu	thirty five	apünüin shikii ja’ralimüin	apɨnɨin ʃikiː haʔraɺimɨin	a p ɨ n ɨ i n + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	12 17 9 6	three ten2 five ALLATIVE	Wayuu1[259]	
 38	Wayuu	thirty six	apünüin shikii aipiruamüin	apɨnɨin ʃikiː aipiruamɨin	a p ɨ n ɨ i n + ʃ i k iː + a i p i r u a + m ɨ i n	12 17 24 6	three ten2 six ALLATIVE	Wayuu1[259]	
 39	Wayuu	thirty seven	apünüin shikii akaraishimüin	apɨnɨin ʃikiː akaraiʃimɨin	a p ɨ n ɨ i n + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	12 17 11 6	three ten2 seven ALLATIVE	Wayuu1[259]	
-40	Wayuu	thirty eight	apünüin shikii mekiisalümüin	apɨnɨin ʃikiː mekiːsaɺɨmɨin	a p ɨ n ɨ i n + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n	12 17 14 8 6	three ten2 ? ? ALLATIVE	Wayuu1[259]	
-41	Wayuu	thirty nine	apünüin shikii mekie’etasalüimüin	apɨnɨin ʃikiː mekieʔetasaɺɨmɨin	a p ɨ n ɨ i n + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	12 17 14 7 8 6	three ten2 ? ? ? ALLATIVE	Wayuu1[259]	
+40	Wayuu	thirty eight	apünüin shikii mekiisalümüin	apɨnɨin ʃikiː mekiːsaɺɨmɨin	a p ɨ n ɨ i n + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n	12 17 13 6	three ten2 eight ALLATIVE	Wayuu1[259]	
+41	Wayuu	thirty nine	apünüin shikii mekie’etasalüimüin	apɨnɨin ʃikiː mekieʔetasaɺɨmɨin	a p ɨ n ɨ i n + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n	12 17 10 6	three ten2 nine ALLATIVE	Wayuu1[259]	
 42	Wayuu	forty	pienchi shikii	pienʧi ʃikiː	p i e n ʧ i + ʃ i k iː	1 17	four ten2	Wayuu1[259]	
-43	Wayuu	forty one	pienchi shikii waneeshimüin	pienʧi ʃikiː waneːʃimɨin	p i e n ʧ i + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	1 17 3 5 6	four ten2 one MASCULINE ALLATIVE	Wayuu1[259]	
+43	Wayuu	forty one	pienchi shikii waneeshimüin	pienʧi ʃikiː waneːʃimɨin	p i e n ʧ i + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	1 17 3 7 6	four ten2 one MASCULINE ALLATIVE	Wayuu1[259]	
 44	Wayuu	forty two	pienchi shikii piamamüin	pienʧi ʃikiː piamamɨin	p i e n ʧ i + ʃ i k iː + p i a m a + m ɨ i n	1 17 20 6	four ten2 two ALLATIVE	Wayuu1[259]	
 45	Wayuu	forty three	pienchi shikii apünüinmüin	pienʧi ʃikiː apɨnɨinmɨin	p i e n ʧ i + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	1 17 12 6	four ten2 three ALLATIVE	Wayuu1[260]	
 46	Wayuu	forty four	pienchi shikii pienchimüin	pienʧi ʃikiː pienʧimɨin	p i e n ʧ i + ʃ i k iː + p i e n ʧ i + m ɨ i n	1 17 1 6	four ten2 four ALLATIVE	Wayuu1[260]	
 47	Wayuu	forty five	pienchi shikii ja’ralimüin	pienʧi ʃikiː haʔraɺimɨin	p i e n ʧ i + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	1 17 9 6	four ten2 five ALLATIVE	Wayuu1[260]	
 48	Wayuu	forty six	pienchi shikii aipiruamüin	pienʧi ʃikiː aipiruamɨin	p i e n ʧ i + ʃ i k iː + a i p i r u a + m ɨ i n	1 17 24 6	four ten2 six ALLATIVE	Wayuu1[260]	
 49	Wayuu	forty seven	pienchi shikii akaraishimüin	pienʧi ʃikiː akaraiʃimɨin	p i e n ʧ i + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	1 17 11 6	four ten2 seven ALLATIVE	Wayuu1[260]	
-50	Wayuu	forty eight	pienchi shikii mekiisalümüin	pienʧi ʃikiː mekiːsaɺɨmɨin	p i e n ʧ i + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n	1 17 14 8 6	four ten2 ? ? ALLATIVE	Wayuu1[260]	
-51	Wayuu	forty nine	pienchi shikii mekie’etasalüimüin	pienʧi ʃikiː mekieʔetasaɺɨmɨin	p i e n ʧ i + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	1 17 14 7 8 6	four ten2 ? ? ? ALLATIVE	Wayuu1[260]	
+50	Wayuu	forty eight	pienchi shikii mekiisalümüin	pienʧi ʃikiː mekiːsaɺɨmɨin	p i e n ʧ i + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n	1 17 13 6	four ten2 eight ALLATIVE	Wayuu1[260]	
+51	Wayuu	forty nine	pienchi shikii mekie’etasalüimüin	pienʧi ʃikiː mekieʔetasaɺɨmɨin	p i e n ʧ i + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n	1 17 10 6	four ten2 nine ALLATIVE	Wayuu1[260]	
 52	Wayuu	fifty	ja’rai shikii	haʔrai ʃikiː	h a ʔ r a -/ɺ i + ʃ i k iː	9 17	five ten2	Wayuu1[260]	
-53	Wayuu	fifty one	ja’rai shikii waneeshimüin	haʔrai ʃikiː waneːʃimɨin	h a ʔ r a -/ɺ i + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	9 17 3 5 6	five ten2 one MASCULINE ALLATIVE	Wayuu1[260]	
+53	Wayuu	fifty one	ja’rai shikii waneeshimüin	haʔrai ʃikiː waneːʃimɨin	h a ʔ r a -/ɺ i + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	9 17 3 7 6	five ten2 one MASCULINE ALLATIVE	Wayuu1[260]	
 54	Wayuu	fifty two	ja’rai shikii piamamüin	haʔrai ʃikiː piamamɨin	h a ʔ r a -/ɺ i + ʃ i k iː + p i a m a + m ɨ i n	9 17 20 6	five ten2 two ALLATIVE	Wayuu1[260]	
 55	Wayuu	fifty three	ja’rai shikii apünüinmüin	haʔrai ʃikiː apɨnɨinmɨin	h a ʔ r a -/ɺ i + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	9 17 12 6	five ten2 three ALLATIVE	Wayuu1[260]	
 56	Wayuu	fifty four	ja’rai shikii pienchimüin	haʔrai ʃikiː pienʧimɨin	h a ʔ r a -/ɺ i + ʃ i k iː + p i e n ʧ i + m ɨ i n	9 17 1 6	five ten2 four ALLATIVE	Wayuu1[260]	
 57	Wayuu	fifty five	ja’rai shikii ja’ralimüin	haʔrai ʃikiː haʔraɺimɨin	h a ʔ r a -/ɺ i + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	9 17 9 6	five ten2 five ALLATIVE	Wayuu1[260]	
 58	Wayuu	fifty six	ja’rai shikii aipiruamüin	haʔrai ʃikiː aipiruamɨin	h a ʔ r a -/ɺ i + ʃ i k iː + a i p i r u a + m ɨ i n	9 17 24 6	five ten2 six ALLATIVE	Wayuu1[260]	
 59	Wayuu	fifty seven	ja’rai shikii akaraishimüin	haʔrai ʃikiː akaraiʃimɨin	h a ʔ r a -/ɺ i + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	9 17 11 6	five ten2 seven ALLATIVE	Wayuu1[260]	
-60	Wayuu	fifty eight	ja’rai shikii mekiisalümüin	haʔrai ʃikiː mekiːsaɺɨmɨin	h a ʔ r a -/ɺ i + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n	9 17 14 8 6	five ten2 ? ? ALLATIVE	Wayuu1[260]	
-61	Wayuu	fifty nine	ja’rai shikii mekie’etasalüimüin	haʔrai ʃikiː mekieʔetasaɺɨmɨin	h a ʔ r a -/ɺ i + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	9 17 14 7 8 6	five ten2 ? ? ? ALLATIVE	Wayuu1[260]	
+60	Wayuu	fifty eight	ja’rai shikii mekiisalümüin	haʔrai ʃikiː mekiːsaɺɨmɨin	h a ʔ r a -/ɺ i + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n	9 17 13 6	five ten2 eight ALLATIVE	Wayuu1[260]	
+61	Wayuu	fifty nine	ja’rai shikii mekie’etasalüimüin	haʔrai ʃikiː mekieʔetasaɺɨmɨin	h a ʔ r a -/ɺ i + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n	9 17 10 6	five ten2 nine ALLATIVE	Wayuu1[260]	
 62	Wayuu	sixty	aipirua shikii	aipirua ʃikiː	a i p i r u a + ʃ i k iː	24 17	six ten2	Wayuu1[260]	
-63	Wayuu	sixty one	aipirua shikii waneeshimüin	aipirua ʃikiː waneːʃimɨin	a i p i r u a + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	24 17 3 5 6	six ten2 one MASCULINE ALLATIVE	Wayuu1[260]	
+63	Wayuu	sixty one	aipirua shikii waneeshimüin	aipirua ʃikiː waneːʃimɨin	a i p i r u a + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	24 17 3 7 6	six ten2 one MASCULINE ALLATIVE	Wayuu1[260]	
 64	Wayuu	sixty two	aipirua shikii piamamüin	aipirua ʃikiː piamamɨin	a i p i r u a + ʃ i k iː + p i a m a + m ɨ i n	24 17 20 6	six ten2 two ALLATIVE	Wayuu1[260]	
 65	Wayuu	sixty three	aipirua shikii apünüinmüin	aipirua ʃikiː apɨnɨinmɨin	a i p i r u a + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	24 17 12 6	six ten2 three ALLATIVE	Wayuu1[260]	
 66	Wayuu	sixty four	aipirua shikii pienchimüin	aipirua ʃikiː pienʧimɨin	a i p i r u a + ʃ i k iː + p i e n ʧ i + m ɨ i n	24 17 1 6	six ten2 four ALLATIVE	Wayuu1[260]	
 67	Wayuu	sixty five	aipirua shikii ja’ralimüin	aipirua ʃikiː haʔraɺimɨin	a i p i r u a + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	24 17 9 6	six ten2 five ALLATIVE	Wayuu1[260]	
 68	Wayuu	sixty six	aipirua shikii aipiruamüin	aipirua ʃikiː aipiruamɨin	a i p i r u a + ʃ i k iː + a i p i r u a + m ɨ i n	24 17 24 6	six ten2 six ALLATIVE	Wayuu1[260]	
 69	Wayuu	sixty seven	aipirua shikii akaraishimüin	aipirua ʃikiː akaraiʃimɨin	a i p i r u a + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	24 17 11 6	six ten2 seven ALLATIVE	Wayuu1[260]	
-70	Wayuu	sixty eight	aipirua shikii mekiisalümüin	aipirua ʃikiː mekiːsaɺɨmɨin	a i p i r u a + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n	24 17 14 8 6	six ten2 ? ? ALLATIVE	Wayuu1[260]	
-71	Wayuu	sixty nine	aipirua shikii mekie’etasalüimüin	aipirua ʃikiː mekieʔetasaɺɨmɨin	a i p i r u a + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	24 17 14 7 8 6	six ten2 ? ? ? ALLATIVE	Wayuu1[260]	
+70	Wayuu	sixty eight	aipirua shikii mekiisalümüin	aipirua ʃikiː mekiːsaɺɨmɨin	a i p i r u a + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n	24 17 13 6	six ten2 eight ALLATIVE	Wayuu1[260]	
+71	Wayuu	sixty nine	aipirua shikii mekie’etasalüimüin	aipirua ʃikiː mekieʔetasaɺɨmɨin	a i p i r u a + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n	24 17 10 6	six ten2 nine ALLATIVE	Wayuu1[260]	
 72	Wayuu	seventy	akaraishi shikii	akaraiʃi ʃikiː	a k a r a i ʃ i + ʃ i k iː	11 17	seven ten2	Wayuu1[260]	
-73	Wayuu	seventy one	akaraishi shikii waneeshimüin	akaraiʃi ʃikiː waneːʃimɨin	a k a r a i ʃ i + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	11 17 3 5 6	seven ten2 one MASCULINE ALLATIVE	Wayuu1[260]	
+73	Wayuu	seventy one	akaraishi shikii waneeshimüin	akaraiʃi ʃikiː waneːʃimɨin	a k a r a i ʃ i + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	11 17 3 7 6	seven ten2 one MASCULINE ALLATIVE	Wayuu1[260]	
 74	Wayuu	seventy two	akaraishi shikii piamamüin	akaraiʃi ʃikiː piamamɨin	a k a r a i ʃ i + ʃ i k iː + p i a m a + m ɨ i n	11 17 20 6	seven ten2 two ALLATIVE	Wayuu1[260]	
 75	Wayuu	seventy three	akaraishi shikii apünüinmüin	akaraiʃi ʃikiː apɨnɨinmɨin	a k a r a i ʃ i + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	11 17 12 6	seven ten2 three ALLATIVE	Wayuu1[260]	
 76	Wayuu	seventy four	akaraishi shikii pienchimüin	akaraiʃi ʃikiː pienʧimɨin	a k a r a i ʃ i + ʃ i k iː + p i e n ʧ i + m ɨ i n	11 17 1 6	seven ten2 four ALLATIVE	Wayuu1[260]	
 77	Wayuu	seventy five	akaraishi shikii ja’ralimüin	akaraiʃi ʃikiː haʔraɺimɨin	a k a r a i ʃ i + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	11 17 9 6	seven ten2 five ALLATIVE	Wayuu1[260]	
 78	Wayuu	seventy six	akaraishi shikii aipiruamüin	akaraiʃi ʃikiː aipiruamɨin	a k a r a i ʃ i + ʃ i k iː + a i p i r u a + m ɨ i n	11 17 24 6	seven ten2 six ALLATIVE	Wayuu1[260]	
 79	Wayuu	seventy seven	akaraishi shikii akaraishimüin	akaraiʃi ʃikiː akaraiʃimɨin	a k a r a i ʃ i + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	11 17 11 6	seven ten2 seven ALLATIVE	Wayuu1[260]	
-80	Wayuu	seventy eight	akaraishi shikii mekiisalümüin	akaraiʃi ʃikiː mekiːsaɺɨmɨin	a k a r a i ʃ i + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n	11 17 14 8 6	seven ten2 ? ? ALLATIVE	Wayuu1[260]	
-81	Wayuu	seventy nine	akaraishi shikii mekie’etasalüimüin	akaraiʃi ʃikiː mekieʔetasaɺɨmɨin	a k a r a i ʃ i + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	11 17 14 7 8 6	seven ten2 ? ? ? ALLATIVE	Wayuu1[260]	
-82	Wayuu	eighty	mekiisalü shikii	mekiːsaɺɨ ʃikiː	m e k iː + s a ɺ ɨ + ʃ i k iː	14 8 17	? ? ten2	Wayuu1[260]	
-83	Wayuu	eighty one	mekiisalü shikii waneeshimüin	mekiːsaɺɨ ʃikiː waneːʃimɨin	m e k iː + s a ɺ ɨ + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	14 8 17 3 5 6	? ? ten2 one MASCULINE ALLATIVE	Wayuu1[260]	
-84	Wayuu	eighty two	mekiisalü shikii piamamüin	mekiːsaɺɨ ʃikiː piamamɨin	m e k iː + s a ɺ ɨ + ʃ i k iː + p i a m a + m ɨ i n	14 8 17 20 6	? ? ten2 two ALLATIVE	Wayuu1[260]	
-85	Wayuu	eighty three	mekiisalü shikii apünüinmüin	mekiːsaɺɨ ʃikiː apɨnɨinmɨin	m e k iː + s a ɺ ɨ + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	14 8 17 12 6	? ? ten2 three ALLATIVE	Wayuu1[260]	
-86	Wayuu	eighty four	mekiisalü shikii pienchimüin	mekiːsaɺɨ ʃikiː pienʧimɨin	m e k iː + s a ɺ ɨ + ʃ i k iː + p i e n ʧ i + m ɨ i n	14 8 17 1 6	? ? ten2 four ALLATIVE	Wayuu1[260]	
-87	Wayuu	eighty five	mekiisalü shikii ja’ralimüin	mekiːsaɺɨ ʃikiː haʔraɺimɨin	m e k iː + s a ɺ ɨ + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	14 8 17 9 6	? ? ten2 five ALLATIVE	Wayuu1[260]	
-88	Wayuu	eighty six	mekiisalü shikii aipiruamüin	mekiːsaɺɨ ʃikiː aipiruamɨin	m e k iː + s a ɺ ɨ + ʃ i k iː + a i p i r u a + m ɨ i n	14 8 17 24 6	? ? ten2 six ALLATIVE	Wayuu1[261]	
-89	Wayuu	eighty seven	mekiisalü shikii akaraishimüin	mekiːsaɺɨ ʃikiː akaraiʃimɨin	m e k iː + s a ɺ ɨ + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	14 8 17 11 6	? ? ten2 seven ALLATIVE	Wayuu1[261]	
-90	Wayuu	eighty eight	mekiisalü shikii mekiisalümüin	mekiːsaɺɨ ʃikiː mekiːsaɺɨmɨin	m e k iː + s a ɺ ɨ + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n	14 8 17 14 8 6	? ? ten2 ? ? ALLATIVE	Wayuu1[261]	
-91	Wayuu	eighty nine	mekiisalü shikii mekie’etasalüimüin	mekiːsaɺɨ ʃikiː mekieʔetasaɺɨmɨin	m e k iː + s a ɺ ɨ + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	14 8 17 14 7 8 6	? ? ten2 ? ? ? ALLATIVE	Wayuu1[261]	
-92	Wayuu	ninety	mekie’etasalü shikii	mekieʔetasaɺɨ ʃikiː	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː	14 7 8 17	? ? ? ten2	Wayuu1[261]	
-93	Wayuu	ninety one	mekie’etasalü shikii waneeshimüin	mekieʔetasaɺɨ ʃikiː waneːʃimɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	14 7 8 17 3 5 6	? ? ? ten2 one MASCULINE ALLATIVE	Wayuu1[261]	
-94	Wayuu	ninety two	mekie’etasalü shikii piamamüin	mekieʔetasaɺɨ ʃikiː piamamɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + p i a m a + m ɨ i n	14 7 8 17 20 6	? ? ? ten2 two ALLATIVE	Wayuu1[261]	
-95	Wayuu	ninety three	mekie’etasalü shikii apünüinmüin	mekieʔetasaɺɨ ʃikiː apɨnɨinmɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	14 7 8 17 12 6	? ? ? ten2 three ALLATIVE	Wayuu1[261]	
-96	Wayuu	ninety four	mekie’etasalü shikii pienchimüin	mekieʔetasaɺɨ ʃikiː pienʧimɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + p i e n ʧ i + m ɨ i n	14 7 8 17 1 6	? ? ? ten2 four ALLATIVE	Wayuu1[261]	
-97	Wayuu	ninety five	mekie’etasalü shikii ja’ralimüin	mekieʔetasaɺɨ ʃikiː haʔraɺimɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	14 7 8 17 9 6	? ? ? ten2 five ALLATIVE	Wayuu1[261]	
-98	Wayuu	ninety six	mekie’etasalü shikii aipiruamüin	mekieʔetasaɺɨ ʃikiː aipiruamɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + a i p i r u a + m ɨ i n	14 7 8 17 24 6	? ? ? ten2 six ALLATIVE	Wayuu1[261]	
-99	Wayuu	ninety seven	mekie’etasalü shikii akaraishimüin	mekieʔetasaɺɨ ʃikiː akaraiʃimɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	14 7 8 17 11 6	? ? ? ten2 seven ALLATIVE	Wayuu1[261]	
-100	Wayuu	ninety eight	mekie’etasalü shikii mekiisalümüin	mekieʔetasaɺɨ ʃikiː mekiːsaɺɨmɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + m e k iː + s a ɺ ɨ + m ɨ i n	14 7 8 17 14 8 6	? ? ? ten2 ? ? ALLATIVE	Wayuu1[261]	
-101	Wayuu	ninety nine	mekie’etasalü shikii mekie’etasalüimüin	mekieʔetasaɺɨ ʃikiː mekieʔetasaɺɨmɨin	m e k i/iː + e ʔ e t a + s a ɺ ɨ + ʃ i k iː + m e k i/iː + e ʔ e t a + s a ɺ ɨ + m ɨ i n	14 7 8 17 14 7 8 6	? ? ? ten2 ? ? ? ALLATIVE	Wayuu1[261]	
+80	Wayuu	seventy eight	akaraishi shikii mekiisalümüin	akaraiʃi ʃikiː mekiːsaɺɨmɨin	a k a r a i ʃ i + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n	11 17 13 6	seven ten2 eight ALLATIVE	Wayuu1[260]	
+81	Wayuu	seventy nine	akaraishi shikii mekie’etasalüimüin	akaraiʃi ʃikiː mekieʔetasaɺɨmɨin	a k a r a i ʃ i + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n	11 17 10 6	seven ten2 nine ALLATIVE	Wayuu1[260]	
+82	Wayuu	eighty	mekiisalü shikii	mekiːsaɺɨ ʃikiː	m e k iː s a ɺ ɨ + ʃ i k iː	13 17	eight ten2	Wayuu1[260]	
+83	Wayuu	eighty one	mekiisalü shikii waneeshimüin	mekiːsaɺɨ ʃikiː waneːʃimɨin	m e k iː s a ɺ ɨ + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	13 17 3 7 6	eight ten2 one MASCULINE ALLATIVE	Wayuu1[260]	
+84	Wayuu	eighty two	mekiisalü shikii piamamüin	mekiːsaɺɨ ʃikiː piamamɨin	m e k iː s a ɺ ɨ + ʃ i k iː + p i a m a + m ɨ i n	13 17 20 6	eight ten2 two ALLATIVE	Wayuu1[260]	
+85	Wayuu	eighty three	mekiisalü shikii apünüinmüin	mekiːsaɺɨ ʃikiː apɨnɨinmɨin	m e k iː s a ɺ ɨ + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	13 17 12 6	eight ten2 three ALLATIVE	Wayuu1[260]	
+86	Wayuu	eighty four	mekiisalü shikii pienchimüin	mekiːsaɺɨ ʃikiː pienʧimɨin	m e k iː s a ɺ ɨ + ʃ i k iː + p i e n ʧ i + m ɨ i n	13 17 1 6	eight ten2 four ALLATIVE	Wayuu1[260]	
+87	Wayuu	eighty five	mekiisalü shikii ja’ralimüin	mekiːsaɺɨ ʃikiː haʔraɺimɨin	m e k iː s a ɺ ɨ + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	13 17 9 6	eight ten2 five ALLATIVE	Wayuu1[260]	
+88	Wayuu	eighty six	mekiisalü shikii aipiruamüin	mekiːsaɺɨ ʃikiː aipiruamɨin	m e k iː s a ɺ ɨ + ʃ i k iː + a i p i r u a + m ɨ i n	13 17 24 6	eight ten2 six ALLATIVE	Wayuu1[261]	
+89	Wayuu	eighty seven	mekiisalü shikii akaraishimüin	mekiːsaɺɨ ʃikiː akaraiʃimɨin	m e k iː s a ɺ ɨ + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	13 17 11 6	eight ten2 seven ALLATIVE	Wayuu1[261]	
+90	Wayuu	eighty eight	mekiisalü shikii mekiisalümüin	mekiːsaɺɨ ʃikiː mekiːsaɺɨmɨin	m e k iː s a ɺ ɨ + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n	13 17 13 6	eight ten2 eight ALLATIVE	Wayuu1[261]	
+91	Wayuu	eighty nine	mekiisalü shikii mekie’etasalüimüin	mekiːsaɺɨ ʃikiː mekieʔetasaɺɨmɨin	m e k iː s a ɺ ɨ + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n	13 17 10 6	eight ten2 nine ALLATIVE	Wayuu1[261]	
+92	Wayuu	ninety	mekie’etasalü shikii	mekieʔetasaɺɨ ʃikiː	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː	10 17	nine ten2	Wayuu1[261]	
+93	Wayuu	ninety one	mekie’etasalü shikii waneeshimüin	mekieʔetasaɺɨ ʃikiː waneːʃimɨin	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + w a n eː + ʃ i -/a + m ɨ i n	10 17 3 7 6	nine ten2 one MASCULINE ALLATIVE	Wayuu1[261]	
+94	Wayuu	ninety two	mekie’etasalü shikii piamamüin	mekieʔetasaɺɨ ʃikiː piamamɨin	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + p i a m a + m ɨ i n	10 17 20 6	nine ten2 two ALLATIVE	Wayuu1[261]	
+95	Wayuu	ninety three	mekie’etasalü shikii apünüinmüin	mekieʔetasaɺɨ ʃikiː apɨnɨinmɨin	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n	10 17 12 6	nine ten2 three ALLATIVE	Wayuu1[261]	
+96	Wayuu	ninety four	mekie’etasalü shikii pienchimüin	mekieʔetasaɺɨ ʃikiː pienʧimɨin	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + p i e n ʧ i + m ɨ i n	10 17 1 6	nine ten2 four ALLATIVE	Wayuu1[261]	
+97	Wayuu	ninety five	mekie’etasalü shikii ja’ralimüin	mekieʔetasaɺɨ ʃikiː haʔraɺimɨin	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n	10 17 9 6	nine ten2 five ALLATIVE	Wayuu1[261]	
+98	Wayuu	ninety six	mekie’etasalü shikii aipiruamüin	mekieʔetasaɺɨ ʃikiː aipiruamɨin	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + a i p i r u a + m ɨ i n	10 17 24 6	nine ten2 six ALLATIVE	Wayuu1[261]	
+99	Wayuu	ninety seven	mekie’etasalü shikii akaraishimüin	mekieʔetasaɺɨ ʃikiː akaraiʃimɨin	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + a k a r a i ʃ i + m ɨ i n	10 17 11 6	nine ten2 seven ALLATIVE	Wayuu1[261]	
+100	Wayuu	ninety eight	mekie’etasalü shikii mekiisalümüin	mekieʔetasaɺɨ ʃikiː mekiːsaɺɨmɨin	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n	10 17 13 6	nine ten2 eight ALLATIVE	Wayuu1[261]	
+101	Wayuu	ninety nine	mekie’etasalü shikii mekie’etasalüimüin	mekieʔetasaɺɨ ʃikiː mekieʔetasaɺɨmɨin	m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n	10 17 10 6	nine ten2 nine ALLATIVE	Wayuu1[261]	
+102	Wayuu	hundred	po’loo shikii	poʔɺoː ʃikiː	p o ʔ ɺ oː + ʃ i k iː	4 17	ten1 ten2	Wayuu1[261]	
+#@highlight=TOKENS
+#@sampa=TOKENS
+#@css=menu:show|database:hide
+#@basics=COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTES|SOURCE|TOKENS|VALUE
+#@_selected_doculects=Wayuu
+#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty|forty one|forty two|forty three|forty four|forty five|forty six|forty seven|forty eight|forty nine|fifty|fifty one|fifty two|fifty three|fifty four|fifty five|fifty six|fifty seven|fifty eight|fifty nine|sixty|sixty one|sixty two|sixty three|sixty four|sixty five|sixty six|sixty seven|sixty eight|sixty nine|seventy|seventy one|seventy two|seventy three|seventy four|seventy five|seventy six|seventy seven|seventy eight|seventy nine|eighty|eighty one|eighty two|eighty three|eighty four|eighty five|eighty six|eighty seven|eighty eight|eighty nine|ninety|ninety one|ninety two|ninety three|ninety four|ninety five|ninety six|ninety seven|ninety eight|ninety nine|hundred
+#@sorted_taxa=Wayuu
+#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty|forty one|forty two|forty three|forty four|forty five|forty six|forty seven|forty eight|forty nine|fifty|fifty one|fifty two|fifty three|fifty four|fifty five|fifty six|fifty seven|fifty eight|fifty nine|sixty|sixty one|sixty two|sixty three|sixty four|sixty five|sixty six|sixty seven|sixty eight|sixty nine|seventy|seventy one|seventy two|seventy three|seventy four|seventy five|seventy six|seventy seven|seventy eight|seventy nine|eighty|eighty one|eighty two|eighty three|eighty four|eighty five|eighty six|eighty seven|eighty eight|eighty nine|ninety|ninety one|ninety two|ninety three|ninety four|ninety five|ninety six|ninety seven|ninety eight|ninety nine|hundred
+#@display=filedisplay|settings|glosses
+#@missing_marker=Ø
+#@separator=	
+#@gap_marker=-
+#@formatter=false
+#@root_formatter=COGIDS
+#@note_formatter=NOTES
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=wayuu - wayu1243.tsv
+#@navbar=true
+#@_morphology_mode=full
