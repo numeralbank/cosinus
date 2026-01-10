@@ -1,0 +1,100 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
+1	Yiddish	one	אײנס	ɛɪns	ɛɪ n s	one	1		Jacobs2005Yiddish
+2	Yiddish	two	צװײ	tsvɛɪ	ts v ɛɪ	two	2		Jacobs2005Yiddish
+3	Yiddish	three	דרײַ	dʁaɪ	d ʁ aɪ	three	3		Jacobs2005Yiddish
+4	Yiddish	four	פֿֿיר	fɪʁ	f ɪ ʁ	four	4		Jacobs2005Yiddish
+5	Yiddish	five	פֿֿינף	fɪnf	f ɪ n f	five	5		Jacobs2005Yiddish
+6	Yiddish	six	זעקס	zɛks	z ɛ k s	six	6		Jacobs2005Yiddish
+7	Yiddish	seven	זיבן	zɪbn	z ɪ b n	seven	7		Jacobs2005Yiddish
+8	Yiddish	eight	אַכט	aχt	a χ t	eight	8		Jacobs2005Yiddish
+9	Yiddish	nine	נײַן	naɪn	n aɪ n	nine	9		Jacobs2005Yiddish
+10	Yiddish	ten	צען	tsɛn	ts ɛ n	ten	10		Jacobs2005Yiddish
+11	Yiddish	eleven	עלף	ɛlf	ɛ l f	eleven	11		Jacobs2005Yiddish
+12	Yiddish	twelve	צוועלף	tsvɛlf	ts v ɛ l f	twelve	12		Jacobs2005Yiddish
+13	Yiddish	thirteen	דרײַצן	dʁaɪtsn	d ʁ aɪ + ts -/ɛ n	three ten	3 10		Jacobs2005Yiddish
+14	Yiddish	fourteen	פֿערצן	fɛʁtsn	f ɛ/ɪ ʁ + ts -/ɛ n	four ten	4 10		Jacobs2005Yiddish
+15	Yiddish	fifteen	פֿופֿצן	fʊftsn	f ʊ/ɪ -/n f + ts -/ɛ n	five ten	5 10		Jacobs2005Yiddish
+16	Yiddish	sixteen	זעכצן	zɛχtsn	z ɛ χ/k -/s + ts -/ɛ n	six ten	6 10		Jacobs2005Yiddish
+17	Yiddish	seventeen	זיבעצן	zɪbətsn	z ɪ b ə/- -/n + ts -/ɛ n	seven ten	7 10		Jacobs2005Yiddish
+18	Yiddish	eighteen	אַכצן	aχtsn	a χ -/t + ts -/ɛ n	eight ten	8 10		Jacobs2005Yiddish
+19	Yiddish	nineteen	נײַנצן	naɪntsn	n aɪ n + ts -/ɛ n	nine ten	9 10		Jacobs2005Yiddish
+20	Yiddish	twenty	צוואַנציק	tsvantsɪk	ts v a n + ts ɪ k	twen ty	20 13		Jacobs2005Yiddish
+21	Yiddish	twenty one	איין און צוואנציק	ɛɪnʊntsvantsɪk	ɛɪ n -/s + ʊ n + ts v a n + ts ɪ k	one and twen ty	1 14 20 13		Jacobs2005Yiddish
+22	Yiddish	twenty two	צוויי און צוואנציק	tsvɛɪʊntsvantsɪk	ts v ɛɪ + ʊ n + ts v a n + ts ɪ k	two and twen ty	2 14 20 13		Jacobs2005Yiddish
+23	Yiddish	twenty three	דרײַ און צוואנציק	dʁaɪʊntsvantsɪk	d ʁ aɪ + ʊ n + ts v a n + ts ɪ k	three and twen ty	3 14 20 13		Jacobs2005Yiddish
+24	Yiddish	twenty four	פֿֿיר און צוואנציק	fɪʁʊntsvantsɪk	f ɪ ʁ + ʊ n + ts v a n + ts ɪ k	four and twen ty	4 14 20 13		Jacobs2005Yiddish
+25	Yiddish	twenty five	פֿֿינף און צוואנציק	fɪnfʊntsvantsɪk	f ɪ n f + ʊ n + ts v a n + ts ɪ k	five and twen ty	5 14 20 13		Jacobs2005Yiddish
+26	Yiddish	twenty six	זעקס און צוואנציק	zɛksʊntsvantsɪk	z ɛ k s + ʊ n + ts v a n + ts ɪ k	six and twen ty	6 14 20 13		Jacobs2005Yiddish
+27	Yiddish	twenty seven	זיבן און צוואנציק	zɪbnʊntsvantsɪk	z ɪ b n + ʊ n + ts v a n + ts ɪ k	seven and twen ty	7 14 20 13		Jacobs2005Yiddish
+28	Yiddish	twenty eight	אַכט און צוואנציק	aχtʊntsvantsɪk	a χ t + ʊ n + ts v a n + ts ɪ k	eight and twen ty	8 14 20 13		Jacobs2005Yiddish
+29	Yiddish	twenty nine	נײַן און צוואנציק	naɪnʊntsvantsɪk	n aɪ n + ʊ n + ts v a n + ts ɪ k	nine and twen ty	9 14 20 13		Jacobs2005Yiddish
+30	Yiddish	thirty	דרײַסיק	dʁaɪsɪk	d ʁ aɪ + s/ts ɪ k	three ty	3 13		Jacobs2005Yiddish
+31	Yiddish	thirty one	אײנס און דרײַסיק	ɛɪnʊndʁaɪsɪk	ɛɪ n -/s + ʊ n + d ʁ aɪ + s/ts ɪ k	one and three ty	1 14 3 13		Jacobs2005Yiddish
+32	Yiddish	thirty two	צװײ און דרײַסיק	tsvɛɪʊndʁaɪsɪk	ts v ɛɪ + ʊ n + d ʁ aɪ + s/ts ɪ k	two and three ty	2 14 3 13		Jacobs2005Yiddish
+33	Yiddish	thirty three	דרײַ און דרײַסיק	dʁaɪʊndʁaɪsɪk	d ʁ aɪ + ʊ n + d ʁ aɪ + s/ts ɪ k	three and three ty	3 14 3 13		Jacobs2005Yiddish
+34	Yiddish	thirty four	פֿֿיר און דרײַסיק	fɪʁʊndʁaɪsɪk	f ɪ ʁ + ʊ n + d ʁ aɪ + s/ts ɪ k	four and three ty	4 14 3 13		Jacobs2005Yiddish
+35	Yiddish	thirty five	פֿֿינף און דרײַסיק	fɪnfʊndʁaɪsɪk	f ɪ n f + ʊ n + d ʁ aɪ + s/ts ɪ k	five and three ty	5 14 3 13		Jacobs2005Yiddish
+36	Yiddish	thirty six	זעקס און דרײַסיק	zɛksʊndʁaɪsɪk	z ɛ k s + ʊ n + d ʁ aɪ + s/ts ɪ k	six and three ty	6 14 3 13		Jacobs2005Yiddish
+37	Yiddish	thirty seven	זיבן און דרײַסיק	zɪbnʊndʁaɪsɪk	z ɪ b n + ʊ n + d ʁ aɪ + s/ts ɪ k	seven and three ty	7 14 3 13		Jacobs2005Yiddish
+38	Yiddish	thirty eight	אַכט און דרײַסיק	aχtʊndʁaɪsɪk	a χ t + ʊ n + d ʁ aɪ + s/ts ɪ k	eight and three ty	8 14 3 13		Jacobs2005Yiddish
+39	Yiddish	thirty nine	נײַן און דרײַסיק	naɪnʊndʁaɪsɪk	n aɪ n + ʊ n + d ʁ aɪ + s/ts ɪ k	nine and three ty	9 14 3 13		Jacobs2005Yiddish
+40	Yiddish	forty	פֿערציק	fɛʁtsɪk	f ɛ/ɪ ʁ + ts ɪ k	four ty	4 13		Jacobs2005Yiddish
+41	Yiddish	forty one	אײנס און פֿערציק	ɛɪnʊnfɛʁtsɪk	ɛɪ n -/s + ʊ n + f ɛ/ɪ ʁ + ts ɪ k	one and four ty	1 14 4 13		Jacobs2005Yiddish
+42	Yiddish	forty two	צװײ און פֿערציק	tsvɛɪʊnfɛʁtsɪk	ts v ɛɪ + ʊ n + f ɛ/ɪ ʁ + ts ɪ k	two and four ty	2 14 4 13		Jacobs2005Yiddish
+43	Yiddish	forty three	דרײַ און פֿערציק	dʁaɪʊnfɛʁtsɪk	d ʁ aɪ + ʊ n + f ɛ/ɪ ʁ + ts ɪ k	three and four ty	3 14 4 13		Jacobs2005Yiddish
+44	Yiddish	forty four	פֿֿיר און פֿערציק	fɪʁʊnfɛʁtsɪk	f ɪ ʁ + ʊ n + f ɛ/ɪ ʁ + ts ɪ k	four and four ty	4 14 4 13		Jacobs2005Yiddish
+45	Yiddish	forty five	פֿֿינף און פֿערציק	fɪnfʊnfɛʁtsɪk	f ɪ n f + ʊ n + f ɛ/ɪ ʁ + ts ɪ k	five and four ty	5 14 4 13		Jacobs2005Yiddish
+46	Yiddish	forty six	זעקס און פֿערציק	zɛksʊnfɛʁtsɪk	z ɛ k s + ʊ n + f ɛ/ɪ ʁ + ts ɪ k	six and four ty	6 14 4 13		Jacobs2005Yiddish
+47	Yiddish	forty seven	זיבן און פֿערציק	zɪbnʊnfɛʁtsɪk	z ɪ b n + ʊ n + f ɛ/ɪ ʁ + ts ɪ k	seven and four ty	7 14 4 13		Jacobs2005Yiddish
+48	Yiddish	forty eight	אַכט און פֿערציק	aχtʊnfɛʁtsɪk	a χ t + ʊ n + f ɛ/ɪ ʁ + ts ɪ k	eight and four ty	8 14 4 13		Jacobs2005Yiddish
+49	Yiddish	forty nine	נײַן און פֿערציק	naɪnʊnfɛʁtsɪk	n aɪ n + ʊ n + f ɛ/ɪ ʁ + ts ɪ k	nine and four ty	9 14 4 13		Jacobs2005Yiddish
+50	Yiddish	fifty	פֿופֿציק	fʊftsɪk	f ʊ/ɪ -/n f + ts ɪ k	five ty	5 13		Jacobs2005Yiddish
+51	Yiddish	fifty one	אײנס און פֿופֿציק	ɛɪnʊnfʊftsɪk	ɛɪ n -/s + ʊ n + f ʊ/ɪ -/n f + ts ɪ k	one and five ty	1 14 5 13		Jacobs2005Yiddish
+52	Yiddish	fifty two	צװײ און פֿופֿציק	tsvɛɪʊnfʊftsɪk	ts v ɛɪ + ʊ n + f ʊ/ɪ -/n f + ts ɪ k	two and five ty	2 14 5 13		Jacobs2005Yiddish
+53	Yiddish	fifty three	דרײַ און פֿופֿציק	dʁaɪʊnfʊftsɪk	d ʁ aɪ + ʊ n + f ʊ/ɪ -/n f + ts ɪ k	three and five ty	3 14 5 13		Jacobs2005Yiddish
+54	Yiddish	fifty four	פֿֿיר און פֿופֿציק	fɪʁʊnfʊftsɪk	f ɪ ʁ + ʊ n + f ʊ/ɪ -/n f + ts ɪ k	four and five ty	4 14 5 13		Jacobs2005Yiddish
+55	Yiddish	fifty five	פֿֿינף און פֿופֿציק	fɪnfʊnfʊftsɪk	f ɪ n f + ʊ n + f ʊ/ɪ -/n f + ts ɪ k	five and five ty	5 14 5 13		Jacobs2005Yiddish
+56	Yiddish	fifty six	זעקס און פֿופֿציק	zɛksʊnfʊftsɪk	z ɛ k s + ʊ n + f ʊ/ɪ -/n f + ts ɪ k	six and five ty	6 14 5 13		Jacobs2005Yiddish
+57	Yiddish	fifty seven	זיבן און פֿופֿציק	zɪbnʊnfʊftsɪk	z ɪ b n + ʊ n + f ʊ/ɪ -/n f + ts ɪ k	seven and five ty	7 14 5 13		Jacobs2005Yiddish
+58	Yiddish	fifty eight	אַכט און פֿופֿציק	aχtʊnfʊftsɪk	a χ t + ʊ n + f ʊ/ɪ -/n f + ts ɪ k	eight and five ty	8 14 5 13		Jacobs2005Yiddish
+59	Yiddish	fifty nine	נײַן און פֿופֿציק	naɪnʊnfʊftsɪk	n aɪ n + ʊ n + f ʊ/ɪ -/n f + ts ɪ k	nine and five ty	9 14 5 13		Jacobs2005Yiddish
+60	Yiddish	sixty	זעכציק	zɛχtsɪk	z ɛ χ/k -/s + ts ɪ k	six ty	6 13		Jacobs2005Yiddish
+61	Yiddish	sixty one	אײנס און זעכציק	ɛɪnʊnzɛχtsɪk	ɛɪ n -/s + ʊ n + z ɛ χ/k -/s + ts ɪ k	one and six ty	1 14 6 13		Jacobs2005Yiddish
+62	Yiddish	sixty two	צװײ און זעכציק	tsvɛɪʊnzɛχtsɪk	ts v ɛɪ + ʊ n + z ɛ χ/k -/s + ts ɪ k	two and six ty	2 14 6 13		Jacobs2005Yiddish
+63	Yiddish	sixty three	דרײַ און זעכציק	dʁaɪʊnzɛχtsɪk	d ʁ aɪ + ʊ n + z ɛ χ/k -/s + ts ɪ k	three and six ty	3 14 6 13		Jacobs2005Yiddish
+64	Yiddish	sixty four	פֿֿיר און זעכציק	fɪʁʊnzɛχtsɪk	f ɪ ʁ + ʊ n + z ɛ χ/k -/s + ts ɪ k	four and six ty	4 14 6 13		Jacobs2005Yiddish
+65	Yiddish	sixty five	פֿֿינף און זעכציק	fɪnfʊnzɛχtsɪk	f ɪ n f + ʊ n + z ɛ χ/k -/s + ts ɪ k	five and six ty	5 14 6 13		Jacobs2005Yiddish
+66	Yiddish	sixty six	זעקס און זעכציק	zɛksʊnzɛχtsɪk	z ɛ k s + ʊ n + z ɛ χ/k -/s + ts ɪ k	six and six ty	6 14 6 13		Jacobs2005Yiddish
+67	Yiddish	sixty seven	זיבן און זעכציק	zɪbnʊnzɛχtsɪk	z ɪ b n + ʊ n + z ɛ χ/k -/s + ts ɪ k	seven and six ty	7 14 6 13		Jacobs2005Yiddish
+68	Yiddish	sixty eight	אַכט און זעכציק	aχtʊnzɛχtsɪk	a χ t + ʊ n + z ɛ χ/k -/s + ts ɪ k	eight and six ty	8 14 6 13		Jacobs2005Yiddish
+69	Yiddish	sixty nine	נײַן און זעכציק	naɪnʊnzɛχtsɪk	n aɪ n + ʊ n + z ɛ χ/k -/s + ts ɪ k	nine and six ty	9 14 6 13		Jacobs2005Yiddish
+70	Yiddish	seventy	זיבעציק	zɪbətsɪk	z ɪ b ə/- -/n + ts ɪ k	seven ty	7 13		Jacobs2005Yiddish
+71	Yiddish	seventy one	אײנס און זיבעציק	ɛɪnʊnzɪbətsɪk	ɛɪ n -/s + ʊ n + z ɪ b ə/- -/n + ts ɪ k	one and seven ty	1 14 7 13		Jacobs2005Yiddish
+72	Yiddish	seventy two	צװײ און זיבעציק	tsvɛɪʊnzɪbətsɪk	ts v ɛɪ + ʊ n + z ɪ b ə/- -/n + ts ɪ k	two and seven ty	2 14 7 13		Jacobs2005Yiddish
+73	Yiddish	seventy three	דרײַ און זיבעציק	dʁaɪʊnzɪbətsɪk	d ʁ aɪ + ʊ n + z ɪ b ə/- -/n + ts ɪ k	three and seven ty	3 14 7 13		Jacobs2005Yiddish
+74	Yiddish	seventy four	פֿֿיר און זיבעציק	fɪʁʊnzɪbətsɪk	f ɪ ʁ + ʊ n + z ɪ b ə/- -/n + ts ɪ k	four and seven ty	4 14 7 13		Jacobs2005Yiddish
+75	Yiddish	seventy five	פֿֿינף און זיבעציק	fɪnfʊnzɪbətsɪk	f ɪ n f + ʊ n + z ɪ b ə/- -/n + ts ɪ k	five and seven ty	5 14 7 13		Jacobs2005Yiddish
+76	Yiddish	seventy six	זעקס און זיבעציק	zɛksʊnzɪbətsɪk	z ɛ k s + ʊ n + z ɪ b ə/- -/n + ts ɪ k	six and seven ty	6 14 7 13		Jacobs2005Yiddish
+77	Yiddish	seventy seven	זיבן און זיבעציק	zɪbnʊnzɪbətsɪk	z ɪ b n + ʊ n + z ɪ b ə/- -/n + ts ɪ k	seven and seven ty	7 14 7 13		Jacobs2005Yiddish
+78	Yiddish	seventy eight	אַכט און זיבעציק	aχtʊnzɪbətsɪk	a χ t + ʊ n + z ɪ b ə/- -/n + ts ɪ k	eight and seven ty	8 14 7 13		Jacobs2005Yiddish
+79	Yiddish	seventy nine	נײַן און זיבעציק	naɪnʊnzɪbətsɪk	n aɪ n + ʊ n + z ɪ b ə/- -/n + ts ɪ k	nine and seven ty	9 14 7 13		Jacobs2005Yiddish
+80	Yiddish	eighty	אַכציק	aχtsɪk	a χ -/t + ts ɪ k	eight ty	8 13		Jacobs2005Yiddish
+81	Yiddish	eighty one	אײנס און אַכציק	ɛɪnʊnaχtsɪk	ɛɪ n -/s + ʊ n + a χ -/t + ts ɪ k	one and eight ty	1 14 8 13		Jacobs2005Yiddish
+82	Yiddish	eighty two	צװײ און אַכציק	tsvɛɪʊnaχtsɪk	ts v ɛɪ + ʊ n + a χ -/t + ts ɪ k	two and eight ty	2 14 8 13		Jacobs2005Yiddish
+83	Yiddish	eighty three	דרײַ און אַכציק	dʁaɪʊnaχtsɪk	d ʁ aɪ + ʊ n + a χ -/t + ts ɪ k	three and eight ty	3 14 8 13		Jacobs2005Yiddish
+84	Yiddish	eighty four	פֿֿיר און אַכציק	fɪʁʊnaχtsɪk	f ɪ ʁ + ʊ n + a χ -/t + ts ɪ k	four and eight ty	4 14 8 13		Jacobs2005Yiddish
+85	Yiddish	eighty five	פֿֿינף און אַכציק	fɪnfʊnaχtsɪk	f ɪ n f + ʊ n + a χ -/t + ts ɪ k	five and eight ty	5 14 8 13		Jacobs2005Yiddish
+86	Yiddish	eighty six	זעקס און אַכציק	zɛksʊnaχtsɪk	z ɛ k s + ʊ n + a χ -/t + ts ɪ k	six and eight ty	6 14 8 13		Jacobs2005Yiddish
+87	Yiddish	eighty seven	זיבן און אַכציק	zɪbnʊnaχtsɪk	z ɪ b n + ʊ n + a χ -/t + ts ɪ k	seven and eight ty	7 14 8 13		Jacobs2005Yiddish
+88	Yiddish	eighty eight	אַכט און אַכציק	aχtʊnaχtsɪk	a χ t + ʊ n + a χ -/t + ts ɪ k	eight and eight ty	8 14 8 13		Jacobs2005Yiddish
+89	Yiddish	eighty nine	נײַן און אַכציק	naɪnʊnaχtsɪk	n aɪ n + ʊ n + a χ -/t + ts ɪ k	nine and eight ty	9 14 8 13		Jacobs2005Yiddish
+90	Yiddish	ninety	נײַנציק	naɪntsɪkaχtsɪk	n aɪ n + ts ɪ k	nine ty	9 13		Jacobs2005Yiddish
+91	Yiddish	ninety one	אײנס און נײַנציק	ɛɪnʊnnaɪntsɪk	ɛɪ n -/s + ʊ n + n aɪ n + ts ɪ k	one and nine ty	1 14 9 13		Jacobs2005Yiddish
+92	Yiddish	ninety two	צװײ און נײַנציק	tsvɛɪʊnnaɪntsɪk	ts v ɛɪ + ʊ n + n aɪ n + ts ɪ k	two and nine ty	2 14 9 13		Jacobs2005Yiddish
+93	Yiddish	ninety three	דרײַ און נײַנציק	dʁaɪʊnnaɪntsɪk	d ʁ aɪ + ʊ n + n aɪ n + ts ɪ k	three and nine ty	3 14 9 13		Jacobs2005Yiddish
+94	Yiddish	ninety four	פֿֿיר און נײַנציק	fɪʁʊnnaɪntsɪk	f ɪ ʁ + ʊ n + n aɪ n + ts ɪ k	four and nine ty	4 14 9 13		Jacobs2005Yiddish
+95	Yiddish	ninety five	פֿֿינף און נײַנציק	fɪnfʊnnaɪntsɪk	f ɪ n f + ʊ n + n aɪ n + ts ɪ k	five and nine ty	5 14 9 13		Jacobs2005Yiddish
+96	Yiddish	ninety six	זעקס און נײַנציק	zɛksʊnnaɪntsɪk	z ɛ k s + ʊ n + n aɪ n + ts ɪ k	six and nine ty	6 14 9 13		Jacobs2005Yiddish
+97	Yiddish	ninety seven	זיבן און נײַנציק	zɪbnʊnnaɪntsɪk	z ɪ b n + ʊ n + n aɪ n + ts ɪ k	seven and nine ty	7 14 9 13		Jacobs2005Yiddish
+98	Yiddish	ninety eight	אַכט און נײַנציק	aχtʊnnaɪntsɪk	a χ t + ʊ n + n aɪ n + ts ɪ k	eight and nine ty	8 14 9 13		Jacobs2005Yiddish
+99	Yiddish	ninety nine	נײַן און נײַנציק	naɪnʊnnaɪntsɪk	n aɪ n + ʊ n + n aɪ n + ts ɪ k	nine and nine ty	9 14 9 13		Jacobs2005Yiddish
