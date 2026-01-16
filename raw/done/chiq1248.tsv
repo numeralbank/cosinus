@@ -101,24 +101,3 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 100	Chiquitano	ninety eight	kutumu	kutumu	k u + t u + m u	3 1 5	nine ten eight	Chiquitano2[7]	
 101	Chiquitano	ninety nine	kutuku	kutuku	k u + t u + k u	3 1 3	nine ten nine	Chiquitano2[7]	
 102	Chiquitano	hundred	nui	nui	nui	11	hundred	Chiquitano1[7] Chiquitano2[7]	
-#@highlight=TOKENS
-#@sampa=TOKENS
-#@css=menu:show|database:hide
-#@basics=COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTES|SOURCE|TOKENS|VALUE
-#@_selected_doculects=Chiquitano
-#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty|forty one|forty two|forty three|forty four|forty five|forty six|forty seven|forty eight|forty nine|fifty|fifty one|fifty two|fifty three|fifty four|fifty five|fifty six|fifty seven|fifty eight|fifty nine|sixty|sixty one|sixty two|sixty three|sixty four|sixty five|sixty six|sixty seven|sixty eight|sixty nine|seventy|seventy one|seventy two|seventy three|seventy four|seventy five|seventy six|seventy seven|seventy eight|seventy nine|eighty|eighty one|eighty two|eighty three|eighty four|eighty five|eighty six|eighty seven|eighty eight|eighty nine|ninety|ninety one|ninety two|ninety three|ninety four|ninety five|ninety six|ninety seven|ninety eight|ninety nine|hundred
-#@sorted_taxa=Chiquitano
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty|forty one|forty two|forty three|forty four|forty five|forty six|forty seven|forty eight|forty nine|fifty|fifty one|fifty two|fifty three|fifty four|fifty five|fifty six|fifty seven|fifty eight|fifty nine|sixty|sixty one|sixty two|sixty three|sixty four|sixty five|sixty six|sixty seven|sixty eight|sixty nine|seventy|seventy one|seventy two|seventy three|seventy four|seventy five|seventy six|seventy seven|seventy eight|seventy nine|eighty|eighty one|eighty two|eighty three|eighty four|eighty five|eighty six|eighty seven|eighty eight|eighty nine|ninety|ninety one|ninety two|ninety three|ninety four|ninety five|ninety six|ninety seven|ninety eight|ninety nine|hundred
-#@display=filedisplay|settings
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTES
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=chiquitano - chiq1248.tsv
-#@navbar=true
-#@_morphology_mode=full
