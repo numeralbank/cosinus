@@ -8,7 +8,7 @@ ID	DOCULECT	CONCEPT	ORTHOGRAPHIC	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	SOURCE	N
 7	Burmese	seven	hku.nac	kʰʊ̀ɰ̃n̥ɪʔ	kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	seven	kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	7	Okell2002BurmeseByEar	ခုနစ်
 8	Burmese	eight	hrac	ʃɪʔ	ʃ ɪ ʔ	eight	ʃ ɪ ʔ	8	Okell2002BurmeseByEar	ရှစ်
 9	Burmese	nine	ko:	kó	k ó	nine	k ó	9	Okell2002BurmeseByEar	ကိုး
-10	Burmese	ten	tacsai	tɪʔsʰɛ́	t ɪ ʔ + sʰ ɛ́/ɛ̰	one tens	t ɪ ʔ + sʰ ɛ́/ɛ̰	1 10	Okell2002BurmeseByEar	တစ်ဆယ်
+10	Burmese	ten	tacsai	tɪʔsʰɛ́	t ɪ ʔ + sʰ ɛ́/ɛ̰	one ten	t ɪ ʔ + sʰ ɛ́/ɛ̰	1 10	Okell2002BurmeseByEar	တစ်ဆယ်
 11	Burmese	eleven	hsai.tac	sʰɛ̰tɪʔ	sʰ ɛ̰ + t ɪ ʔ	ten one	sʰ ɛ̰ + t ɪ ʔ	10 1	Okell2002BurmeseByEar	ဆယ့်တစ်
 12	Burmese	twelve	hsai.hnac	sʰɛ̰n̥ɪʔ	sʰ ɛ̰ + n̥ ɪ ʔ	ten two	sʰ ɛ̰ + n̥ ɪ ʔ	10 2	Okell2002BurmeseByEar	ဆယ့်နှစ်
 13	Burmese	thirteen	hsai.sone:	sʰɛ̰θóʊɰ̃	sʰ ɛ̰ + θ óʊɰ̃	ten three	sʰ ɛ̰ + θ óʊɰ̃	10 3	Okell2002BurmeseByEar	ဆယ့်သုံး
@@ -18,16 +18,16 @@ ID	DOCULECT	CONCEPT	ORTHOGRAPHIC	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	SOURCE	N
 17	Burmese	seventeen	hsai.hku.nac	sʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ	sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	ten seven	sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	10 7	Okell2002BurmeseByEar	ဆယ့်ခုနစ်
 18	Burmese	eighteen	hsai.hrac	sʰɛ̰ʃɪʔ	sʰ ɛ̰ + ʃ ɪ ʔ	ten eight	sʰ ɛ̰ + ʃ ɪ ʔ	10 8	Okell2002BurmeseByEar	ဆယ့်ရှစ်
 19	Burmese	nineteen	hsai.ko:	sʰɛ̰kó	sʰ ɛ̰ + k ó	ten nine	sʰ ɛ̰ + k ó	10 9	Okell2002BurmeseByEar	ဆယ့်ကိုး
-20	Burmese	twenty	hnachsai	n̥əsʰɛ́	n̥ ə + sʰ ɛ́/ɛ̰	two ten	n̥ ə + sʰ ɛ́/ɛ̰	2 10	Okell2002BurmeseByEar	နှစ်ဆယ်
-21	Burmese	twenty one	hnachsai.tac	n̥əsʰɛ̰tɪʔ	n̥ ə + sʰ ɛ̰ + t ɪ ʔ	two ten one	n̥ ə + sʰ ɛ̰ + t ɪ ʔ	2 10 1	Okell2002BurmeseByEar	နှစ်ဆယ့်တစ်
-22	Burmese	twenty two	hnachsai.hnac	n̥əsʰɛ̰n̥ɪʔ	n̥ ə + sʰ ɛ̰ + n̥ ɪ ʔ	two ten two	n̥ ə + sʰ ɛ̰ + n̥ ɪ ʔ	2 10 2	Okell2002BurmeseByEar	နှစ်ဆယ့်နှစ်
-23	Burmese	twenty three	hnachsai.sone:	n̥əsʰɛ̰θóʊɰ̃	n̥ ə + sʰ ɛ̰ + θ óʊɰ̃	two ten three	n̥ ə + sʰ ɛ̰ + θ óʊɰ̃	2 10 3	Okell2002BurmeseByEar	နှစ်ဆယ့်သုံး
-24	Burmese	twenty four	hnachsai.le:	n̥əsʰɛ̰lé	n̥ ə + sʰ ɛ̰ + l é	two ten four	n̥ ə + sʰ ɛ̰ + l é	2 10 4	Okell2002BurmeseByEar	နှစ်ဆယ့်လေး
-25	Burmese	twenty five	hnachsai.nga:	n̥əsʰɛ̰ŋá	n̥ ə + sʰ ɛ̰ + ŋ á	two ten five	n̥ ə + sʰ ɛ̰ + ŋ á	2 10 5	Okell2002BurmeseByEar	နှစ်ဆယ့်ငါး
-26	Burmese	twenty six	hnachsai.hkrauk	n̥əsʰɛ̰tɕʰaʊʔ	n̥ ə + sʰ ɛ̰ + tɕʰ aʊ ʔ	two ten six	n̥ ə + sʰ ɛ̰ + tɕʰ aʊ ʔ	2 10 6	Okell2002BurmeseByEar	နှစ်ဆယ့်ခြောက်
-27	Burmese	twenty seven	hnachsai.hku.nac	n̥əsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ	n̥ ə + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	two ten seven	n̥ ə + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	2 10 7	Okell2002BurmeseByEar	နှစ်ဆယ့်ခုနစ်
-28	Burmese	twenty eight	hnachsai.hrac	n̥əsʰɛ̰ʃɪʔ	n̥ ə + sʰ ɛ̰ + ʃ ɪ ʔ	two ten eight	n̥ ə + sʰ ɛ̰ + ʃ ɪ ʔ	2 10 8	Okell2002BurmeseByEar	နှစ်ဆယ့်ရှစ်
-29	Burmese	twenty nine	hnachsai.ko:	n̥əsʰɛ̰kó	n̥ ə + sʰ ɛ̰ + k ó	two ten nine	n̥ ə + sʰ ɛ̰ + k ó	2 10 9	Okell2002BurmeseByEar	နှစ်ဆယ့်ကိုး
+20	Burmese	twenty	hnachsai	n̥əsʰɛ́	n̥ ə/ɪ -/ʔ + sʰ ɛ́/ɛ̰	two ten	n̥ ə + sʰ ɛ́/ɛ̰	2 10	Okell2002BurmeseByEar	နှစ်ဆယ်
+21	Burmese	twenty one	hnachsai.tac	n̥əsʰɛ̰tɪʔ	n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + t ɪ ʔ	two ten one	n̥ ə + sʰ ɛ̰ + t ɪ ʔ	2 10 1	Okell2002BurmeseByEar	နှစ်ဆယ့်တစ်
+22	Burmese	twenty two	hnachsai.hnac	n̥əsʰɛ̰n̥ɪʔ	n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + n̥ ɪ ʔ	two ten two	n̥ ə + sʰ ɛ̰ + n̥ ɪ ʔ	2 10 2	Okell2002BurmeseByEar	နှစ်ဆယ့်နှစ်
+23	Burmese	twenty three	hnachsai.sone:	n̥əsʰɛ̰θóʊɰ̃	n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + θ óʊɰ̃	two ten three	n̥ ə + sʰ ɛ̰ + θ óʊɰ̃	2 10 3	Okell2002BurmeseByEar	နှစ်ဆယ့်သုံး
+24	Burmese	twenty four	hnachsai.le:	n̥əsʰɛ̰lé	n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + l é	two ten four	n̥ ə + sʰ ɛ̰ + l é	2 10 4	Okell2002BurmeseByEar	နှစ်ဆယ့်လေး
+25	Burmese	twenty five	hnachsai.nga:	n̥əsʰɛ̰ŋá	n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + ŋ á	two ten five	n̥ ə + sʰ ɛ̰ + ŋ á	2 10 5	Okell2002BurmeseByEar	နှစ်ဆယ့်ငါး
+26	Burmese	twenty six	hnachsai.hkrauk	n̥əsʰɛ̰tɕʰaʊʔ	n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + tɕʰ aʊ ʔ	two ten six	n̥ ə + sʰ ɛ̰ + tɕʰ aʊ ʔ	2 10 6	Okell2002BurmeseByEar	နှစ်ဆယ့်ခြောက်
+27	Burmese	twenty seven	hnachsai.hku.nac	n̥əsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ	n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	two ten seven	n̥ ə + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	2 10 7	Okell2002BurmeseByEar	နှစ်ဆယ့်ခုနစ်
+28	Burmese	twenty eight	hnachsai.hrac	n̥əsʰɛ̰ʃɪʔ	n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + ʃ ɪ ʔ	two ten eight	n̥ ə + sʰ ɛ̰ + ʃ ɪ ʔ	2 10 8	Okell2002BurmeseByEar	နှစ်ဆယ့်ရှစ်
+29	Burmese	twenty nine	hnachsai.ko:	n̥əsʰɛ̰kó	n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + k ó	two ten nine	n̥ ə + sʰ ɛ̰ + k ó	2 10 9	Okell2002BurmeseByEar	နှစ်ဆယ့်ကိုး
 30	Burmese	thirty	sone:hsai	θóʊɰ̃zɛ́	θ óʊɰ̃ + z/sʰ ɛ́/ɛ̰	three ten	θ óʊɰ̃ + z/sʰ ɛ́/ɛ̰	3 10	Okell2002BurmeseByEar	သုံးဆယ်
 31	Burmese	thirty one	sone:hsai.tac	θóʊɰ̃zɛ̰tɪʔ	θ óʊɰ̃ + z/sʰ ɛ̰ + t ɪ ʔ	three ten one	θ óʊɰ̃ + z/sʰ ɛ̰ + t ɪ ʔ	3 10 1	Okell2002BurmeseByEar	သုံးဆယ့်တစ်
 32	Burmese	thirty two	sone:hsai.hnac	θóʊɰ̃zɛ̰n̥ɪʔ	θ óʊɰ̃ + z/sʰ ɛ̰ + n̥ ɪ ʔ	three ten two	θ óʊɰ̃ + z/sʰ ɛ̰ + n̥ ɪ ʔ	3 10 2	Okell2002BurmeseByEar	သုံးဆယ့်နှစ်
@@ -68,16 +68,16 @@ ID	DOCULECT	CONCEPT	ORTHOGRAPHIC	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	SOURCE	N
 67	Burmese	sixty seven	hkrauksai.hku.nac	tɕʰaʊʔsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ	tɕʰ aʊ ʔ + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	six ten seven	tɕʰ aʊ ʔ + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	6 10 7	Okell2002BurmeseByEar	ခြောက်ဆယ့်ခုနစ်
 68	Burmese	sixty eight	hkrauksai.hrac	tɕʰaʊʔsʰɛ̰ʃɪʔ	tɕʰ aʊ ʔ + sʰ ɛ̰ + ʃ ɪ ʔ	six ten eight	tɕʰ aʊ ʔ + sʰ ɛ̰ + ʃ ɪ ʔ	6 10 8	Okell2002BurmeseByEar	ခြောက်ဆယ့်ရှစ်
 69	Burmese	sixty nine	hkrauksai.ko:	tɕʰaʊʔsʰɛ̰kó	tɕʰ aʊ ʔ + sʰ ɛ̰ + k ó	six ten nine	tɕʰ aʊ ʔ + sʰ ɛ̰ + k ó	6 10 9	Okell2002BurmeseByEar	ခြောက်ဆယ့်ကိုး
-70	Burmese	seventy	hku.nachsai	kʰʊ̀ɰ̃n̥əsʰɛ́	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ́/ɛ̰	seven ten	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ́/ɛ̰	7 10	Okell2002BurmeseByEar	ခုနစ်ဆယ်
-71	Burmese	seventy one	hku.nachsai.tac	kʰʊ̀ɰ̃n̥əsʰɛ̰tɪʔ	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + t ɪ ʔ	seven ten one	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + t ɪ ʔ	7 10 1	Okell2002BurmeseByEar	ခုနစ်ဆယ့်တစ်
-72	Burmese	seventy two	hku.nachsai.hnac	kʰʊ̀ɰ̃n̥əsʰɛ̰n̥ɪʔ	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + n̥ ɪ ʔ	seven ten two	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + n̥ ɪ ʔ	7 10 2	Okell2002BurmeseByEar	ခုနစ်ဆယ့်နှစ်
-73	Burmese	seventy three	hku.nachsai.sone:	kʰʊ̀ɰ̃n̥əsʰɛ̰θóʊɰ̃	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + θ óʊɰ̃	seven ten three	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + θ óʊɰ̃	7 10 3	Okell2002BurmeseByEar	ခုနစ်ဆယ့်သုံး
-74	Burmese	seventy four	hku.nachsai.le:	kʰʊ̀ɰ̃n̥əsʰɛ̰lé	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + l é	seven ten four	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + l é	7 10 4	Okell2002BurmeseByEar	ခုနစ်ဆယ့်လေး
-75	Burmese	seventy five	hku.nachsai.nga:	kʰʊ̀ɰ̃n̥əsʰɛ̰ŋá	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + ŋ á	seven ten five	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + ŋ á	7 10 5	Okell2002BurmeseByEar	ခုနစ်ဆယ့်ငါး
-76	Burmese	seventy six	hku.nachsai.hkrauk	kʰʊ̀ɰ̃n̥əsʰɛ̰tɕʰaʊʔ	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + tɕʰ aʊ ʔ	seven ten six	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + tɕʰ aʊ ʔ	7 10 6	Okell2002BurmeseByEar	ខុនစ်ဆယ့်ခြောက်
-77	Burmese	seventy seven	hku.nachsai.hku.nac	kʰʊ̀ɰ̃n̥əsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	seven ten seven	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	7 10 7	Okell2002BurmeseByEar	ခုနစ်ဆယ့်ခုနစ်
-78	Burmese	seventy eight	hku.nachsai.hrac	kʰʊ̀ɰ̃n̥əsʰɛ̰ʃɪʔ	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + ʃ ɪ ʔ	seven ten eight	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + ʃ ɪ ʔ	7 10 8	Okell2002BurmeseByEar	ခုနစ်ဆယ့်ရှစ်
-79	Burmese	seventy nine	hku.nachsai.ko:	kʰʊ̀ɰ̃n̥əsʰɛ̰kó	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + k ó	seven ten nine	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + k ó	7 10 9	Okell2002BurmeseByEar	ခုနစ်ဆယ့်ကိုး
+70	Burmese	seventy	hku.nachsai	kʰʊ̀ɰ̃n̥əsʰɛ́	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ́/ɛ̰	seven ten	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ́/ɛ̰	7 10	Okell2002BurmeseByEar	ခုနစ်ဆယ်
+71	Burmese	seventy one	hku.nachsai.tac	kʰʊ̀ɰ̃n̥əsʰɛ̰tɪʔ	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + t ɪ ʔ	seven ten one	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + t ɪ ʔ	7 10 1	Okell2002BurmeseByEar	ခုနစ်ဆယ့်တစ်
+72	Burmese	seventy two	hku.nachsai.hnac	kʰʊ̀ɰ̃n̥əsʰɛ̰n̥ɪʔ	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + n̥ ɪ ʔ	seven ten two	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + n̥ ɪ ʔ	7 10 2	Okell2002BurmeseByEar	ခုနစ်ဆယ့်နှစ်
+73	Burmese	seventy three	hku.nachsai.sone:	kʰʊ̀ɰ̃n̥əsʰɛ̰θóʊɰ̃	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + θ óʊɰ̃	seven ten three	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + θ óʊɰ̃	7 10 3	Okell2002BurmeseByEar	ခုနစ်ဆယ့်သုံး
+74	Burmese	seventy four	hku.nachsai.le:	kʰʊ̀ɰ̃n̥əsʰɛ̰lé	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + l é	seven ten four	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + l é	7 10 4	Okell2002BurmeseByEar	ခုနစ်ဆယ့်လေး
+75	Burmese	seventy five	hku.nachsai.nga:	kʰʊ̀ɰ̃n̥əsʰɛ̰ŋá	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + ŋ á	seven ten five	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + ŋ á	7 10 5	Okell2002BurmeseByEar	ခုနစ်ဆယ့်ငါး
+76	Burmese	seventy six	hku.nachsai.hkrauk	kʰʊ̀ɰ̃n̥əsʰɛ̰tɕʰaʊʔ	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + tɕʰ aʊ ʔ	seven ten six	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + tɕʰ aʊ ʔ	7 10 6	Okell2002BurmeseByEar	ខុនစ်ဆယ့်ခြောက်
+77	Burmese	seventy seven	hku.nachsai.hku.nac	kʰʊ̀ɰ̃n̥əsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	seven ten seven	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ	7 10 7	Okell2002BurmeseByEar	ခုနစ်ဆယ့်ခုနစ်
+78	Burmese	seventy eight	hku.nachsai.hrac	kʰʊ̀ɰ̃n̥əsʰɛ̰ʃɪʔ	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + ʃ ɪ ʔ	seven ten eight	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + ʃ ɪ ʔ	7 10 8	Okell2002BurmeseByEar	ခုနစ်ဆယ့်ရှစ်
+79	Burmese	seventy nine	hku.nachsai.ko:	kʰʊ̀ɰ̃n̥əsʰɛ̰kó	kʰ ʊ̀ɰ̃ n̥ ə/ɪ -/ʔ + sʰ ɛ̰ + k ó	seven ten nine	kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + k ó	7 10 9	Okell2002BurmeseByEar	ခုနစ်ဆယ့်ကိုး
 80	Burmese	eighty	hracsai	ʃɪʔsʰɛ́	ʃ ɪ ʔ + sʰ ɛ́/ɛ̰	eight ten	ʃ ɪ ʔ + sʰ ɛ́/ɛ̰	8 10	Okell2002BurmeseByEar	ရှစ်ဆယ်
 81	Burmese	eighty one	hracsai.tac	ʃɪʔsʰɛ̰tɪʔ	ʃ ɪ ʔ + sʰ ɛ̰ + t ɪ ʔ	eight ten one	ʃ ɪ ʔ + sʰ ɛ̰ + t ɪ ʔ	8 10 1	Okell2002BurmeseByEar	ရှစ်ဆယ့်တစ်
 82	Burmese	eighty two	hracsai.hnac	ʃɪʔsʰɛ̰n̥ɪʔ	ʃ ɪ ʔ + sʰ ɛ̰ + n̥ ɪ ʔ	eight ten two	ʃ ɪ ʔ + sʰ ɛ̰ + n̥ ɪ ʔ	8 10 2	Okell2002BurmeseByEar	ရှစ်ဆယ့်နှစ်
