@@ -5,219 +5,232 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| + | 6994 | ✓ | ✓ |
-| a | 3796 | ✓ | ✓ |
-| i | 2259 | ✓ | ✓ |
-| t | 2228 | ✓ | ✓ |
-| n | 1712 | ✓ | ✓ |
-| s | 1701 | ✓ | ✓ |
-| e | 1427 | ✓ | ✓ |
-| ʃ | 1166 | ✓ | ✓ |
-| m | 1098 | ✓ | ✓ |
-| r | 905 | ✓ | ✓ |
-| u | 848 | ✓ | ✓ |
-| d | 810 | ✓ | ✓ |
-| o | 807 | ✓ | ✓ |
-| k | 787 | ✓ | ✓ |
-| l | 669 | ✓ | ✓ |
-| ə | 651 | ✓ | ✓ |
-| aː | 633 | ✓ | ✓ |
-| w | 603 | ✓ | ✓ |
-| p | 580 | ✓ | ✓ |
-| b | 533 | ✓ | ✓ |
-| ʔ | 516 | ✓ | ✓ |
-| æ | 493 | ✓ | ✓ |
-| ɛ | 442 | ✓ | ✓ |
-| ʕ | 385 | ✓ | ✓ |
-| v | 370 | ✓ | ✓ |
-| j | 348 | ✓ | ✓ |
-| h | 308 | ✓ | ✓ |
-| ɨ | 295 | ✓ | ✓ |
-| ʊ | 261 | ✓ | ✓ |
-| iː | 255 | ✓ | ✓ |
-| ɪ | 224 | ✓ | ✓ |
-| θ | 177 | ✓ | ✓ |
-| ŋ | 166 | ✓ | ✓ |
-| ɔ | 154 | ✓ | ✓ |
-| x | 147 | ✓ | ✓ |
-| χ | 143 | ✓ | ✓ |
-| ʧ | 139 | ✓ | ✓ |
-| ʁ | 138 | ✓ | ✓ |
-| g | 136 | ✓ | ✓ |
-| z | 135 | ✓ | ✓ |
-| ħ | 130 | ✓ | ✓ |
-| ʂ | 128 | ✓ | ✓ |
+| + | 10808 | ✓ | ✓ |
+| a | 5946 | ✓ | ✓ |
+| i | 3173 | ✓ | ✓ |
+| t | 3151 | ✓ | ✓ |
+| n | 2944 | ✓ | ✓ |
+| s | 2486 | ✓ | ✓ |
+| e | 1837 | ✓ | ✓ |
+| k | 1606 | ✓ | ✓ |
+| m | 1561 | ✓ | ✓ |
+| ʃ | 1375 | ✓ | ✓ |
+| u | 1365 | ✓ | ✓ |
+| r | 1329 | ✓ | ✓ |
+| ə | 1256 | ✓ | ✓ |
+| p | 1087 | ✓ | ✓ |
+| d | 1081 | ✓ | ✓ |
+| o | 1075 | ✓ | ✓ |
+| w | 890 | ✓ | ✓ |
+| aː | 873 | ✓ | ✓ |
+| l | 868 | ✓ | ✓ |
+| ʔ | 866 | ✓ | ✓ |
+| ɨ | 687 | ✓ | ✓ |
+| b | 683 | ✓ | ✓ |
+| ɛ | 673 | ✓ | ✓ |
+| ʕ | 635 | ✓ | ✓ |
+| ʊ | 578 | ✓ | ✓ |
+| h | 512 | ✓ | ✓ |
+| j | 501 | ✓ | ✓ |
+| æ | 491 | ✓ | ✓ |
+| v | 484 | ✓ | ✓ |
+| g | 443 | ✓ | ✓ |
+| ɪ | 437 | ✓ | ✓ |
+| iː | 421 | ✓ | ✓ |
+| θ | 326 | ✓ | ✓ |
+| z | 288 | ✓ | ✓ |
+| x | 264 | ✓ | ✓ |
+| ts | 249 | ✓ | ✓ |
+| ŋ | 234 | ✓ | ✓ |
+| uː | 206 | ✓ | ✓ |
+| ħ | 190 | ✓ | ✓ |
+| χ | 190 | ✓ | ✓ |
+| f | 189 | ✓ | ✓ |
+| ʂ | 180 | ✓ | ✓ |
+| ʁ | 178 | ✓ | ✓ |
+| ʧ | 170 | ✓ | ✓ |
+| ç | 157 | ✓ | ✓ |
+| ɾ | 144 | ✓ | ✓ |
+| q | 130 | ✓ | ✓ |
+| ʐ | 130 | ✓ | ✓ |
 | ʒ | 123 | ✓ | ✓ |
-| ɾ | 113 | ✓ | ✓ |
-| tʃ | 112 | ✓ | ✓ |
-| ts | 101 | ✓ | ✓ |
-| á | 99 | ✓ | ✓ |
-| tʰ | 94 | ✓ | ✓ |
-| t͡sʰ | 90 | ✓ | ✓ |
+| ɛ́ | 121 | ✓ | ✓ |
+| á | 119 | ✓ | ✓ |
+| oː | 115 | ✓ | ✓ |
+| ɲ | 112 | ✓ | ✓ |
+| eː | 110 | ✓ | ✓ |
+| tʃ | 106 | ✓ | ✓ |
+| ɔ | 104 | ✓ | ✓ |
+| ¹² | 100 | ✓ | ✓ |
+| ⁵⁵ | 100 | ✓ | ✓ |
+| tʰ | 95 | ✓ | ✓ |
+| tsʰ | 94 | ✓ | ✓ |
+| au | 90 | ✓ | ✓ |
 | ³⁵ | 90 | ✓ | ✓ |
 | ʅ | 90 | ✓ | ✓ |
-| f | 87 | ✓ | ✓ |
-| ⁵⁵ | 78 | ✓ | ✓ |
-| ç | 76 | ✓ | ✓ |
-| eː | 75 | ✓ | ✓ |
-| y | 72 | ✓ | ✓ |
-| q | 70 | ✓ | ✓ |
+| ɐ | 88 | ✓ | ✓ |
+| tʼ | 86 | ✓ | ✓ |
+| í | 83 | ✓ | ✓ |
+| ɕ | 82 | ✓ | ✓ |
+| ɛ̰ | 81 | ✓ | ✓ |
+| ʎ | 80 | ✓ | ✓ |
+| rʲ | 75 | ✓ | ✓ |
+| tː | 73 | ✓ | ✓ |
+| ʈ | 71 | ✓ | ✓ |
+| ɟ | 70 | ✓ | ✓ |
 | ʋ | 70 | ✓ | ✓ |
-| tʼ | 66 | ✓ | ✓ |
-| oː | 65 | ✓ | ✓ |
-| ɛ̃ | 64 | ✓ | ✓ |
-| kʰ | 63 | ✓ | ✓ |
-| ʈ | 63 | ✓ | ✓ |
-| ǝ | 61 | ✓ | ✓ |
-| tː | 60 | ✓ | ✓ |
-| ɲ | 60 | ✓ | ✓ |
+| ĩ | 69 | ✓ | ✓ |
+| ɛ̀ | 69 | ✓ | ✓ |
+| dʲ | 63 | ✓ | ✓ |
+| tʲ | 63 | ✓ | ✓ |
+| ǝ | 63 | ✓ | ✓ |
+| é | 61 | ✓ | ✓ |
+| y | 61 | ✓ | ✓ |
+| ɛ̃ | 61 | ✓ | ✓ |
+| aɪ | 60 | ✓ | ✓ |
+| à | 60 | ✓ | ✓ |
+| tɕʰ | 60 | ✓ | ✓ |
+| ³⁴ | 60 | ✓ | ✓ |
+| ɔ́ | 60 | ✓ | ✓ |
+| β | 60 | ✓ | ✓ |
 | ⁵¹ | 60 | ✓ | ✓ |
 | kʷ | 59 | ✓ | ✓ |
-| tɕ | 59 | ✓ | ✓ |
+| ú | 59 | ✓ | ✓ |
 | wa | 59 | ? | ? |
-| tʲ | 56 | ✓ | ✓ |
-| ɑ̃ | 55 | ✓ | ✓ |
-| ³³ | 50 | ✓ | ✓ |
+| ɯ | 59 | ✓ | ✓ |
+| ɺ | 59 | ✓ | ✓ |
+| ɑ̃ | 51 | ✓ | ✓ |
+| n̪ˠ | 50 | ✓ | ✓ |
+| sʰ | 50 | ✓ | ✓ |
+| ɒ | 50 | ✓ | ✓ |
+| kʲ | 49 | ✓ | ✓ |
 | tˤ | 49 | ✓ | ✓ |
-| ɯ | 46 | ✓ | ✓ |
-| rʲ | 42 | ✓ | ✓ |
+| t̪ˠ | 42 | ✓ | ✓ |
 | ʌ | 42 | ✓ | ✓ |
-| ⁴⁴ | 41 | ✓ | ✓ |
+| õ | 41 | ✓ | ✓ |
+| n̥ | 40 | ✓ | ✓ |
 | ou̯ | 40 | ✓ | ✓ |
+| ó | 40 | ✓ | ✓ |
+| tɕ | 40 | ✓ | ✓ |
+| ²³ | 40 | ✓ | ✓ |
 | ²¹³ | 40 | ✓ | ✓ |
-| ʧˤ | 40 | ✓ | ✓ |
+| ɿ | 40 | ✓ | ✓ |
+| ⁿd | 40 | ✓ | ✓ |
 | r̝ | 39 | ✓ | ✓ |
 | t͡ʃ | 39 | ✓ | ✓ |
-| ʐ | 39 | ✓ | ✓ |
+| ɣ | 39 | ✓ | ✓ |
 | ʦ’ | 39 | ✓ | ✓ |
-| ɟ | 37 | ✓ | ✓ |
-| dʲ | 36 | ✓ | ✓ |
-| ʤ | 35 | ✓ | ✓ |
-| ɕ | 33 | ✓ | ✓ |
-| dʑ | 31 | ✓ | ✓ |
-| ĩ | 30 | ✓ | ✓ |
-| uː | 30 | ✓ | ✓ |
+| ø | 37 | ✓ | ✓ |
+| ʤ | 33 | ✓ | ✓ |
+| ɾʲ | 32 | ✓ | ✓ |
+| d̪ˠ | 31 | ✓ | ✓ |
+| iɪ | 30 | ✓ | ✓ |
+| kʰ | 30 | ✓ | ✓ |
 | ð | 30 | ✓ | ✓ |
 | ɑ | 30 | ✓ | ✓ |
 | ei | 29 | ✓ | ✓ |
-| əi | 28 | ✓ | ✓ |
-| ³¹ | 27 | ✓ | ✓ |
-| ¹² | 25 | ✓ | ✓ |
-| ɿ | 25 | ✓ | ✓ |
-| tɕʰ | 24 | ✓ | ✓ |
-| ʈʰ | 23 | ✓ | ✓ |
-| pʰ | 22 | ✓ | ✓ |
-| ɐ | 22 | ✓ | ✓ |
-| ɭ | 22 | ✓ | ✓ |
 | aɪ̯ | 21 | ✓ | ✓ |
-| é | 21 | ✓ | ✓ |
+| c | 21 | ✓ | ✓ |
 | gʷ | 21 | ✓ | ✓ |
-| ɺ | 21 | ✓ | ✓ |
-| aɪ | 20 | ✓ | ✓ |
-| c | 20 | ✓ | ✓ |
-| ó | 20 | ✓ | ✓ |
+| ɭ | 21 | ✓ | ✓ |
+| aʊ | 20 | ✓ | ✓ |
+| ǎ | 20 | ✓ | ✓ |
+| e̞ | 20 | ✓ | ✓ |
+| iɤ | 20 | ✓ | ✓ |
+| ì | 20 | ✓ | ✓ |
+| ǹ | 20 | ? | ? |
+| pʰ | 20 | ✓ | ✓ |
 | qʷ | 20 | ✓ | ✓ |
+| sː | 20 | ✓ | ✓ |
+| ù | 20 | ✓ | ✓ |
+| xʷ | 20 | ✓ | ✓ |
+| á | 20 | ✓ | ✓ |
+| é | 20 | ✓ | ✓ |
+| ó | 20 | ✓ | ✓ |
+| óʊɰ̃ | 20 | ? | ? |
+| ŋ̍ | 20 | ✓ | ✓ |
+| ȵ | 20 | ✓ | ✓ |
+| ɘ | 20 | ✓ | ✓ |
 | ɚ | 20 | ✓ | ✓ |
+| ɡ | 20 | ✓ | ✓ |
+| ɦ | 20 | ✓ | ✓ |
+| ɯː | 20 | ✓ | ✓ |
+| ʈʰ | 20 | ✓ | ✓ |
+| ʊ̀ɰ̃ | 20 | ? | ? |
 | ʦ | 20 | ✓ | ✓ |
-| β | 20 | ✓ | ✓ |
+| ʧˤː | 20 | ✓ | ✓ |
+| ᴀ | 20 | ✓ | ✓ |
+| ⁵³ | 20 | ✓ | ✓ |
+| gʲ | 19 | ✓ | ✓ |
 | lˤ | 19 | ✓ | ✓ |
-| õ | 19 | ✓ | ✓ |
 | we | 19 | ? | ? |
+| wː | 19 | ✓ | ✓ |
 | ɕˤ | 19 | ✓ | ✓ |
-| ²³ | 18 | ✓ | ✓ |
-| ɾʲ | 18 | ✓ | ✓ |
+| ɯ̃ː | 19 | ✓ | ✓ |
+| ᵐb | 19 | ✓ | ✓ |
+| ɛɪ | 18 | ✓ | ✓ |
 | ʧʰ | 18 | ✓ | ✓ |
-| ø | 17 | ✓ | ✓ |
 | ɪ̃ | 17 | ✓ | ✓ |
 | ɖ | 16 | ✓ | ✓ |
-| ʎ | 16 | ✓ | ✓ |
 | je | 15 | ? | ? |
-| e̞ | 14 | ✓ | ✓ |
-| ȵ | 14 | ✓ | ✓ |
-| ɘ | 14 | ✓ | ✓ |
-| ⁵³ | 14 | ✓ | ✓ |
-| kʲ | 13 | ✓ | ✓ |
-| ᵐb | 13 | ✓ | ✓ |
-| ɹ | 12 | ✓ | ✓ |
+| ʤʰ | 12 | ✓ | ✓ |
 | mˤ | 11 | ✓ | ✓ |
-| sː | 11 | ✓ | ✓ |
+| nˠ | 11 | ✓ | ✓ |
 | t̊ | 11 | ✓ | ✓ |
 | œ | 11 | ✓ | ✓ |
 | fʲ | 10 | ✓ | ✓ |
 | ie̞ | 10 | ✓ | ✓ |
 | kʰʷ | 10 | ✓ | ✓ |
-| n̪ˠ | 10 | ✓ | ✓ |
+| lʲ | 10 | ✓ | ✓ |
+| mʷ | 10 | ✓ | ✓ |
 | pː | 10 | ✓ | ✓ |
 | sˠ | 10 | ✓ | ✓ |
-| ɡ | 10 | ✓ | ✓ |
-| ɣ | 10 | ✓ | ✓ |
+| øː | 10 | ✓ | ✓ |
+| ɐː | 10 | ✓ | ✓ |
+| ɟː | 10 | ✓ | ✓ |
 | ɥ | 10 | ✓ | ✓ |
-| ɾʷ | 10 | ✓ | ✓ |
-| ʃʰʷ | 10 | ✓ | ✓ |
+| ɾˠ | 10 | ✓ | ✓ |
 | ʣ | 10 | ✓ | ✓ |
-| ʤʰ | 10 | ✓ | ✓ |
-| ʷ | 10 | ? | ? |
 | sʲ | 9 | ✓ | ✓ |
 | ue | 9 | ✓ | ✓ |
-| ³⁴ | 9 | ✓ | ✓ |
 | ɓ | 9 | ✓ | ✓ |
-| ⁿd | 9 | ✓ | ✓ |
 | ãː | 8 | ✓ | ✓ |
-| iɪ | 8 | ✓ | ✓ |
-| t̪ˠ | 8 | ✓ | ✓ |
-| ua | 8 | ✓ | ✓ |
-| ĩ | 8 | ✓ | ✓ |
 | wɑ | 7 | ? | ? |
 | œ̃ | 7 | ✓ | ✓ |
-| ⁵² | 7 | ✓ | ✓ |
 | ã | 6 | ✓ | ✓ |
-| d̪ˠ | 6 | ✓ | ✓ |
-| gʲ | 6 | ✓ | ✓ |
 | mʲ | 6 | ✓ | ✓ |
-| ɯ̃ː | 6 | ✓ | ✓ |
+| tʃʰʷ | 5 | ✓ | ✓ |
 | u: | 5 | ✓ | ✓ |
 | vʲ | 5 | ✓ | ✓ |
-| ɦ | 5 | ✓ | ✓ |
-| ̃ | 5 | ? | ? |
-| iɤ | 4 | ✓ | ✓ |
+| ɾʷ | 5 | ✓ | ✓ |
+| ʃʷ | 5 | ✓ | ✓ |
+| ʷɾ | 5 | ✓ | ✓ |
 | mː | 4 | ✓ | ✓ |
-| nˠ | 4 | ✓ | ✓ |
 | oɪ | 4 | ✓ | ✓ |
 | pʲ | 4 | ✓ | ✓ |
 | tʃʲ | 4 | ✓ | ✓ |
 | zˠ | 4 | ✓ | ✓ |
-| ŋ̍ | 4 | ✓ | ✓ |
 | ɔ̃ | 4 | ✓ | ✓ |
-| əe | 4 | ✓ | ✓ |
 | ʃʲ | 4 | ✓ | ✓ |
 | ʏ | 4 | ✓ | ✓ |
-| ʑ | 4 | ✓ | ✓ |
-| ᴀ | 4 | ✓ | ✓ |
-| tʃʰ | 3 | ✓ | ✓ |
-| dʰ | 2 | ✓ | ✓ |
+| dˠ | 2 | ✓ | ✓ |
 | ẽ | 2 | ✓ | ✓ |
 | sˤ | 2 | ✓ | ✓ |
 | ũ | 2 | ✓ | ✓ |
 | ɗ | 2 | ✓ | ✓ |
-| ɽ | 2 | ✓ | ✓ |
 | ʊ̃ | 2 | ✓ | ✓ |
-| ̯ | 2 | ? | ? |
-| | 1 | ✓ | ✓ |
-| eiː | 1 | ✓ | ✓ |
 | ie | 1 | ✓ | ✓ |
 | k̊ | 1 | ✓ | ✓ |
 | nː | 1 | ✓ | ✓ |
 | n̊ | 1 | ✓ | ✓ |
 | rˤ | 1 | ✓ | ✓ |
 | wi | 1 | ? | ? |
-| ã | 1 | ✓ | ✓ |
-| ãː | 1 | ✓ | ✓ |
 | æ̃ | 1 | ✓ | ✓ |
 | ɳ | 1 | ✓ | ✓ |
-| ɾˠ | 1 | ✓ | ✓ |
+| ɽ | 1 | ✓ | ✓ |
 | ʂ̊ | 1 | ✓ | ✓ |
 
-(211 rows)
+(224 rows)
 
 
 
@@ -233,15 +246,43 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------|:-----------|:-------------|:-------------------------|:-------------------------------------------------------------|
-| Assamese-eightyfive-1 | Assamese | eightyfive | pɔ̃tʃ axi | p ɔ <s> ̃ </s> tʃ + a x i |
-| Assamese-eightyfour-1 | Assamese | eightyfour | sɔu̯r axi | s ɔ u <s> ̯ </s> r + a x i |
-| Assamese-fiftyeight-1 | Assamese | fiftyeight | atʰ  anɔ | a tʰ + <s>  </s> + a n ɔ |
-| Assamese-fortyfive-1 | Assamese | fortyfive | pɔ̃ja tallis | p ɔ <s> ̃ </s> j a + t a l l i s |
-| Assamese-ninetyfive-1 | Assamese | ninetyfive | pɔ̃tʃ anɔbɔi | p ɔ <s> ̃ </s> tʃ + a n ɔ b ɔ i |
-| Assamese-ninetyfour-1 | Assamese | ninetyfour | sɔu̯r anɔbɔi | s ɔ u <s> ̯ </s> r + a n ɔ b ɔ i |
-| Assamese-seventyfive-1 | Assamese | seventyfive | pɔ̃tʃ atɔr | p ɔ <s> ̃ </s> tʃ + a t ɔ r |
-| Assamese-sixtyfive-1 | Assamese | sixtyfive | pɔ̃ja xtʰi | p ɔ <s> ̃ </s> j a + x tʰ i |
+|:-----------------------|:-----------|:-------------|:------------------------|:--------------------------------------------------------|
+| Burmese-eightyseven-1 | Burmese | eightyseven | ʃɪʔsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ | ʃ ɪ ʔ + sʰ ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-eightythree-1 | Burmese | eightythree | ʃɪʔsʰɛ̰θóʊɰ̃ | ʃ ɪ ʔ + sʰ ɛ̰ + θ <s> óʊɰ̃ </s> |
+| Burmese-fiftyseven-1 | Burmese | fiftyseven | ŋázɛ̰kʰʊ̀ɰ̃n̥ɪʔ | ŋ á + z ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-fiftythree-1 | Burmese | fiftythree | ŋázɛ̰θóʊɰ̃ | ŋ á + z ɛ̰ + θ <s> óʊɰ̃ </s> |
+| Burmese-fortyseven-1 | Burmese | fortyseven | lézɛ̰kʰʊ̀ɰ̃n̥ɪʔ | l é + z ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-fortythree-1 | Burmese | fortythree | lézɛ̰θóʊɰ̃ | l é + z ɛ̰ + θ <s> óʊɰ̃ </s> |
+| Burmese-ninetyseven-1 | Burmese | ninetyseven | kózɛ̰kʰʊ̀ɰ̃n̥ɪʔ | k ó + z ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-ninetythree-1 | Burmese | ninetythree | kózɛ̰θóʊɰ̃ | k ó + z ɛ̰ + θ <s> óʊɰ̃ </s> |
+| Burmese-seven-1 | Burmese | seven | kʰʊ̀ɰ̃n̥ɪʔ | kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-seventeen-1 | Burmese | seventeen | sʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ | sʰ ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-seventy-1 | Burmese | seventy | kʰʊ̀ɰ̃n̥əsʰɛ́ | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ́ |
+| Burmese-seventyeight-1 | Burmese | seventyeight | kʰʊ̀ɰ̃n̥əsʰɛ̰ʃɪʔ | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ̰ + ʃ ɪ ʔ |
+| Burmese-seventyfive-1 | Burmese | seventyfive | kʰʊ̀ɰ̃n̥əsʰɛ̰ŋá | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ̰ + ŋ á |
+| Burmese-seventyfour-1 | Burmese | seventyfour | kʰʊ̀ɰ̃n̥əsʰɛ̰lé | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ̰ + l é |
+| Burmese-seventynine-1 | Burmese | seventynine | kʰʊ̀ɰ̃n̥əsʰɛ̰kó | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ̰ + k ó |
+| Burmese-seventyone-1 | Burmese | seventyone | kʰʊ̀ɰ̃n̥əsʰɛ̰tɪʔ | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ̰ + t ɪ ʔ |
+| Burmese-seventyseven-1 | Burmese | seventyseven | kʰʊ̀ɰ̃n̥əsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-seventysix-1 | Burmese | seventysix | kʰʊ̀ɰ̃n̥əsʰɛ̰tɕʰaʊʔ | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ̰ + tɕʰ aʊ ʔ |
+| Burmese-seventythree-1 | Burmese | seventythree | kʰʊ̀ɰ̃n̥əsʰɛ̰θóʊɰ̃ | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ̰ + θ <s> óʊɰ̃ </s> |
+| Burmese-seventytwo-1 | Burmese | seventytwo | kʰʊ̀ɰ̃n̥əsʰɛ̰n̥ɪʔ | kʰ <s> ʊ̀ɰ̃ </s> n̥ ə + sʰ ɛ̰ + n̥ ɪ ʔ |
+| Burmese-sixtyseven-1 | Burmese | sixtyseven | tɕʰaʊʔsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ | tɕʰ aʊ ʔ + sʰ ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-sixtythree-1 | Burmese | sixtythree | tɕʰaʊʔsʰɛ̰θóʊɰ̃ | tɕʰ aʊ ʔ + sʰ ɛ̰ + θ <s> óʊɰ̃ </s> |
+| Burmese-thirteen-1 | Burmese | thirteen | sʰɛ̰θóʊɰ̃ | sʰ ɛ̰ + θ <s> óʊɰ̃ </s> |
+| Burmese-thirty-1 | Burmese | thirty | θóʊɰ̃zɛ́ | θ <s> óʊɰ̃ </s> + z ɛ́ |
+| Burmese-thirtyeight-1 | Burmese | thirtyeight | θóʊɰ̃zɛ̰ʃɪʔ | θ <s> óʊɰ̃ </s> + z ɛ̰ + ʃ ɪ ʔ |
+| Burmese-thirtyfive-1 | Burmese | thirtyfive | θóʊɰ̃zɛ̰ŋá | θ <s> óʊɰ̃ </s> + z ɛ̰ + ŋ á |
+| Burmese-thirtyfour-1 | Burmese | thirtyfour | θóʊɰ̃zɛ̰lé | θ <s> óʊɰ̃ </s> + z ɛ̰ + l é |
+| Burmese-thirtynine-1 | Burmese | thirtynine | θóʊɰ̃zɛ̰kó | θ <s> óʊɰ̃ </s> + z ɛ̰ + k ó |
+| Burmese-thirtyone-1 | Burmese | thirtyone | θóʊɰ̃zɛ̰tɪʔ | θ <s> óʊɰ̃ </s> + z ɛ̰ + t ɪ ʔ |
+| Burmese-thirtyseven-1 | Burmese | thirtyseven | θóʊɰ̃zɛ̰kʰʊ̀ɰ̃n̥ɪʔ | θ <s> óʊɰ̃ </s> + z ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-thirtysix-1 | Burmese | thirtysix | θóʊɰ̃zɛ̰tɕʰaʊʔ | θ <s> óʊɰ̃ </s> + z ɛ̰ + tɕʰ aʊ ʔ |
+| Burmese-thirtythree-1 | Burmese | thirtythree | θóʊɰ̃zɛ̰θóʊɰ̃ | θ <s> óʊɰ̃ </s> + z ɛ̰ + θ <s> óʊɰ̃ </s> |
+| Burmese-thirtytwo-1 | Burmese | thirtytwo | θóʊɰ̃zɛ̰n̥ɪʔ | θ <s> óʊɰ̃ </s> + z ɛ̰ + n̥ ɪ ʔ |
+| Burmese-three-1 | Burmese | three | θóʊɰ̃ | θ <s> óʊɰ̃ </s> |
+| Burmese-twentyseven-1 | Burmese | twentyseven | n̥əsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ | n̥ ə + sʰ ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
+| Burmese-twentythree-1 | Burmese | twentythree | n̥əsʰɛ̰θóʊɰ̃ | n̥ ə + sʰ ɛ̰ + θ <s> óʊɰ̃ </s> |
 | French-eightythree-1 | French | eightythree | katʁəvɛ̃tʁwɑ | k a t ʁ ə + v ɛ̃ + t ʁ <s> wɑ </s> |
 | French-fiftythree-1 | French | fiftythree | sɛ̃kɑ̃tʁwɑ | s ɛ̃ k + ɑ̃ + t ʁ <s> wɑ </s> |
 | French-fortythree-1 | French | fortythree | kaʁɑ̃tʁwɑ | k a ʁ + ɑ̃ + t ʁ <s> wɑ </s> |
@@ -268,16 +309,6 @@
 | French-thirtythree-1 | French | thirtythree | tʁɑ̃ttʁwɑ | t ʁ + ɑ̃ t + t ʁ <s> wɑ </s> |
 | French-three-1 | French | three | tʁwɑ | t ʁ <s> wɑ </s> |
 | French-twentythree-1 | French | twentythree | vɛ̃tʁwɑ | v ɛ̃ t + t ʁ <s> wɑ </s> |
-| Georgian-eight-1 | Georgian | eight | rva | <s> ʷ </s> ɾʷ a + i |
-| Georgian-eighteen-1 | Georgian | eighteen | t-vra-met’-i | t + <s> ʷ </s> ɾʷ a + m e tʼ + i |
-| Georgian-eightyeight-1 | Georgian | eightyeight | otx-m-oc-da-rva | o tʰ χ + t + o t͡sʰ + d a + <s> ʷ </s> ɾʷ a + i |
-| Georgian-fiftyeight-1 | Georgian | fiftyeight | or-m-oc-da-t-vra-met’-i | o ɾ + t + o t͡sʰ + d a + t + <s> ʷ </s> ɾʷ a + m e tʼ + i |
-| Georgian-fortyeight-1 | Georgian | fortyeight | or-m-oc-da-rva | o ɾ + t + o t͡sʰ + d a + <s> ʷ </s> ɾʷ a + i |
-| Georgian-ninetyeight-1 | Georgian | ninetyeight | otx-m-oc-da-t-vra-met’-i | o tʰ χ + t + o t͡sʰ + d a + t + <s> ʷ </s> ɾʷ a + m e tʼ + i |
-| Georgian-seventyeight-1 | Georgian | seventyeight | sam-oc-da-t-vra-met’-i | s a m + t + o t͡sʰ + d a + t + <s> ʷ </s> ɾʷ a + m e tʼ + i |
-| Georgian-sixtyeight-1 | Georgian | sixtyeight | sam-oc-da-rva | s a m + t + o t͡sʰ + d a + <s> ʷ </s> ɾʷ a + i |
-| Georgian-thirtyeight-1 | Georgian | thirtyeight | oc-da-t-vra-met’-i | o t͡sʰ + d a + t + <s> ʷ </s> ɾʷ a + m e tʼ + i |
-| Georgian-twentyeight-1 | Georgian | twentyeight | oc-da-rva | o t͡sʰ + d a + <s> ʷ </s> ɾʷ a + i |
 | Italian-eightyfive-1 | Italian | eightyfive | ot:antat͡ʃinkwe | o tː + a n t a + t͡ʃ i n k <s> we </s> |
 | Italian-eightyfour-1 | Italian | eightyfour | kwat:ro | o tː + a n t a + k <s> wa </s> tː r o |
 | Italian-fifteen-1 | Italian | fifteen | kwindit͡ʃi | k <s> wi </s> n + d i t͡ʃ i |
@@ -307,32 +338,14 @@
 | Italian-twentyfive-1 | Italian | twentyfive | ventit͡ʃinkwe | v e n t i + t͡ʃ i n k <s> we </s> |
 | Italian-twentyfour-1 | Italian | twentyfour | ventikwatːro | v e n t i + k <s> wa </s> tː r o |
 | Spanish-eighteen-1 | Spanish | eighteen | djeθiotʃo | d <s> je </s> θ + i + o tʃ o |
-| Spanish-fiftyfour-1 | Spanish | fiftyfour | θiŋkwentaikwatɾo | θ i ŋ k w + e n t a + i + k <s> wa </s> t ɾ o |
-| Spanish-fiftynine-1 | Spanish | fiftynine | θiŋkwentainweβe | θ i ŋ k w + e n t a + i + n <s> we </s> β e |
-| Spanish-fiftyseven-1 | Spanish | fiftyseven | θiŋkwentaisjete | θ i ŋ k w + e n t a + i + s <s> je </s> t e |
-| Spanish-forty-1 | Spanish | forty | kwaɾenta | k <s> wa </s> ɾ + e n t a |
-| Spanish-fortyeight-1 | Spanish | fortyeight | kwaɾentajotʃo | k <s> wa </s> ɾ + e n t a + j + o tʃ o |
-| Spanish-fortyfive-1 | Spanish | fortyfive | kwaɾentaiθiŋko | k <s> wa </s> ɾ + e n t a + i + θ i ŋ k o |
-| Spanish-fortyfour-1 | Spanish | fortyfour | kwaɾentaikwatɾo | k <s> wa </s> ɾ + e n t a + i + k <s> wa </s> t ɾ o |
-| Spanish-fortynine-1 | Spanish | fortynine | kwaɾentainweβe | k <s> wa </s> ɾ + e n t a + i + n <s> we </s> β e |
-| Spanish-fortyone-1 | Spanish | fortyone | kwaɾentajuno | k <s> wa </s> ɾ + e n t a + j + u n + o |
-| Spanish-fortyseven-1 | Spanish | fortyseven | kwaɾentaisjete | k <s> wa </s> ɾ + e n t a + i + s <s> je </s> t e |
-| Spanish-fortysix-1 | Spanish | fortysix | kwaɾentaiseis | k <s> wa </s> ɾ + e n t a + i + s ei s |
-| Spanish-fortythree-1 | Spanish | fortythree | kwaɾentaitɾes | k <s> wa </s> ɾ + e n t a + i + t ɾ e s |
-| Spanish-fortytwo-1 | Spanish | fortytwo | kwaɾentaiðos | k <s> wa </s> ɾ + e n t a + i + ð o s |
 | Spanish-four-1 | Spanish | four | kwatɾo | k <s> wa </s> t ɾ o |
 | Spanish-nine-1 | Spanish | nine | nweβe | n <s> we </s> β e |
 | Spanish-nineteen-1 | Spanish | nineteen | djeθinweβe | d <s> je </s> θ + i + n <s> we </s> β e |
 | Spanish-seven-1 | Spanish | seven | sjete | s <s> je </s> t e |
 | Spanish-seventeen-1 | Spanish | seventeen | djeθisjete | d <s> je </s> θ + i + s <s> je </s> t e |
 | Spanish-sixteen-1 | Spanish | sixteen | djeθiseis | d <s> je </s> θ + i + s ei s |
-| Spanish-sixtyfour-1 | Spanish | sixtyfour | sesentaikwatɾo | s e s + e n t a + i + k <s> wa </s> t ɾ o |
 | Spanish-ten-1 | Spanish | ten | djeθ | d <s> je </s> θ |
-| Spanish-thirtyfour-1 | Spanish | thirtyfour | tɾeintaikwatɾo | t ɾ e + i n t a + i + k <s> wa </s> t ɾ o |
-| Spanish-thirtynine-1 | Spanish | thirtynine | tɾeintainweβe | t ɾ e + i n t a + i + n <s> we </s> β e |
-| Spanish-thirtyseven-1 | Spanish | thirtyseven | tɾeintaisjete | t ɾ e + i n t a + i + s <s> je </s> t e |
 | Spanish-twentyfour-1 | Spanish | twentyfour | beintikwatɾo | b ei n t + i + k <s> wa </s> t ɾ o |
-| Spanish-twentynine-1 | Spanish | twentynine | beintinweβe | b ei n t + i + n <s> we </s> β e |
 | Spanish-twentyseven-1 | Spanish | twentyseven | beintisjete | b ei n t + i + s <s> je </s> t e |
 
 (100 rows)
