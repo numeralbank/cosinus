@@ -1,5 +1,5 @@
 ID,Name,Glottocode,Sources,FileName,Base
-Sanskrit,Sanskrit,sans1269,Stenzler1915,sanskrit,10
+Sanskrit,Sanskrit,sans1269,Stenzler1915;deshpande1997samskrta,sanskrit,10
 German,German,stan1295,List2025,german,10
 Hindi,Hindi,hind1269,Hindi,hind1269,10
 Maltese,Maltese,malt1254,Maltese;Borg1997Maltese,maltese,10
@@ -39,7 +39,7 @@ Lishana_Deni,Lishana Deni,lish1247,Mutzafi2008LishanaDeni,lish1247,10
 Amharic,Amharic,amha1245,Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic,amha1245,10
 Barwar_Neo-Aramaic,Barwar Neo-Aramaic,assy1241,Khan2008,assy1241,10
 Iraqw,Iraqw,iraq1241,Mous1993,iraq1241,10
-Kumzari,kumz1235,uigh1240,WalAnonby2015,kumz1235,10
+Kumzari,Kumzari,uigh1240,WalAnonby2015,kumz1235,10
 Pashto,Pashto,pash1269,FoxTwist2014,pash1269,10
 Standard_Arabic,Standard Arabic,stan1318,Wright1997Arabic,stan1318,10
 Tigre,Tigre,tigr1270,Elias2014Tigre,tigr1270,10
@@ -49,3 +49,4 @@ Tommo_So,Tommo So,tomm1242,McPherson2013,tomm1242,10
 Burmese,Burmese,mand1476,Okell2002BurmeseByEar,mand1476,10
 Wolam,Wolam,wola1254,vanDam2026,wola1254,10
 Yiddish,Yiddish,east2295,Jacobs2005Yiddish,east2295,10
+Hungarian,Hungarian,hung1274,Hungarian2009Rounds,hung1274,10

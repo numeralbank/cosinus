@@ -12,30 +12,30 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF Dataset presenting Rubehn et al.'s \"Compositional Structures in Numeral Systems Across Languages\" from 2025",
-    "dcat:accessURL": "git@github.com:calc-project/numeral-annotation-study",
+    "dcat:accessURL": "https://github.com/numeralbank/cosinus/",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:calc-project/numeral-annotation-study",
+            "rdf:about": "https://github.com/numeralbank/cosinus/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-70-g07ad579",
+            "dc:created": "v1.1-150-ga257fd4",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "git@github.com:glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1",
+            "dc:created": "v4.8-43-g2dfc4be1ed",
             "dc:title": "Glottolog"
         },
         {
-            "rdf:about": "git@github.com:concepticon/concepticon-data",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.4.0-62-g339dff57",
+            "dc:created": "v3.2.0-12-g07b860f0",
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.3.0",
+            "dc:created": "v2.2.0-11-g6e60c1d",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.11"
+            "dc:description": "3.12.6"
         },
         {
             "dc:title": "python-packages",
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 3464,
+            "dc:extent": 4853,
             "tableSchema": {
                 "columns": [
                     {
@@ -186,7 +186,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 42,
+            "dc:extent": 45,
             "tableSchema": {
                 "columns": [
                     {

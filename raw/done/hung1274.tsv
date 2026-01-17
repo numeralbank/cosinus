@@ -1,0 +1,100 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
+1	Hungarian	one	egy	ɛɟː	ɛ ɟː	one	1		Hungarian2009Rounds
+2	Hungarian	two	kettő	kɛtːøː	k ɛ tː øː	two	2		Hungarian2009Rounds
+3	Hungarian	three	három	haːrom	h aː r o m	three	3		Hungarian2009Rounds
+4	Hungarian	four	négy	neːɟ	n eː ɟ	four	4		Hungarian2009Rounds
+5	Hungarian	five	öt	øt	ø t	five	5		Hungarian2009Rounds
+6	Hungarian	six	hat	hɒt	h ɒ t	six	6		Hungarian2009Rounds
+7	Hungarian	seven	hét	heːt	h eː t	seven	7		Hungarian2009Rounds
+8	Hungarian	eight	nyolc	ɲolts	ɲ o l ts	eight	8		Hungarian2009Rounds
+9	Hungarian	nine	kilenc	kilɛnts	k i l ɛ n ts	nine	9		Hungarian2009Rounds
+10	Hungarian	ten	tíz	tiːz	t iː z	ten	10		Hungarian2009Rounds
+11	Hungarian	eleven	tizenegy	tizɛnɛɟː	t i/iː z + ɛ n + ɛ ɟː	ten on one	10 11 1		Hungarian2009Rounds
+12	Hungarian	twelve	tizenkettő	tizɛŋkɛtːøː	t i/iː z + ɛ ŋ/n + k ɛ tː øː	ten on two	10 11 2		Hungarian2009Rounds
+13	Hungarian	thirteen	tizenhárom	tizɛnhaːrom	t i/iː z + ɛ n + h aː r o m	ten on three	10 11 3		Hungarian2009Rounds
+14	Hungarian	fourteen	tizennégy	tizɛnneːɟ	t i/iː z + ɛ n + n eː ɟ	ten on four	10 11 4		Hungarian2009Rounds
+15	Hungarian	fifteen	tizenöt	tizɛnøt	t i/iː z + ɛ n + ø t	ten on five	10 11 5		Hungarian2009Rounds
+16	Hungarian	sixteen	tizenhat	tizɛnhɒt	t i/iː z + ɛ n + h ɒ t	ten on six	10 11 6		Hungarian2009Rounds
+17	Hungarian	seventeen	tizenhét	tizɛnheːt	t i/iː z + ɛ n + h eː t	ten on seven	10 11 7		Hungarian2009Rounds
+18	Hungarian	eighteen	tizennyolc	tizɛɲɲolts	t i/iː z + ɛ ɲ/n + ɲ o l ts	ten on eight	10 11 8		Hungarian2009Rounds
+19	Hungarian	nineteen	tizenkilenc	tizɛŋkilɛnts	t i/iː z + ɛ ŋ/n + k i l ɛ n ts	ten on nine	10 11 9		Hungarian2009Rounds
+20	Hungarian	twenty	húsz	huːs	h uː s	twenty	20		Hungarian2009Rounds
+21	Hungarian	twenty one	huszonegy	husonɛɟː	h u/uː s + o/ɛ n + ɛ ɟː	twenty on one	20 11 1	vowel harmony of the suffix /-ɛn/	Hungarian2009Rounds
+22	Hungarian	twenty two	huszonkettő	husoŋkɛtːøː	h u/uː s + o/ɛ ŋ/n + k ɛ tː øː	twenty on two	20 11 2		Hungarian2009Rounds
+23	Hungarian	twenty three	huszonhárom	husonhaːrom	h u/uː s + o/ɛ n + h aː r o m	twenty on three	20 11 3		Hungarian2009Rounds
+24	Hungarian	twenty four	huszonnégy	husonneːɟ	h u/uː s + o/ɛ n + n eː ɟ	twenty on four	20 11 4		Hungarian2009Rounds
+25	Hungarian	twenty five	huszonöt	husonøt	h u/uː s + o/ɛ n + ø t	twenty on five	20 11 5		Hungarian2009Rounds
+26	Hungarian	twenty six	huszonhat	husonhɒt	h u/uː s + o/ɛ n + h ɒ t	twenty on six	20 11 6		Hungarian2009Rounds
+27	Hungarian	twenty seven	huszonhét	husonheːt	h u/uː s + o/ɛ n + h eː t	twenty on seven	20 11 7		Hungarian2009Rounds
+28	Hungarian	twenty eight	huszonnyolc	husoɲɲolts	h u/uː s + o/ɛ ɲ/n + ɲ o l ts	twenty on eight	20 11 8		Hungarian2009Rounds
+29	Hungarian	twenty nine	huszonkilenc	husoɲkilɛnts	h u/uː s + o/ɛ ŋ/n + k i l ɛ n ts	twenty on nine	20 11 9		Hungarian2009Rounds
+30	Hungarian	thirty	harminc	hɒrmints	h ɒ/aː r -/o m + i n ts	three ty1	3 12	after 29, the suffix /-ɛn/ is not used	Hungarian2009Rounds
+31	Hungarian	thirty one	harmincegy	hɒrmintsɛɟː	h ɒ/aː r -/o m + i n ts + ɛ ɟː	three ty1 one	3 12 1		Hungarian2009Rounds
+32	Hungarian	thirty two	harminckettő	hɒrmintskɛtːøː	h ɒ/aː r -/o m + i n ts + k ɛ tː øː	three ty1 two	3 12 2		Hungarian2009Rounds
+33	Hungarian	thirty three	harminchárom	hɒrmintshaːrom	h ɒ/aː r -/o m + i n ts + h aː r o m	three ty1 three	3 12 3		Hungarian2009Rounds
+34	Hungarian	thirty four	harmincnégy	hɒrmintsneːɟ	h ɒ/aː r -/o m + i n ts + n eː ɟ	three ty1 four	3 12 4		Hungarian2009Rounds
+35	Hungarian	thirty five	harmincöt	hɒrmintsøt	h ɒ/aː r -/o m + i n ts + ø t	three ty1 five	3 12 5		Hungarian2009Rounds
+36	Hungarian	thirty six	harminchat	hɒrmintshɒt	h ɒ/aː r -/o m + i n ts + h ɒ t	three ty1 six	3 12 6		Hungarian2009Rounds
+37	Hungarian	thirty seven	harminchét	hɒrmintsheːt	h ɒ/aː r -/o m + i n ts + h eː t	three ty1 seven	3 12 7		Hungarian2009Rounds
+38	Hungarian	thirty eight	harmincnyolc	hɒrmintsɲolts	h ɒ/aː r -/o m + i n ts + ɲ o l ts	three ty1 eight	3 12 8		Hungarian2009Rounds
+39	Hungarian	thirty nine	harminckilenc	hɒrmintskilɛnts	h ɒ/aː r -/o m + i n ts + k i l ɛ n ts	three ty1 nine	3 12 9		Hungarian2009Rounds
+40	Hungarian	forty	negyven	nɛɟvɛn	n ɛ/eː ɟ + v ɛ n	four ty2	4 13		Hungarian2009Rounds
+41	Hungarian	forty one	negyvenegy	nɛɟvɛnɛɟː	n ɛ/eː ɟ + v ɛ n + ɛ ɟː	four ty2 one	4 13 1		Hungarian2009Rounds
+42	Hungarian	forty two	negyvenkettő	nɛɟvɛŋkɛtːøː	n ɛ/eː ɟ + v ɛ ŋ/n + k ɛ tː øː	four ty2 two	4 13 2		Hungarian2009Rounds
+43	Hungarian	forty three	negyvenhárom	nɛɟvɛnhaːrom	n ɛ/eː ɟ + v ɛ n + h aː r o m	four ty2 three	4 13 3		Hungarian2009Rounds
+44	Hungarian	forty four	negyvennégy	nɛɟvɛnneːɟ	n ɛ/eː ɟ + v ɛ n + n eː ɟ	four ty2 four	4 13 4		Hungarian2009Rounds
+45	Hungarian	forty five	negyvenöt	nɛɟvɛnøt	n ɛ/eː ɟ + v ɛ n + ø t	four ty2 five	4 13 5		Hungarian2009Rounds
+46	Hungarian	forty six	negyvenhat	nɛɟvɛnhɒt	n ɛ/eː ɟ + v ɛ n + h ɒ t	four ty2 six	4 13 6		Hungarian2009Rounds
+47	Hungarian	forty seven	negyvenhét	nɛɟvɛnheːt	n ɛ/eː ɟ + v ɛ n + h eː t	four ty2 seven	4 13 7		Hungarian2009Rounds
+48	Hungarian	forty eight	negyvennyolc	nɛɟvɛɲɲolts	n ɛ/eː ɟ + v ɛ ɲ/n + ɲ o l ts	four ty2 eight	4 13 8		Hungarian2009Rounds
+49	Hungarian	forty nine	negyvenkilenc	nɛɟvɛŋkilɛnts	n ɛ/eː ɟ + v ɛ ŋ/n + k i l ɛ n ts	four ty2 nine	4 13 9		Hungarian2009Rounds
+50	Hungarian	fifty	ötven	øtvɛn	ø t + v ɛ n	five ty2	5 13		Hungarian2009Rounds
+51	Hungarian	fifty one	ötvenegy	øtvɛnɛɟː	ø t + v ɛ n + ɛ ɟː	five ty2 one	5 13 1		Hungarian2009Rounds
+52	Hungarian	fifty two	ötvenkettő	øtvɛŋkɛtːøː	ø t + v ɛ ŋ/n + k ɛ tː øː	five ty2 two	5 13 2		Hungarian2009Rounds
+53	Hungarian	fifty three	ötvenhárom	øtvɛnhaːrom	ø t + v ɛ n + h aː r o m	five ty2 three	5 13 3		Hungarian2009Rounds
+54	Hungarian	fifty four	ötvennégy	øtvɛnneːɟ	ø t + v ɛ n + n eː ɟ	five ty2 four	5 13 4		Hungarian2009Rounds
+55	Hungarian	fifty five	ötvenöt	øtvɛnøt	ø t + v ɛ n + ø t	five ty2 five	5 13 5		Hungarian2009Rounds
+56	Hungarian	fifty six	ötvenhat	øtvɛnhɒt	ø t + v ɛ n + h ɒ t	five ty2 six	5 13 6		Hungarian2009Rounds
+57	Hungarian	fifty seven	ötvenhét	øtvɛnheːt	ø t + v ɛ n + h eː t	five ty2 seven	5 13 7		Hungarian2009Rounds
+58	Hungarian	fifty eight	ötvennyolc	øtvɛɲɲolts	ø t + v ɛ ɲ/n + ɲ o l ts	five ty2 eight	5 13 8		Hungarian2009Rounds
+59	Hungarian	fifty nine	ötvenkilenc	øtvɛŋkilɛnts	ø t + v ɛ ŋ/n + k i l ɛ n ts	five ty2 nine	5 13 9		Hungarian2009Rounds
+60	Hungarian	sixty	hatvan	hɒtvɒn	h ɒ t + v ɒ/ɛ n	six ty2	6 13		Hungarian2009Rounds
+61	Hungarian	sixty one	hatvanegy	hɒtvɒnɛɟː	h ɒ t + v ɒ/ɛ n + ɛ ɟː	six ty2 one	6 13 1		Hungarian2009Rounds
+62	Hungarian	sixty two	hatvankettő	hɒtvɒŋkɛtːøː	h ɒ t + v ɒ/ɛ ŋ/n + k ɛ tː øː	six ty2 two	6 13 2		Hungarian2009Rounds
+63	Hungarian	sixty three	hatvanhárom	hɒtvɒnhaːrom	h ɒ t + v ɒ/ɛ n + h aː r o m	six ty2 three	6 13 3		Hungarian2009Rounds
+64	Hungarian	sixty four	hatvannégy	hɒtvɒnneːɟ	h ɒ t + v ɒ/ɛ n + n eː ɟ	six ty2 four	6 13 4		Hungarian2009Rounds
+65	Hungarian	sixty five	hatvanöt	hɒtvɒnøt	h ɒ t + v ɒ/ɛ n + ø t	six ty2 five	6 13 5		Hungarian2009Rounds
+66	Hungarian	sixty six	hatvanhat	hɒtvɒnhɒt	h ɒ t + v ɒ/ɛ n + h ɒ t	six ty2 six	6 13 6		Hungarian2009Rounds
+67	Hungarian	sixty seven	hatvanhét	hɒtvɒnheːt	h ɒ t + v ɒ/ɛ n + h eː t	six ty2 seven	6 13 7		Hungarian2009Rounds
+68	Hungarian	sixty eight	hatvannyolc	hɒtvɒɲɲolts	h ɒ t + v ɒ/ɛ ɲ/n + ɲ o l ts	six ty2 eight	6 13 8		Hungarian2009Rounds
+69	Hungarian	sixty nine	hatvankilenc	hɒtvɒŋkilɛnts	h ɒ t + v ɒ/ɛ ŋ/n + k i l ɛ n ts	six ty2 nine	6 13 9		Hungarian2009Rounds
+70	Hungarian	seventy	hetven	hɛtvɛn	h ɛ/eː t + v ɛ n	seven ty2	7 13		Hungarian2009Rounds
+71	Hungarian	seventy one	hetvenegy	hɛtvɛnɛɟː	h ɛ/eː t + v ɛ n + ɛ ɟː	seven ty2 one	7 13 1		Hungarian2009Rounds
+72	Hungarian	seventy two	hetvenkettő	hɛtvɛŋkɛtːøː	h ɛ/eː t + v ɛ ŋ/n + k ɛ tː øː	seven ty2 two	7 13 2		Hungarian2009Rounds
+73	Hungarian	seventy three	hetvenhárom	hɛtvɛnhaːrom	h ɛ/eː t + v ɛ n + h aː r o m	seven ty2 three	7 13 3		Hungarian2009Rounds
+74	Hungarian	seventy four	hetvennégy	hɛtvɛnneːɟ	h ɛ/eː t + v ɛ n + n eː ɟ	seven ty2 four	7 13 4		Hungarian2009Rounds
+75	Hungarian	seventy five	hetvenöt	hɛtvɛnøt	h ɛ/eː t + v ɛ n + ø t	seven ty2 five	7 13 5		Hungarian2009Rounds
+76	Hungarian	seventy six	hetvenhat	hɛtvɛnhɒt	h ɛ/eː t + v ɛ n + h ɒ t	seven ty2 six	7 13 6		Hungarian2009Rounds
+77	Hungarian	seventy seven	hetvenhét	hɛtvɛnheːt	h ɛ/eː t + v ɛ n + h eː t	seven ty2 seven	7 13 7		Hungarian2009Rounds
+78	Hungarian	seventy eight	hetvennyolc	hɛtvɛɲɲolts	h ɛ/eː t + v ɛ ɲ/n + ɲ o l ts	seven ty2 eight	7 13 8		Hungarian2009Rounds
+79	Hungarian	seventy nine	hetvenkilenc	hɛtvɛŋkilɛnts	h ɛ/eː t + v ɛ ŋ/n + k i l ɛ n ts	seven ty2 nine	7 13 9		Hungarian2009Rounds
+80	Hungarian	eighty	nyolcvan	ɲoltsvɒn	ɲ o l ts + v ɒ/ɛ n	eight ty2	8 13		Hungarian2009Rounds
+81	Hungarian	eighty one	nyolvanegy	ɲoltsvɒnɛɟː	ɲ o l ts + v ɒ/ɛ n + ɛ ɟː	eight ty2 one	8 13 1		Hungarian2009Rounds
+82	Hungarian	eighty two	nyolvankettő	ɲoltsvɒŋkɛtːøː	ɲ o l ts + v ɒ/ɛ ŋ/n + k ɛ tː øː	eight ty2 two	8 13 2		Hungarian2009Rounds
+83	Hungarian	eighty three	nyolvanhárom	ɲoltsvɒnhaːrom	ɲ o l ts + v ɒ/ɛ n + h aː r o m	eight ty2 three	8 13 3		Hungarian2009Rounds
+84	Hungarian	eighty four	nyolvannégy	ɲoltsvɒnneːɟ	ɲ o l ts + v ɒ/ɛ n + n eː ɟ	eight ty2 four	8 13 4		Hungarian2009Rounds
+85	Hungarian	eighty five	nyolvanöt	ɲoltsvɒnøt	ɲ o l ts + v ɒ/ɛ n + ø t	eight ty2 five	8 13 5		Hungarian2009Rounds
+86	Hungarian	eighty six	nyolvanhat	ɲoltsvɒnhɒt	ɲ o l ts + v ɒ/ɛ n + h ɒ t	eight ty2 six	8 13 6		Hungarian2009Rounds
+87	Hungarian	eighty seven	nyolvanhét	ɲoltsvɒnheːt	ɲ o l ts + v ɒ/ɛ n + h eː t	eight ty2 seven	8 13 7		Hungarian2009Rounds
+88	Hungarian	eighty eight	nyolvannyolc	ɲoltsvɒɲɲolts	ɲ o l ts + v ɒ/ɛ ɲ/n + ɲ o l ts	eight ty2 eight	8 13 8		Hungarian2009Rounds
+89	Hungarian	eighty nine	nyolvankilenc	ɲoltsvɒŋkilɛnts	ɲ o l ts + v ɒ/ɛ ŋ/n + k i l ɛ n ts	eight ty2 nine	8 13 9		Hungarian2009Rounds
+90	Hungarian	ninety	kilencven	kilɛntsvɛn	k i l ɛ n ts + v ɛ n	nine ty2	9 13		Hungarian2009Rounds
+91	Hungarian	ninety one	kilencvenegy	kilɛntsvɛnɛɟː	k i l ɛ n ts + v ɛ n + ɛ ɟː	nine ty2 one	9 13 1		Hungarian2009Rounds
+92	Hungarian	ninety two	kilencvenkettő	kilɛntsvɛŋkɛtːøː	k i l ɛ n ts + v ɛ ŋ/n + k ɛ tː øː	nine ty2 two	9 13 2		Hungarian2009Rounds
+93	Hungarian	ninety three	kilencvenhárom	kilɛntsvɛnhaːrom	k i l ɛ n ts + v ɛ n + h aː r o m	nine ty2 three	9 13 3		Hungarian2009Rounds
+94	Hungarian	ninety four	kilencvennégy	kilɛntsvɛnneːɟ	k i l ɛ n ts + v ɛ n + n eː ɟ	nine ty2 four	9 13 4		Hungarian2009Rounds
+95	Hungarian	ninety five	kilencvenöt	kilɛntsvɛnøt	k i l ɛ n ts + v ɛ n + ø t	nine ty2 five	9 13 5		Hungarian2009Rounds
+96	Hungarian	ninety six	kilencvenhat	kilɛntsvɛnhɒt	k i l ɛ n ts + v ɛ n + h ɒ t	nine ty2 six	9 13 6		Hungarian2009Rounds
+97	Hungarian	ninety seven	kilencvenhét	kilɛntsvɛnheːt	k i l ɛ n ts + v ɛ n + h eː t	nine ty2 seven	9 13 7		Hungarian2009Rounds
+98	Hungarian	ninety eight	kilencvennyolc	kilɛntsvɛɲɲolts	k i l ɛ n ts + v ɛ ɲ/n + ɲ o l ts	nine ty2 eight	9 13 8		Hungarian2009Rounds
+99	Hungarian	ninety nine	kilencvenkilenc	kilɛntsvɛŋkilɛnts	k i l ɛ n ts + v ɛ ŋ/n + k i l ɛ n ts	nine ty2 nine	9 13 9		Hungarian2009Rounds

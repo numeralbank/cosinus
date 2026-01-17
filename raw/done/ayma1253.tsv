@@ -7,7 +7,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 6	Aymara	six	suxta	suχta	s u χ t a	7	six	Aymara1[42] Aymara2[175-176] Aymara3	
 7	Aymara	seven	paqallqu	paqaʎqu	p a q a ʎ q u	10	seven	Aymara1[42] Aymara2[175-176] Aymara3	Aymara qaʎqu is an old root for 'five' (Aymara6[191])
 8	Aymara	eight	kimsaqallqu	kimsaqaʎqu	k i m s a q a ʎ q u	14	eight	Aymara1[42] Aymara2[175-176] Aymara3	
-9	Aymara	nine	llätunka	ʎaːtunka	ʎ aː t u n k a	9 5	nine	Aymara1[42] Aymara2[175-176] Aymara3	Nine' was literally 'nearly ten' (Aymara6[191])
+9	Aymara	nine	llätunka	ʎaːtunka	ʎ aː t u n k a	9	nine	Aymara1[42] Aymara2[175-176] Aymara3	Nine' was literally 'nearly ten' (Aymara6[191])
 10	Aymara	ten	tunka	tunka	t u n k a	5	ten	Aymara1[42] Aymara2[175-176] Aymara3	
 11	Aymara	eleven	tunka mayani	tunka majani	t u n k a + m a j a + n i	5 2 13	ten one ENUMERATOR	Aymara1[42] Aymara2[175-176] Aymara3	The suffix -ni is used to count and to form numbers. It is labeled enumerador ('enumerator') in Aymara2[205-206]
 12	Aymara	twelve	tunka payani	tunka pajani	t u n k a + p a j a + n i	5 3 13	ten two ENUMERATOR	Aymara1[42] Aymara3	
@@ -69,7 +69,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 68	Aymara	sixty eight	suxta tunka kimsaqallquni	suχta tunka kimsaqaʎquni	s u χ t a + t u n k a + k i m s a q a ʎ q u + n i	7 5 14 13	six ten eight ENUMERATOR	Aymara3	
 69	Aymara	sixty nine	suxta tunka llätunkani	suχta tunka ʎaːtunkani	s u χ t a + t u n k a + ʎ aː t u n k a + n i	7 5 9 13	six ten nine ENUMERATOR	Aymara3	
 70	Aymara	seventy	paqallqu tunka	paqaʎqu tunka	p a q a ʎ q u + t u n k a	10 5	seven ten	Aymara3	
-71	Aymara	seventy one	paqallqu tunka mayani	paqaʎqu tunka majani	p a q a ʎ q u + t u n k a + m a j a + n i	10 5 5 13	seven ten one ENUMERATOR	Aymara3	
+71	Aymara	seventy one	paqallqu tunka mayani	paqaʎqu tunka majani	p a q a ʎ q u + t u n k a + m a j a + n i	10 5 2 13	seven ten one ENUMERATOR	Aymara3
 72	Aymara	seventy two	paqallqu tunka payani	paqaʎqu tunka pajani	p a q a ʎ q u + t u n k a + p a j a + n i	10 5 3 13	seven ten two ENUMERATOR	Aymara3	
 73	Aymara	seventy three	paqallqu tunka kimsani	paqaʎqu tunka kimsani	p a q a ʎ q u + t u n k a + k i m s a + n i	10 5 1 13	seven ten three ENUMERATOR	Aymara3	
 74	Aymara	seventy four	paqallqu tunka pusini	paqaʎqu tunka pusini	p a q a ʎ q u + t u n k a + p u s i + n i	10 5 8 13	seven ten four ENUMERATOR	Aymara3	
@@ -79,7 +79,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 78	Aymara	seventy eight	paqallqu tunka kimsaqallquni	paqaʎqu tunka kimsaqaʎquni	p a q a ʎ q u + t u n k a + k i m s a q a ʎ q u + n i	10 5 14 13	seven ten eight ENUMERATOR	Aymara3	
 79	Aymara	seventy nine	paqallqu tunka llätunkani	paqaʎqu tunka ʎaːtunkani	p a q a ʎ q u + t u n k a + ʎ aː t u n k a + n i	10 5 9 13	seven ten nine ENUMERATOR	Aymara3	
 80	Aymara	eighty	kimsaqallqu tunka	kimsaqaʎqu tunka	k i m s a q a ʎ q u + t u n k a	14 5	eight ten	Aymara3	
-81	Aymara	eighty one	kimsaqallqu tunka mayani	kimsaqaʎqu tunka majani	k i m s a q a ʎ q u + t u n k a + m a j a + n i	14 5 5 13	eight ten one ENUMERATOR	Aymara3	
+81	Aymara	eighty one	kimsaqallqu tunka mayani	kimsaqaʎqu tunka majani	k i m s a q a ʎ q u + t u n k a + m a j a + n i	14 5 2 13	eight ten one ENUMERATOR	Aymara3
 82	Aymara	eighty two	kimsaqallqu tunka payani	kimsaqaʎqu tunka pajani	k i m s a q a ʎ q u + t u n k a + p a j a + n i	14 5 3 13	eight ten two ENUMERATOR	Aymara3	
 83	Aymara	eighty three	kimsaqallqu tunka kimsani	kimsaqaʎqu tunka kimsani	k i m s a q a ʎ q u + t u n k a + k i m s a + n i	14 5 1 13	eight ten three ENUMERATOR	Aymara3	
 84	Aymara	eighty four	kimsaqallqu tunka pusini	kimsaqaʎqu tunka pusini	k i m s a q a ʎ q u + t u n k a + p u s i + n i	14 5 8 13	eight ten four ENUMERATOR	Aymara3	
@@ -89,7 +89,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 88	Aymara	eighty eight	kimsaqallqu tunka kimsaqallquni	kimsaqaʎqu tunka kimsaqaʎquni	k i m s a q a ʎ q u + t u n k a + k i m s a q a ʎ q u + n i	14 5 14 13	eight ten eight ENUMERATOR	Aymara3	
 89	Aymara	eighty nine	kimsaqallqu tunka llätunkani	kimsaqaʎqu tunka ʎaːtunkani	k i m s a q a ʎ q u + t u n k a + ʎ aː t u n k a + n i	14 5 9 13	eight ten nine ENUMERATOR	Aymara3	
 90	Aymara	ninety	llätunka tunka	ʎaːtunka tunka	ʎ aː t u n k a + t u n k a	9 5	nine ten	Aymara3	
-91	Aymara	ninety one	llätunka tunka mayani	ʎaːtunka tunka majani	ʎ aː t u n k a + t u n k a + m a j a + n i	9 5 5 13	nine ten one ENUMERATOR	Aymara3	
+91	Aymara	ninety one	llätunka tunka mayani	ʎaːtunka tunka majani	ʎ aː t u n k a + t u n k a + m a j a + n i	9 5 2 13	nine ten one ENUMERATOR	Aymara3
 92	Aymara	ninety two	llätunka tunka payani	ʎaːtunka tunka pajani	ʎ aː t u n k a + t u n k a + p a j a + n i	9 5 3 13	nine ten two ENUMERATOR	Aymara3	
 93	Aymara	ninety three	llätunka tunka kimsani	ʎaːtunka tunka kimsani	ʎ aː t u n k a + t u n k a + k i m s a + n i	9 5 1 13	nine ten three ENUMERATOR	Aymara3	
 94	Aymara	ninety four	llätunka tunka pusini	ʎaːtunka tunka pusini	ʎ aː t u n k a + t u n k a + p u s i + n i	9 5 8 13	nine ten four ENUMERATOR	Aymara3	
@@ -97,26 +97,4 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
 96	Aymara	ninety six	llätunka tunka suxtani	ʎaːtunka tunka suχtani	ʎ aː t u n k a + t u n k a + s u χ t a + n i	9 5 7 13	nine ten six ENUMERATOR	Aymara3	
 97	Aymara	ninety seven	llätunka tunka paqallquni	ʎaːtunka tunka paqaʎquni	ʎ aː t u n k a + t u n k a + p a q a ʎ q u + n i	9 5 10 13	nine ten seven ENUMERATOR	Aymara3	
 98	Aymara	ninety eight	llätunka tunka kimsaqallquni	ʎaːtunka tunka kimsaqaʎquni	ʎ aː t u n k a + t u n k a + k i m s a q a ʎ q u + n i	9 5 14 13	nine ten eight ENUMERATOR	Aymara3	
-99	Aymara	ninety nine	llätunka tunka llätunkani	ʎaːtunka tunka ʎaːtunkani	ʎ aː t u n k a + t u n k a + ʎ aː t u n k a + n i	9 5 9 13	nine ten nine ENUMERATOR	Aymara3	
-100	Aymara	hundred	pataka	pataka	p a t a k a	11	hundred	Aymara1[42] Aymara2[175]	
-#@highlight=TOKENS
-#@sampa=TOKENS
-#@css=menu:show|database:hide
-#@basics=COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTES|SOURCE|TOKENS|VALUE
-#@_selected_doculects=Aymara
-#@_selected_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty|forty one|forty two|forty three|forty four|forty five|forty six|forty seven|forty eight|forty nine|fifty|fifty one|fifty two|fifty three|fifty four|fifty five|fifty six|fifty seven|fifty eight|fifty nine|sixty|sixty one|sixty two|sixty three|sixty four|sixty five|sixty six|sixty seven|sixty eight|sixty nine|seventy|seventy one|seventy two|seventy three|seventy four|seventy five|seventy six|seventy seven|seventy eight|seventy nine|eighty|eighty one|eighty two|eighty three|eighty four|eighty five|eighty six|eighty seven|eighty eight|eighty nine|ninety|ninety one|ninety two|ninety three|ninety four|ninety five|ninety six|ninety seven|ninety eight|ninety nine|hundred
-#@sorted_taxa=Aymara
-#@sorted_concepts=one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|twenty one|twenty two|twenty three|twenty four|twenty five|twenty six|twenty seven|twenty eight|twenty nine|thirty|thirty one|thirty two|thirty three|thirty four|thirty five|thirty six|thirty seven|thirty eight|thirty nine|forty|forty one|forty two|forty three|forty four|forty five|forty six|forty seven|forty eight|forty nine|fifty|fifty one|fifty two|fifty three|fifty four|fifty five|fifty six|fifty seven|fifty eight|fifty nine|sixty|sixty one|sixty two|sixty three|sixty four|sixty five|sixty six|sixty seven|sixty eight|sixty nine|seventy|seventy one|seventy two|seventy three|seventy four|seventy five|seventy six|seventy seven|seventy eight|seventy nine|eighty|eighty one|eighty two|eighty three|eighty four|eighty five|eighty six|eighty seven|eighty eight|eighty nine|ninety|ninety one|ninety two|ninety three|ninety four|ninety five|ninety six|ninety seven|ninety eight|ninety nine|hundred
-#@display=filedisplay|settings
-#@missing_marker=Ø
-#@separator=	
-#@gap_marker=-
-#@formatter=false
-#@root_formatter=COGIDS
-#@note_formatter=NOTES
-#@pattern_formatter=undefined
-#@publish=undefined
-#@_almcol=ALIGNMENT
-#@filename=aymara - ayma1253.tsv
-#@navbar=true
-#@_morphology_mode=full
+99	Aymara	ninety nine	llätunka tunka llätunkani	ʎaːtunka tunka ʎaːtunkani	ʎ aː t u n k a + t u n k a + ʎ aː t u n k a + n i	9 5 9 13	nine ten nine ENUMERATOR	Aymara3
