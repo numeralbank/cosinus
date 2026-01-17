@@ -27,24 +27,25 @@ def underlying(segments):
 class CustomLanguage(pylexibank.Language):
     Sources = attr.ib(default=None)
     FileName = attr.ib(default=None)
-    Base = attr.ib(default=None, metadata={"format": "integer"})
+    Base = attr.ib(default=None, metadata={"format": "string"})
 
 @attr.s
 class CustomConcept(pylexibank.Concept):
-    Number = attr.ib(default=None, metadata={"format": "integer"})
+    Number = attr.ib(default=None, metadata={"format": "string"})
+    NumberValue = attr.ib(default=None, metadata={"datatype": "integer"})
 
 
 @attr.s
 class CustomLexeme(pylexibank.Lexeme):
-    Morphemes = attr.ib(default=None, metadata={"format": "string",
+    Morphemes = attr.ib(default=None, metadata={"datatype": "string",
                                                 "separator": " "})
-    Cognates = attr.ib(default=None, metadata={"format": "integer",
+    Cognates = attr.ib(default=None, metadata={"datatype": "integer",
                                                "separator": " "})
-    Surface_Form = attr.ib(default=None, metadata={"format": "string",
+    Surface_Form = attr.ib(default=None, metadata={"datatype": "string",
                                                        "separator": " + "})
-    Underlying_Form = attr.ib(default=None, metadata={"format": "string",
+    Underlying_Form = attr.ib(default=None, metadata={"datatype": "string",
                                                        "separator": " + "})
-    Tokens = attr.ib(default=None, metadata={"format": "string", "separator": " "})
+    Tokens = attr.ib(default=None, metadata={"datatype": "string", "separator": " "})
 
 
 class Dataset(pylexibank.Dataset):
@@ -71,6 +72,7 @@ class Dataset(pylexibank.Dataset):
                 ID=slug(concept["GLOSS"]),
                 Name=concept["GLOSS"],
                 Number=concept["NUMBER"],
+                NumberValue=concept["NUMBER"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
             )
@@ -97,7 +99,7 @@ class Dataset(pylexibank.Dataset):
                     error_header = f"An error occurred while processing language {language}. Skipping language..."
                     error_msg = "\n\t\t".join([error_header] + errors)
                     args.log.error(error_msg)
-                    raise ValueError
+                    #raise ValueError
 
             for data in pylexibank.progressbar(table):
                 # we normalize tokens quickly to account for clts
