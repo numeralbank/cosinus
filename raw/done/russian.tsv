@@ -39,3 +39,62 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE
 38	Russian	thirty eight	тридцать восемь	tridtsatʲ+vosʲemʲ	t rʲ i + d/dʲ -/e ts/sʲ a tʲ + v o sʲ e mʲ	5 2 11	three ten eight	Mulisch1993
 39	Russian	thirty nine	тридцать девять	tridtsatʲ+dʲevʲatʲ	t rʲ i + d/dʲ -/e ts/sʲ a tʲ + dʲ e vʲ a tʲ	5 2 19	three ten nine	Mulisch1993
 40	Russian	forty	сорок	sorok	s o r o k	12	forty	Mulisch1993
+41	Russian	forty one	сорок один	sorok+odʲin	s o r o k + o dʲ i n	12 9	forty one	Mulisch1993
+42	Russian	forty two	сорок два	sorok+dva	s o r o k + d v a	12 4	forty two	Mulisch1993
+43	Russian	forty three	сорок три	sorok+trʲi	s o r o k + t rʲ i	12 5	forty three	Mulisch1993
+44	Russian	forty four	сорок четыре	sorok+tʃʲetɨrʲe	s o r o k + tʃʲ e t ɨ rʲ e	12 13	forty four	Mulisch1993
+45	Russian	forty five	сорок пять	sorok+pʲatʲ	s o r o k + pʲ a tʲ	12 7	forty five	Mulisch1993
+46	Russian	forty six	сорок шесть	sorok+ʃʲestʲ	s o r o k + ʃʲ e s tʲ	12 8	forty six	Mulisch1993
+47	Russian	forty seven	сорок семь	sorok+sʲemʲ	s o r o k + sʲ e mʲ	12 10	forty seven	Mulisch1993
+48	Russian	forty eight	сорок восемь	sorok+vosʲemʲ	s o r o k + v o sʲ e mʲ	12 11	forty eight	Mulisch1993
+49	Russian	forty nine	сорок девять	sorok+dʲevʲatʲ	s o r o k + dʲ e vʲ a tʲ	12 19	forty nine	Mulisch1993
+50	Russian	fifty	пятьдесят	pʲatʲdʲesʲatʲ	pʲ a tʲ + dʲ e sʲ a tʲ	7 2	five ten	Mulisch1993
+51	Russian	fifty one	пятьдесят один	pʲatʲdʲesʲatʲ+odʲin	pʲ a tʲ + dʲ e sʲ a tʲ + o dʲ i n	7 2 9	five ten one	Mulisch1993
+52	Russian	fifty two	пятьдесят два	pʲatʲdʲesʲatʲ+dva	pʲ a tʲ + dʲ e sʲ a tʲ + d v a	7 2 4	five ten two	Mulisch1993
+53	Russian	fifty three	пятьдесят три	pʲatʲdʲesʲatʲ+trʲi	pʲ a tʲ + dʲ e sʲ a tʲ + t rʲ i	7 2 5	five ten three	Mulisch1993
+54	Russian	fifty four	пятьдесят четыре	pʲatʲdʲesʲatʲ+tʃʲetɨrʲe	pʲ a tʲ + dʲ e sʲ a tʲ + tʃʲ e t ɨ rʲ e	7 2 13	five ten four	Mulisch1993
+55	Russian	fifty five	пятьдесят пять	pʲatʲdʲesʲatʲ+pʲatʲ	pʲ a tʲ + dʲ e sʲ a tʲ + pʲ a tʲ	7 2 7	five ten five	Mulisch1993
+56	Russian	fifty six	пятьдесят шесть	pʲatʲdʲesʲatʲ+ʃʲestʲ	pʲ a tʲ + dʲ e sʲ a tʲ + ʃʲ e s tʲ	7 2 8	five ten six	Mulisch1993
+57	Russian	fifty seven	пятьдесят семь	pʲatʲdʲesʲatʲ+sʲemʲ	pʲ a tʲ + dʲ e sʲ a tʲ + sʲ e mʲ	7 2 10	five ten seven	Mulisch1993
+58	Russian	fifty eight	пятьдесят восемь	pʲatʲdʲesʲatʲ+vosʲemʲ	pʲ a tʲ + dʲ e sʲ a tʲ + v o sʲ e mʲ	7 2 11	five ten eight	Mulisch1993
+59	Russian	fifty nine	пятьдесят девять	pʲatʲdʲesʲatʲ+dʲevʲatʲ	pʲ a tʲ + dʲ e sʲ a tʲ + dʲ e vʲ a tʲ	7 2 19	five ten nine	Mulisch1993
+60	Russian	sixty	шестьдесят	ʃʲestʲdʲesʲatʲ	ʃʲ e s tʲ + dʲ e sʲ a tʲ	8 2	six ten	Mulisch1993
+61	Russian	sixty one	шестьдесят один	ʃʲestʲdʲesʲatʲ+odʲin	ʃʲ e s tʲ + dʲ e sʲ a tʲ + o dʲ i n	8 2 9	six ten one	Mulisch1993
+62	Russian	sixty two	шестьдесят два	ʃʲestʲdʲesʲatʲ+dva	ʃʲ e s tʲ + dʲ e sʲ a tʲ + d v a	8 2 4	six ten two	Mulisch1993
+63	Russian	sixty three	шестьдесят три	ʃʲestʲdʲesʲatʲ+trʲi	ʃʲ e s tʲ + dʲ e sʲ a tʲ + t rʲ i	8 2 5	six ten three	Mulisch1993
+64	Russian	sixty four	шестьдесят четыре	ʃʲestʲdʲesʲatʲ+tʃʲetɨrʲe	ʃʲ e s tʲ + dʲ e sʲ a tʲ + tʃʲ e t ɨ rʲ e	8 2 13	six ten four	Mulisch1993
+65	Russian	sixty five	шестьдесят пять	ʃʲestʲdʲesʲatʲ+pʲatʲ	ʃʲ e s tʲ + dʲ e sʲ a tʲ + pʲ a tʲ	8 2 7	six ten five	Mulisch1993
+66	Russian	sixty six	шестьдесят шесть	ʃʲestʲdʲesʲatʲ+ʃʲestʲ	ʃʲ e s tʲ + dʲ e sʲ a tʲ + ʃʲ e s tʲ	8 2 8	six ten six	Mulisch1993
+67	Russian	sixty seven	шестьдесят семь	ʃʲestʲdʲesʲatʲ+sʲemʲ	ʃʲ e s tʲ + dʲ e sʲ a tʲ + sʲ e mʲ	8 2 10	six ten seven	Mulisch1993
+68	Russian	sixty eight	шестьдесят восемь	ʃʲestʲdʲesʲatʲ+vosʲemʲ	ʃʲ e s tʲ + dʲ e sʲ a tʲ + v o sʲ e mʲ	8 2 11	six ten eight	Mulisch1993
+69	Russian	sixty nine	шестьдесят девять	ʃʲestʲdʲesʲatʲ+dʲevʲatʲ	ʃʲ e s tʲ + dʲ e sʲ a tʲ + dʲ e vʲ a tʲ	8 2 19	six ten nine	Mulisch1993
+70	Russian	seventy	семьдесят	sʲemʲdʲesʲatʲ	sʲ e mʲ + dʲ e sʲ a tʲ	10 2	seven ten	Mulisch1993
+71	Russian	seventy one	семьдесят один	sʲemʲdʲesʲatʲ+odʲin	sʲ e mʲ + dʲ e sʲ a tʲ + o dʲ i n	10 2 9	seven ten one	Mulisch1993
+72	Russian	seventy two	семьдесят два	sʲemʲdʲesʲatʲ+dva	sʲ e mʲ + dʲ e sʲ a tʲ + d v a	10 2 4	seven ten two	Mulisch1993
+73	Russian	seventy three	семьдесят три	sʲemʲdʲesʲatʲ+trʲi	sʲ e mʲ + dʲ e sʲ a tʲ + t rʲ i	10 2 5	seven ten three	Mulisch1993
+74	Russian	seventy four	семьдесят четыре	sʲemʲdʲesʲatʲ+tʃʲetɨrʲe	sʲ e mʲ + dʲ e sʲ a tʲ + tʃʲ e t ɨ rʲ e	10 2 13	seven ten four	Mulisch1993
+75	Russian	seventy five	семьдесят пять	sʲemʲdʲesʲatʲ+pʲatʲ	sʲ e mʲ + dʲ e sʲ a tʲ + pʲ a tʲ	10 2 7	seven ten five	Mulisch1993
+76	Russian	seventy six	семьдесят шесть	sʲemʲdʲesʲatʲ+ʃʲestʲ	sʲ e mʲ + dʲ e sʲ a tʲ + ʃʲ e s tʲ	10 2 8	seven ten six	Mulisch1993
+77	Russian	seventy seven	семьдесят семь	sʲemʲdʲesʲatʲ+sʲemʲ	sʲ e mʲ + dʲ e sʲ a tʲ + sʲ e mʲ	10 2 10	seven ten seven	Mulisch1993
+78	Russian	seventy eight	семьдесят восемь	sʲemʲdʲesʲatʲ+vosʲemʲ	sʲ e mʲ + dʲ e sʲ a tʲ + v o sʲ e mʲ	10 2 11	seven ten eight	Mulisch1993
+79	Russian	seventy nine	семьдесят девять	sʲemʲdʲesʲatʲ+dʲevʲatʲ	sʲ e mʲ + dʲ e sʲ a tʲ + dʲ e vʲ a tʲ	10 2 19	seven ten nine	Mulisch1993
+80	Russian	eighty	восемьдесят	vosʲemʲdʲesʲatʲ	v o sʲ e mʲ + dʲ e sʲ a tʲ	11 2	eight ten	Mulisch1993
+81	Russian	eighty one	восемьдесят один	vosʲemʲdʲesʲatʲ+odʲin	v o sʲ e mʲ + dʲ e sʲ a tʲ + o dʲ i n	11 2 9	eight ten one	Mulisch1993
+82	Russian	eighty two	восемьдесят два	vosʲemʲdʲesʲatʲ+dva	v o sʲ e mʲ + dʲ e sʲ a tʲ + d v a	11 2 4	eight ten two	Mulisch1993
+83	Russian	eighty three	восемьдесят три	vosʲemʲdʲesʲatʲ+trʲi	v o sʲ e mʲ + dʲ e sʲ a tʲ + t rʲ i	11 2 5	eight ten three	Mulisch1993
+84	Russian	eighty four	восемьдесят четыре	vosʲemʲdʲesʲatʲ+tʃʲetɨrʲe	v o sʲ e mʲ + dʲ e sʲ a tʲ + tʃʲ e t ɨ rʲ e	11 2 13	eight ten four	Mulisch1993
+85	Russian	eighty five	восемьдесят пять	vosʲemʲdʲesʲatʲ+pʲatʲ	v o sʲ e mʲ + dʲ e sʲ a tʲ + pʲ a tʲ	11 2 7	eight ten five	Mulisch1993
+86	Russian	eighty six	восемьдесят шесть	vosʲemʲdʲesʲatʲ+ʃʲestʲ	v o sʲ e mʲ + dʲ e sʲ a tʲ + ʃʲ e s tʲ	11 2 8	eight ten six	Mulisch1993
+87	Russian	eighty seven	восемьдесят семь	vosʲemʲdʲesʲatʲ+sʲemʲ	v o sʲ e mʲ + dʲ e sʲ a tʲ + sʲ e mʲ	11 2 10	eight ten seven	Mulisch1993
+88	Russian	eighty eight	восемьдесят восемь	vosʲemʲdʲesʲatʲ+vosʲemʲ	v o sʲ e mʲ + dʲ e sʲ a tʲ + v o sʲ e mʲ	11 2 11	eight ten eight	Mulisch1993
+89	Russian	eighty nine	восемьдесят девять	vosʲemʲdʲesʲatʲ+dʲevʲatʲ	v o sʲ e mʲ + dʲ e sʲ a tʲ + dʲ e vʲ a tʲ	11 2 19	eight ten nine	Mulisch1993
+90	Russian	ninety	девяносто	dʲevʲanosto	dʲ e vʲ a -/tʲ + n o + s t o	19 99 100	nine ? hundred	Mulisch1993
+91	Russian	ninety one	девяносто один	dʲevʲanosto+odʲin	dʲ e vʲ a -/tʲ + n o + s t o + o dʲ i n	19 99 100 9	nine ? hundred one	Mulisch1993
+92	Russian	ninety two	девяносто два	dʲevʲanosto+dva	dʲ e vʲ a -/tʲ + n o + s t o + d v a	19 99 100 4	nine ? hundred two	Mulisch1993
+93	Russian	ninety three	девяносто три	dʲevʲanosto+trʲi	dʲ e vʲ a -/tʲ + n o + s t o + t rʲ i	19 99 100 5	nine ? hundred three	Mulisch1993
+94	Russian	ninety four	девяносто четыре	dʲevʲanosto+tʃʲetɨrʲe	dʲ e vʲ a -/tʲ + n o + s t o + tʃʲ e t ɨ rʲ e	19 99 100 13	nine ? hundred four	Mulisch1993
+95	Russian	ninety five	девяносто пять	dʲevʲanosto+pʲatʲ	dʲ e vʲ a -/tʲ + n o + s t o + pʲ a tʲ	19 99 100 7	nine ? hundred five	Mulisch1993
+96	Russian	ninety six	девяносто шесть	dʲevʲanosto+ʃʲestʲ	dʲ e vʲ a -/tʲ + n o + s t o + ʃʲ e s tʲ	19 99 100 8	nine ? hundred six	Mulisch1993
+97	Russian	ninety seven	девяносто семь	dʲevʲanosto+sʲemʲ	dʲ e vʲ a -/tʲ + n o + s t o + sʲ e mʲ	19 99 100 10	nine ? hundred seven	Mulisch1993
+98	Russian	ninety eight	девяносто восемь	dʲevʲanosto+vosʲemʲ	dʲ e vʲ a -/tʲ + n o + s t o + v o sʲ e mʲ	19 99 100 11	nine ? hundred eight	Mulisch1993
+99	Russian	ninety nine	девяносто девять	dʲevʲanosto+dʲevʲatʲ	dʲ e vʲ a -/tʲ + n o + s t o + dʲ e vʲ a tʲ	19 99 100 19	nine ? hundred nine	Mulisch1993
