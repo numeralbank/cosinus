@@ -1,12 +1,9 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Rubehn, A., C. Rzymski, L. Ciucci, K. Bocklage, A. Ku\u010derov\u00e1, D. Snee, A. Stephen, K. P. van Dam, and J.-M. List (forthcoming): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 1-13. https://doi.org/10.48550/arXiv.2503.01625",
+    "dc:bibliographicCitation": "Rubehn, A., C. Rzymski, L. Ciucci, K. Bocklage, A. Ku\u010derov\u00e1, D. Snee, A. Stephen, K. P. van Dam, and J.-M. List (2025): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 29-42. https://doi.org/10.18653/v1/2025.sigtyp-1.4",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "CLDF dataset providing annotated numeral systems.",
-    "dc:format": [
-        "http://concepticon.clld.org/contributions/Chan-2019-133"
-    ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -17,7 +14,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/cosinus/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-150-ga257fd4",
+            "dc:created": "v1.1-159-ge12268c",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 4853,
+            "dc:extent": 4971,
             "tableSchema": {
                 "columns": [
                     {
@@ -134,7 +131,7 @@
                         "name": "Morphemes"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": "integer",
                         "separator": " ",
                         "name": "Cognates"
                     },
@@ -290,6 +287,10 @@
                     {
                         "datatype": "string",
                         "name": "Number"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "NumberValue"
                     }
                 ],
                 "primaryKey": [

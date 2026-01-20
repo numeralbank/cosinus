@@ -1,100 +1,100 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss,Number
-one,one,1493,ONE,1
-two,two,1498,TWO,2
-three,three,492,THREE,3
-four,four,1500,FOUR,4
-five,five,493,FIVE,5
-six,six,1703,SIX,6
-seven,seven,1704,SEVEN,7
-eight,eight,1705,EIGHT,8
-nine,nine,1483,NINE,9
-ten,ten,1515,TEN,10
-eleven,eleven,1706,ELEVEN,11
-twelve,twelve,1707,TWELVE,12
-thirteen,thirteen,1708,THIRTEEN,13
-fourteen,fourteen,2451,FOURTEEN,14
-fifteen,fifteen,1709,FIFTEEN,15
-sixteen,sixteen,2454,SIXTEEN,16
-seventeen,seventeen,2453,SEVENTEEN,17
-eighteen,eighteen,1713,EIGHTEEN,18
-nineteen,nineteen,1714,NINETEEN,19
-twenty,twenty,1710,TWENTY,20
-twentyone,twenty one,1734,TWENTY ONE,21
-twentytwo,twenty two,3166,TWENTY TWO,22
-twentythree,twenty three,3165,TWENTY THREE,23
-twentyfour,twenty four,1736,TWENTY FOUR,24
-twentyfive,twenty five,1738,TWENTY FIVE,25
-twentysix,twenty six,3476,TWENTY SIX,26
-twentyseven,twenty seven,3477,TWENTY SEVEN,27
-twentyeight,twenty eight,3478,TWENTY EIGHT,28
-twentynine,twenty nine,3479,TWENTY NINE,29
-thirty,thirty,1715,THIRTY,30
-thirtyone,thirty one,3480,THIRTY ONE,31
-thirtytwo,thirty two,3481,THIRTY TWO,32
-thirtythree,thirty three,3482,THIRTY THREE,33
-thirtyfour,thirty four,3483,THIRTY FOUR,34
-thirtyfive,thirty five,3484,THIRTY FIVE,35
-thirtysix,thirty six,3485,THIRTY SIX,36
-thirtyseven,thirty seven,3486,THIRTY SEVEN,37
-thirtyeight,thirty eight,3487,THIRTY EIGHT,38
-thirtynine,thirty nine,3488,THIRTY NINE,39
-forty,forty,1716,FORTY,40
-fortyone,forty one,3556,FORTY ONE,41
-fortytwo,forty two,3557,FORTY TWO,42
-fortythree,forty three,3489,FORTY THREE,43
-fortyfour,forty four,3490,FORTY FOUR,44
-fortyfive,forty five,3491,FORTY FIVE,45
-fortysix,forty six,3558,FORTY SIX,46
-fortyseven,forty seven,3559,FORTY SEVEN,47
-fortyeight,forty eight,3492,FORTY EIGHT,48
-fortynine,forty nine,3560,FORTY NINE,49
-fifty,fifty,1717,FIFTY,50
-fiftyone,fifty one,3561,FIFTY ONE,51
-fiftytwo,fifty two,3562,FIFTY TWO,52
-fiftythree,fifty three,3493,FIFTY THREE,53
-fiftyfour,fifty four,3563,FIFTY FOUR,54
-fiftyfive,fifty five,3494,FIFTY FIVE,55
-fiftysix,fifty six,3564,FIFTY SIX,56
-fiftyseven,fifty seven,3565,FIFTY SEVEN,57
-fiftyeight,fifty eight,3566,FIFTY EIGHT,58
-fiftynine,fifty nine,3567,FIFTY NINE,59
-sixty,sixty,1718,SIXTY,60
-sixtyone,sixty one,3568,SIXTY ONE,61
-sixtytwo,sixty two,3569,SIXTY TWO,62
-sixtythree,sixty three,3495,SIXTY THREE,63
-sixtyfour,sixty four,3570,SIXTY FOUR,64
-sixtyfive,sixty five,3571,SIXTY FIVE,65
-sixtysix,sixty six,3572,SIXTY SIX,66
-sixtyseven,sixty seven,3573,SIXTY SEVEN,67
-sixtyeight,sixty eight,3574,SIXTY EIGHT,68
-sixtynine,sixty nine,3575,SIXTY NINE,69
-seventy,seventy,1721,SEVENTY,70
-seventyone,seventy one,3576,SEVENTY ONE,71
-seventytwo,seventy two,3496,SEVENTY TWO,72
-seventythree,seventy three,3497,SEVENTY THREE,73
-seventyfour,seventy four,3577,SEVENTY FOUR,74
-seventyfive,seventy five,3578,SEVENTY FIVE,75
-seventysix,seventy six,3579,SEVENTY SIX,76
-seventyseven,seventy seven,3580,SEVENTY SEVEN,77
-seventyeight,seventy eight,3581,SEVENTY EIGHT,78
-seventynine,seventy nine,3582,SEVENTY NINE,79
-eighty,eighty,1722,EIGHTY,80
-eightyone,eighty one,3583,EIGHTY ONE,81
-eightytwo,eighty two,3584,EIGHTY TWO,82
-eightythree,eighty three,3498,EIGHTY THREE,83
-eightyfour,eighty four,3585,EIGHTY FOUR,84
-eightyfive,eighty five,3586,EIGHTY FIVE,85
-eightysix,eighty six,3587,EIGHTY SIX,86
-eightyseven,eighty seven,3588,EIGHTY SEVEN,87
-eightyeight,eighty eight,3589,EIGHTY EIGHT,88
-eightynine,eighty nine,3590,EIGHTY NINE,89
-ninety,ninety,1724,NINETY,90
-ninetyone,ninety one,3499,NINETY ONE,91
-ninetytwo,ninety two,3591,NINETY TWO,92
-ninetythree,ninety three,3592,NINETY THREE,93
-ninetyfour,ninety four,3593,NINETY FOUR,94
-ninetyfive,ninety five,3594,NINETY FIVE,95
-ninetysix,ninety six,3500,NINETY SIX,96
-ninetyseven,ninety seven,3595,NINETY SEVEN,97
-ninetyeight,ninety eight,3596,NINETY EIGHT,98
-ninetynine,ninety nine,3501,NINETY NINE,99
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number,NumberValue
+one,one,1493,ONE,1,1
+two,two,1498,TWO,2,2
+three,three,492,THREE,3,3
+four,four,1500,FOUR,4,4
+five,five,493,FIVE,5,5
+six,six,1703,SIX,6,6
+seven,seven,1704,SEVEN,7,7
+eight,eight,1705,EIGHT,8,8
+nine,nine,1483,NINE,9,9
+ten,ten,1515,TEN,10,10
+eleven,eleven,1706,ELEVEN,11,11
+twelve,twelve,1707,TWELVE,12,12
+thirteen,thirteen,1708,THIRTEEN,13,13
+fourteen,fourteen,2451,FOURTEEN,14,14
+fifteen,fifteen,1709,FIFTEEN,15,15
+sixteen,sixteen,2454,SIXTEEN,16,16
+seventeen,seventeen,2453,SEVENTEEN,17,17
+eighteen,eighteen,1713,EIGHTEEN,18,18
+nineteen,nineteen,1714,NINETEEN,19,19
+twenty,twenty,1710,TWENTY,20,20
+twentyone,twenty one,1734,TWENTY ONE,21,21
+twentytwo,twenty two,3166,TWENTY TWO,22,22
+twentythree,twenty three,3165,TWENTY THREE,23,23
+twentyfour,twenty four,1736,TWENTY FOUR,24,24
+twentyfive,twenty five,1738,TWENTY FIVE,25,25
+twentysix,twenty six,3476,TWENTY SIX,26,26
+twentyseven,twenty seven,3477,TWENTY SEVEN,27,27
+twentyeight,twenty eight,3478,TWENTY EIGHT,28,28
+twentynine,twenty nine,3479,TWENTY NINE,29,29
+thirty,thirty,1715,THIRTY,30,30
+thirtyone,thirty one,3480,THIRTY ONE,31,31
+thirtytwo,thirty two,3481,THIRTY TWO,32,32
+thirtythree,thirty three,3482,THIRTY THREE,33,33
+thirtyfour,thirty four,3483,THIRTY FOUR,34,34
+thirtyfive,thirty five,3484,THIRTY FIVE,35,35
+thirtysix,thirty six,3485,THIRTY SIX,36,36
+thirtyseven,thirty seven,3486,THIRTY SEVEN,37,37
+thirtyeight,thirty eight,3487,THIRTY EIGHT,38,38
+thirtynine,thirty nine,3488,THIRTY NINE,39,39
+forty,forty,1716,FORTY,40,40
+fortyone,forty one,3556,FORTY ONE,41,41
+fortytwo,forty two,3557,FORTY TWO,42,42
+fortythree,forty three,3489,FORTY THREE,43,43
+fortyfour,forty four,3490,FORTY FOUR,44,44
+fortyfive,forty five,3491,FORTY FIVE,45,45
+fortysix,forty six,3558,FORTY SIX,46,46
+fortyseven,forty seven,3559,FORTY SEVEN,47,47
+fortyeight,forty eight,3492,FORTY EIGHT,48,48
+fortynine,forty nine,3560,FORTY NINE,49,49
+fifty,fifty,1717,FIFTY,50,50
+fiftyone,fifty one,3561,FIFTY ONE,51,51
+fiftytwo,fifty two,3562,FIFTY TWO,52,52
+fiftythree,fifty three,3493,FIFTY THREE,53,53
+fiftyfour,fifty four,3563,FIFTY FOUR,54,54
+fiftyfive,fifty five,3494,FIFTY FIVE,55,55
+fiftysix,fifty six,3564,FIFTY SIX,56,56
+fiftyseven,fifty seven,3565,FIFTY SEVEN,57,57
+fiftyeight,fifty eight,3566,FIFTY EIGHT,58,58
+fiftynine,fifty nine,3567,FIFTY NINE,59,59
+sixty,sixty,1718,SIXTY,60,60
+sixtyone,sixty one,3568,SIXTY ONE,61,61
+sixtytwo,sixty two,3569,SIXTY TWO,62,62
+sixtythree,sixty three,3495,SIXTY THREE,63,63
+sixtyfour,sixty four,3570,SIXTY FOUR,64,64
+sixtyfive,sixty five,3571,SIXTY FIVE,65,65
+sixtysix,sixty six,3572,SIXTY SIX,66,66
+sixtyseven,sixty seven,3573,SIXTY SEVEN,67,67
+sixtyeight,sixty eight,3574,SIXTY EIGHT,68,68
+sixtynine,sixty nine,3575,SIXTY NINE,69,69
+seventy,seventy,1721,SEVENTY,70,70
+seventyone,seventy one,3576,SEVENTY ONE,71,71
+seventytwo,seventy two,3496,SEVENTY TWO,72,72
+seventythree,seventy three,3497,SEVENTY THREE,73,73
+seventyfour,seventy four,3577,SEVENTY FOUR,74,74
+seventyfive,seventy five,3578,SEVENTY FIVE,75,75
+seventysix,seventy six,3579,SEVENTY SIX,76,76
+seventyseven,seventy seven,3580,SEVENTY SEVEN,77,77
+seventyeight,seventy eight,3581,SEVENTY EIGHT,78,78
+seventynine,seventy nine,3582,SEVENTY NINE,79,79
+eighty,eighty,1722,EIGHTY,80,80
+eightyone,eighty one,3583,EIGHTY ONE,81,81
+eightytwo,eighty two,3584,EIGHTY TWO,82,82
+eightythree,eighty three,3498,EIGHTY THREE,83,83
+eightyfour,eighty four,3585,EIGHTY FOUR,84,84
+eightyfive,eighty five,3586,EIGHTY FIVE,85,85
+eightysix,eighty six,3587,EIGHTY SIX,86,86
+eightyseven,eighty seven,3588,EIGHTY SEVEN,87,87
+eightyeight,eighty eight,3589,EIGHTY EIGHT,88,88
+eightynine,eighty nine,3590,EIGHTY NINE,89,89
+ninety,ninety,1724,NINETY,90,90
+ninetyone,ninety one,3499,NINETY ONE,91,91
+ninetytwo,ninety two,3591,NINETY TWO,92,92
+ninetythree,ninety three,3592,NINETY THREE,93,93
+ninetyfour,ninety four,3593,NINETY FOUR,94,94
+ninetyfive,ninety five,3594,NINETY FIVE,95,95
+ninetysix,ninety six,3500,NINETY SIX,96,96
+ninetyseven,ninety seven,3595,NINETY SEVEN,97,97
+ninetyeight,ninety eight,3596,NINETY EIGHT,98,98
+ninetynine,ninety nine,3501,NINETY NINE,99,99
