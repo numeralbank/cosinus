@@ -27,24 +27,25 @@ def underlying(segments):
 class CustomLanguage(pylexibank.Language):
     Sources = attr.ib(default=None)
     FileName = attr.ib(default=None)
-    Base = attr.ib(default=None, metadata={"format": "integer"})
+    Base = attr.ib(default=None, metadata={"format": "string"})
 
 @attr.s
 class CustomConcept(pylexibank.Concept):
-    Number = attr.ib(default=None, metadata={"format": "integer"})
+    Number = attr.ib(default=None, metadata={"format": "string"})
+    NumberValue = attr.ib(default=None, metadata={"datatype": "integer"})
 
 
 @attr.s
 class CustomLexeme(pylexibank.Lexeme):
-    Morphemes = attr.ib(default=None, metadata={"format": "string",
+    Morphemes = attr.ib(default=None, metadata={"datatype": "string",
                                                 "separator": " "})
-    Cognates = attr.ib(default=None, metadata={"format": "integer",
+    Cognates = attr.ib(default=None, metadata={"datatype": "integer",
                                                "separator": " "})
-    Surface_Form = attr.ib(default=None, metadata={"format": "string",
+    Surface_Form = attr.ib(default=None, metadata={"datatype": "string",
                                                        "separator": " + "})
-    Underlying_Form = attr.ib(default=None, metadata={"format": "string",
+    Underlying_Form = attr.ib(default=None, metadata={"datatype": "string",
                                                        "separator": " + "})
-    Tokens = attr.ib(default=None, metadata={"format": "string", "separator": " "})
+    Tokens = attr.ib(default=None, metadata={"datatype": "string", "separator": " "})
 
 
 class Dataset(pylexibank.Dataset):
@@ -71,6 +72,7 @@ class Dataset(pylexibank.Dataset):
                 ID=slug(concept["GLOSS"]),
                 Name=concept["GLOSS"],
                 Number=concept["NUMBER"],
+                NumberValue=concept["NUMBER"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
             )
@@ -97,7 +99,7 @@ class Dataset(pylexibank.Dataset):
                     error_header = f"An error occurred while processing language {language}. Skipping language..."
                     error_msg = "\n\t\t".join([error_header] + errors)
                     args.log.error(error_msg)
-                    raise ValueError
+                    #raise ValueError
 
             for data in pylexibank.progressbar(table):
                 # we normalize tokens quickly to account for clts
@@ -144,24 +146,15 @@ def validate_language(data, sources_for_lang):
     # map morpheme ID's to underlying forms and glosses
     id_to_underlying_morpheme = defaultdict(set)
     morpheme_to_id = defaultdict(set)
+    underlying_to_surface_variants = defaultdict(set)
     id_to_gloss = defaultdict(set)
     gloss_to_id = defaultdict(set)
 
     for row in data:
-        # print(row['DOCULECT'], row["CONCEPT"], row["TOKENS"])
-        # normalize morphemes and extract underlying forms
+        # extract underlying forms and surface forms
         tokens = row["TOKENS"]
-        morphemes = tokens.split(" + ")
-        morphemes = [x.strip().split() for x in morphemes]
-        for i, morpheme in enumerate(morphemes):
-            for j, token in enumerate(morpheme):
-                if "/" in token:
-                    morphemes[i][j] = token.split("/")[1]
-
-        # remove empty string (from inline alignments)
-        for m in morphemes:
-            while "-" in m:
-                m.remove("-")
+        morphemes = underlying(tokens)
+        surface_morphemes = surface(tokens)
 
         # extract cognate IDs and morpheme glosses
         cogids = list(map(int, row["COGIDS"].split()))
@@ -173,6 +166,9 @@ def validate_language(data, sources_for_lang):
             msg += f" or cognates «{" ".join([str(c) for c in cogids])}»"
             msg += f" in language {language} (concept {row["CONCEPT"]})."
             errors.append(msg)
+
+        for underlying_morpheme, surface_morpheme in zip(morphemes, surface_morphemes):
+            underlying_to_surface_variants[tuple(underlying_morpheme)].add(tuple(surface_morpheme))
 
         for id, morpheme in zip(cogids, morphemes):
             id_to_underlying_morpheme[id].add(tuple(morpheme))
@@ -213,6 +209,13 @@ def validate_language(data, sources_for_lang):
     for morpheme, id_set in morpheme_to_id.items():
         if len(id_set) > 1:
             msg = f"Morpheme '{' '.join(morpheme)}' in language {language} maps to multiple IDs: {id_set}."
+            warnings.append(msg)
+
+    # validate underlying vs surface forms
+    for underlying_morpheme, surface_variants in underlying_to_surface_variants.items():
+        if underlying_morpheme not in surface_variants:
+            msg = (f"[{" ".join(underlying_morpheme)}] was given as underlying morpheme, but does not appear as surface form."
+                   f" (COGID: {morpheme_to_id[underlying_morpheme]})")
             warnings.append(msg)
 
     # validate sources

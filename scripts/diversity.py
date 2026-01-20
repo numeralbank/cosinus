@@ -42,31 +42,34 @@ for path in paths:
 
     print(path.name[:-4])
     data[path.name[:-4]] = defaultdict(list)
-    wl = Wordlist(str(path))
-    for idx, language, concept, tokens, morphemes, cognates in wl.iter_rows(
-            "doculect", "concept", "tokens", "morphemes", "cogids"):
-        token_chunks = " ".join(tokens).split(" + ")
-        for m, c, t in zip(morphemes, cognates, token_chunks):
-            data[path.name[:-4]][m, c] += [surface(t)]
-    
-    # analyze data
-    diversities = {}
-    for (m, c), alms in data[path.name[:-4]].items():
-        sequences = sorted(set([tuple(t) for t in alms]))
-        msa = Multiple(sequences)
-        msa.align(method="library")
-        divs = []
-        for i in range(len(msa.alm_matrix[0])):
-            varis = [row[i] for row in msa.alm_matrix]
-            divs += [simpson_div(varis)]
-        diversities[m, c] = [" / ".join([" ".join(s) for s in sequences]), statistics.mean(divs)]
 
-    # get most diverse patterns
-    div_data = sorted([(a[0], a[1], b[0], b[1]) for a, b in diversities.items()], 
-                      key=lambda x: x[3], reverse=True)
-    print(f"# Data for {languages[path.name[:-4]]}")
-    print("")
-    print(tabulate(div_data[:10], tablefmt="pipe", floatfmt=".4", headers=[
-        "gloss", "cogid", "sequence", "score"]))
+    try:
+        wl = Wordlist(str(path))
+        for idx, language, concept, tokens, morphemes, cognates in wl.iter_rows(
+                "doculect", "concept", "tokens", "morphemes", "cogids"):
+            token_chunks = " ".join(tokens).split(" + ")
+            for m, c, t in zip(morphemes, cognates, token_chunks):
+                data[path.name[:-4]][m, c] += [surface(t)]
+
+        # analyze data
+        diversities = {}
+        for (m, c), alms in data[path.name[:-4]].items():
+            sequences = sorted(set([tuple(t) for t in alms]))
+            msa = Multiple(sequences)
+            msa.align(method="library")
+            divs = []
+            for i in range(len(msa.alm_matrix[0])):
+                varis = [row[i] for row in msa.alm_matrix]
+                divs += [simpson_div(varis)]
+            diversities[m, c] = [" / ".join([" ".join(s) for s in sequences]), statistics.mean(divs)]
+
+        # get most diverse patterns
+        div_data = sorted([(a[0], a[1], b[0], b[1]) for a, b in diversities.items()],
+                          key=lambda x: x[3], reverse=True)
+        print(f"# Data for {languages[path.name[:-4]]}")
+        print("")
+        print(tabulate(div_data[:10], tablefmt="pipe", floatfmt=".4", headers=[
+            "gloss", "cogid", "sequence", "score"]))
+    except Exception as e:
+        print(e)
     input()
-

@@ -50,79 +50,79 @@ ID	DOCULECT	CONCEPT	NUMBER	DEVANAGARI_NUMBER	VALUE_	FORM	ORDINAL_NUMBER	TOKENS	M
 50	Sanskrit	twenty	20	२०	विंशति	viṁśati	विंश (viṁśa)	-/d v ĩ/i + ʃ a t i	two ty	2 11	-/d v ĩ/i + ʃ a t i	Stenzler1915
 51	Sanskrit	forty one	41	४१	एकचत्वारिंशत्	ekacatvāriṁśat		e k aː/a n/- + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	one four ty	1 4 11	e k aː/a n/- + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
 52	Sanskrit	forty two	42	४२	द्वाचत्वारिंशत्	dvācatvāriṁśat		d v aː/i + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	two four ty	2 4 11	d v aː/i + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
-53	Sanskrit	forty three	43	४३	त्र्यश्चत्वारिंशत्	tryaścatvāriṁśat		t r - j/i a/- ʃ /- + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	three four ty	3 4 11	t r - j/i a/- ʃ /- + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
-54	Sanskrit	forty four	44	४४	चतुश्चत्वारिंशत्	catuścatvāriṁśat		tʃ a t u +tʃ a t v/u aː/- r ĩ/- + ʃ a t i	four four ty	4 4 11	tʃ a t u +tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
+53	Sanskrit	forty three	43	४३	त्र्यश्चत्वारिंशत्	tryaścatvāriṁśat		t r - j/i a/- ʃ/- + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	three four ty	3 4 11	t r - j/i a/- ʃ /- + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
+54	Sanskrit	forty four	44	४४	चतुश्चत्वारिंशत्	catuścatvāriṁśat		tʃ a t u ʃ/r + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	four four ty	4 4 11	tʃ a t u + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
 55	Sanskrit	forty five	45	४५	पञ्चचत्वारिंशत्	pañcacatvāriṁśat		p a ɲ tʃ a + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	five four ty	5 4 11	p a ɲ tʃ a + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
 56	Sanskrit	forty six	46	४६	षट्चत्वारिंशत्	ṣaṭcatvāriṁśat		ʂ a ʈ/ʂ + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	six four ty	6 4 11	ʂ a ʈ/ʂ + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
 57	Sanskrit	forty seven	47	४७	सप्तचत्वारिंशत्	saptacatvāriṁśat		s a p t a + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	seven four ty	7 4 11	s a p t a + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
 58	Sanskrit	forty eight	48	४८	अष्टाचत्वारिंशत्	aṣṭācatvāriṁśat		a ʂ ʈ aː/a + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	eight four ty	8 4 11	a ʂ ʈ aː/a + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
 59	Sanskrit	forty nine	49	४९	नवचत्वारिंशत्	navacatvāriṁśat		n a v a + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	nine four ty	9 4 11	n a v a + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
-60	Sanskrit	forty nine	49	४९	एकोनपञ्चाशत्	ekonapañcāśat		e k aː/o n/- + p a ɲ tʃ aː/a + ʃ a t -/i	one on five ty	1 12 5 11	e k aː/o n/- + p a ɲ tʃ aː/a + ʃ a t -/i	deshpande1997samskrta
+60	Sanskrit	forty nine	49	४९	एकोनपञ्चाशत्	ekonapañcāśat		e k o/a + n a + p a ɲ tʃ aː/a + ʃ a t -/i	one on five ty	1 12 5 11	e k aː/o n/- + p a ɲ tʃ aː/a + ʃ a t -/i	deshpande1997samskrta
 61	Sanskrit	forty nine	49	४९	ऊनपञ्चाशत्	ūnapañcāśat		uː + n a + p a ɲ tʃ aː/a + ʃ a t -/i	? on five ty	13 12 5 11	uː + n a + p a ɲ tʃ aː/a + ʃ a t -/i	deshpande1997samskrta
-62	Sanskrit	forty nine	49	४९	एकान्नपञ्चाशत्	ekānnapañcāśat		e k aː/a n + n a + p a ɲ tʃ aː/a + ʃ a t -/i	one on five ty	1 12 5 11	e k aː/a n + n a + p a ɲ tʃ aː/a + ʃ a t -/i	deshpande1997samskrta
+62	Sanskrit	forty nine	49	४९	एकान्नपञ्चाशत्	ekānnapañcāśat		e k aː/a n/- + n a + p a ɲ tʃ aː/a + ʃ a t -/i	one on five ty	1 12 5 11	e k aː/a n + n a + p a ɲ tʃ aː/a + ʃ a t -/i	deshpande1997samskrta
 63	Sanskrit	fifty	50	५०	पञ्चाशत्	pañcāśat		p a ɲ tʃ aː/a + ʃ a t -/i	five ty	5 11	p a ɲ tʃ aː/a + ʃ a t -/i	deshpande1997samskrta
-64	Sanskrit	fifty one	51	५१	एकपञ्चाशत्	ekapañcāśat		e k a - + ʃ a t -/i	one five ty	1 5 11	e k a - + ʃ a t -/i	deshpande1997samskrta
-65	Sanskrit	fifty two	52	५२	द्वापञ्चाशत्	dvāpañcāśat		d v aː/i + ʃ a t -/i	two five ty	2 5 11	d v aː/i + ʃ a t -/i	deshpande1997samskrta
-66	Sanskrit	fifty three	53	५३	त्रयःपञ्चाशत्	trayahpañcāśat		t r a/- j/i a/- h/- +ʃ a t -/i	three five ty	3 5 11	t r a/- j/i a/- h/- +ʃ a t -/i	deshpande1997samskrta
-67	Sanskrit	fifty four	54	५४	चतुःपञ्चाशत्	catuhpañcāśat		tʃ a t u h/- +ʃ a t -/i	four five ty	4 5 11	tʃ a t u h/- +ʃ a t -/i	deshpande1997samskrta
-68	Sanskrit	fifty five	55	५५	पञ्चपञ्चाशत्	pañcapañcāśat		p a ɲ tʃ a + ʃ a t -/i	five five ty	5 5 11	p a ɲ tʃ a + ʃ a t -/i	deshpande1997samskrta
-69	Sanskrit	fifty six	56	५६	षड्पञ्चाशत्	ṣaṭpañcāśat		ʂ a ʈ/ʂ + ʃ a t -/i	six five ty	6 5 11	ʂ a ʈ/ʂ + ʃ a t -/i	deshpande1997samskrta
-70	Sanskrit	fifty seven	57	५७	सप्तपञ्चाशत्	saptapañcāśat		s a p t a + ʃ a t -/i	seven five ty	7 5 11	s a p t a + ʃ a t -/i	deshpande1997samskrta
-71	Sanskrit	fifty eight	58	५८	अष्टापञ्चाशत्	aṣṭāpañcāśat		a ʂ ʈ aː/a + ʃ a t -/i	eight five ty	8 5 11	a ʂ ʈ aː/a + ʃ a t -/i	deshpande1997samskrta
-72	Sanskrit	fifty nine	59	५९	नवपञ्चाशत्	navapañcāśat		n a v a + ʃ a t -/i	nine five ty	9 5 11	n a v a + ʃ a t -/i	deshpande1997samskrta
-73	Sanskrit	fifty nine	59	५९	एकोनषष्टि	ekonaṣaṣṭi		e k aː/o n/- + a n + ʂ a ʂ + -/ʃ -/a ʈ i	one on six ty	1 12 6 11	e k aː/o n/- + a n + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-74	Sanskrit	fifty nine	59	५९	ऊनषष्टि	ūnaṣaṣṭi		uː + n a + ʂ a ʂ + -/ʃ -/a ʈ i	? on on six ty	13 12 12 6 11	uː + n a + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-75	Sanskrit	fifty nine	59	५९	एकान्नषष्टि	ekānnaṣaṣṭi		e k aː/a n/- + n a + ʂ a ʂ + -/ʃ -/a ʈ i	one on six ty	1 12 6 11	e k aː/a n/- + n a + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-76	Sanskrit	sixty	60	६०	षष्टि	ṣaṣṭi		ʂ a ʂ + -/ʃ -/a ʈ i	six ty	6 11	ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-77	Sanskrit	sixty one	61	६१	एकषष्टि	ekaṣaṣṭi		e k a - + ʂ a ʂ + -/ʃ -/a ʈ i	one six ty	1 6 11	e k a - + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-78	Sanskrit	sixty two	62	६२	द्वाषष्टि	dvāṣaṣṭi		d v aː/i + ʂ a ʂ + -/ʃ -/a ʈ i	two six ty	2 6 11	d v aː/i + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-79	Sanskrit	sixty three	63	६३	त्रयःषष्टि	trayahṣaṣṭi		t r a/- j/i a/- h/- + ʂ a ʂ + -/ʃ -/a ʈ i	three six ty	3 6 11	t r a/- j/i a/- h/- + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-80	Sanskrit	sixty four	64	६४	चतुःषष्टि	catuhṣaṣṭi		tʃ a t u h/- + ʂ a ʂ + -/ʃ -/a ʈ i	four six ty	4 6 11	tʃ a t u h/- + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-81	Sanskrit	sixty five	65	६५	पञ्चषष्टि	pañcaṣaṣṭi		p a ɲ tʃ a + ʂ a ʂ + -/ʃ -/a ʈ i	five six ty	5 6 11	p a ɲ tʃ a + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-82	Sanskrit	sixty six	66	६६	षड्षष्टि	ṣaṭṣaṣṭi		ʂ a ʈ/ʂ + ʂ a ʂ + -/ʃ -/a ʈ i	six six ty	6 6 11	ʂ a ʈ/ʂ + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-83	Sanskrit	sixty seven	67	६७	सप्तषष्टि	saptaṣaṣṭi		s a p t a + ʂ a ʂ + -/ʃ -/a ʈ i	seven six ty	7 6 11	s a p t a + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-84	Sanskrit	sixty eight	68	६८	अष्टाषष्टि	aṣṭāṣaṣṭi		a ʂ ʈ aː/a + ʂ a ʂ + -/ʃ -/a ʈ i	eight six ty	8 6 11	a ʂ ʈ aː/a + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-85	Sanskrit	sixty nine	69	६९	नवषष्टि	navaṣaṣṭi		n a v a + ʂ a ʂ + -/ʃ -/a ʈ i	nine six ty	9 6 11	n a v a + ʂ a ʂ + -/ʃ -/a ʈ i	deshpande1997samskrta
-86	Sanskrit	sixty nine	69	६९	एकोनसप्तति	ekonasaptati		e k aː/o n/- + s a p t a + -/ʃ -/a t/ʈ i	one on seven ty	1 12 7 11	e k aː/o n/- + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-87	Sanskrit	sixty nine	69	६९	ऊनसप्तति	ūnasaptati		uː + n a + s a p t a + -/ʃ -/a t/ʈ i	? on seven ty	13 12 7 11	uː + n a + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-88	Sanskrit	sixty nine	69	६९	एकान्नसप्तति	ekānnasaptati		e k aː/a n/- + s a p t a + -/ʃ -/a t/ʈ i	one on seven ty	1 12 7 11	e k aː/a n/- + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-89	Sanskrit	seventy	70	७०	सप्तति	saptati		s a p t a + -/ʃ -/a t/ʈ i	seven ty	7 11	s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-90	Sanskrit	seventy one	71	७१	एकसप्तति	ekasaptati		e k a - + s a p t a + -/ʃ -/a t/ʈ i	one seven ty	1 7 11	e k a - + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-91	Sanskrit	seventy two	72	७२	द्वासप्तति	dvāsaptati		d v aː/i + s a p t a + -/ʃ -/a t/ʈ i	two seven ty	2 7 11	d v aː/i + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-92	Sanskrit	seventy three	73	७३	त्र्यःसप्तति	tryahsaptati		t r a/- j/i a/- h/- + s a p t a + -/ʃ -/a t/ʈ i	three seven ty	3 7 11	t r a/- j/i a/- h/- + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-93	Sanskrit	seventy four	74	७४	चतुःसप्तति	catuhsaptati		tʃ a t u h/- + s a p t a + -/ʃ -/a t/ʈ i	four seven ty	4 7 11	tʃ a t u h/- + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-94	Sanskrit	seventy five	75	७५	पञ्चसप्तति	pañcasaptati		p a ɲ tʃ a + s a p t a + -/ʃ -/a t/ʈ i	five seven ty	5 7 11	p a ɲ tʃ a + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-95	Sanskrit	seventy six	76	७६	षड्सप्तति	ṣaṭsaptati		ʂ a ʈ/ʂ + s a p t a + -/ʃ -/a t/ʈ i	six seven ty	6 7 11	ʂ a ʈ/ʂ + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-96	Sanskrit	seventy seven	77	७७	सप्तसप्तति	saptasaptati		s a p t a + s a p t a + -/ʃ -/a t/ʈ i	seven seven ty	7 7 11	s a p t a + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-97	Sanskrit	seventy eight	78	७८	अष्टसप्तति	aṣṭasaptati		a ʂ ʈ a + s a p t a + -/ʃ -/a t/ʈ i	eight seven ty	8 7 11	a ʂ ʈ a + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-98	Sanskrit	seventy eight	78	७८	अष्टासप्तति	aṣṭāsaptati		a ʂ ʈ aː/a + s a p t a + -/ʃ -/a t/ʈ i	eight seven ty	8 7 11	a ʂ ʈ aː/a + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-99	Sanskrit	seventy nine	79	७९	नवसप्तति	navasaptati		n a v a + s a p t a + -/ʃ -/a t/ʈ i	nine seven ty	9 7 11	n a v a + s a p t a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-100	Sanskrit	seventy nine	79	७९	एकोनाशीति	ekonāśīti		e k aː/o n/- + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	one on eight ty	1 12 8 11	e k aː/o n/- + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-101	Sanskrit	seventy nine	79	७९	ऊनाशीति	ūnāśīti		uː + n a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	? on eight ty	13 12 8 11	uː + n a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-102	Sanskrit	seventy nine	79	७९	एकान्नाशीति	ekānnāśīti		e k aː/a n/- + n + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	one on eight ty	1 12 8 11	e k aː/a n/- + n + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-103	Sanskrit	eighty	80	८०	अशीति	aśīti		a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	eight ty	8 11	a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-104	Sanskrit	eighty one	81	८१	एकाशीति	ekāśīti		e k aː/a - + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	one eight ty	1 8 11	e k aː/a - + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-105	Sanskrit	eighty two	82	८२	द्व्यशीति	dvyaśīti		d v y/i + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	two eight ty	2 8 11	d v y/i + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-106	Sanskrit	eighty three	83	८३	त्र्यशीति	tryaśīti		t r a/- j/i a/- + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	three eight ty	3 8 11	t r a/- j/i a/- + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-107	Sanskrit	eighty four	84	८४	चतुरशीति	caturaśīti		tʃ a t u r/- + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	four eight ty	4 8 11	tʃ a t u r/- + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-108	Sanskrit	eighty five	85	८५	पञ्चाशीति	pañcāśīti		p a ɲ tʃ aː/a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	five eight ty	5 8 11	p a ɲ tʃ aː/a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-109	Sanskrit	eighty six	86	८६	षड्अशीति	ṣaṭaśīti		ʂ a ʈ/ʂ + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	six eight ty	6 8 11	ʂ a ʈ/ʂ + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-110	Sanskrit	eighty seven	87	८७	सप्ताशीति	saptāśīti		s a p t a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	seven eight ty	7 8 11	s a p t a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-111	Sanskrit	eighty eight	88	८८	अष्टाशीति	aṣṭāśīti		a ʂ ʈ aː/a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	eight eight ty	8 8 11	a ʂ ʈ aː/a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-112	Sanskrit	eighty nine	89	८९	नवाशीति	navāśīti		n a v -/a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	nine eight ty	9 8 11	n a v -/a + a ʂ -/ʈ iː/a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-113	Sanskrit	eighty nine	89	८९	एकोननवति	ekonanavati		e k aː/o n/- + n a + n a v a + -/ʃ -/a t/ʈ i	one on nine ty	1 12 9 11	e k aː/o n/- + n a + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-114	Sanskrit	eighty nine	89	८९	ऊननवति	ūnanavati		uː + n a + n a v a + -/ʃ -/a t/ʈ i	? on nine ty	13 12 9 11	uː + n a + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-115	Sanskrit	eighty nine	89	८९	एकान्ननवति	ekānnanavati		e k aː/a n/- + n a +n a v a + -/ʃ -/a t/ʈ i	one on nine ty	1 12 9 11	e k aː/a n/- + n a +n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-116	Sanskrit	ninety	90	९०	नवति	navati		n a v a + -/ʃ -/a t/ʈ i	nine ty	9 11	n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-117	Sanskrit	ninety one	91	९१	एकनवति	ekanavati		e k a - + n a v a + -/ʃ -/a t/ʈ i	one nine ty	1 9 11	e k a - + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-118	Sanskrit	ninety two	92	९२	द्वानवति	dvānavati		d v aː/i + n a v a + -/ʃ -/a t/ʈ i	two nine ty	2 9 11	d v aː/i + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-119	Sanskrit	ninety three	93	९३	त्रयोनवति	trayonavati		t r a/- j/i o/- + n a v a + -/ʃ -/a t/ʈ i	three nine ty	3 9 11	t r a/- j/i o/- + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-120	Sanskrit	ninety four	94	९४	चतुर्नवति	caturnavati		tʃ a t u r/- + n a v a + -/ʃ -/a t/ʈ i	four nine ty	4 9 11	tʃ a t u r/- + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-121	Sanskrit	ninety five	95	९५	पञ्चनवति	pañcanavati		p a ɲ tʃ a + n a v a + -/ʃ -/a t/ʈ i	five nine ty	5 9 11	p a ɲ tʃ a + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-122	Sanskrit	ninety six	96	९६	षड्नवति	ṣaṭnavati		ʂ a ʈ/ʂ + n a v a + -/ʃ -/a t/ʈ i	six nine ty	6 9 11	ʂ a ʈ/ʂ + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-123	Sanskrit	ninety seven	97	९७	सप्तनवति	saptanavati		s a p t a + n a v a + -/ʃ -/a t/ʈ i	seven nine ty	7 9 11	s a p t a + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-124	Sanskrit	ninety eight	98	९८	अष्टानवति	aṣṭānavati		a ʂ ʈ aː/a + n a v a + -/ʃ -/a t/ʈ i	eight nine ty	8 9 11	a ʂ ʈ aː/a + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-125	Sanskrit	ninety nine	99	९९	नवनवति	navanavati		n a v a + n a v a + -/ʃ -/a t/ʈ i	nine nine ty	9 9 11	n a v a + n a v a + -/ʃ -/a t/ʈ i	deshpande1997samskrta
-126	Sanskrit	ninety nine	99	९९	एकोनशत	ekonaśata		e k aː/o + n -/a + ʃ a t a	one on hundred	1 12 14	e k aː/o + n -/a + ʃ a t a	deshpande1997samskrta
+64	Sanskrit	fifty one	51	५१	एकपञ्चाशत्	ekapañcāśat		e k a - + p a ɲ tʃ aː/a + ʃ a t -/i	one five ty	1 5 11	e k a - + ʃ a t -/i	deshpande1997samskrta
+65	Sanskrit	fifty two	52	५२	द्वापञ्चाशत्	dvāpañcāśat		d v aː/i + p a ɲ tʃ aː/a + ʃ a t -/i	two five ty	2 5 11	d v aː/i + ʃ a t -/i	deshpande1997samskrta
+66	Sanskrit	fifty three	53	५३	त्रयःपञ्चाशत्	trayahpañcāśat		t r a/- j/i a/- h/- + p a ɲ tʃ aː/a + ʃ a t -/i	three five ty	3 5 11	t r a/- j/i a/- h/- + ʃ a t -/i	deshpande1997samskrta
+67	Sanskrit	fifty four	54	५४	चतुःपञ्चाशत्	catuhpañcāśat		tʃ a t u h/r + p a ɲ tʃ aː/a + ʃ a t -/i	four five ty	4 5 11	tʃ a t u h/- + ʃ a t -/i	deshpande1997samskrta
+68	Sanskrit	fifty five	55	५५	पञ्चपञ्चाशत्	pañcapañcāśat		p a ɲ tʃ a + p a ɲ tʃ aː/a + ʃ a t -/i	five five ty	5 5 11	p a ɲ tʃ a + ʃ a t -/i	deshpande1997samskrta
+69	Sanskrit	fifty six	56	५६	षड्पञ्चाशत्	ṣaṭpañcāśat		ʂ a ʈ/ʂ + p a ɲ tʃ aː/a + ʃ a t -/i	six five ty	6 5 11	ʂ a ʈ/ʂ + ʃ a t -/i	deshpande1997samskrta
+70	Sanskrit	fifty seven	57	५७	सप्तपञ्चाशत्	saptapañcāśat		s a p t a + p a ɲ tʃ aː/a + ʃ a t -/i	seven five ty	7 5 11	s a p t a + ʃ a t -/i	deshpande1997samskrta
+71	Sanskrit	fifty eight	58	५८	अष्टापञ्चाशत्	aṣṭāpañcāśat		a ʂ ʈ aː/a + p a ɲ tʃ aː/a + ʃ a t -/i	eight five ty	8 5 11	a ʂ ʈ aː/a + ʃ a t -/i	deshpande1997samskrta
+72	Sanskrit	fifty nine	59	५९	नवपञ्चाशत्	navapañcāśat		n a v a + p a ɲ tʃ aː/a + ʃ a t -/i	nine five ty	9 5 11	n a v a + ʃ a t -/i	deshpande1997samskrta
+73	Sanskrit	fifty nine	59	५९	एकोनषष्टि	ekonaṣaṣṭi		e k o/a + n a + ʂ a ʂ + -/ʃ -/a t i	one on six ty	1 12 6 11	e k aː/o n/- + a n + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+74	Sanskrit	fifty nine	59	५९	ऊनषष्टि	ūnaṣaṣṭi		uː + n a + ʂ a ʂ + -/ʃ -/a t i	? on six ty	13 12 6 11	uː + n a + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+75	Sanskrit	fifty nine	59	५९	एकान्नषष्टि	ekānnaṣaṣṭi		e k aː/a n/- + n a + ʂ a ʂ + -/ʃ -/a t i	one on six ty	1 12 6 11	e k aː/a n/- + n a + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+76	Sanskrit	sixty	60	६०	षष्टि	ṣaṣṭi		ʂ a ʂ + -/ʃ -/a t i	six ty	6 11	ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+77	Sanskrit	sixty one	61	६१	एकषष्टि	ekaṣaṣṭi		e k a - + ʂ a ʂ + -/ʃ -/a t i	one six ty	1 6 11	e k a - + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+78	Sanskrit	sixty two	62	६२	द्वाषष्टि	dvāṣaṣṭi		d v aː/i + ʂ a ʂ + -/ʃ -/a t i	two six ty	2 6 11	d v aː/i + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+79	Sanskrit	sixty three	63	६३	त्रयःषष्टि	trayahṣaṣṭi		t r a/- j/i a/- h/- + ʂ a ʂ + -/ʃ -/a t i	three six ty	3 6 11	t r a/- j/i a/- h/- + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+80	Sanskrit	sixty four	64	६४	चतुःषष्टि	catuhṣaṣṭi		tʃ a t u h/r + ʂ a ʂ + -/ʃ -/a t i	four six ty	4 6 11	tʃ a t u h/- + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+81	Sanskrit	sixty five	65	६५	पञ्चषष्टि	pañcaṣaṣṭi		p a ɲ tʃ a + ʂ a ʂ + -/ʃ -/a t i	five six ty	5 6 11	p a ɲ tʃ a + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+82	Sanskrit	sixty six	66	६६	षड्षष्टि	ṣaṭṣaṣṭi		ʂ a ʈ/ʂ + ʂ a ʂ + -/ʃ -/a t i	six six ty	6 6 11	ʂ a ʈ/ʂ + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+83	Sanskrit	sixty seven	67	६७	सप्तषष्टि	saptaṣaṣṭi		s a p t a + ʂ a ʂ + -/ʃ -/a t i	seven six ty	7 6 11	s a p t a + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+84	Sanskrit	sixty eight	68	६८	अष्टाषष्टि	aṣṭāṣaṣṭi		a ʂ ʈ aː/a + ʂ a ʂ + -/ʃ -/a t i	eight six ty	8 6 11	a ʂ ʈ aː/a + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+85	Sanskrit	sixty nine	69	६९	नवषष्टि	navaṣaṣṭi		n a v a + ʂ a ʂ + -/ʃ -/a t i	nine six ty	9 6 11	n a v a + ʂ a ʂ + -/ʃ -/a t i	deshpande1997samskrta
+86	Sanskrit	sixty nine	69	६९	एकोनसप्तति	ekonasaptati		e k o/a + n a + s a p t a + -/ʃ -/a t i	one on seven ty	1 12 7 11	e k aː/o n/- + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+87	Sanskrit	sixty nine	69	६९	ऊनसप्तति	ūnasaptati		uː + n a + s a p t a + -/ʃ -/a t i	? on seven ty	13 12 7 11	uː + n a + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+88	Sanskrit	sixty nine	69	६९	एकान्नसप्तति	ekānnasaptati		e k aː/a n/- + n a + s a p t a + -/ʃ -/a t i	one on seven ty	1 12 7 11	e k aː/a n/- + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+89	Sanskrit	seventy	70	७०	सप्तति	saptati		s a p t a + -/ʃ -/a t i	seven ty	7 11	s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+90	Sanskrit	seventy one	71	७१	एकसप्तति	ekasaptati		e k a - + s a p t a + -/ʃ -/a t i	one seven ty	1 7 11	e k a - + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+91	Sanskrit	seventy two	72	७२	द्वासप्तति	dvāsaptati		d v aː/i + s a p t a + -/ʃ -/a t i	two seven ty	2 7 11	d v aː/i + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+92	Sanskrit	seventy three	73	७३	त्र्यःसप्तति	tryahsaptati		t r a/- j/i a/- h/- + s a p t a + -/ʃ -/a t i	three seven ty	3 7 11	t r a/- j/i a/- h/- + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+93	Sanskrit	seventy four	74	७४	चतुःसप्तति	catuhsaptati		tʃ a t u h/r + s a p t a + -/ʃ -/a t i	four seven ty	4 7 11	tʃ a t u h/- + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+94	Sanskrit	seventy five	75	७५	पञ्चसप्तति	pañcasaptati		p a ɲ tʃ a + s a p t a + -/ʃ -/a t i	five seven ty	5 7 11	p a ɲ tʃ a + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+95	Sanskrit	seventy six	76	७६	षड्सप्तति	ṣaṭsaptati		ʂ a ʈ/ʂ + s a p t a + -/ʃ -/a t i	six seven ty	6 7 11	ʂ a ʈ/ʂ + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+96	Sanskrit	seventy seven	77	७७	सप्तसप्तति	saptasaptati		s a p t a + s a p t a + -/ʃ -/a t i	seven seven ty	7 7 11	s a p t a + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+97	Sanskrit	seventy eight	78	७८	अष्टसप्तति	aṣṭasaptati		a ʂ ʈ a + s a p t a + -/ʃ -/a t i	eight seven ty	8 7 11	a ʂ ʈ a + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+98	Sanskrit	seventy eight	78	७८	अष्टासप्तति	aṣṭāsaptati		a ʂ ʈ aː/a + s a p t a + -/ʃ -/a t i	eight seven ty	8 7 11	a ʂ ʈ aː/a + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+99	Sanskrit	seventy nine	79	७९	नवसप्तति	navasaptati		n a v a + s a p t a + -/ʃ -/a t i	nine seven ty	9 7 11	n a v a + s a p t a + -/ʃ -/a t i	deshpande1997samskrta
+100	Sanskrit	seventy nine	79	७९	एकोनाशीति	ekonāśīti		e k o/a + n a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	one on eight ty	1 12 8 11	e k aː/o n/- + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+101	Sanskrit	seventy nine	79	७९	ऊनाशीति	ūnāśīti		uː + n a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	? on eight ty	13 12 8 11	uː + n a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+102	Sanskrit	seventy nine	79	७९	एकान्नाशीति	ekānnāśīti		e k aː/a n/- + n -/a + aː/a ʂ -/ʈ iː/a + -/ʃ -/a t i	one on eight ty	1 12 8 11	e k aː/a n/- + n + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+103	Sanskrit	eighty	80	८०	अशीति	aśīti		a ʂ -/ʈ iː/a + -/ʃ -/a t i	eight ty	8 11	a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+104	Sanskrit	eighty one	81	८१	एकाशीति	ekāśīti		e k aː/a - + a ʂ -/ʈ iː/a + -/ʃ -/a t i	one eight ty	1 8 11	e k aː/a - + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+105	Sanskrit	eighty two	82	८२	द्व्यशीति	dvyaśīti		d v y/i + a ʂ -/ʈ iː/a + -/ʃ -/a t i	two eight ty	2 8 11	d v y/i + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+106	Sanskrit	eighty three	83	८३	त्र्यशीति	tryaśīti		t r a/- j/i a/- + a ʂ -/ʈ iː/a + -/ʃ -/a t i	three eight ty	3 8 11	t r a/- j/i a/- + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+107	Sanskrit	eighty four	84	८४	चतुरशीति	caturaśīti		tʃ a t u r + a ʂ -/ʈ iː/a + -/ʃ -/a t i	four eight ty	4 8 11	tʃ a t u r/- + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+108	Sanskrit	eighty five	85	८५	पञ्चाशीति	pañcāśīti		p a ɲ tʃ aː/a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	five eight ty	5 8 11	p a ɲ tʃ aː/a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+109	Sanskrit	eighty six	86	८६	षड्अशीति	ṣaṭaśīti		ʂ a ʈ/ʂ + a ʂ -/ʈ iː/a + -/ʃ -/a t i	six eight ty	6 8 11	ʂ a ʈ/ʂ + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+110	Sanskrit	eighty seven	87	८७	सप्ताशीति	saptāśīti		s a p t a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	seven eight ty	7 8 11	s a p t a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+111	Sanskrit	eighty eight	88	८८	अष्टाशीति	aṣṭāśīti		a ʂ ʈ aː/a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	eight eight ty	8 8 11	a ʂ ʈ aː/a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+112	Sanskrit	eighty nine	89	८९	नवाशीति	navāśīti		n a v -/a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	nine eight ty	9 8 11	n a v -/a + a ʂ -/ʈ iː/a + -/ʃ -/a t i	deshpande1997samskrta
+113	Sanskrit	eighty nine	89	८९	एकोननवति	ekonanavati		e k o/a + n a + n a v a + -/ʃ -/a t i	one on nine ty	1 12 9 11	e k aː/o n/- + n a + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+114	Sanskrit	eighty nine	89	८९	ऊननवति	ūnanavati		uː + n a + n a v a + -/ʃ -/a t i	? on nine ty	13 12 9 11	uː + n a + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+115	Sanskrit	eighty nine	89	८९	एकान्ननवति	ekānnanavati		e k aː/a n/- + n a + n a v a + -/ʃ -/a t i	one on nine ty	1 12 9 11	tʃ a t u + tʃ a t v/u aː/- r ĩ/- + ʃ a t i	deshpande1997samskrta
+116	Sanskrit	ninety	90	९०	नवति	navati		n a v a + -/ʃ -/a t i	nine ty	9 11	n a v a + -/ʃ -/a t i	deshpande1997samskrta
+117	Sanskrit	ninety one	91	९१	एकनवति	ekanavati		e k a n/- + n a v a + -/ʃ -/a t i	one nine ty	1 9 11	e k a - + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+118	Sanskrit	ninety two	92	९२	द्वानवति	dvānavati		d v aː/i + n a v a + -/ʃ -/a t i	two nine ty	2 9 11	d v aː/i + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+119	Sanskrit	ninety three	93	९३	त्रयोनवति	trayonavati		t r a/- j/i o/- + n a v a + -/ʃ -/a t i	three nine ty	3 9 11	t r a/- j/i o/- + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+120	Sanskrit	ninety four	94	९४	चतुर्नवति	caturnavati		tʃ a t u r + n a v a + -/ʃ -/a t i	four nine ty	4 9 11	tʃ a t u r/- + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+121	Sanskrit	ninety five	95	९५	पञ्चनवति	pañcanavati		p a ɲ tʃ a + n a v a + -/ʃ -/a t i	five nine ty	5 9 11	p a ɲ tʃ a + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+122	Sanskrit	ninety six	96	९६	षड्नवति	ṣaṭnavati		ʂ a ʈ/ʂ + n a v a + -/ʃ -/a t i	six nine ty	6 9 11	ʂ a ʈ/ʂ + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+123	Sanskrit	ninety seven	97	९७	सप्तनवति	saptanavati		s a p t a + n a v a + -/ʃ -/a t i	seven nine ty	7 9 11	s a p t a + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+124	Sanskrit	ninety eight	98	९८	अष्टानवति	aṣṭānavati		a ʂ ʈ aː/a + n a v a + -/ʃ -/a t i	eight nine ty	8 9 11	a ʂ ʈ aː/a + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+125	Sanskrit	ninety nine	99	९९	नवनवति	navanavati		n a v a + n a v a + -/ʃ -/a t i	nine nine ty	9 9 11	n a v a + n a v a + -/ʃ -/a t i	deshpande1997samskrta
+126	Sanskrit	ninety nine	99	९९	एकोनशत	ekonaśata		e k o/a + n -/a + ʃ a t a	one on hundred	1 12 14	e k aː/o + n -/a + ʃ a t a	deshpande1997samskrta
 127	Sanskrit	ninety nine	99	९९	ऊनशत	ūnaśata		uː + n a + ʃ a t a	? on hundred	13 12 14	uː + n a + ʃ a t a	deshpande1997samskrta
 128	Sanskrit	ninety nine	99	९९	एकान्नशत	ekānnaśata		e k aː/a n/- + n -/a + ʃ a t a	one on hundred	1 12 14	e k aː/a n/- + n -/a + ʃ a t a	deshpande1997samskrta
