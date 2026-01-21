@@ -14,7 +14,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 13	Plains_Cree	thirteen	nistosāp	n i s t u + s aː p	three teen		3 11		Okimasis2018
 14	Plains_Cree	fourteen	nēwosāp	n eː w u + s aː p	four teen		4 11		Okimasis2018
 15	Plains_Cree	fifteen	niyānanosāp	n i j aː n a n + u/- s aː p	five teen		5 11		Okimasis2018
-16	Plains_Cree	sixteen	nikotwāsosāp	n i k o t w aː s -/i -/k + u-/ s aː p	six teen		6 11		Okimasis2018
+16	Plains_Cree	sixteen	nikotwāsosāp	n i k o t w aː s -/i -/k + u/- s aː p	six teen		6 11		Okimasis2018
 17	Plains_Cree	seventeen	tēpakohposāp	t eː p a k u h p + u/- s aː p	seven teen		7 11		Okimasis2018
 100	Plains_Cree	seventeen	tēpakohp-tahtosāp	t eː p a k u h p + t a h t u + s aː p	seven ? teen		7 99 11		Okimasis2018
 18	Plains_Cree	eighteen	ayēnānēwosāp	a j eː n aː n eː w + u/- s aː p	eight teen		8 11		Okimasis2018
@@ -33,7 +33,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 103	Plains_Cree	twenty three	nīsitanaw nistosāp	n iː s i t a n a w + n i s t u + s aː p	twenty three teen		20 3 11		Okimasis2018
 104	Plains_Cree	twenty four	nīsitanaw nēwosāp	n iː s i t a n a w + n eː w u + s aː p	twenty four teen		20 4 11		Okimasis2018
 105	Plains_Cree	twenty five	nīsitanaw niyānanosāp	n iː s i t a n a w + n i j aː n a n + u/- s aː p	twenty five teen		20 5 11		Okimasis2018
-106	Plains_Cree	twenty six	nīsitanaw nikotwāsosāp	n iː s i t a n a w + n i k o t w aː s -/i -/k + u-/ s aː p	twenty six teen		20 6 11		Okimasis2018
+106	Plains_Cree	twenty six	nīsitanaw nikotwāsosāp	n iː s i t a n a w + n i k o t w aː s -/i -/k + u/- s aː p	twenty six teen		20 6 11		Okimasis2018
 107	Plains_Cree	twenty seven	nīsitanaw tēpakohposāp	n iː s i t a n a w + t eː p a k u h p + u/- s aː p	twenty seven teen		20 7 11		Okimasis2018
 108	Plains_Cree	twenty eight	nīsitanaw ayēnānēwosāp	n iː s i t a n a w + a j eː n aː n eː w + u/- s aː p	twenty eight teen		20 8 11		Okimasis2018
 29	Plains_Cree	twenty nine	kēkāc-nistomitanaw	k eː k aː ts + n i s t u + m i t a n a w	nearly three -ty		9 3 13		Okimasis2018
@@ -76,16 +76,16 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 66	Plains_Cree	sixty six	nikotwāsomitanaw ayiwāk nikotwāsik	n i k o t w aː s -/i -/k + u/- m i t a n a w + a j i w aː k + n i k o t w aː s i k	six -ty plus six		6 13 12 6		Okimasis2018
 67	Plains_Cree	sixty seven	nikotwāsomitanaw ayiwāk tēpakohp	n i k o t w aː s -/i -/k + u/- m i t a n a w + a j i w aː k + t eː p a k u h p	six -ty plus seven		6 13 12 7		Okimasis2018
 68	Plains_Cree	sixty eight	nikotwāsomitanaw ayiwāk ayēnānēw	n i k o t w aː s -/i -/k + u/- m i t a n a w + a j i w aː k + a j eː n aː n eː w	six -ty plus eight		6 13 12 8		Okimasis2018
-69	Plains_Cree	seventy	kēkāc-tēpakohpomitanaw	k eː k aː ts + t eː p a k u h p + u-/ m i t a n a w	nearly seven -ty		9 7 13		Okimasis2018
-70	Plains_Cree	seventy	tēpakohpomitanaw	t eː p a k u h p + u-/ m i t a n a w	seven -ty		7 13		Okimasis2018
-71	Plains_Cree	seventy one	tēpakohpomitanaw ayiwāk pēyak	t eː p a k u h p + u-/ m i t a n a w + a j i w aː k + p eː j a k	seven -ty plus one		7 13 12 1		Okimasis2018
-72	Plains_Cree	seventy two	tēpakohpomitanaw ayiwāk nīso	t eː p a k u h p + u-/ m i t a n a w + a j i w aː k + n iː s u	seven -ty plus two		7 13 12 2		Okimasis2018
-73	Plains_Cree	seventy three	tēpakohpomitanaw ayiwāk nisto	t eː p a k u h p + u-/ m i t a n a w + a j i w aː k + n i s t u	seven -ty plus three		7 13 12 3		Okimasis2018
-74	Plains_Cree	seventy four	tēpakohpomitanaw ayiwāk nēwo	t eː p a k u h p + u-/ m i t a n a w + a j i w aː k + n eː w u	seven -ty plus four		7 13 12 4		Okimasis2018
-75	Plains_Cree	seventy five	tēpakohpomitanaw ayiwāk niyānan	t eː p a k u h p + u-/ m i t a n a w + a j i w aː k + n i j aː n a n	seven -ty plus five		7 13 12 5		Okimasis2018
-76	Plains_Cree	seventy six	tēpakohpomitanaw ayiwāk nikotwāsik	t eː p a k u h p + u-/ m i t a n a w + a j i w aː k + n i k o t w aː s i k	seven -ty plus six		7 13 12 6		Okimasis2018
-77	Plains_Cree	seventy seven	tēpakohpomitanaw ayiwāk tēpakohp	t eː p a k u h p + u-/ m i t a n a w + a j i w aː k + t eː p a k u h p	seven -ty plus seven		7 13 12 7		Okimasis2018
-78	Plains_Cree	seventy eight	tēpakohpomitanaw ayiwāk ayēnānēw	t eː p a k u h p + u-/ m i t a n a w + a j i w aː k + a j eː n aː n eː w	seven -ty plus eight		7 13 12 8		Okimasis2018
+69	Plains_Cree	seventy	kēkāc-tēpakohpomitanaw	k eː k aː ts + t eː p a k u h p + u/- m i t a n a w	nearly seven -ty		9 7 13		Okimasis2018
+70	Plains_Cree	seventy	tēpakohpomitanaw	t eː p a k u h p + u/- m i t a n a w	seven -ty		7 13		Okimasis2018
+71	Plains_Cree	seventy one	tēpakohpomitanaw ayiwāk pēyak	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + p eː j a k	seven -ty plus one		7 13 12 1		Okimasis2018
+72	Plains_Cree	seventy two	tēpakohpomitanaw ayiwāk nīso	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + n iː s u	seven -ty plus two		7 13 12 2		Okimasis2018
+73	Plains_Cree	seventy three	tēpakohpomitanaw ayiwāk nisto	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + n i s t u	seven -ty plus three		7 13 12 3		Okimasis2018
+74	Plains_Cree	seventy four	tēpakohpomitanaw ayiwāk nēwo	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + n eː w u	seven -ty plus four		7 13 12 4		Okimasis2018
+75	Plains_Cree	seventy five	tēpakohpomitanaw ayiwāk niyānan	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + n i j aː n a n	seven -ty plus five		7 13 12 5		Okimasis2018
+76	Plains_Cree	seventy six	tēpakohpomitanaw ayiwāk nikotwāsik	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + n i k o t w aː s i k	seven -ty plus six		7 13 12 6		Okimasis2018
+77	Plains_Cree	seventy seven	tēpakohpomitanaw ayiwāk tēpakohp	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + t eː p a k u h p	seven -ty plus seven		7 13 12 7		Okimasis2018
+78	Plains_Cree	seventy eight	tēpakohpomitanaw ayiwāk ayēnānēw	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + a j eː n aː n eː w	seven -ty plus eight		7 13 12 8		Okimasis2018
 79	Plains_Cree	eighty	kēkāc-ayēnānēwomitanaw	k eː k aː ts + a j eː n aː n eː w + u/- m i t a n a w	nearly eight -ty		9 8 13		Okimasis2018
 80	Plains_Cree	eighty	ayēnānēwomitanaw	a j eː n aː n eː w + u/- m i t a n a w	eight -ty		8 13		Okimasis2018
 81	Plains_Cree	eighty one	ayēnānēwomitanaw ayiwāk pēyak	a j eː n aː n eː w + u/- m i t a n a w + a j i w aː k + p eː j a k	eight -ty plus one		8 13 12 1		Okimasis2018
