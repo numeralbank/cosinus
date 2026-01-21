@@ -1,0 +1,109 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
+1	Cheyenne	one	na'ėstse	n à ʔ e̥ s ts è	one		1		Leman2025
+2	Cheyenne	two	neše	n è ʃ è	two		2		Leman2025
+3	Cheyenne	three	na'he	n à ʔ h è	three		3		Leman2025
+4	Cheyenne	four	neve	n è v è/-	four		4		Leman2025
+5	Cheyenne	five	noho	n ò h ò	five		5		Leman2025
+6	Cheyenne	six	naesohto	n àː s ò h t ò	six		6	etymologically 1+5, but this is not transparently deductable in a synchronic analysis	Leman2025
+7	Cheyenne	seven	nésohto	n é s ò h t ò	seven		7	etymologically 2+5, but this is not transparently deductable in a synchronic analysis	Leman2025
+8	Cheyenne	eight	na'nohto	n à ʔ n ò h t ò	eight		8	etymologically 3+5, but this is not transparently deductable in a synchronic analysis	Leman2025
+9	Cheyenne	nine	sóohto	s óː h t ò	nine		9		Leman2025
+10	Cheyenne	ten	mȧhtohto	m ḁ t ò h t ò	ten		10		Leman2025
+11	Cheyenne	eleven	mȧhtohto hóhta na'ėstse	m ḁ t ò h t ò + h ó h t a + n à ʔ e̥ s ts è	ten plus one		10 12 1		Leman2025
+12	Cheyenne	twelve	mȧhtohto hóhta neše	m ḁ t ò h t ò + h ó h t a + n è ʃ è	ten plus two		10 12 2		Leman2025
+13	Cheyenne	thirteen	mȧhtohto hóhta na'he	m ḁ t ò h t ò + h ó h t a + n à ʔ h è	ten plus three		10 12 3		Leman2025
+14	Cheyenne	fourteen	mȧhtohto hóhta neve	m ḁ t ò h t ò + h ó h t a + n è v è/-	ten plus four		10 12 4		Leman2025
+15	Cheyenne	fifteen	mȧhtohto hóhta noho	m ḁ t ò h t ò + h ó h t a + n ò h ò	ten plus five		10 12 5		Leman2025
+16	Cheyenne	sixteen	mȧhtohto hóhta naesohto	m ḁ t ò h t ò + h ó h t a + n àː s ò h t ò	ten plus six		10 12 6		Leman2025
+17	Cheyenne	seventeen	mȧhtohto hóhta nésohto	m ḁ t ò h t ò + h ó h t a + n é s ò h t ò	ten plus seven		10 12 7		Leman2025
+18	Cheyenne	eighteen	mȧhtohto hóhta na'nohto	m ḁ t ò h t ò + h ó h t a + n à ʔ n ò h t ò	ten plus eight		10 12 8		Leman2025
+19	Cheyenne	nineteen	mȧhtohto hóhta sóohto	m ḁ t ò h t ò + h ó h t a + s óː h t ò	ten plus nine		10 12 9		Leman2025
+100	Cheyenne	eleven	hóhta na'ėstse	h ó h t a + n à ʔ e̥ s ts è	plus one		12 1		Leman2025
+101	Cheyenne	twelve	hóhta neše	h ó h t a + n è ʃ è	plus two		12 2		Leman2025
+102	Cheyenne	thirteen	hóhta na'he	h ó h t a + n à ʔ h è	plus three		12 3		Leman2025
+103	Cheyenne	fourteen	hóhta neve	h ó h t a + n è v è/-	plus four		12 4		Leman2025
+104	Cheyenne	fifteen	hóhta noho	h ó h t a + n ò h ò	plus five		12 5		Leman2025
+105	Cheyenne	sixteen	hóhta naesohto	h ó h t a + n àː s ò h t ò	plus six		12 6		Leman2025
+106	Cheyenne	seventeen	hóhta nésohto	h ó h t a + n é s ò h t ò	plus seven		12 7		Leman2025
+107	Cheyenne	eighteen	hóhta na'nohto	h ó h t a + n à ʔ n ò h t ò	plus eight		12 8		Leman2025
+108	Cheyenne	nineteen	hóhta sóohto	h ó h t a + s óː h t ò	plus nine		12 9		Leman2025
+20	Cheyenne	twenty	nésó'e	n é s + -/n ó ʔ è	two2 -ty		21 11		Leman2025
+21	Cheyenne	twenty one	nésó'e hóhta na'ėstse	n é s + -/n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è	two2 -ty plus one		21 11 12 1		Leman2025
+22	Cheyenne	twenty two	nésó'e hóhta neše	n é s + -/n ó ʔ è + h ó h t a + n è ʃ è	two2 -ty plus two		21 11 12 2		Leman2025
+23	Cheyenne	twenty three	nésó'e hóhta na'he	n é s + -/n ó ʔ è + h ó h t a + n à ʔ h è	two2 -ty plus three		21 11 12 3		Leman2025
+24	Cheyenne	twenty four	nésó'e hóhta neve	n é s + -/n ó ʔ è + h ó h t a + n è v è/-	two2 -ty plus four		21 11 12 4		Leman2025
+25	Cheyenne	twenty five	nésó'e hóhta noho	n é s + -/n ó ʔ è + h ó h t a + n ò h ò	two2 -ty plus five		21 11 12 5		Leman2025
+26	Cheyenne	twenty six	nésó'e hóhta naesohto	n é s + -/n ó ʔ è + h ó h t a + n àː s ò h t ò	two2 -ty plus six		21 11 12 6		Leman2025
+27	Cheyenne	twenty seven	nésó'e hóhta nésohto	n é s + -/n ó ʔ è + h ó h t a + n é s ò h t ò	two2 -ty plus seven		21 11 12 7		Leman2025
+28	Cheyenne	twenty eight	nésó'e hóhta na'nohto	n é s + -/n ó ʔ è + h ó h t a + n à ʔ n ò h t ò	two2 -ty plus eight		21 11 12 8		Leman2025
+29	Cheyenne	twenty nine	nésó'e hóhta sóohto	n é s + -/n ó ʔ è + h ó h t a + s óː h t ò	two2 -ty plus nine		21 11 12 9		Leman2025
+30	Cheyenne	thirty	na'nó'e	n à ʔ + n ó ʔ è	three2 -ty		31 11		Leman2025
+31	Cheyenne	thirty one	na'nó'e hóhta na'ėstse	n à ʔ + n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è	three2 -ty plus one		31 11 12 1		Leman2025
+32	Cheyenne	thirty two	na'nó'e hóhta neše	n à ʔ + n ó ʔ è + h ó h t a + n è ʃ è	three2 -ty plus two		31 11 12 2		Leman2025
+33	Cheyenne	thirty three	na'nó'e hóhta na'he	n à ʔ + n ó ʔ è + h ó h t a + n à ʔ h è	three2 -ty plus three		31 11 12 3		Leman2025
+34	Cheyenne	thirty four	na'nó'e hóhta neve	n à ʔ + n ó ʔ è + h ó h t a + n è v è/-	three2 -ty plus four		31 11 12 4		Leman2025
+35	Cheyenne	thirty five	na'nó'e hóhta noho	n à ʔ + n ó ʔ è + h ó h t a + n ò h ò	three2 -ty plus five		31 11 12 5		Leman2025
+36	Cheyenne	thirty six	na'nó'e hóhta naesohto	n à ʔ + n ó ʔ è + h ó h t a + n àː s ò h t ò	three2 -ty plus six		31 11 12 6		Leman2025
+37	Cheyenne	thirty seven	na'nó'e hóhta nésohto	n à ʔ + n ó ʔ è + h ó h t a + n é s ò h t ò	three2 -ty plus seven		31 11 12 7		Leman2025
+38	Cheyenne	thirty eight	na'nó'e hóhta na'nohto	n à ʔ + n ó ʔ è + h ó h t a + n à ʔ n ò h t ò	three2 -ty plus eight		31 11 12 8		Leman2025
+39	Cheyenne	thirty nine	na'nó'e hóhta sóohto	n à ʔ + n ó ʔ è + h ó h t a + s óː h t ò	three2 -ty plus nine		31 11 12 9		Leman2025
+40	Cheyenne	forty	névó'e	n é/è v + -/n ó ʔ è	four -ty		4 11		Leman2025
+41	Cheyenne	forty one	névó'e hóhta na'ėstse	n é/è v + -/n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è	four -ty plus one		4 11 12 1		Leman2025
+42	Cheyenne	forty two	névó'e hóhta neše	n é/è v + -/n ó ʔ è + h ó h t a + n è ʃ è	four -ty plus two		4 11 12 2		Leman2025
+43	Cheyenne	forty three	névó'e hóhta na'he	n é/è v + -/n ó ʔ è + h ó h t a + n à ʔ h è	four -ty plus three		4 11 12 3		Leman2025
+44	Cheyenne	forty four	névó'e hóhta neve	n é/è v + -/n ó ʔ è + h ó h t a + n è v è/-	four -ty plus four		4 11 12 4		Leman2025
+45	Cheyenne	forty five	névó'e hóhta noho	n é/è v + -/n ó ʔ è + h ó h t a + n ò h ò	four -ty plus five		4 11 12 5		Leman2025
+46	Cheyenne	forty six	névó'e hóhta naesohto	n é/è v + -/n ó ʔ è + h ó h t a + n àː s ò h t ò	four -ty plus six		4 11 12 6		Leman2025
+47	Cheyenne	forty seven	névó'e hóhta nésohto	n é/è v + -/n ó ʔ è + h ó h t a + n é s ò h t ò	four -ty plus seven		4 11 12 7		Leman2025
+48	Cheyenne	forty eight	névó'e hóhta na'nohto	n é/è v + -/n ó ʔ è + h ó h t a + n à ʔ n ò h t ò	four -ty plus eight		4 11 12 8		Leman2025
+49	Cheyenne	forty nine	névó'e hóhta sóohto	n é/è v + -/n ó ʔ è + h ó h t a + s óː h t ò	four -ty plus nine		4 11 12 9		Leman2025
+50	Cheyenne	fifty	nóhónó'e	n ó/ò h ó/ò + n ó ʔ è	five -ty		5 11		Leman2025
+51	Cheyenne	fifty one	nóhónó'e hóhta na'ėstse	n ó/ò h ó/ò + n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è	five -ty plus one		5 11 12 1		Leman2025
+52	Cheyenne	fifty two	nóhónó'e hóhta neše	n ó/ò h ó/ò + n ó ʔ è + h ó h t a + n è ʃ è	five -ty plus two		5 11 12 2		Leman2025
+53	Cheyenne	fifty three	nóhónó'e hóhta na'he	n ó/ò h ó/ò + n ó ʔ è + h ó h t a + n à ʔ h è	five -ty plus three		5 11 12 3		Leman2025
+54	Cheyenne	fifty four	nóhónó'e hóhta neve	n ó/ò h ó/ò + n ó ʔ è + h ó h t a + n è v è/-	five -ty plus four		5 11 12 4		Leman2025
+55	Cheyenne	fifty five	nóhónó'e hóhta noho	n ó/ò h ó/ò + n ó ʔ è + h ó h t a + n ò h ò	five -ty plus five		5 11 12 5		Leman2025
+56	Cheyenne	fifty six	nóhónó'e hóhta naesohto	n ó/ò h ó/ò + n ó ʔ è + h ó h t a + n àː s ò h t ò	five -ty plus six		5 11 12 6		Leman2025
+57	Cheyenne	fifty seven	nóhónó'e hóhta nésohto	n ó/ò h ó/ò + n ó ʔ è + h ó h t a + n é s ò h t ò	five -ty plus seven		5 11 12 7		Leman2025
+58	Cheyenne	fifty eight	nóhónó'e hóhta na'nohto	n ó/ò h ó/ò + n ó ʔ è + h ó h t a + n à ʔ n ò h t ò	five -ty plus eight		5 11 12 8		Leman2025
+59	Cheyenne	fifty nine	nóhónó'e hóhta sóohto	n ó/ò h ó/ò + n ó ʔ è + h ó h t a + s óː h t ò	five -ty plus nine		5 11 12 9		Leman2025
+60	Cheyenne	sixty	naesóhtȯhnó'e	n àː s ó/ò h t o̥/ò + n ó ʔ è	six -ty		6 11		Leman2025
+61	Cheyenne	sixty one	naesóhtȯhnó'e hóhta na'ėstse	n àː s ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è	six -ty plus one		6 11 12 1		Leman2025
+62	Cheyenne	sixty two	naesóhtȯhnó'e hóhta neše	n àː s ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n è ʃ è	six -ty plus two		6 11 12 2		Leman2025
+63	Cheyenne	sixty three	naesóhtȯhnó'e hóhta na'he	n àː s ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ h è	six -ty plus three		6 11 12 3		Leman2025
+64	Cheyenne	sixty four	naesóhtȯhnó'e hóhta neve	n àː s ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n è v è/-	six -ty plus four		6 11 12 4		Leman2025
+65	Cheyenne	sixty five	naesóhtȯhnó'e hóhta noho	n àː s ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n ò h ò	six -ty plus five		6 11 12 5		Leman2025
+66	Cheyenne	sixty six	naesóhtȯhnó'e hóhta naesohto	n àː s ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n àː s ò h t ò	six -ty plus six		6 11 12 6		Leman2025
+67	Cheyenne	sixty seven	naesóhtȯhnó'e hóhta nésohto	n àː s ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n é s ò h t ò	six -ty plus seven		6 11 12 7		Leman2025
+68	Cheyenne	sixty eight	naesóhtȯhnó'e hóhta na'nohto	n àː s ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ n ò h t ò	six -ty plus eight		6 11 12 8		Leman2025
+69	Cheyenne	sixty nine	naesóhtȯhnó'e hóhta sóohto	n àː s ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + s óː h t ò	six -ty plus nine		6 11 12 9		Leman2025
+70	Cheyenne	seventy	nésȯhtȯhnó'e	n é s o̥/ò -/h t o̥/ò + n ó ʔ è	seven -ty		7 11		Leman2025
+71	Cheyenne	seventy one	nésȯhtȯhnó'e hóhta na'ėstse	n é s o̥/ò -/h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è	seven -ty plus one		7 11 12 1		Leman2025
+72	Cheyenne	seventy two	nésȯhtȯhnó'e hóhta neše	n é s o̥/ò -/h t o̥/ò + n ó ʔ è + h ó h t a + n è ʃ è	seven -ty plus two		7 11 12 2		Leman2025
+73	Cheyenne	seventy three	nésȯhtȯhnó'e hóhta na'he	n é s o̥/ò -/h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ h è	seven -ty plus three		7 11 12 3		Leman2025
+74	Cheyenne	seventy four	nésȯhtȯhnó'e hóhta neve	n é s o̥/ò -/h t o̥/ò + n ó ʔ è + h ó h t a + n è v è/-	seven -ty plus four		7 11 12 4		Leman2025
+75	Cheyenne	seventy five	nésȯhtȯhnó'e hóhta noho	n é s o̥/ò -/h t o̥/ò + n ó ʔ è + h ó h t a + n ò h ò	seven -ty plus five		7 11 12 5		Leman2025
+76	Cheyenne	seventy six	nésȯhtȯhnó'e hóhta naesohto	n é s o̥/ò -/h t o̥/ò + n ó ʔ è + h ó h t a + n àː s ò h t ò	seven -ty plus six		7 11 12 6		Leman2025
+77	Cheyenne	seventy seven	nésȯhtȯhnó'e hóhta nésohto	n é s o̥/ò -/h t o̥/ò + n ó ʔ è + h ó h t a + n é s ò h t ò	seven -ty plus seven		7 11 12 7		Leman2025
+78	Cheyenne	seventy eight	nésȯhtȯhnó'e hóhta na'nohto	n é s o̥/ò -/h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ n ò h t ò	seven -ty plus eight		7 11 12 8		Leman2025
+79	Cheyenne	seventy nine	nésȯhtȯhnó'e hóhta sóohto	n é s o̥/ò -/h t o̥/ò + n ó ʔ è + h ó h t a + s óː h t ò	seven -ty plus nine		7 11 12 9		Leman2025
+80	Cheyenne	eighty	na'nóhtȯhnó'e	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è	eight -ty		8 11		Leman2025
+81	Cheyenne	eighty one	na'nóhtȯhnó'e hóhta na'ėstse	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è	eight -ty plus one		8 11 12 1		Leman2025
+82	Cheyenne	eighty two	na'nóhtȯhnó'e hóhta neše	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n è ʃ è	eight -ty plus two		8 11 12 2		Leman2025
+83	Cheyenne	eighty three	na'nóhtȯhnó'e hóhta na'he	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ h è	eight -ty plus three		8 11 12 3		Leman2025
+84	Cheyenne	eighty four	na'nóhtȯhnó'e hóhta neve	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n è v è/-	eight -ty plus four		8 11 12 4		Leman2025
+85	Cheyenne	eighty five	na'nóhtȯhnó'e hóhta noho	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n ò h ò	eight -ty plus five		8 11 12 5		Leman2025
+86	Cheyenne	eighty six	na'nóhtȯhnó'e hóhta naesohto	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n àː s ò h t ò	eight -ty plus six		8 11 12 6		Leman2025
+87	Cheyenne	eighty seven	na'nóhtȯhnó'e hóhta nésohto	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n é s ò h t ò	eight -ty plus seven		8 11 12 7		Leman2025
+88	Cheyenne	eighty eight	na'nóhtȯhnó'e hóhta na'nohto	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ n ò h t ò	eight -ty plus eight		8 11 12 8		Leman2025
+89	Cheyenne	eighty nine	na'nóhtȯhnó'e hóhta sóohto	n à ʔ n ó/ò h t o̥/ò + n ó ʔ è + h ó h t a + s óː h t ò	eight -ty plus nine		8 11 12 9		Leman2025
+90	Cheyenne	ninety	sóóhtȯhnó'e	s óː h t o̥/ò + n ó ʔ è	nine -ty		9 11		Leman2025
+91	Cheyenne	ninety one	sóóhtȯhnó'e hóhta na'ėstse	s óː h t o̥/ò + n ó ʔ è+ h ó h t a + n à ʔ e̥ s ts è	nine -ty plus one		9 11 12 1		Leman2025
+92	Cheyenne	ninety two	sóóhtȯhnó'e hóhta neše	s óː h t o̥/ò + n ó ʔ è + h ó h t a + n è ʃ è	nine -ty plus two		9 11 12 2		Leman2025
+93	Cheyenne	ninety three	sóóhtȯhnó'e hóhta na'he	s óː h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ h è	nine -ty plus three		9 11 12 3		Leman2025
+94	Cheyenne	ninety four	sóóhtȯhnó'e hóhta neve	s óː h t o̥/ò + n ó ʔ è + h ó h t a + n è v è/-	nine -ty plus four		9 11 12 4		Leman2025
+95	Cheyenne	ninety five	sóóhtȯhnó'e hóhta noho	s óː h t o̥/ò + n ó ʔ è + h ó h t a + n ò h ò	nine -ty plus five		9 11 12 5		Leman2025
+96	Cheyenne	ninety six	sóóhtȯhnó'e hóhta naesohto	s óː h t o̥/ò + n ó ʔ è + h ó h t a + n àː s ò h t ò	nine -ty plus six		9 11 12 6		Leman2025
+97	Cheyenne	ninety seven	sóóhtȯhnó'e hóhta nésohto	s óː h t o̥/ò + n ó ʔ è + h ó h t a + n é s ò h t ò	nine -ty plus seven		9 11 12 7		Leman2025
+98	Cheyenne	ninety eight	sóóhtȯhnó'e hóhta na'nohto	s óː h t o̥/ò + n ó ʔ è + h ó h t a + n à ʔ n ò h t ò	nine -ty plus eight		9 11 12 8		Leman2025
+99	Cheyenne	ninety nine	sóóhtȯhnó'e hóhta sóohto	s óː h t o̥/ò + n ó ʔ è + h ó h t a + s óː h t ò	nine -ty plus nine		9 11 12 9		Leman2025
