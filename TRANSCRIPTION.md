@@ -5,44 +5,46 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| + | 11411 | ✓ | ✓ |
-| a | 6045 | ✓ | ✓ |
-| t | 3301 | ✓ | ✓ |
-| i | 3255 | ✓ | ✓ |
-| n | 3237 | ✓ | ✓ |
-| s | 2686 | ✓ | ✓ |
+| + | 11910 | ✓ | ✓ |
+| a | 6466 | ✓ | ✓ |
+| n | 3760 | ✓ | ✓ |
+| t | 3694 | ✓ | ✓ |
+| i | 3494 | ✓ | ✓ |
+| s | 2858 | ✓ | ✓ |
 | e | 2138 | ✓ | ✓ |
-| k | 1852 | ✓ | ✓ |
-| m | 1602 | ✓ | ✓ |
-| ʃ | 1377 | ✓ | ✓ |
-| u | 1365 | ✓ | ✓ |
+| k | 2021 | ✓ | ✓ |
+| m | 1698 | ✓ | ✓ |
+| u | 1481 | ✓ | ✓ |
+| ʃ | 1388 | ✓ | ✓ |
 | r | 1362 | ✓ | ✓ |
 | ə | 1262 | ✓ | ✓ |
-| o | 1155 | ✓ | ✓ |
+| o | 1176 | ✓ | ✓ |
+| p | 1160 | ✓ | ✓ |
 | d | 1133 | ✓ | ✓ |
-| p | 1087 | ✓ | ✓ |
-| ʔ | 941 | ✓ | ✓ |
+| w | 1096 | ✓ | ✓ |
+| ʔ | 1074 | ✓ | ✓ |
+| aː | 1054 | ✓ | ✓ |
 | l | 908 | ✓ | ✓ |
-| w | 891 | ✓ | ✓ |
-| aː | 873 | ✓ | ✓ |
+| h | 886 | ✓ | ✓ |
 | b | 700 | ✓ | ✓ |
 | ɨ | 693 | ✓ | ✓ |
 | ɛ | 689 | ✓ | ✓ |
+| j | 638 | ✓ | ✓ |
 | ʊ | 632 | ✓ | ✓ |
 | æ | 631 | ✓ | ✓ |
 | ʕ | 573 | ✓ | ✓ |
-| h | 552 | ✓ | ✓ |
-| j | 521 | ✓ | ✓ |
-| v | 512 | ✓ | ✓ |
+| v | 533 | ✓ | ✓ |
+| iː | 500 | ✓ | ✓ |
 | ɪ | 496 | ✓ | ✓ |
-| iː | 472 | ✓ | ✓ |
 | g | 443 | ✓ | ✓ |
+| ts | 332 | ✓ | ✓ |
 | θ | 327 | ✓ | ✓ |
 | z | 320 | ✓ | ✓ |
-| ts | 314 | ✓ | ✓ |
 | x | 281 | ✓ | ✓ |
 | f | 236 | ✓ | ✓ |
 | ŋ | 234 | ✓ | ✓ |
+| ó | 230 | ✓ | ✓ |
+| eː | 227 | ✓ | ✓ |
 | uː | 226 | ✓ | ✓ |
 | ç | 226 | ✓ | ✓ |
 | ħ | 190 | ✓ | ✓ |
@@ -51,6 +53,7 @@
 | ʁ | 178 | ✓ | ✓ |
 | y | 172 | ✓ | ✓ |
 | ʧ | 170 | ✓ | ✓ |
+| è | 146 | ✓ | ✓ |
 | ɾ | 144 | ✓ | ✓ |
 | tʲ | 141 | ✓ | ✓ |
 | q | 130 | ✓ | ✓ |
@@ -59,9 +62,9 @@
 | ʒ | 123 | ✓ | ✓ |
 | ɛ́ | 121 | ✓ | ✓ |
 | á | 119 | ✓ | ✓ |
+| ò | 119 | ✓ | ✓ |
 | oː | 115 | ✓ | ✓ |
 | ɲ | 112 | ✓ | ✓ |
-| eː | 110 | ✓ | ✓ |
 | tʃ | 106 | ✓ | ✓ |
 | ɔ | 104 | ✓ | ✓ |
 | ¹² | 100 | ✓ | ✓ |
@@ -90,6 +93,7 @@
 | ĩ | 69 | ✓ | ✓ |
 | ɛ̀ | 69 | ✓ | ✓ |
 | é | 61 | ✓ | ✓ |
+| é | 61 | ✓ | ✓ |
 | ɛ̃ | 61 | ✓ | ✓ |
 | à | 60 | ✓ | ✓ |
 | tɕʰ | 60 | ✓ | ✓ |
@@ -102,8 +106,10 @@
 | wa | 59 | ? | ? |
 | ɯ | 59 | ✓ | ✓ |
 | ɺ | 59 | ✓ | ✓ |
+| à | 53 | ✓ | ✓ |
 | ɑ̃ | 51 | ✓ | ✓ |
 | n̪ˠ | 50 | ✓ | ✓ |
+| o̥ | 50 | ✓ | ✓ |
 | sʰ | 50 | ✓ | ✓ |
 | tˤ | 50 | ✓ | ✓ |
 | ɒ | 50 | ✓ | ✓ |
@@ -137,6 +143,8 @@
 | gʷ | 21 | ✓ | ✓ |
 | sː | 21 | ✓ | ✓ |
 | vʲ | 21 | ✓ | ✓ |
+| àː | 21 | ✓ | ✓ |
+| óː | 21 | ✓ | ✓ |
 | ɭ | 21 | ✓ | ✓ |
 | aʊ | 20 | ✓ | ✓ |
 | ǎ | 20 | ✓ | ✓ |
@@ -151,8 +159,6 @@
 | ù | 20 | ✓ | ✓ |
 | xʷ | 20 | ✓ | ✓ |
 | á | 20 | ✓ | ✓ |
-| é | 20 | ✓ | ✓ |
-| ó | 20 | ✓ | ✓ |
 | óʊɰ̃ | 20 | ? | ? |
 | ŋ̍ | 20 | ✓ | ✓ |
 | ȵ | 20 | ✓ | ✓ |
@@ -181,11 +187,14 @@
 | ɪ̃ | 17 | ✓ | ✓ |
 | ɖ | 16 | ✓ | ✓ |
 | je | 15 | ? | ? |
+| u- | 12 | ? | ? |
 | ʤʰ | 12 | ✓ | ✓ |
+| e̥ | 11 | ✓ | ✓ |
 | mˤ | 11 | ✓ | ✓ |
 | nˠ | 11 | ✓ | ✓ |
 | t̊ | 11 | ✓ | ✓ |
 | œ | 11 | ✓ | ✓ |
+| ḁ | 10 | ✓ | ✓ |
 | fʲ | 10 | ✓ | ✓ |
 | ie̞ | 10 | ✓ | ✓ |
 | kʰʷ | 10 | ✓ | ✓ |
@@ -234,7 +243,7 @@
 | ʃː | 1 | ✓ | ✓ |
 | ʧː | 1 | ✓ | ✓ |
 
-(228 rows)
+(237 rows)
 
 
 
@@ -250,7 +259,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------|:-----------|:-------------|:------------------------|:--------------------------------------------------------|
+|:---------------------------|:------------|:-------------|:--------------------------------------|:-----------------------------------------------------------------------------------|
 | Burmese-eightyseven-1 | Burmese | eightyseven | ʃɪʔsʰɛ̰kʰʊ̀ɰ̃n̥ɪʔ | ʃ ɪ ʔ + sʰ ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
 | Burmese-eightythree-1 | Burmese | eightythree | ʃɪʔsʰɛ̰θóʊɰ̃ | ʃ ɪ ʔ + sʰ ɛ̰ + θ <s> óʊɰ̃ </s> |
 | Burmese-fiftyseven-1 | Burmese | fiftyseven | ŋázɛ̰kʰʊ̀ɰ̃n̥ɪʔ | ŋ á + z ɛ̰ + kʰ <s> ʊ̀ɰ̃ </s> n̥ ɪ ʔ |
@@ -341,16 +350,16 @@
 | Italian-thirtyfour-1 | Italian | thirtyfour | trentakwatːro | t r e + n t a + k <s> wa </s> tː r o |
 | Italian-twentyfive-1 | Italian | twentyfive | ventit͡ʃinkwe | v e n t i + t͡ʃ i n k <s> we </s> |
 | Italian-twentyfour-1 | Italian | twentyfour | ventikwatːro | v e n t i + k <s> wa </s> tː r o |
-| Spanish-eighteen-1 | Spanish | eighteen | djeθiotʃo | d <s> je </s> θ + i + o tʃ o |
-| Spanish-four-1 | Spanish | four | kwatɾo | k <s> wa </s> t ɾ o |
-| Spanish-nine-1 | Spanish | nine | nweβe | n <s> we </s> β e |
-| Spanish-nineteen-1 | Spanish | nineteen | djeθinweβe | d <s> je </s> θ + i + n <s> we </s> β e |
-| Spanish-seven-1 | Spanish | seven | sjete | s <s> je </s> t e |
-| Spanish-seventeen-1 | Spanish | seventeen | djeθisjete | d <s> je </s> θ + i + s <s> je </s> t e |
-| Spanish-sixteen-1 | Spanish | sixteen | djeθiseis | d <s> je </s> θ + i + s ei s |
-| Spanish-ten-1 | Spanish | ten | djeθ | d <s> je </s> θ |
-| Spanish-twentyfour-1 | Spanish | twentyfour | beintikwatɾo | b ei n t + i + k <s> wa </s> t ɾ o |
-| Spanish-twentyseven-1 | Spanish | twentyseven | beintisjete | b ei n t + i + s <s> je </s> t e |
+| Plains_Cree-seventy-1 | Plains_Cree | seventy | kēkāc-tēpakohpomitanaw | k eː k aː ts + t eː p a k u h p + <s> u- </s> m i t a n a w |
+| Plains_Cree-seventy-2 | Plains_Cree | seventy | tēpakohpomitanaw | t eː p a k u h p + <s> u- </s> m i t a n a w |
+| Plains_Cree-seventyfive-1 | Plains_Cree | seventyfive | tēpakohpomitanaw ayiwāk niyānan | t eː p a k u h p + <s> u- </s> m i t a n a w + a j i w aː k + n i j aː n a n |
+| Plains_Cree-seventyfour-1 | Plains_Cree | seventyfour | tēpakohpomitanaw ayiwāk nēwo | t eː p a k u h p + <s> u- </s> m i t a n a w + a j i w aː k + n eː w u |
+| Plains_Cree-seventyone-1 | Plains_Cree | seventyone | tēpakohpomitanaw ayiwāk pēyak | t eː p a k u h p + <s> u- </s> m i t a n a w + a j i w aː k + p eː j a k |
+| Plains_Cree-seventysix-1 | Plains_Cree | seventysix | tēpakohpomitanaw ayiwāk nikotwāsik | t eː p a k u h p + <s> u- </s> m i t a n a w + a j i w aː k + n i k o t w aː s i k |
+| Plains_Cree-seventythree-1 | Plains_Cree | seventythree | tēpakohpomitanaw ayiwāk nisto | t eː p a k u h p + <s> u- </s> m i t a n a w + a j i w aː k + n i s t u |
+| Plains_Cree-seventytwo-1 | Plains_Cree | seventytwo | tēpakohpomitanaw ayiwāk nīso | t eː p a k u h p + <s> u- </s> m i t a n a w + a j i w aː k + n iː s u |
+| Plains_Cree-sixteen-1 | Plains_Cree | sixteen | nikotwāsosāp | n i k o t w aː s + <s> u- </s> s aː p |
+| Plains_Cree-twentysix-2 | Plains_Cree | twentysix | nīsitanaw nikotwāsosāp | n iː s i t a n a w + n i k o t w aː s + <s> u- </s> s aː p |
 
 (100 rows)
 
