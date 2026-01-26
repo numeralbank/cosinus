@@ -1,100 +1,100 @@
-ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
-1	Aymara	one	maya	maja	m a j a	2	one	Aymara1[42] Aymara2[175-176] Aymara3	The Aymara variety featured here is the one spoken in La Paz (Bolivia)
-2	Aymara	two	paya	paja	p a j a	3	two	Aymara1[42] Aymara2[175-176] Aymara3	
-3	Aymara	three	kimsa	kimsa	k i m s a	1	three	Aymara1[42] Aymara2[175-176] Aymara3	
-4	Aymara	four	pusi	pusi	p u s i	8	four	Aymara1[42] Aymara2[175-176] Aymara3	
-5	Aymara	five	phisqa	pʰisqa	pʰ i s q a	4	five	Aymara1[42] Aymara2[175-176] Aymara3	
-6	Aymara	six	suxta	suχta	s u χ t a	7	six	Aymara1[42] Aymara2[175-176] Aymara3	
-7	Aymara	seven	paqallqu	paqaʎqu	p a q a ʎ q u	10	seven	Aymara1[42] Aymara2[175-176] Aymara3	Aymara qaʎqu is an old root for 'five' (Aymara6[191])
-8	Aymara	eight	kimsaqallqu	kimsaqaʎqu	k i m s a q a ʎ q u	14	eight	Aymara1[42] Aymara2[175-176] Aymara3	
-9	Aymara	nine	llätunka	ʎaːtunka	ʎ aː t u n k a	9	nine	Aymara1[42] Aymara2[175-176] Aymara3	Nine' was literally 'nearly ten' (Aymara6[191])
-10	Aymara	ten	tunka	tunka	t u n k a	5	ten	Aymara1[42] Aymara2[175-176] Aymara3	
-11	Aymara	eleven	tunka mayani	tunka majani	t u n k a + m a j a + n i	5 2 13	ten one ENUMERATOR	Aymara1[42] Aymara2[175-176] Aymara3	The suffix -ni is used to count and to form numbers. It is labeled enumerador ('enumerator') in Aymara2[205-206]
-12	Aymara	twelve	tunka payani	tunka pajani	t u n k a + p a j a + n i	5 3 13	ten two ENUMERATOR	Aymara1[42] Aymara3	
-13	Aymara	thirteen	tunka kimsani	tunka kimsani	t u n k a + k i m s a + n i	5 1 13	ten three ENUMERATOR	Aymara1[42] Aymara3	
-14	Aymara	fourteen	tunka pusini	tunka pusini	t u n k a + p u s i + n i	5 8 13	ten four ENUMERATOR	Aymara1[42] Aymara3	
-15	Aymara	fifteen	tunka phisqani	tunka pʰisqani	t u n k a + pʰ i s q a + n i	5 4 13	ten five ENUMERATOR	Aymara1[42] Aymara3	
-16	Aymara	sixteen	tunka suxtani	tunka suχtani	t u n k a + s u χ t a + n i	5 7 13	ten six ENUMERATOR	Aymara1[42] Aymara3	
-17	Aymara	seventeen	tunka paqallquni	tunka paqaʎquni	t u n k a + p a q a ʎ q u + n i	5 10 13	ten seven ENUMERATOR	Aymara1[42] Aymara3	
-18	Aymara	eighteen	tunka kimsaqallquni	tunka kimsaqaʎquni	t u n k a + k i m s a q a ʎ q u + n i	5 14 13	ten eight ENUMERATOR	Aymara1[42] Aymara3	
-19	Aymara	nineteen	tunka llätunkani	tunka ʎaːtunkani	t u n k a + ʎ aː t u n k a + n i	5 9 13	ten nine ENUMERATOR	Aymara1[42] Aymara3	
-20	Aymara	twenty	pä tunka	paː tunka	p aː/a -/j -/a + t u n k a	3 5	two ten	Aymara1[42] Aymara2[175-176] Aymara3	
-21	Aymara	twenty one	pä tunka mayani	paː tunka majani	p aː/a -/j -/a + t u n k a + m a j a + n i	3 5 2 13	two ten one ENUMERATOR	Aymara2[175-176] Aymara3	
-22	Aymara	twenty two	pä tunka payani	paː tunka pajani	p aː/a -/j -/a + t u n k a + p a j a + n i	3 5 3 13	two ten two ENUMERATOR	Aymara2[175-176] Aymara3	
-23	Aymara	twenty three	pä tunka kimsani	paː tunka kimsani	p aː/a -/j -/a + t u n k a + k i m s a + n i	3 5 1 13	two ten three ENUMERATOR	Aymara3	
-24	Aymara	twenty four	pä tunka pusini	paː tunka pusini	p aː/a -/j -/a + t u n k a + p u s i + n i	3 5 8 13	two ten four ENUMERATOR	Aymara3	
-25	Aymara	twenty five	pä tunka phisqani	paː tunka pʰisqani	p aː/a -/j -/a + t u n k a + pʰ i s q a + n i	3 5 4 13	two ten five ENUMERATOR	Aymara3	
-26	Aymara	twenty six	pä tunka suxtani	paː tunka suχtani	p aː/a -/j -/a + t u n k a + s u χ t a + n i	3 5 7 13	two ten six ENUMERATOR	Aymara3	
-27	Aymara	twenty seven	pä tunka paqallquni	paː tunka paqaʎquni	p aː/a -/j -/a + t u n k a + p a q a ʎ q u + n i	3 5 10 13	two ten seven ENUMERATOR	Aymara3	
-28	Aymara	twenty eight	pä tunka kimsaqallquni	paː tunka kimsaqaʎquni	p aː/a -/j -/a + t u n k a + k i m s a q a ʎ q u + n i	3 5 14 13	two ten eight ENUMERATOR	Aymara3	
-29	Aymara	twenty nine	pä tunka llätunkani	paː tunka ʎaːtunkani	p aː/a -/j -/a + t u n k a + ʎ aː t u n k a + n i	3 5 9 13	two ten nine ENUMERATOR	Aymara3	
-30	Aymara	thirty	kimsa tunka	kimsa tunka	k i m s a + t u n k a	1 5	three ten	Aymara1[42] Aymara2[175-176] Aymara3	
-31	Aymara	thirty one	kimsa tunka mayani	kimsa tunka majani	k i m s a + t u n k a + m a j a + n i	1 5 2 13	three ten one ENUMERATOR	Aymara3	
-32	Aymara	thirty two	kimsa tunka payani	kimsa tunka pajani	k i m s a + t u n k a + p a j a + n i	1 5 3 13	three ten two ENUMERATOR	Aymara3	
-33	Aymara	thirty three	kimsa tunka kimsani	kimsa tunka kimsani	k i m s a + t u n k a + k i m s a + n i	1 5 1 13	three ten three ENUMERATOR	Aymara3	
-34	Aymara	thirty four	kimsa tunka pusini	kimsa tunka pusini	k i m s a + t u n k a + p u s i + n i	1 5 8 13	three ten four ENUMERATOR	Aymara3	
-35	Aymara	thirty five	kimsa tunka phisqani	kimsa tunka pʰisqani	k i m s a + t u n k a + pʰ i s q a + n i	1 5 4 13	three ten five ENUMERATOR	Aymara3	
-36	Aymara	thirty six	kimsa tunka suxtani	kimsa tunka suχtani	k i m s a + t u n k a + s u χ t a + n i	1 5 7 13	three ten six ENUMERATOR	Aymara3	
-37	Aymara	thirty seven	kimsa tunka paqallquni	kimsa tunka paqaʎquni	k i m s a + t u n k a + p a q a ʎ q u + n i	1 5 10 13	three ten seven ENUMERATOR	Aymara3	
-38	Aymara	thirty eight	kimsa tunka kimsaqallquni	kimsa tunka kimsaqaʎquni	k i m s a + t u n k a + k i m s a q a ʎ q u + n i	1 5 14 13	three ten eight ENUMERATOR	Aymara3	
-39	Aymara	thirty nine	kimsa tunka llätunkani	kimsa tunka ʎaːtunkani	k i m s a + t u n k a + ʎ aː t u n k a + n i	1 5 9 13	three ten nine ENUMERATOR	Aymara3	
-40	Aymara	forty	pusi tunka	pusi tunka	p u s i + t u n k a	8 5	four ten	Aymara1[42] Aymara3	
-41	Aymara	forty one	pusi tunka mayani	pusi tunka majani	p u s i + t u n k a + m a j a + n i	8 5 2 13	four ten one ENUMERATOR	Aymara3	
-42	Aymara	forty two	pusi tunka payani	pusi tunka pajani	p u s i + t u n k a + p a j a + n i	8 5 3 13	four ten two ENUMERATOR	Aymara3	
-43	Aymara	forty three	pusi tunka kimsani	pusi tunka kimsani	p u s i + t u n k a + k i m s a + n i	8 5 1 13	four ten three ENUMERATOR	Aymara3	
-44	Aymara	forty four	pusi tunka pusini	pusi tunka pusini	p u s i + t u n k a + p u s i + n i	8 5 8 13	four ten four ENUMERATOR	Aymara3	
-45	Aymara	forty five	pusi tunka phisqani	pusi tunka pʰisqani	p u s i + t u n k a + pʰ i s q a + n i	8 5 4 13	four ten five ENUMERATOR	Aymara3	
-46	Aymara	forty six	pusi tunka suxtani	pusi tunka suχtani	p u s i + t u n k a + s u χ t a + n i	8 5 7 13	four ten six ENUMERATOR	Aymara3	
-47	Aymara	forty seven	pusi tunka paqallquni	pusi tunka paqaʎquni	p u s i + t u n k a + p a q a ʎ q u + n i	8 5 10 13	four ten seven ENUMERATOR	Aymara3	
-48	Aymara	forty eight	pusi tunka kimsaqallquni	pusi tunka kimsaqaʎquni	p u s i + t u n k a + k i m s a q a ʎ q u + n i	8 5 14 13	four ten eight ENUMERATOR	Aymara3	
-49	Aymara	forty nine	pusi tunka llätunkani	pusi tunka ʎaːtunkani	p u s i + t u n k a + ʎ aː t u n k a + n i	8 5 9 13	four ten nine ENUMERATOR	Aymara3	
-50	Aymara	fifty	phisqa tunka	pʰisqa tunka	pʰ i s q a + t u n k a	4 5	five ten	Aymara1[42]	
-51	Aymara	fifty one	phisqa tunka mayani	pʰisqa tunka majani	pʰ i s q a + t u n k a + m a j a + n i	4 5 2 13	five ten one ENUMERATOR	Aymara3	
-52	Aymara	fifty two	phisqa tunka payani	pʰisqa tunka pajani	pʰ i s q a + t u n k a + p a j a + n i	4 5 3 13	five ten two ENUMERATOR	Aymara3	
-53	Aymara	fifty three	phisqa tunka kimsani	pʰisqa tunka kimsani	pʰ i s q a + t u n k a + k i m s a + n i	4 5 1 13	five ten three ENUMERATOR	Aymara3	
-54	Aymara	fifty four	phisqa tunka pusini	pʰisqa tunka pusini	pʰ i s q a + t u n k a + p u s i + n i	4 5 8 13	five ten four ENUMERATOR	Aymara3	
-55	Aymara	fifty five	phisqa tunka phisqani	pʰisqa tunka pʰisqani	pʰ i s q a + t u n k a + pʰ i s q a + n i	4 5 4 13	five ten five ENUMERATOR	Aymara3	
-56	Aymara	fifty six	phisqa tunka suxtani	pʰisqa tunka suχtani	pʰ i s q a + t u n k a + s u χ t a + n i	4 5 7 13	five ten six ENUMERATOR	Aymara3	
-57	Aymara	fifty seven	phisqa tunka paqallquni	pʰisqa tunka paqaʎquni	pʰ i s q a + t u n k a + p a q a ʎ q u + n i	4 5 10 13	five ten seven ENUMERATOR	Aymara3	
-58	Aymara	fifty eight	phisqa tunka kimsaqallquni	pʰisqa tunka kimsaqaʎquni	pʰ i s q a + t u n k a + k i m s a q a ʎ q u + n i	4 5 14 13	five ten eight ENUMERATOR	Aymara3	
-59	Aymara	fifty nine	phisqa tunka llätunkani	pʰisqa tunka ʎaːtunkani	pʰ i s q a + t u n k a + ʎ aː t u n k a + n i	4 5 9 13	five ten nine ENUMERATOR	Aymara3	
-60	Aymara	sixty	suxta tunka	suχta tunka	s u χ t a + t u n k a	7 5	six ten	Aymara3	
-61	Aymara	sixty one	suxta tunka mayani	suχta tunka majani	s u χ t a + t u n k a + m a j a + n i	7 5 2 13	six ten one ENUMERATOR	Aymara3	
-62	Aymara	sixty two	suxta tunka payani	suχta tunka pajani	s u χ t a + t u n k a + p a j a + n i	7 5 3 13	six ten two ENUMERATOR	Aymara3	
-63	Aymara	sixty three	suxta tunka kimsani	suχta tunka kimsani	s u χ t a + t u n k a + k i m s a + n i	7 5 1 13	six ten three ENUMERATOR	Aymara3	
-64	Aymara	sixty four	suxta tunka pusini	suχta tunka pusini	s u χ t a + t u n k a + p u s i + n i	7 5 8 13	six ten four ENUMERATOR	Aymara3	
-65	Aymara	sixty five	suxta tunka phisqani	suχta tunka pʰisqani	s u χ t a + t u n k a + pʰ i s q a + n i	7 5 4 13	six ten five ENUMERATOR	Aymara3	
-66	Aymara	sixty six	suxta tunka suxtani	suχta tunka suχtani	s u χ t a + t u n k a + s u χ t a + n i	7 5 7 13	six ten six ENUMERATOR	Aymara3	
-67	Aymara	sixty seven	suxta tunka paqallquni	suχta tunka paqaʎquni	s u χ t a + t u n k a + p a q a ʎ q u + n i	7 5 10 13	six ten seven ENUMERATOR	Aymara3	
-68	Aymara	sixty eight	suxta tunka kimsaqallquni	suχta tunka kimsaqaʎquni	s u χ t a + t u n k a + k i m s a q a ʎ q u + n i	7 5 14 13	six ten eight ENUMERATOR	Aymara3	
-69	Aymara	sixty nine	suxta tunka llätunkani	suχta tunka ʎaːtunkani	s u χ t a + t u n k a + ʎ aː t u n k a + n i	7 5 9 13	six ten nine ENUMERATOR	Aymara3	
-70	Aymara	seventy	paqallqu tunka	paqaʎqu tunka	p a q a ʎ q u + t u n k a	10 5	seven ten	Aymara3	
-71	Aymara	seventy one	paqallqu tunka mayani	paqaʎqu tunka majani	p a q a ʎ q u + t u n k a + m a j a + n i	10 5 2 13	seven ten one ENUMERATOR	Aymara3
-72	Aymara	seventy two	paqallqu tunka payani	paqaʎqu tunka pajani	p a q a ʎ q u + t u n k a + p a j a + n i	10 5 3 13	seven ten two ENUMERATOR	Aymara3	
-73	Aymara	seventy three	paqallqu tunka kimsani	paqaʎqu tunka kimsani	p a q a ʎ q u + t u n k a + k i m s a + n i	10 5 1 13	seven ten three ENUMERATOR	Aymara3	
-74	Aymara	seventy four	paqallqu tunka pusini	paqaʎqu tunka pusini	p a q a ʎ q u + t u n k a + p u s i + n i	10 5 8 13	seven ten four ENUMERATOR	Aymara3	
-75	Aymara	seventy five	paqallqu tunka phisqani	paqaʎqu tunka pʰisqani	p a q a ʎ q u + t u n k a + pʰ i s q a + n i	10 5 4 13	seven ten five ENUMERATOR	Aymara3	
-76	Aymara	seventy six	paqallqu tunka suxtani	paqaʎqu tunka suχtani	p a q a ʎ q u + t u n k a + s u χ t a + n i	10 5 7 13	seven ten six ENUMERATOR	Aymara3	
-77	Aymara	seventy seven	paqallqu tunka paqallquni	paqaʎqu tunka paqaʎquni	p a q a ʎ q u + t u n k a + p a q a ʎ q u + n i	10 5 10 13	seven ten seven ENUMERATOR	Aymara3	
-78	Aymara	seventy eight	paqallqu tunka kimsaqallquni	paqaʎqu tunka kimsaqaʎquni	p a q a ʎ q u + t u n k a + k i m s a q a ʎ q u + n i	10 5 14 13	seven ten eight ENUMERATOR	Aymara3	
-79	Aymara	seventy nine	paqallqu tunka llätunkani	paqaʎqu tunka ʎaːtunkani	p a q a ʎ q u + t u n k a + ʎ aː t u n k a + n i	10 5 9 13	seven ten nine ENUMERATOR	Aymara3	
-80	Aymara	eighty	kimsaqallqu tunka	kimsaqaʎqu tunka	k i m s a q a ʎ q u + t u n k a	14 5	eight ten	Aymara3	
-81	Aymara	eighty one	kimsaqallqu tunka mayani	kimsaqaʎqu tunka majani	k i m s a q a ʎ q u + t u n k a + m a j a + n i	14 5 2 13	eight ten one ENUMERATOR	Aymara3
-82	Aymara	eighty two	kimsaqallqu tunka payani	kimsaqaʎqu tunka pajani	k i m s a q a ʎ q u + t u n k a + p a j a + n i	14 5 3 13	eight ten two ENUMERATOR	Aymara3	
-83	Aymara	eighty three	kimsaqallqu tunka kimsani	kimsaqaʎqu tunka kimsani	k i m s a q a ʎ q u + t u n k a + k i m s a + n i	14 5 1 13	eight ten three ENUMERATOR	Aymara3	
-84	Aymara	eighty four	kimsaqallqu tunka pusini	kimsaqaʎqu tunka pusini	k i m s a q a ʎ q u + t u n k a + p u s i + n i	14 5 8 13	eight ten four ENUMERATOR	Aymara3	
-85	Aymara	eighty five	kimsaqallqu tunka phisqani	kimsaqaʎqu tunka pʰisqani	k i m s a q a ʎ q u + t u n k a + pʰ i s q a + n i	14 5 4 13	eight ten five ENUMERATOR	Aymara3	
-86	Aymara	eighty six	kimsaqallqu tunka suxtani	kimsaqaʎqu tunka suχtani	k i m s a q a ʎ q u + t u n k a + s u χ t a + n i	14 5 7 13	eight ten six ENUMERATOR	Aymara3	
-87	Aymara	eighty seven	kimsaqallqu tunka paqallquni	kimsaqaʎqu tunka paqaʎquni	k i m s a q a ʎ q u + t u n k a + p a q a ʎ q u + n i	14 5 10 13	eight ten seven ENUMERATOR	Aymara3	
-88	Aymara	eighty eight	kimsaqallqu tunka kimsaqallquni	kimsaqaʎqu tunka kimsaqaʎquni	k i m s a q a ʎ q u + t u n k a + k i m s a q a ʎ q u + n i	14 5 14 13	eight ten eight ENUMERATOR	Aymara3	
-89	Aymara	eighty nine	kimsaqallqu tunka llätunkani	kimsaqaʎqu tunka ʎaːtunkani	k i m s a q a ʎ q u + t u n k a + ʎ aː t u n k a + n i	14 5 9 13	eight ten nine ENUMERATOR	Aymara3	
-90	Aymara	ninety	llätunka tunka	ʎaːtunka tunka	ʎ aː t u n k a + t u n k a	9 5	nine ten	Aymara3	
-91	Aymara	ninety one	llätunka tunka mayani	ʎaːtunka tunka majani	ʎ aː t u n k a + t u n k a + m a j a + n i	9 5 2 13	nine ten one ENUMERATOR	Aymara3
-92	Aymara	ninety two	llätunka tunka payani	ʎaːtunka tunka pajani	ʎ aː t u n k a + t u n k a + p a j a + n i	9 5 3 13	nine ten two ENUMERATOR	Aymara3	
-93	Aymara	ninety three	llätunka tunka kimsani	ʎaːtunka tunka kimsani	ʎ aː t u n k a + t u n k a + k i m s a + n i	9 5 1 13	nine ten three ENUMERATOR	Aymara3	
-94	Aymara	ninety four	llätunka tunka pusini	ʎaːtunka tunka pusini	ʎ aː t u n k a + t u n k a + p u s i + n i	9 5 8 13	nine ten four ENUMERATOR	Aymara3	
-95	Aymara	ninety five	llätunka tunka phisqani	ʎaːtunka tunka pʰisqani	ʎ aː t u n k a + t u n k a + pʰ i s q a + n i	9 5 4 13	nine ten five ENUMERATOR	Aymara3	
-96	Aymara	ninety six	llätunka tunka suxtani	ʎaːtunka tunka suχtani	ʎ aː t u n k a + t u n k a + s u χ t a + n i	9 5 7 13	nine ten six ENUMERATOR	Aymara3	
-97	Aymara	ninety seven	llätunka tunka paqallquni	ʎaːtunka tunka paqaʎquni	ʎ aː t u n k a + t u n k a + p a q a ʎ q u + n i	9 5 10 13	nine ten seven ENUMERATOR	Aymara3	
-98	Aymara	ninety eight	llätunka tunka kimsaqallquni	ʎaːtunka tunka kimsaqaʎquni	ʎ aː t u n k a + t u n k a + k i m s a q a ʎ q u + n i	9 5 14 13	nine ten eight ENUMERATOR	Aymara3	
-99	Aymara	ninety nine	llätunka tunka llätunkani	ʎaːtunka tunka ʎaːtunkani	ʎ aː t u n k a + t u n k a + ʎ aː t u n k a + n i	9 5 9 13	nine ten nine ENUMERATOR	Aymara3
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	NOTES	SOURCE
+1	Aymara	one	maya	maja	m a j a	2	one	The Aymara variety featured here is the one spoken in La Paz (Bolivia)	Aymara1[42] Aymara2[175-176] Aymara3
+2	Aymara	two	paya	paja	p a j a	3	two		Aymara1[42] Aymara2[175-176] Aymara3
+3	Aymara	three	kimsa	kimsa	k i m s a	1	three		Aymara1[42] Aymara2[175-176] Aymara3
+4	Aymara	four	pusi	pusi	p u s i	8	four		Aymara1[42] Aymara2[175-176] Aymara3
+5	Aymara	five	phisqa	pʰisqa	pʰ i s q a	4	five		Aymara1[42] Aymara2[175-176] Aymara3
+6	Aymara	six	suxta	suχta	s u χ t a	7	six		Aymara1[42] Aymara2[175-176] Aymara3
+7	Aymara	seven	paqallqu	paqaʎqu	p a q a ʎ q u	10	seven	Aymara qaʎqu is an old root for 'five' (Aymara6[191])	Aymara1[42] Aymara2[175-176] Aymara3
+8	Aymara	eight	kimsaqallqu	kimsaqaʎqu	k i m s a q a ʎ q u	14	eight		Aymara1[42] Aymara2[175-176] Aymara3
+9	Aymara	nine	llätunka	ʎaːtunka	ʎ aː t u n k a	9	nine	Nine' was literally 'nearly ten' (Aymara6[191])	Aymara1[42] Aymara2[175-176] Aymara3
+10	Aymara	ten	tunka	tunka	t u n k a	5	ten		Aymara1[42] Aymara2[175-176] Aymara3
+11	Aymara	eleven	tunka mayani	tunka majani	t u n k a + m a j a + n i	5 2 13	ten one ENUMERATOR	The suffix -ni is used to count and to form numbers. It is labeled enumerador ('enumerator') in Aymara2[205-206]	Aymara1[42] Aymara2[175-176] Aymara3
+12	Aymara	twelve	tunka payani	tunka pajani	t u n k a + p a j a + n i	5 3 13	ten two ENUMERATOR		Aymara1[42] Aymara3
+13	Aymara	thirteen	tunka kimsani	tunka kimsani	t u n k a + k i m s a + n i	5 1 13	ten three ENUMERATOR		Aymara1[42] Aymara3
+14	Aymara	fourteen	tunka pusini	tunka pusini	t u n k a + p u s i + n i	5 8 13	ten four ENUMERATOR		Aymara1[42] Aymara3
+15	Aymara	fifteen	tunka phisqani	tunka pʰisqani	t u n k a + pʰ i s q a + n i	5 4 13	ten five ENUMERATOR		Aymara1[42] Aymara3
+16	Aymara	sixteen	tunka suxtani	tunka suχtani	t u n k a + s u χ t a + n i	5 7 13	ten six ENUMERATOR		Aymara1[42] Aymara3
+17	Aymara	seventeen	tunka paqallquni	tunka paqaʎquni	t u n k a + p a q a ʎ q u + n i	5 10 13	ten seven ENUMERATOR		Aymara1[42] Aymara3
+18	Aymara	eighteen	tunka kimsaqallquni	tunka kimsaqaʎquni	t u n k a + k i m s a q a ʎ q u + n i	5 14 13	ten eight ENUMERATOR		Aymara1[42] Aymara3
+19	Aymara	nineteen	tunka llätunkani	tunka ʎaːtunkani	t u n k a + ʎ aː t u n k a + n i	5 9 13	ten nine ENUMERATOR		Aymara1[42] Aymara3
+20	Aymara	twenty	pä tunka	paː tunka	p aː/a -/j -/a + t u n k a	3 5	two ten		Aymara1[42] Aymara2[175-176] Aymara3
+21	Aymara	twenty one	pä tunka mayani	paː tunka majani	p aː/a -/j -/a + t u n k a + m a j a + n i	3 5 2 13	two ten one ENUMERATOR		Aymara2[175-176] Aymara3
+22	Aymara	twenty two	pä tunka payani	paː tunka pajani	p aː/a -/j -/a + t u n k a + p a j a + n i	3 5 3 13	two ten two ENUMERATOR		Aymara2[175-176] Aymara3
+23	Aymara	twenty three	pä tunka kimsani	paː tunka kimsani	p aː/a -/j -/a + t u n k a + k i m s a + n i	3 5 1 13	two ten three ENUMERATOR		Aymara3
+24	Aymara	twenty four	pä tunka pusini	paː tunka pusini	p aː/a -/j -/a + t u n k a + p u s i + n i	3 5 8 13	two ten four ENUMERATOR		Aymara3
+25	Aymara	twenty five	pä tunka phisqani	paː tunka pʰisqani	p aː/a -/j -/a + t u n k a + pʰ i s q a + n i	3 5 4 13	two ten five ENUMERATOR		Aymara3
+26	Aymara	twenty six	pä tunka suxtani	paː tunka suχtani	p aː/a -/j -/a + t u n k a + s u χ t a + n i	3 5 7 13	two ten six ENUMERATOR		Aymara3
+27	Aymara	twenty seven	pä tunka paqallquni	paː tunka paqaʎquni	p aː/a -/j -/a + t u n k a + p a q a ʎ q u + n i	3 5 10 13	two ten seven ENUMERATOR		Aymara3
+28	Aymara	twenty eight	pä tunka kimsaqallquni	paː tunka kimsaqaʎquni	p aː/a -/j -/a + t u n k a + k i m s a q a ʎ q u + n i	3 5 14 13	two ten eight ENUMERATOR		Aymara3
+29	Aymara	twenty nine	pä tunka llätunkani	paː tunka ʎaːtunkani	p aː/a -/j -/a + t u n k a + ʎ aː t u n k a + n i	3 5 9 13	two ten nine ENUMERATOR		Aymara3
+30	Aymara	thirty	kimsa tunka	kimsa tunka	k i m s a + t u n k a	1 5	three ten		Aymara1[42] Aymara2[175-176] Aymara3
+31	Aymara	thirty one	kimsa tunka mayani	kimsa tunka majani	k i m s a + t u n k a + m a j a + n i	1 5 2 13	three ten one ENUMERATOR		Aymara3
+32	Aymara	thirty two	kimsa tunka payani	kimsa tunka pajani	k i m s a + t u n k a + p a j a + n i	1 5 3 13	three ten two ENUMERATOR		Aymara3
+33	Aymara	thirty three	kimsa tunka kimsani	kimsa tunka kimsani	k i m s a + t u n k a + k i m s a + n i	1 5 1 13	three ten three ENUMERATOR		Aymara3
+34	Aymara	thirty four	kimsa tunka pusini	kimsa tunka pusini	k i m s a + t u n k a + p u s i + n i	1 5 8 13	three ten four ENUMERATOR		Aymara3
+35	Aymara	thirty five	kimsa tunka phisqani	kimsa tunka pʰisqani	k i m s a + t u n k a + pʰ i s q a + n i	1 5 4 13	three ten five ENUMERATOR		Aymara3
+36	Aymara	thirty six	kimsa tunka suxtani	kimsa tunka suχtani	k i m s a + t u n k a + s u χ t a + n i	1 5 7 13	three ten six ENUMERATOR		Aymara3
+37	Aymara	thirty seven	kimsa tunka paqallquni	kimsa tunka paqaʎquni	k i m s a + t u n k a + p a q a ʎ q u + n i	1 5 10 13	three ten seven ENUMERATOR		Aymara3
+38	Aymara	thirty eight	kimsa tunka kimsaqallquni	kimsa tunka kimsaqaʎquni	k i m s a + t u n k a + k i m s a q a ʎ q u + n i	1 5 14 13	three ten eight ENUMERATOR		Aymara3
+39	Aymara	thirty nine	kimsa tunka llätunkani	kimsa tunka ʎaːtunkani	k i m s a + t u n k a + ʎ aː t u n k a + n i	1 5 9 13	three ten nine ENUMERATOR		Aymara3
+40	Aymara	forty	pusi tunka	pusi tunka	p u s i + t u n k a	8 5	four ten		Aymara1[42] Aymara3
+41	Aymara	forty one	pusi tunka mayani	pusi tunka majani	p u s i + t u n k a + m a j a + n i	8 5 2 13	four ten one ENUMERATOR		Aymara3
+42	Aymara	forty two	pusi tunka payani	pusi tunka pajani	p u s i + t u n k a + p a j a + n i	8 5 3 13	four ten two ENUMERATOR		Aymara3
+43	Aymara	forty three	pusi tunka kimsani	pusi tunka kimsani	p u s i + t u n k a + k i m s a + n i	8 5 1 13	four ten three ENUMERATOR		Aymara3
+44	Aymara	forty four	pusi tunka pusini	pusi tunka pusini	p u s i + t u n k a + p u s i + n i	8 5 8 13	four ten four ENUMERATOR		Aymara3
+45	Aymara	forty five	pusi tunka phisqani	pusi tunka pʰisqani	p u s i + t u n k a + pʰ i s q a + n i	8 5 4 13	four ten five ENUMERATOR		Aymara3
+46	Aymara	forty six	pusi tunka suxtani	pusi tunka suχtani	p u s i + t u n k a + s u χ t a + n i	8 5 7 13	four ten six ENUMERATOR		Aymara3
+47	Aymara	forty seven	pusi tunka paqallquni	pusi tunka paqaʎquni	p u s i + t u n k a + p a q a ʎ q u + n i	8 5 10 13	four ten seven ENUMERATOR		Aymara3
+48	Aymara	forty eight	pusi tunka kimsaqallquni	pusi tunka kimsaqaʎquni	p u s i + t u n k a + k i m s a q a ʎ q u + n i	8 5 14 13	four ten eight ENUMERATOR		Aymara3
+49	Aymara	forty nine	pusi tunka llätunkani	pusi tunka ʎaːtunkani	p u s i + t u n k a + ʎ aː t u n k a + n i	8 5 9 13	four ten nine ENUMERATOR		Aymara3
+50	Aymara	fifty	phisqa tunka	pʰisqa tunka	pʰ i s q a + t u n k a	4 5	five ten		Aymara1[42]
+51	Aymara	fifty one	phisqa tunka mayani	pʰisqa tunka majani	pʰ i s q a + t u n k a + m a j a + n i	4 5 2 13	five ten one ENUMERATOR		Aymara3
+52	Aymara	fifty two	phisqa tunka payani	pʰisqa tunka pajani	pʰ i s q a + t u n k a + p a j a + n i	4 5 3 13	five ten two ENUMERATOR		Aymara3
+53	Aymara	fifty three	phisqa tunka kimsani	pʰisqa tunka kimsani	pʰ i s q a + t u n k a + k i m s a + n i	4 5 1 13	five ten three ENUMERATOR		Aymara3
+54	Aymara	fifty four	phisqa tunka pusini	pʰisqa tunka pusini	pʰ i s q a + t u n k a + p u s i + n i	4 5 8 13	five ten four ENUMERATOR		Aymara3
+55	Aymara	fifty five	phisqa tunka phisqani	pʰisqa tunka pʰisqani	pʰ i s q a + t u n k a + pʰ i s q a + n i	4 5 4 13	five ten five ENUMERATOR		Aymara3
+56	Aymara	fifty six	phisqa tunka suxtani	pʰisqa tunka suχtani	pʰ i s q a + t u n k a + s u χ t a + n i	4 5 7 13	five ten six ENUMERATOR		Aymara3
+57	Aymara	fifty seven	phisqa tunka paqallquni	pʰisqa tunka paqaʎquni	pʰ i s q a + t u n k a + p a q a ʎ q u + n i	4 5 10 13	five ten seven ENUMERATOR		Aymara3
+58	Aymara	fifty eight	phisqa tunka kimsaqallquni	pʰisqa tunka kimsaqaʎquni	pʰ i s q a + t u n k a + k i m s a q a ʎ q u + n i	4 5 14 13	five ten eight ENUMERATOR		Aymara3
+59	Aymara	fifty nine	phisqa tunka llätunkani	pʰisqa tunka ʎaːtunkani	pʰ i s q a + t u n k a + ʎ aː t u n k a + n i	4 5 9 13	five ten nine ENUMERATOR		Aymara3
+60	Aymara	sixty	suxta tunka	suχta tunka	s u χ t a + t u n k a	7 5	six ten		Aymara3
+61	Aymara	sixty one	suxta tunka mayani	suχta tunka majani	s u χ t a + t u n k a + m a j a + n i	7 5 2 13	six ten one ENUMERATOR		Aymara3
+62	Aymara	sixty two	suxta tunka payani	suχta tunka pajani	s u χ t a + t u n k a + p a j a + n i	7 5 3 13	six ten two ENUMERATOR		Aymara3
+63	Aymara	sixty three	suxta tunka kimsani	suχta tunka kimsani	s u χ t a + t u n k a + k i m s a + n i	7 5 1 13	six ten three ENUMERATOR		Aymara3
+64	Aymara	sixty four	suxta tunka pusini	suχta tunka pusini	s u χ t a + t u n k a + p u s i + n i	7 5 8 13	six ten four ENUMERATOR		Aymara3
+65	Aymara	sixty five	suxta tunka phisqani	suχta tunka pʰisqani	s u χ t a + t u n k a + pʰ i s q a + n i	7 5 4 13	six ten five ENUMERATOR		Aymara3
+66	Aymara	sixty six	suxta tunka suxtani	suχta tunka suχtani	s u χ t a + t u n k a + s u χ t a + n i	7 5 7 13	six ten six ENUMERATOR		Aymara3
+67	Aymara	sixty seven	suxta tunka paqallquni	suχta tunka paqaʎquni	s u χ t a + t u n k a + p a q a ʎ q u + n i	7 5 10 13	six ten seven ENUMERATOR		Aymara3
+68	Aymara	sixty eight	suxta tunka kimsaqallquni	suχta tunka kimsaqaʎquni	s u χ t a + t u n k a + k i m s a q a ʎ q u + n i	7 5 14 13	six ten eight ENUMERATOR		Aymara3
+69	Aymara	sixty nine	suxta tunka llätunkani	suχta tunka ʎaːtunkani	s u χ t a + t u n k a + ʎ aː t u n k a + n i	7 5 9 13	six ten nine ENUMERATOR		Aymara3
+70	Aymara	seventy	paqallqu tunka	paqaʎqu tunka	p a q a ʎ q u + t u n k a	10 5	seven ten		Aymara3
+71	Aymara	seventy one	paqallqu tunka mayani	paqaʎqu tunka majani	p a q a ʎ q u + t u n k a + m a j a + n i	10 5 2 13	seven ten one ENUMERATOR	NULL	Aymara3
+72	Aymara	seventy two	paqallqu tunka payani	paqaʎqu tunka pajani	p a q a ʎ q u + t u n k a + p a j a + n i	10 5 3 13	seven ten two ENUMERATOR		Aymara3
+73	Aymara	seventy three	paqallqu tunka kimsani	paqaʎqu tunka kimsani	p a q a ʎ q u + t u n k a + k i m s a + n i	10 5 1 13	seven ten three ENUMERATOR		Aymara3
+74	Aymara	seventy four	paqallqu tunka pusini	paqaʎqu tunka pusini	p a q a ʎ q u + t u n k a + p u s i + n i	10 5 8 13	seven ten four ENUMERATOR		Aymara3
+75	Aymara	seventy five	paqallqu tunka phisqani	paqaʎqu tunka pʰisqani	p a q a ʎ q u + t u n k a + pʰ i s q a + n i	10 5 4 13	seven ten five ENUMERATOR		Aymara3
+76	Aymara	seventy six	paqallqu tunka suxtani	paqaʎqu tunka suχtani	p a q a ʎ q u + t u n k a + s u χ t a + n i	10 5 7 13	seven ten six ENUMERATOR		Aymara3
+77	Aymara	seventy seven	paqallqu tunka paqallquni	paqaʎqu tunka paqaʎquni	p a q a ʎ q u + t u n k a + p a q a ʎ q u + n i	10 5 10 13	seven ten seven ENUMERATOR		Aymara3
+78	Aymara	seventy eight	paqallqu tunka kimsaqallquni	paqaʎqu tunka kimsaqaʎquni	p a q a ʎ q u + t u n k a + k i m s a q a ʎ q u + n i	10 5 14 13	seven ten eight ENUMERATOR		Aymara3
+79	Aymara	seventy nine	paqallqu tunka llätunkani	paqaʎqu tunka ʎaːtunkani	p a q a ʎ q u + t u n k a + ʎ aː t u n k a + n i	10 5 9 13	seven ten nine ENUMERATOR		Aymara3
+80	Aymara	eighty	kimsaqallqu tunka	kimsaqaʎqu tunka	k i m s a q a ʎ q u + t u n k a	14 5	eight ten		Aymara3
+81	Aymara	eighty one	kimsaqallqu tunka mayani	kimsaqaʎqu tunka majani	k i m s a q a ʎ q u + t u n k a + m a j a + n i	14 5 2 13	eight ten one ENUMERATOR	NULL	Aymara3
+82	Aymara	eighty two	kimsaqallqu tunka payani	kimsaqaʎqu tunka pajani	k i m s a q a ʎ q u + t u n k a + p a j a + n i	14 5 3 13	eight ten two ENUMERATOR		Aymara3
+83	Aymara	eighty three	kimsaqallqu tunka kimsani	kimsaqaʎqu tunka kimsani	k i m s a q a ʎ q u + t u n k a + k i m s a + n i	14 5 1 13	eight ten three ENUMERATOR		Aymara3
+84	Aymara	eighty four	kimsaqallqu tunka pusini	kimsaqaʎqu tunka pusini	k i m s a q a ʎ q u + t u n k a + p u s i + n i	14 5 8 13	eight ten four ENUMERATOR		Aymara3
+85	Aymara	eighty five	kimsaqallqu tunka phisqani	kimsaqaʎqu tunka pʰisqani	k i m s a q a ʎ q u + t u n k a + pʰ i s q a + n i	14 5 4 13	eight ten five ENUMERATOR		Aymara3
+86	Aymara	eighty six	kimsaqallqu tunka suxtani	kimsaqaʎqu tunka suχtani	k i m s a q a ʎ q u + t u n k a + s u χ t a + n i	14 5 7 13	eight ten six ENUMERATOR		Aymara3
+87	Aymara	eighty seven	kimsaqallqu tunka paqallquni	kimsaqaʎqu tunka paqaʎquni	k i m s a q a ʎ q u + t u n k a + p a q a ʎ q u + n i	14 5 10 13	eight ten seven ENUMERATOR		Aymara3
+88	Aymara	eighty eight	kimsaqallqu tunka kimsaqallquni	kimsaqaʎqu tunka kimsaqaʎquni	k i m s a q a ʎ q u + t u n k a + k i m s a q a ʎ q u + n i	14 5 14 13	eight ten eight ENUMERATOR		Aymara3
+89	Aymara	eighty nine	kimsaqallqu tunka llätunkani	kimsaqaʎqu tunka ʎaːtunkani	k i m s a q a ʎ q u + t u n k a + ʎ aː t u n k a + n i	14 5 9 13	eight ten nine ENUMERATOR		Aymara3
+90	Aymara	ninety	llätunka tunka	ʎaːtunka tunka	ʎ aː t u n k a + t u n k a	9 5	nine ten		Aymara3
+91	Aymara	ninety one	llätunka tunka mayani	ʎaːtunka tunka majani	ʎ aː t u n k a + t u n k a + m a j a + n i	9 5 2 13	nine ten one ENUMERATOR	NULL	Aymara3
+92	Aymara	ninety two	llätunka tunka payani	ʎaːtunka tunka pajani	ʎ aː t u n k a + t u n k a + p a j a + n i	9 5 3 13	nine ten two ENUMERATOR		Aymara3
+93	Aymara	ninety three	llätunka tunka kimsani	ʎaːtunka tunka kimsani	ʎ aː t u n k a + t u n k a + k i m s a + n i	9 5 1 13	nine ten three ENUMERATOR		Aymara3
+94	Aymara	ninety four	llätunka tunka pusini	ʎaːtunka tunka pusini	ʎ aː t u n k a + t u n k a + p u s i + n i	9 5 8 13	nine ten four ENUMERATOR		Aymara3
+95	Aymara	ninety five	llätunka tunka phisqani	ʎaːtunka tunka pʰisqani	ʎ aː t u n k a + t u n k a + pʰ i s q a + n i	9 5 4 13	nine ten five ENUMERATOR		Aymara3
+96	Aymara	ninety six	llätunka tunka suxtani	ʎaːtunka tunka suχtani	ʎ aː t u n k a + t u n k a + s u χ t a + n i	9 5 7 13	nine ten six ENUMERATOR		Aymara3
+97	Aymara	ninety seven	llätunka tunka paqallquni	ʎaːtunka tunka paqaʎquni	ʎ aː t u n k a + t u n k a + p a q a ʎ q u + n i	9 5 10 13	nine ten seven ENUMERATOR		Aymara3
+98	Aymara	ninety eight	llätunka tunka kimsaqallquni	ʎaːtunka tunka kimsaqaʎquni	ʎ aː t u n k a + t u n k a + k i m s a q a ʎ q u + n i	9 5 14 13	nine ten eight ENUMERATOR		Aymara3
+99	Aymara	ninety nine	llätunka tunka llätunkani	ʎaːtunka tunka ʎaːtunkani	ʎ aː t u n k a + t u n k a + ʎ aː t u n k a + n i	9 5 9 13	nine ten nine ENUMERATOR	NULL	Aymara3

@@ -1,100 +1,100 @@
-ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
-1	Cavinena	one	peadya	peaɟa	p e a ɟ a	4	one	Cavineña1[492] Cavineña2 Cavineña4	Only the numerals for ‘one’ and ‘two’ are originally from Cavineña. The remaining numerals, from ‘three’ to ‘ten’, have been borrowed from Aymara. (Cavineña1[492])
-2	Cavinena	two	beta	beta	b e t a	1	two	Cavineña1[492] Cavineña2 Cavineña4	
-3	Cavinena	three	kimisha	kimiɕa	k i m i ɕ a	8	three	Cavineña1[492] Cavineña2 Cavineña4	
-4	Cavinena	four	pushi	pʊɕi	p ʊ ɕ i	11	four	Cavineña1[492] Cavineña2 Cavineña4	
-5	Cavinena	five	pishika	piɕika	p i ɕ i k a	10	five	Cavineña1[492] Cavineña2 Cavineña4	
-6	Cavinena	six	shukuta	ɕʊkʊta	ɕ ʊ k ʊ t a	2	six	Cavineña1[492] Cavineña2 Cavineña4	
-7	Cavinena	seven	pakaruku	pakarʊkʊ	p a k a r ʊ k ʊ	3	seven	Cavineña1[492] Cavineña2 Cavineña4	pa stems from Aymara paja 'two' > pa
-8	Cavinena	eight	kimisakaruku	kimisakarʊkʊ	k i m i s a k a r ʊ k ʊ	15	eight	Cavineña1[492] Cavineña2 Cavineña4	karʊkʊ stems from Aymara qaʎqu, a bound morpheme meaning 'five'
-9	Cavinena	nine	puskuruku	pʊskʊrʊkʊ	p ʊ s k ʊ r ʊ k ʊ	14	nine	Cavineña1[492] Cavineña2 Cavineña4	
-10	Cavinena	ten	tunka	tʊŋka	t ʊ ŋ k a	12	ten	Cavineña1[492] Cavineña2 Cavineña4	
-11	Cavinena	eleven	peadya tunka peadya earakana	peaɟa tʊŋka peaɟa earakana	p e a ɟ a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	4 12 4 6	one ten one unit	Cavineña1[496] Cavineña2 Cavineña4	As pointed out by Cavineña1[496] the translation of earakana as 'unit' is tentative
-12	Cavinena	twelve	peadya tunka beta earakana	peaɟa tʊŋka beta earakana	p e a ɟ a + t ʊ ŋ k a + b e t a + e a r a k a n a	4 12 1 6	one ten two unit	Cavineña1[496] Cavineña2 Cavineña4	
-13	Cavinena	thirteen	peadya tunka kimisha earakana	peaɟa tʊŋka kimiɕa earakana	p e a ɟ a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	4 12 8 6	one ten three unit	Cavineña1[496] Cavineña2 Cavineña4	
-14	Cavinena	fourteen	peadya tunka pushi earakana	peaɟa tʊŋka pʊɕi earakana	p e a ɟ a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	4 12 11 6	one ten four unit	Cavineña2 Cavineña4	
-15	Cavinena	fifteen	peadya tunka pishika earakana	peaɟa tʊŋka piɕika earakana	p e a ɟ a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	4 12 10 6	one ten five unit	Cavineña2 Cavineña4	
-16	Cavinena	sixteen	peadya tunka shukuta earakana	peaɟa tʊŋka ɕʊkʊta earakana	p e a ɟ a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	4 12 2 6	one ten six unit	Cavineña1[496] Cavineña2	
-17	Cavinena	seventeen	peadya tunka pakaruku earakana	peaɟa tʊŋka pakarʊkʊ earakana	p e a ɟ a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	4 12 3 6	one ten seven unit	Cavineña2	
-18	Cavinena	eighteen	peadya tunka kimisakaruku earakana	peaɟa tʊŋka kimisakarʊkʊ earakana	p e a ɟ a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	4 12 15 6	one ten eight unit	Cavineña2	
-19	Cavinena	nineteen	peadya tunka puskuruku earakana	peaɟa tʊŋka pʊskʊrʊkʊ earakana	p e a ɟ a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	4 12 14 6	one ten nine unit	Cavineña2	
-20	Cavinena	twenty	beta tunka	beta tʊŋka	b e t a + t ʊ ŋ k a	1 12	two ten	Cavineña1[496] Cavineña2	
-21	Cavinena	twenty one	beta tunka peadya earakana	beta tʊŋka peaɟa earakana	b e t a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	1 12 4 6	two ten one unit	Cavineña1[496] Cavineña2	
-22	Cavinena	twenty two	beta tunka beta earakana	beta tʊŋka beta earakana	b e t a + t ʊ ŋ k a + b e t a + e a r a k a n a	1 12 1 6	two ten two unit	Cavineña1[496] Cavineña2	
-23	Cavinena	twenty three	beta tunka kimisha earakana	beta tʊŋka kimiɕa earakana	b e t a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	1 12 8 6	two ten three unit	Cavineña1[496] Cavineña2	
-24	Cavinena	twenty four	beta tunka pushi earakana	beta tʊŋka pʊɕi earakana	b e t a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	1 12 11 6	two ten four unit	Cavineña2	
-25	Cavinena	twenty five	beta tunka pishika earakana	beta tʊŋka piɕika earakana	b e t a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	1 12 10 6	two ten five unit	Cavineña2	
-26	Cavinena	twenty six	beta tunka shukuta earakana	beta tʊŋka ɕʊkʊta earakana	b e t a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	1 12 2 6	two ten six unit	Cavineña2	
-27	Cavinena	twenty seven	beta tunka pakaruku earakana	beta tʊŋka pakarʊkʊ earakana	b e t a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	1 12 3 6	two ten seven unit	Cavineña2	
-28	Cavinena	twenty eight	beta tunka kimisakaruku earakana	beta tʊŋka kimisakarʊkʊ earakana	b e t a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	1 12 15 6	two ten eight unit	Cavineña2	
-29	Cavinena	twenty nine	beta tunka puskuruku earakana	beta tʊŋka pʊskʊrʊkʊ earakana	b e t a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	1 12 14 6	two ten nine unit	Cavineña2	
-30	Cavinena	thirty	kimisha tunka	kimiɕa tʊŋka	k i m i ɕ a + t ʊ ŋ k a	8 12	three ten	Cavineña1[496] Cavineña2 Cavineña4	
-31	Cavinena	thirty one	kimisha tunka peadya earakana	kimiɕa tʊŋka peaɟa earakana	k i m i ɕ a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	8 12 4 6	three ten one unit	Cavineña1[496] Cavineña2	
-32	Cavinena	thirty two	kimisha tunka beta earakana	kimiɕa tʊŋka beta earakana	k i m i ɕ a + t ʊ ŋ k a + b e t a + e a r a k a n a	8 12 1 6	three ten two unit	Cavineña1[496] Cavineña2	
-33	Cavinena	thirty three	kimisha tunka kimisha earakana	kimiɕa tʊŋka kimiɕa earakana	k i m i ɕ a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	8 12 8 6	three ten three unit	Cavineña1[496] Cavineña2	
-34	Cavinena	thirty four	kimisha tunka pushi earakana	kimiɕa tʊŋka pʊɕi earakana	k i m i ɕ a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	8 12 11 6	three ten four unit	Cavineña2	
-35	Cavinena	thirty five	kimisha tunka pishika earakana	kimiɕa tʊŋka piɕika earakana	k i m i ɕ a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	8 12 10 6	three ten five unit	Cavineña2	
-36	Cavinena	thirty six	kimisha tunka shukuta earakana	kimiɕa tʊŋka ɕʊkʊta earakana	k i m i ɕ a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	8 12 2 6	three ten six unit	Cavineña2	
-37	Cavinena	thirty seven	kimisha tunka pakaruku earakana	kimiɕa tʊŋka pakarʊkʊ earakana	k i m i ɕ a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	8 12 3 6	three ten seven unit	Cavineña2	
-38	Cavinena	thirty eight	kimisha tunka kimisakaruku earakana	kimiɕa tʊŋka kimisakarʊkʊ earakana	k i m i ɕ a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	8 12 15 6	three ten eight unit	Cavineña2	
-39	Cavinena	thirty nine	kimisha tunka puskuruku earakana	kimiɕa tʊŋka pʊskʊrʊkʊ earakana	k i m i ɕ a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	8 12 14 6	three ten nine unit	Cavineña2	
-40	Cavinena	forty	pushi tunka	pʊɕi tʊŋka	p ʊ ɕ i + t ʊ ŋ k a	11 12	four ten	Cavineña1[496] Cavineña2 Cavineña4	
-41	Cavinena	forty one	pushi tunka peadya earakana	pʊɕi tʊŋka peaɟa earakana	p ʊ ɕ i + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	11 12 4 6	four ten one unit	Cavineña3	
-42	Cavinena	forty two	pushi tunka beta earakana	pʊɕi tʊŋka beta earakana	p ʊ ɕ i + t ʊ ŋ k a + b e t a + e a r a k a n a	11 12 1 6	four ten two unit	Cavineña3	
-43	Cavinena	forty three	pushi tunka kimisha earakana	pʊɕi tʊŋka kimiɕa earakana	p ʊ ɕ i + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	11 12 8 6	four ten three unit	Cavineña3	
-44	Cavinena	forty four	pushi tunka pushi earakana	pʊɕi tʊŋka pʊɕi earakana	p ʊ ɕ i + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	11 12 11 6	four ten four unit	Cavineña3	
-45	Cavinena	forty five	pushi tunka pishika earakana	pʊɕi tʊŋka piɕika earakana	p ʊ ɕ i + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	11 12 10 6	four ten five unit	Cavineña3	
-46	Cavinena	forty six	pushi tunka shukuta earakana	pʊɕi tʊŋka ɕʊkʊta earakana	p ʊ ɕ i + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	11 12 2 6	four ten six unit	Cavineña3	
-47	Cavinena	forty seven	pushi tunka pakaruku earakana	pʊɕi tʊŋka pakarʊkʊ earakana	p ʊ ɕ i + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	11 12 3 6	four ten seven unit	Cavineña3	
-48	Cavinena	forty eight	pushi tunka kimisakaruku earakana	pʊɕi tʊŋka kimisakarʊkʊ earakana	p ʊ ɕ i + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	11 12 15 6	four ten eight unit	Cavineña3	
-49	Cavinena	forty nine	pushi tunka puskuruku earakana	pʊɕi tʊŋka pʊskʊrʊkʊ earakana	p ʊ ɕ i + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	11 12 14 6	four ten nine unit	Cavineña3	
-50	Cavinena	fifty	pishika tunka	piɕika tʊŋka	p i ɕ i k a + t ʊ ŋ k a	10 12	five ten	Cavineña2 Cavineña4	
-51	Cavinena	fifty one	pishika tunka peadya earakana	piɕika tʊŋka peaɟa earakana	p i ɕ i k a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	10 12 4 6	five ten one unit	Cavineña3	
-52	Cavinena	fifty two	pishika tunka beta earakana	piɕika tʊŋka beta earakana	p i ɕ i k a + t ʊ ŋ k a + b e t a + e a r a k a n a	10 12 1 6	five ten two unit	Cavineña3	
-53	Cavinena	fifty three	pishika tunka kimisha earakana	piɕika tʊŋka kimiɕa earakana	p i ɕ i k a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	10 12 8 6	five ten three unit	Cavineña3	
-54	Cavinena	fifty four	pishika tunka pushi earakana	piɕika tʊŋka pʊɕi earakana	p i ɕ i k a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	10 12 11 6	five ten four unit	Cavineña3	
-55	Cavinena	fifty five	pishika tunka pishika earakana	piɕika tʊŋka piɕika earakana	p i ɕ i k a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	10 12 10 6	five ten five unit	Cavineña3	
-56	Cavinena	fifty six	pishika tunka shukuta earakana	piɕika tʊŋka ɕʊkʊta earakana	p i ɕ i k a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	10 12 2 6	five ten six unit	Cavineña3	
-57	Cavinena	fifty seven	pishika tunka pakaruku earakana	piɕika tʊŋka pakarʊkʊ earakana	p i ɕ i k a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	10 12 3 6	five ten seven unit	Cavineña3	
-58	Cavinena	fifty eight	pishika tunka kimisakaruku earakana	piɕika tʊŋka kimisakarʊkʊ earakana	p i ɕ i k a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	10 12 15 6	five ten eight unit	Cavineña3	
-59	Cavinena	fifty nine	pishika tunka puskuruku earakana	piɕika tʊŋka pʊskʊrʊkʊ earakana	p i ɕ i k a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	10 12 14 6	five ten nine unit	Cavineña3	
-60	Cavinena	sixty	shukuta tunka	ɕʊkʊta tʊŋka	ɕ ʊ k ʊ t a + t ʊ ŋ k a	2 12	six ten	Cavineña2 Cavineña4	
-61	Cavinena	sixty one	shukuta tunka peadya earakana	ɕʊkʊta tʊŋka peaɟa earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	2 12 4 6	six ten one unit	Cavineña3	
-62	Cavinena	sixty two	shukuta tunka beta earakana	ɕʊkʊta tʊŋka beta earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + b e t a + e a r a k a n a	2 12 1 6	six ten two unit	Cavineña3	
-63	Cavinena	sixty three	shukuta tunka kimisha earakana	ɕʊkʊta tʊŋka kimiɕa earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	2 12 8 6	six ten three unit	Cavineña3	
-64	Cavinena	sixty four	shukuta tunka pushi earakana	ɕʊkʊta tʊŋka pʊɕi earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	2 12 11 6	six ten four unit	Cavineña3	
-65	Cavinena	sixty five	shukuta tunka pishika earakana	ɕʊkʊta tʊŋka piɕika earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	2 12 10 6	six ten five unit	Cavineña3	
-66	Cavinena	sixty six	shukuta tunka shukuta earakana	ɕʊkʊta tʊŋka ɕʊkʊta earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	2 12 2 6	six ten six unit	Cavineña3	
-67	Cavinena	sixty seven	shukuta tunka pakaruku earakana	ɕʊkʊta tʊŋka pakarʊkʊ earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	2 12 3 6	six ten seven unit	Cavineña3	
-68	Cavinena	sixty eight	shukuta tunka kimisakaruku earakana	ɕʊkʊta tʊŋka kimisakarʊkʊ earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	2 12 15 6	six ten eight unit	Cavineña3	
-69	Cavinena	sixty nine	shukuta tunka puskuruku earakana	ɕʊkʊta tʊŋka pʊskʊrʊkʊ earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	2 12 14 6	six ten nine unit	Cavineña3	
-70	Cavinena	seventy	pakaruku tunka	pakarʊkʊ tʊŋka	p a k a r ʊ k ʊ + t ʊ ŋ k a	3 12	seven ten	Cavineña2 Cavineña4	
-71	Cavinena	seventy one	pakaruku tunka peadya earakana	pakarʊkʊ tʊŋka peaɟa earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	3 12 4 6	seven ten one unit	Cavineña3	
-72	Cavinena	seventy two	pakaruku tunka beta earakana	pakarʊkʊ tʊŋka beta earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + b e t a + e a r a k a n a	3 12 1 6	seven ten two unit	Cavineña3	
-73	Cavinena	seventy three	pakaruku tunka kimisha earakana	pakarʊkʊ tʊŋka kimiɕa earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	3 12 8 6	seven ten three unit	Cavineña3	
-74	Cavinena	seventy four	pakaruku tunka pushi earakana	pakarʊkʊ tʊŋka pʊɕi earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	3 12 11 6	seven ten four unit	Cavineña3	
-75	Cavinena	seventy five	pakaruku tunka pishika earakana	pakarʊkʊ tʊŋka piɕika earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	3 12 10 6	seven ten five unit	Cavineña3	
-76	Cavinena	seventy six	pakaruku tunka shukuta earakana	pakarʊkʊ tʊŋka ɕʊkʊta earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	3 12 2 6	seven ten six unit	Cavineña3	
-77	Cavinena	seventy seven	pakaruku tunka pakaruku earakana	pakarʊkʊ tʊŋka pakarʊkʊ earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	3 12 3 6	seven ten seven unit	Cavineña3	
-78	Cavinena	seventy eight	pakaruku tunka kimisakaruku earakana	pakarʊkʊ tʊŋka kimisakarʊkʊ earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	3 12 15 6	seven ten eight unit	Cavineña3	
-79	Cavinena	seventy nine	pakaruku tunka puskuruku earakana	pakarʊkʊ tʊŋka pʊskʊrʊkʊ earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	3 12 14 6	seven ten nine unit	Cavineña3	
-80	Cavinena	eighty	kimisakaruku tunka	kimisakarʊkʊ tʊŋka	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a	15 12	eight ten	Cavineña2	
-81	Cavinena	eighty one	kimisakaruku tunka peadya earakana	kimisakarʊkʊ tʊŋka peaɟa earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	15 12 4 6	eight ten one unit	Cavineña3	
-82	Cavinena	eighty two	kimisakaruku tunka beta earakana	kimisakarʊkʊ tʊŋka beta earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + b e t a + e a r a k a n a	15 12 1 6	eight ten two unit	Cavineña3	
-83	Cavinena	eighty three	kimisakaruku tunka kimisha earakana	kimisakarʊkʊ tʊŋka kimiɕa earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	15 12 8 6	eight ten three unit	Cavineña3	
-84	Cavinena	eighty four	kimisakaruku tunka pushi earakana	kimisakarʊkʊ tʊŋka pʊɕi earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	15 12 11 6	eight ten four unit	Cavineña3	
-85	Cavinena	eighty five	kimisakaruku tunka pishika earakana	kimisakarʊkʊ tʊŋka piɕika earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	15 12 10 6	eight ten five unit	Cavineña3	
-86	Cavinena	eighty six	kimisakaruku tunka shukuta earakana	kimisakarʊkʊ tʊŋka ɕʊkʊta earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	15 12 2 6	eight ten six unit	Cavineña3	
-87	Cavinena	eighty seven	kimisakaruku tunka pakaruku earakana	kimisakarʊkʊ tʊŋka pakarʊkʊ earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	15 12 3 6	eight ten seven unit	Cavineña3	
-88	Cavinena	eighty eight	kimisakaruku tunka kimisakaruku earakana	kimisakarʊkʊ tʊŋka kimisakarʊkʊ earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	15 12 15 6	eight ten eight unit	Cavineña3	
-89	Cavinena	eighty nine	kimisakaruku tunka puskuruku earakana	kimisakarʊkʊ tʊŋka pʊskʊrʊkʊ earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	15 12 14 6	eight ten nine unit	Cavineña3	
-90	Cavinena	ninety	puskuruku tunka	pʊskʊrʊkʊ tʊŋka	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a	14 12	nine ten	Cavineña2	
-91	Cavinena	ninety one	puskuruku tunka peadya earakana	pʊskʊrʊkʊ tʊŋka peaɟa earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	14 12 4 6	nine ten one unit	Cavineña3	
-92	Cavinena	ninety two	puskuruku tunka beta earakana	pʊskʊrʊkʊ tʊŋka beta earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + b e t a + e a r a k a n a	14 12 1 6	nine ten two unit	Cavineña3	
-93	Cavinena	ninety three	puskuruku tunka kimisha earakana	pʊskʊrʊkʊ tʊŋka kimiɕa earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	14 12 8 6	nine ten three unit	Cavineña3	
-94	Cavinena	ninety four	puskuruku tunka pushi earakana	pʊskʊrʊkʊ tʊŋka pʊɕi earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	14 12 11 6	nine ten four unit	Cavineña3	
-95	Cavinena	ninety five	puskuruku tunka pishika earakana	pʊskʊrʊkʊ tʊŋka piɕika earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	14 12 10 6	nine ten five unit	Cavineña3	
-96	Cavinena	ninety six	puskuruku tunka shukuta earakana	pʊskʊrʊkʊ tʊŋka ɕʊkʊta earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	14 12 2 6	nine ten six unit	Cavineña3	
-97	Cavinena	ninety seven	puskuruku tunka pakaruku earakana	pʊskʊrʊkʊ tʊŋka pakarʊkʊ earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	14 12 3 6	nine ten seven unit	Cavineña3	
-98	Cavinena	ninety eight	puskuruku tunka kimisakaruku earakana	pʊskʊrʊkʊ tʊŋka kimisakarʊkʊ earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	14 12 15 6	nine ten eight unit	Cavineña3	
-99	Cavinena	ninety nine	puskuruku tunka puskuruku earakana	pʊskʊrʊkʊ tʊŋka pʊskʊrʊkʊ earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	14 12 14 6	nine ten nine unit	Cavineña3
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	NOTES	SOURCE
+1	Cavinena	one	peadya	peaɟa	p e a ɟ a	4	one	Only the numerals for ‘one’ and ‘two’ are originally from Cavineña. The remaining numerals, from ‘three’ to ‘ten’, have been borrowed from Aymara. (Cavineña1[492])	Cavineña1[492] Cavineña2 Cavineña4
+2	Cavinena	two	beta	beta	b e t a	1	two		Cavineña1[492] Cavineña2 Cavineña4
+3	Cavinena	three	kimisha	kimiɕa	k i m i ɕ a	8	three		Cavineña1[492] Cavineña2 Cavineña4
+4	Cavinena	four	pushi	pʊɕi	p ʊ ɕ i	11	four		Cavineña1[492] Cavineña2 Cavineña4
+5	Cavinena	five	pishika	piɕika	p i ɕ i k a	10	five		Cavineña1[492] Cavineña2 Cavineña4
+6	Cavinena	six	shukuta	ɕʊkʊta	ɕ ʊ k ʊ t a	2	six		Cavineña1[492] Cavineña2 Cavineña4
+7	Cavinena	seven	pakaruku	pakarʊkʊ	p a k a r ʊ k ʊ	3	seven	pa stems from Aymara paja 'two' > pa	Cavineña1[492] Cavineña2 Cavineña4
+8	Cavinena	eight	kimisakaruku	kimisakarʊkʊ	k i m i s a k a r ʊ k ʊ	15	eight	karʊkʊ stems from Aymara qaʎqu, a bound morpheme meaning 'five'	Cavineña1[492] Cavineña2 Cavineña4
+9	Cavinena	nine	puskuruku	pʊskʊrʊkʊ	p ʊ s k ʊ r ʊ k ʊ	14	nine		Cavineña1[492] Cavineña2 Cavineña4
+10	Cavinena	ten	tunka	tʊŋka	t ʊ ŋ k a	12	ten		Cavineña1[492] Cavineña2 Cavineña4
+11	Cavinena	eleven	peadya tunka peadya earakana	peaɟa tʊŋka peaɟa earakana	p e a ɟ a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	4 12 4 6	one ten one unit	As pointed out by Cavineña1[496] the translation of earakana as 'unit' is tentative	Cavineña1[496] Cavineña2 Cavineña4
+12	Cavinena	twelve	peadya tunka beta earakana	peaɟa tʊŋka beta earakana	p e a ɟ a + t ʊ ŋ k a + b e t a + e a r a k a n a	4 12 1 6	one ten two unit		Cavineña1[496] Cavineña2 Cavineña4
+13	Cavinena	thirteen	peadya tunka kimisha earakana	peaɟa tʊŋka kimiɕa earakana	p e a ɟ a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	4 12 8 6	one ten three unit		Cavineña1[496] Cavineña2 Cavineña4
+14	Cavinena	fourteen	peadya tunka pushi earakana	peaɟa tʊŋka pʊɕi earakana	p e a ɟ a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	4 12 11 6	one ten four unit		Cavineña2 Cavineña4
+15	Cavinena	fifteen	peadya tunka pishika earakana	peaɟa tʊŋka piɕika earakana	p e a ɟ a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	4 12 10 6	one ten five unit		Cavineña2 Cavineña4
+16	Cavinena	sixteen	peadya tunka shukuta earakana	peaɟa tʊŋka ɕʊkʊta earakana	p e a ɟ a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	4 12 2 6	one ten six unit		Cavineña1[496] Cavineña2
+17	Cavinena	seventeen	peadya tunka pakaruku earakana	peaɟa tʊŋka pakarʊkʊ earakana	p e a ɟ a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	4 12 3 6	one ten seven unit		Cavineña2
+18	Cavinena	eighteen	peadya tunka kimisakaruku earakana	peaɟa tʊŋka kimisakarʊkʊ earakana	p e a ɟ a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	4 12 15 6	one ten eight unit		Cavineña2
+19	Cavinena	nineteen	peadya tunka puskuruku earakana	peaɟa tʊŋka pʊskʊrʊkʊ earakana	p e a ɟ a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	4 12 14 6	one ten nine unit		Cavineña2
+20	Cavinena	twenty	beta tunka	beta tʊŋka	b e t a + t ʊ ŋ k a	1 12	two ten		Cavineña1[496] Cavineña2
+21	Cavinena	twenty one	beta tunka peadya earakana	beta tʊŋka peaɟa earakana	b e t a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	1 12 4 6	two ten one unit		Cavineña1[496] Cavineña2
+22	Cavinena	twenty two	beta tunka beta earakana	beta tʊŋka beta earakana	b e t a + t ʊ ŋ k a + b e t a + e a r a k a n a	1 12 1 6	two ten two unit		Cavineña1[496] Cavineña2
+23	Cavinena	twenty three	beta tunka kimisha earakana	beta tʊŋka kimiɕa earakana	b e t a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	1 12 8 6	two ten three unit		Cavineña1[496] Cavineña2
+24	Cavinena	twenty four	beta tunka pushi earakana	beta tʊŋka pʊɕi earakana	b e t a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	1 12 11 6	two ten four unit		Cavineña2
+25	Cavinena	twenty five	beta tunka pishika earakana	beta tʊŋka piɕika earakana	b e t a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	1 12 10 6	two ten five unit		Cavineña2
+26	Cavinena	twenty six	beta tunka shukuta earakana	beta tʊŋka ɕʊkʊta earakana	b e t a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	1 12 2 6	two ten six unit		Cavineña2
+27	Cavinena	twenty seven	beta tunka pakaruku earakana	beta tʊŋka pakarʊkʊ earakana	b e t a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	1 12 3 6	two ten seven unit		Cavineña2
+28	Cavinena	twenty eight	beta tunka kimisakaruku earakana	beta tʊŋka kimisakarʊkʊ earakana	b e t a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	1 12 15 6	two ten eight unit		Cavineña2
+29	Cavinena	twenty nine	beta tunka puskuruku earakana	beta tʊŋka pʊskʊrʊkʊ earakana	b e t a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	1 12 14 6	two ten nine unit		Cavineña2
+30	Cavinena	thirty	kimisha tunka	kimiɕa tʊŋka	k i m i ɕ a + t ʊ ŋ k a	8 12	three ten		Cavineña1[496] Cavineña2 Cavineña4
+31	Cavinena	thirty one	kimisha tunka peadya earakana	kimiɕa tʊŋka peaɟa earakana	k i m i ɕ a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	8 12 4 6	three ten one unit		Cavineña1[496] Cavineña2
+32	Cavinena	thirty two	kimisha tunka beta earakana	kimiɕa tʊŋka beta earakana	k i m i ɕ a + t ʊ ŋ k a + b e t a + e a r a k a n a	8 12 1 6	three ten two unit		Cavineña1[496] Cavineña2
+33	Cavinena	thirty three	kimisha tunka kimisha earakana	kimiɕa tʊŋka kimiɕa earakana	k i m i ɕ a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	8 12 8 6	three ten three unit		Cavineña1[496] Cavineña2
+34	Cavinena	thirty four	kimisha tunka pushi earakana	kimiɕa tʊŋka pʊɕi earakana	k i m i ɕ a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	8 12 11 6	three ten four unit		Cavineña2
+35	Cavinena	thirty five	kimisha tunka pishika earakana	kimiɕa tʊŋka piɕika earakana	k i m i ɕ a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	8 12 10 6	three ten five unit		Cavineña2
+36	Cavinena	thirty six	kimisha tunka shukuta earakana	kimiɕa tʊŋka ɕʊkʊta earakana	k i m i ɕ a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	8 12 2 6	three ten six unit		Cavineña2
+37	Cavinena	thirty seven	kimisha tunka pakaruku earakana	kimiɕa tʊŋka pakarʊkʊ earakana	k i m i ɕ a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	8 12 3 6	three ten seven unit		Cavineña2
+38	Cavinena	thirty eight	kimisha tunka kimisakaruku earakana	kimiɕa tʊŋka kimisakarʊkʊ earakana	k i m i ɕ a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	8 12 15 6	three ten eight unit		Cavineña2
+39	Cavinena	thirty nine	kimisha tunka puskuruku earakana	kimiɕa tʊŋka pʊskʊrʊkʊ earakana	k i m i ɕ a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	8 12 14 6	three ten nine unit		Cavineña2
+40	Cavinena	forty	pushi tunka	pʊɕi tʊŋka	p ʊ ɕ i + t ʊ ŋ k a	11 12	four ten		Cavineña1[496] Cavineña2 Cavineña4
+41	Cavinena	forty one	pushi tunka peadya earakana	pʊɕi tʊŋka peaɟa earakana	p ʊ ɕ i + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	11 12 4 6	four ten one unit		Cavineña3
+42	Cavinena	forty two	pushi tunka beta earakana	pʊɕi tʊŋka beta earakana	p ʊ ɕ i + t ʊ ŋ k a + b e t a + e a r a k a n a	11 12 1 6	four ten two unit		Cavineña3
+43	Cavinena	forty three	pushi tunka kimisha earakana	pʊɕi tʊŋka kimiɕa earakana	p ʊ ɕ i + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	11 12 8 6	four ten three unit		Cavineña3
+44	Cavinena	forty four	pushi tunka pushi earakana	pʊɕi tʊŋka pʊɕi earakana	p ʊ ɕ i + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	11 12 11 6	four ten four unit		Cavineña3
+45	Cavinena	forty five	pushi tunka pishika earakana	pʊɕi tʊŋka piɕika earakana	p ʊ ɕ i + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	11 12 10 6	four ten five unit		Cavineña3
+46	Cavinena	forty six	pushi tunka shukuta earakana	pʊɕi tʊŋka ɕʊkʊta earakana	p ʊ ɕ i + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	11 12 2 6	four ten six unit		Cavineña3
+47	Cavinena	forty seven	pushi tunka pakaruku earakana	pʊɕi tʊŋka pakarʊkʊ earakana	p ʊ ɕ i + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	11 12 3 6	four ten seven unit		Cavineña3
+48	Cavinena	forty eight	pushi tunka kimisakaruku earakana	pʊɕi tʊŋka kimisakarʊkʊ earakana	p ʊ ɕ i + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	11 12 15 6	four ten eight unit		Cavineña3
+49	Cavinena	forty nine	pushi tunka puskuruku earakana	pʊɕi tʊŋka pʊskʊrʊkʊ earakana	p ʊ ɕ i + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	11 12 14 6	four ten nine unit		Cavineña3
+50	Cavinena	fifty	pishika tunka	piɕika tʊŋka	p i ɕ i k a + t ʊ ŋ k a	10 12	five ten		Cavineña2 Cavineña4
+51	Cavinena	fifty one	pishika tunka peadya earakana	piɕika tʊŋka peaɟa earakana	p i ɕ i k a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	10 12 4 6	five ten one unit		Cavineña3
+52	Cavinena	fifty two	pishika tunka beta earakana	piɕika tʊŋka beta earakana	p i ɕ i k a + t ʊ ŋ k a + b e t a + e a r a k a n a	10 12 1 6	five ten two unit		Cavineña3
+53	Cavinena	fifty three	pishika tunka kimisha earakana	piɕika tʊŋka kimiɕa earakana	p i ɕ i k a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	10 12 8 6	five ten three unit		Cavineña3
+54	Cavinena	fifty four	pishika tunka pushi earakana	piɕika tʊŋka pʊɕi earakana	p i ɕ i k a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	10 12 11 6	five ten four unit		Cavineña3
+55	Cavinena	fifty five	pishika tunka pishika earakana	piɕika tʊŋka piɕika earakana	p i ɕ i k a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	10 12 10 6	five ten five unit		Cavineña3
+56	Cavinena	fifty six	pishika tunka shukuta earakana	piɕika tʊŋka ɕʊkʊta earakana	p i ɕ i k a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	10 12 2 6	five ten six unit		Cavineña3
+57	Cavinena	fifty seven	pishika tunka pakaruku earakana	piɕika tʊŋka pakarʊkʊ earakana	p i ɕ i k a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	10 12 3 6	five ten seven unit		Cavineña3
+58	Cavinena	fifty eight	pishika tunka kimisakaruku earakana	piɕika tʊŋka kimisakarʊkʊ earakana	p i ɕ i k a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	10 12 15 6	five ten eight unit		Cavineña3
+59	Cavinena	fifty nine	pishika tunka puskuruku earakana	piɕika tʊŋka pʊskʊrʊkʊ earakana	p i ɕ i k a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	10 12 14 6	five ten nine unit		Cavineña3
+60	Cavinena	sixty	shukuta tunka	ɕʊkʊta tʊŋka	ɕ ʊ k ʊ t a + t ʊ ŋ k a	2 12	six ten		Cavineña2 Cavineña4
+61	Cavinena	sixty one	shukuta tunka peadya earakana	ɕʊkʊta tʊŋka peaɟa earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	2 12 4 6	six ten one unit		Cavineña3
+62	Cavinena	sixty two	shukuta tunka beta earakana	ɕʊkʊta tʊŋka beta earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + b e t a + e a r a k a n a	2 12 1 6	six ten two unit		Cavineña3
+63	Cavinena	sixty three	shukuta tunka kimisha earakana	ɕʊkʊta tʊŋka kimiɕa earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	2 12 8 6	six ten three unit		Cavineña3
+64	Cavinena	sixty four	shukuta tunka pushi earakana	ɕʊkʊta tʊŋka pʊɕi earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	2 12 11 6	six ten four unit		Cavineña3
+65	Cavinena	sixty five	shukuta tunka pishika earakana	ɕʊkʊta tʊŋka piɕika earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	2 12 10 6	six ten five unit		Cavineña3
+66	Cavinena	sixty six	shukuta tunka shukuta earakana	ɕʊkʊta tʊŋka ɕʊkʊta earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	2 12 2 6	six ten six unit		Cavineña3
+67	Cavinena	sixty seven	shukuta tunka pakaruku earakana	ɕʊkʊta tʊŋka pakarʊkʊ earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	2 12 3 6	six ten seven unit		Cavineña3
+68	Cavinena	sixty eight	shukuta tunka kimisakaruku earakana	ɕʊkʊta tʊŋka kimisakarʊkʊ earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	2 12 15 6	six ten eight unit		Cavineña3
+69	Cavinena	sixty nine	shukuta tunka puskuruku earakana	ɕʊkʊta tʊŋka pʊskʊrʊkʊ earakana	ɕ ʊ k ʊ t a + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	2 12 14 6	six ten nine unit		Cavineña3
+70	Cavinena	seventy	pakaruku tunka	pakarʊkʊ tʊŋka	p a k a r ʊ k ʊ + t ʊ ŋ k a	3 12	seven ten		Cavineña2 Cavineña4
+71	Cavinena	seventy one	pakaruku tunka peadya earakana	pakarʊkʊ tʊŋka peaɟa earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	3 12 4 6	seven ten one unit		Cavineña3
+72	Cavinena	seventy two	pakaruku tunka beta earakana	pakarʊkʊ tʊŋka beta earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + b e t a + e a r a k a n a	3 12 1 6	seven ten two unit		Cavineña3
+73	Cavinena	seventy three	pakaruku tunka kimisha earakana	pakarʊkʊ tʊŋka kimiɕa earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	3 12 8 6	seven ten three unit		Cavineña3
+74	Cavinena	seventy four	pakaruku tunka pushi earakana	pakarʊkʊ tʊŋka pʊɕi earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	3 12 11 6	seven ten four unit		Cavineña3
+75	Cavinena	seventy five	pakaruku tunka pishika earakana	pakarʊkʊ tʊŋka piɕika earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	3 12 10 6	seven ten five unit		Cavineña3
+76	Cavinena	seventy six	pakaruku tunka shukuta earakana	pakarʊkʊ tʊŋka ɕʊkʊta earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	3 12 2 6	seven ten six unit		Cavineña3
+77	Cavinena	seventy seven	pakaruku tunka pakaruku earakana	pakarʊkʊ tʊŋka pakarʊkʊ earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	3 12 3 6	seven ten seven unit		Cavineña3
+78	Cavinena	seventy eight	pakaruku tunka kimisakaruku earakana	pakarʊkʊ tʊŋka kimisakarʊkʊ earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	3 12 15 6	seven ten eight unit		Cavineña3
+79	Cavinena	seventy nine	pakaruku tunka puskuruku earakana	pakarʊkʊ tʊŋka pʊskʊrʊkʊ earakana	p a k a r ʊ k ʊ + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	3 12 14 6	seven ten nine unit		Cavineña3
+80	Cavinena	eighty	kimisakaruku tunka	kimisakarʊkʊ tʊŋka	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a	15 12	eight ten		Cavineña2
+81	Cavinena	eighty one	kimisakaruku tunka peadya earakana	kimisakarʊkʊ tʊŋka peaɟa earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	15 12 4 6	eight ten one unit		Cavineña3
+82	Cavinena	eighty two	kimisakaruku tunka beta earakana	kimisakarʊkʊ tʊŋka beta earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + b e t a + e a r a k a n a	15 12 1 6	eight ten two unit		Cavineña3
+83	Cavinena	eighty three	kimisakaruku tunka kimisha earakana	kimisakarʊkʊ tʊŋka kimiɕa earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	15 12 8 6	eight ten three unit		Cavineña3
+84	Cavinena	eighty four	kimisakaruku tunka pushi earakana	kimisakarʊkʊ tʊŋka pʊɕi earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	15 12 11 6	eight ten four unit		Cavineña3
+85	Cavinena	eighty five	kimisakaruku tunka pishika earakana	kimisakarʊkʊ tʊŋka piɕika earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	15 12 10 6	eight ten five unit		Cavineña3
+86	Cavinena	eighty six	kimisakaruku tunka shukuta earakana	kimisakarʊkʊ tʊŋka ɕʊkʊta earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	15 12 2 6	eight ten six unit		Cavineña3
+87	Cavinena	eighty seven	kimisakaruku tunka pakaruku earakana	kimisakarʊkʊ tʊŋka pakarʊkʊ earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	15 12 3 6	eight ten seven unit		Cavineña3
+88	Cavinena	eighty eight	kimisakaruku tunka kimisakaruku earakana	kimisakarʊkʊ tʊŋka kimisakarʊkʊ earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	15 12 15 6	eight ten eight unit		Cavineña3
+89	Cavinena	eighty nine	kimisakaruku tunka puskuruku earakana	kimisakarʊkʊ tʊŋka pʊskʊrʊkʊ earakana	k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	15 12 14 6	eight ten nine unit		Cavineña3
+90	Cavinena	ninety	puskuruku tunka	pʊskʊrʊkʊ tʊŋka	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a	14 12	nine ten		Cavineña2
+91	Cavinena	ninety one	puskuruku tunka peadya earakana	pʊskʊrʊkʊ tʊŋka peaɟa earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p e a ɟ a + e a r a k a n a	14 12 4 6	nine ten one unit		Cavineña3
+92	Cavinena	ninety two	puskuruku tunka beta earakana	pʊskʊrʊkʊ tʊŋka beta earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + b e t a + e a r a k a n a	14 12 1 6	nine ten two unit		Cavineña3
+93	Cavinena	ninety three	puskuruku tunka kimisha earakana	pʊskʊrʊkʊ tʊŋka kimiɕa earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a	14 12 8 6	nine ten three unit		Cavineña3
+94	Cavinena	ninety four	puskuruku tunka pushi earakana	pʊskʊrʊkʊ tʊŋka pʊɕi earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p ʊ ɕ i + e a r a k a n a	14 12 11 6	nine ten four unit		Cavineña3
+95	Cavinena	ninety five	puskuruku tunka pishika earakana	pʊskʊrʊkʊ tʊŋka piɕika earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a	14 12 10 6	nine ten five unit		Cavineña3
+96	Cavinena	ninety six	puskuruku tunka shukuta earakana	pʊskʊrʊkʊ tʊŋka ɕʊkʊta earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + ɕ ʊ k ʊ t a + e a r a k a n a	14 12 2 6	nine ten six unit		Cavineña3
+97	Cavinena	ninety seven	puskuruku tunka pakaruku earakana	pʊskʊrʊkʊ tʊŋka pakarʊkʊ earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a	14 12 3 6	nine ten seven unit		Cavineña3
+98	Cavinena	ninety eight	puskuruku tunka kimisakaruku earakana	pʊskʊrʊkʊ tʊŋka kimisakarʊkʊ earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a	14 12 15 6	nine ten eight unit		Cavineña3
+99	Cavinena	ninety nine	puskuruku tunka puskuruku earakana	pʊskʊrʊkʊ tʊŋka pʊskʊrʊkʊ earakana	p ʊ s k ʊ r ʊ k ʊ + t ʊ ŋ k a + p ʊ s k ʊ r ʊ k ʊ + e a r a k a n a	14 12 14 6	nine ten nine unit	NULL	Cavineña3
