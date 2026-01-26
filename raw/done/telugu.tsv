@@ -1,100 +1,100 @@
-ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE	ALIGNMENT	NUMBER
-1	Telugu	one	okaṭi	okaʈi	o k a ʈ i	one	1	Telugu		1
-2	Telugu	two	reṇḍu	reɳɖu	r e ɳ + ɖ u	two _ɖu	2 14	Telugu	r e n + ɖ u	2
-3	Telugu	three	mūḍu	muːɖu	m uː + ɖ u	three _ɖu	3 14	Telugu	m uː + ɖ u	3
-4	Telugu	four	nālugu	naːlugu	n aː l u + g u	four _gu	4 15	Telugu	n aː l u + g u	4
-5	Telugu	five	aidu	aɪ̯du	aɪ̯ d u	five	5	Telugu	a j i d u	5
-6	Telugu	six	āru	aːɾu	aː ɾ u	six	6	Telugu	aː ɾ u	6
-7	Telugu	seven	ēḍu	eːɖu	eː ɖ u	seven	7	Telugu	eː ɖ u	7
-8	Telugu	eight	enimidi	enimidi	e n i + m i d i	eight _midi	8 13	Telugu	e n i + m i d i	8
-9	Telugu	nine	tommidi	tomːidi	t o m + m i d i	nine _midi	9 13	Telugu	t o m + m i d i	9
-10	Telugu	ten	padi	padi	p a d i	ten	16	Telugu	p a d i	10
-11	Telugu	eleven	padakoṇḍu	padakoɳɖu	p a d a/i + k o n ɖ u	ten one-2	16 12	Telugu		11
-12	Telugu	twelve	panneṇḍu	panːeɳɖu	p a n/d -/i + -/r e ɳ + ɖ u	ten two _ɖu	16 2 14	Telugu	p a n/d -/i + -/r e n + ɖ u	12
-13	Telugu	thirteen	padamūḍu	padamuːɖu	p a d a/i + m uː + ɖ u	ten three _ɖu	16 3 14	Telugu	p a d a/i + m uː + ɖ u	13
-14	Telugu	fourteen	padnālugu	padnaːlugu	p a d -/i + n aː l u + g u	ten four _gu	16 4 15	Telugu	p a d -/i + n aː l u + g u	14
-15	Telugu	fifteen	padihēnu	padiheːnu	p a d a/i + h eː n u	ten five-3	16 18	Telugu	p a d a/i + h eː n u	15
-16	Telugu	sixteen	padahāru	padahaːru	p a d a/i + h/- aː ɾ u	ten six	16 6	Telugu		16
-17	Telugu	seventeen	padihēḍu	padiheːɖu	p a d i + h/- eː ɖ u	ten seven	16 7	Telugu		17
-18	Telugu	eighteen	paddenimidi	padːenimidi	p a dː/d -/i + e n i + m i d i	ten eight _midi	16 8 13	Telugu	p a dː/d -/i + e n i + m i d i	18
-19	Telugu	nineteen	pandommidi	pandomːidi	p a n/d -/i + d/t o m + m i d i	ten nine _midi	16 9 13	Telugu	p a n/d -/i + d/t o m + m i d i	19
-20	Telugu	twenty	iravai	iɾavaɪ̯	i ɾ a + v/bʰ aɪ̯	two-2 ty	11 10	Telugu	i ɾ a + v/bʰ aɪ̯	20
-21	Telugu	twenty one	iravai okaṭi	iɾavaɪ̯  okaʈi	i ɾ a + v/bʰ aɪ̯ + o k a ʈ i	two-2 ty one	11 10 1	Telugu	i ɾ a + v/bʰ aɪ̯ + o k a ʈ i	21
-22	Telugu	twenty two	iravai reṇḍu	iɾavaɪ̯  reɳɖu	i ɾ a + v/bʰ aɪ̯ + r e ɳ + ɖ u	two-2 ty two _ɖu	11 10 2 14	Telugu	i ɾ a + v/bʰ aɪ̯ + r e ɳ + ɖ u	22
-23	Telugu	twenty three	iravai mūḍu	iɾavaɪ̯  muːɖu	i ɾ a + v/bʰ aɪ̯ + m uː + ɖ u	two-2 ty three _ɖu	11 10 3 14	Telugu	i ɾ a + v/bʰ aɪ̯ + m uː + ɖ u	23
-24	Telugu	twenty four	iravai nālugu	iɾavaɪ̯  naːlugu	i ɾ a + v/bʰ aɪ̯ + n aː l u + g u	two-2 ty four _gu	11 10 4 15	Telugu	i ɾ a + v/bʰ aɪ̯ + n aː l u + g u	24
-25	Telugu	twenty five	iravai aidu	iɾavaɪ̯  aɪ̯du	i ɾ a + v/bʰ aɪ̯ + aɪ̯ d u	two-2 ty five	11 10 5	Telugu	i ɾ a + v/bʰ aɪ̯ + aɪ̯ d u	25
-26	Telugu	twenty six	iravai āru	iɾavaɪ̯  aːɾu	i ɾ a + v/bʰ aɪ̯ + aː ɾ u	two-2 ty six	11 10 6	Telugu	i ɾ a + v/bʰ aɪ̯ + aː ɾ u	26
-27	Telugu	twenty seven	iravai ēḍu	iɾavaɪ̯  eːɖu	i ɾ a + v/bʰ aɪ̯ + eː ɖ u	two-2 ty seven	11 10 7	Telugu	i ɾ a + v/bʰ aɪ̯ + eː ɖ u	27
-28	Telugu	twenty eight	iravai enimidi	iɾavaɪ̯  enimidi	i ɾ a + v/bʰ aɪ̯ + e n i + m i d i	two-2 ty eight _midi	11 10 8 13	Telugu	i ɾ a + v/bʰ aɪ̯ + e n i + m i d i	28
-29	Telugu	twenty nine	iravai tommidi	iɾavaɪ̯  tomːidi	i ɾ a + v/bʰ aɪ̯ + t o m + m i d i	two-2 ty nine _midi	11 10 9 13	Telugu	i ɾ a + v/bʰ aɪ̯ + t o m + m i d i	29
-30	Telugu	thirty	muppai	mupːaɪ̯	m u/uː + pː/bʰ aɪ̯	three ty	3 10	Telugu	m u/uː + pː/bʰ aɪ̯	30
-31	Telugu	thirty one	muppai okaṭi	mupːaɪ̯ okaʈi	m u/uː + pː/bʰ aɪ̯ + o k a ʈ i	three ty one	3 10 1	Telugu	m u/uː + pː/bʰ aɪ̯ + o k a ʈ i	31
-32	Telugu	thirty two	muppai reṇḍu	mupːaɪ̯ reɳɖu	m u/uː + pː/bʰ aɪ̯ + r e ɳ + ɖ u	three ty two _ɖu	3 10 2 14	Telugu	m u/uː + pː/bʰ aɪ̯ + r e ɳ + ɖ u	32
-33	Telugu	thirty three	muppai mūḍu	mupːaɪ̯ muːɖu	m u/uː + pː/bʰ aɪ̯ + m uː + ɖ u	three ty three _ɖu	3 10 3 14	Telugu	m u/uː + pː/bʰ aɪ̯ + m uː + ɖ u	33
-34	Telugu	thirty four	muppai nālugu	mupːaɪ̯ naːlugu	m u/uː + pː/bʰ aɪ̯ + n aː l u + g u	three ty four _gu	3 10 4 15	Telugu	m u/uː + pː/bʰ aɪ̯ + n aː l u + g u	34
-35	Telugu	thirty five	muppai aidu	mupːaɪ̯ aɪ̯du	m u/uː + pː/bʰ aɪ̯ + aɪ̯ d u	three ty five	3 10 5	Telugu	m u/uː + pː/bʰ aɪ̯ + aɪ̯ d u	35
-36	Telugu	thirty six	muppai āru	mupːaɪ̯ aːɾu	m u/uː + pː/bʰ aɪ̯ + aː ɾ u	three ty six	3 10 6	Telugu	m u/uː + pː/bʰ aɪ̯ + aː ɾ u	36
-37	Telugu	thirty seven	muppai ēḍu	mupːaɪ̯ eːɖu	m u/uː + pː/bʰ aɪ̯ + eː ɖ u	three ty seven	3 10 7	Telugu	m u/uː + pː/bʰ aɪ̯ + eː ɖ u	37
-38	Telugu	thirty eight	muppai enimidi	mupːaɪ̯ enimidi	m u/uː + pː/bʰ aɪ̯ + e n i + m i d i	three ty eight _midi	3 10 8 13	Telugu	m u/uː + pː/bʰ aɪ̯ + e n i + m i d i	38
-39	Telugu	thirty nine	muppai tommidi	mupːaɪ̯ tomːidi	m u/uː + pː/bʰ aɪ̯ + t o m + m i d i	three ty nine _midi	3 10 9 13	Telugu	m u/uː + pː/bʰ aɪ̯ + t o m + m i d i	39
-40	Telugu	forty	nalabʰai	nalabʰaɪ̯	n aː l a/u + bʰ aɪ̯	four ty	4 10	Telugu	n aː l a/u + bʰ aɪ̯	40
-41	Telugu	forty one	nalabʰai okaṭi	nalabʰaɪ̯ okaʈi	n aː l a/u + bʰ aɪ̯ + o k a ʈ i	four ty one	4 10 1	Telugu	n aː l a/u + bʰ aɪ̯ + o k a ʈ i	41
-42	Telugu	forty two	nalabʰai reṇḍu	nalabʰaɪ̯ reɳɖu	n aː l a/u + bʰ aɪ̯ + r e ɳ + ɖ u	four ty two _ɖu	4 10 2 14	Telugu	n aː l a/u + bʰ aɪ̯ + r e ɳ + ɖ u	42
-43	Telugu	forty three	nalabʰai mūḍu	nalabʰaɪ̯ muːɖu	n aː l a/u + bʰ aɪ̯ + m uː + ɖ u	four ty three _ɖu	4 10 3 14	Telugu	n aː l a/u + bʰ aɪ̯ + m uː + ɖ u	43
-44	Telugu	forty four	nalabʰai nālugu	nalabʰaɪ̯ naːlugu	n aː l a/u + bʰ aɪ̯ + n aː l u + g u	four ty four _gu	4 10 4 15	Telugu	n aː l a/u + bʰ aɪ̯ + n aː l u + g u	44
-45	Telugu	forty five	nalabʰai aidu	nalabʰaɪ̯ aɪ̯du	n aː l a/u + bʰ aɪ̯ + aɪ̯ d u	four ty five	4 10 5	Telugu	n aː l a/u + bʰ aɪ̯ + aɪ̯ d u	45
-46	Telugu	forty six	nalabʰai āru	nalabʰaɪ̯ aːɾu	n aː l a/u + bʰ aɪ̯ + aː ɾ u	four ty six	4 10 6	Telugu	n aː l a/u + bʰ aɪ̯ + aː ɾ u	46
-47	Telugu	forty seven	nalabʰai ēḍu	nalabʰaɪ̯ eːɖu	n aː l a/u + bʰ aɪ̯ + eː ɖ u	four ty seven	4 10 7	Telugu	n aː l a/u + bʰ aɪ̯ + eː ɖ u	47
-48	Telugu	forty eight	nalabʰai enimidi	nalabʰaɪ̯ enimidi	n aː l a/u + bʰ aɪ̯ + e n i + m i d i	four ty eight _midi	4 10 8 13	Telugu	n aː l a/u + bʰ aɪ̯ + e n i + m i d i	48
-49	Telugu	forty nine	nalabʰai tommidi	nalabʰaɪ̯ tomːidi	n aː l a/u + bʰ aɪ̯ + t o m + m i d i	four ty nine _midi	4 10 9 13	Telugu	n aː l a/u + bʰ aɪ̯ + t o m + m i d i	49
-50	Telugu	fifty 	yābʰai	jaːbʰaɪ̯	j aː + bʰ aɪ̯	five-2 ty	19 10	Telugu	j aː + bʰ aɪ̯	50
-51	Telugu	fifty one	yābʰai okaṭi	jaːbʰaɪ̯ okaʈi	j aː + bʰ aɪ̯ + o k a ʈ i	five-2 ty one	19 10 1	Telugu	j aː + bʰ aɪ̯ + o k a ʈ i	51
-52	Telugu	fifty two	yābʰai reṇḍu	jaːbʰaɪ̯ reɳɖu	j aː + bʰ aɪ̯ + r e ɳ + ɖ u	five-2 ty two _ɖu	19 10 2 14	Telugu	j aː + bʰ aɪ̯ + r e ɳ + ɖ u	52
-53	Telugu	fifty three	yābʰai mūḍu	jaːbʰaɪ̯ muːɖu	j aː + bʰ aɪ̯ + m uː + ɖ u	five-2 ty three _ɖu	19 10 3 14	Telugu	j aː + bʰ aɪ̯ + m uː + ɖ u	53
-54	Telugu	fifty four	yābʰai nālugu	jaːbʰaɪ̯ naːlugu	j aː + bʰ aɪ̯ + n aː l u + g u	five-2 ty four _gu	19 10 4 15	Telugu	j aː + bʰ aɪ̯ + n aː l u + g u	54
-55	Telugu	fifty five	yābʰai aidu	jaːbʰaɪ̯ aɪ̯du	j aː + bʰ aɪ̯ + aɪ̯ d u	five-2 ty five	19 10 5	Telugu	j aː + bʰ aɪ̯ + aɪ̯ d u	55
-56	Telugu	fifty six	yābʰai āru	jaːbʰaɪ̯ aːɾu	j aː + bʰ aɪ̯ + aː ɾ u	five-2 ty six	19 10 6	Telugu	j aː + bʰ aɪ̯ + aː ɾ u	56
-57	Telugu	fifty seven	yābʰai ēḍu	jaːbʰaɪ̯ eːɖu	j aː + bʰ aɪ̯ + eː ɖ u	five-2 ty seven	19 10 7	Telugu	j aː + bʰ aɪ̯ + eː ɖ u	57
-58	Telugu	fifty eight	yābʰai enimidi	jaːbʰaɪ̯ enimidi	j aː + bʰ aɪ̯ + e n i + m i d i	five-2 ty eight _midi	19 10 8 13	Telugu	j aː + bʰ aɪ̯ + e n i + m i d i	58
-59	Telugu	fifty nine	yābʰai tommidi	jaːbʰaɪ̯ tomːidi	j aː + bʰ aɪ̯ + t o m + m i d i	five-2 ty nine _midi	19 10 9 13	Telugu	j aː + bʰ aɪ̯ + t o m + m i d i	59
-60	Telugu	sixty 	aravai	aɾavaɪ̯	a/aː ɾ a/u + v/bʰ aɪ̯	six ty	6 10	Telugu	a/aː ɾ a/u + v/bʰ aɪ̯	60
-61	Telugu	sixty one	aravai okaṭi	aɾavaɪ̯ okaʈi	aː ɾ u + pː/p aɪ̯/a -/d -/i + o k a ʈ i	six ten one	6 16 1	Telugu		61
-62	Telugu	sixty two	aravai reṇḍu	aɾavaɪ̯ reɳɖu	aː ɾ a/u + v/bʰ aɪ̯ + r e ɳ + ɖ u	six ty two _ɖu	6 10 2 14	Telugu	aː ɾ a/u + v/bʰ aɪ̯ + r e ɳ + ɖ u	62
-63	Telugu	sixty three	aravai mūḍu	aɾavaɪ̯ muːɖu	aː ɾ a/u + v/bʰ aɪ̯ + m uː + ɖ u	six ty three _ɖu	6 10 3 14	Telugu	aː ɾ a/u + v/bʰ aɪ̯ + m uː + ɖ u	63
-64	Telugu	sixty four	aravai nālugu	aɾavaɪ̯ naːlugu	aː ɾ a/u + v/bʰ aɪ̯ + n aː l u + g u	six ty four _gu	6 10 4 15	Telugu	aː ɾ a/u + v/bʰ aɪ̯ + n aː l u + g u	64
-65	Telugu	sixty five	aravai aidu	aɾavaɪ̯ aɪ̯du	aː ɾ a/u + v/bʰ aɪ̯ + aɪ̯ d u	six ty five	6 10 5	Telugu	aː ɾ a/u + v/bʰ aɪ̯ + aɪ̯ d u	65
-66	Telugu	sixty six	aravai āru	aɾavaɪ̯ aːɾu	aː ɾ a/u + v/bʰ aɪ̯ + aː ɾ u	six ty six	6 10 6	Telugu	aː ɾ a/u + v/bʰ aɪ̯ + aː ɾ u	66
-67	Telugu	sixty seven	aravai ēḍu	aɾavaɪ̯ eːɖu	aː ɾ a/u + v/bʰ aɪ̯ + eː ɖ u	six ty seven	6 10 7	Telugu	aː ɾ a/u + v/bʰ aɪ̯ + eː ɖ u	67
-68	Telugu	sixty eight	aravai enimidi	aɾavaɪ̯ enimidi	aː ɾ a/u + v/bʰ aɪ̯ + e n i + m i d i	six ty eight _midi	6 10 8 13	Telugu	aː ɾ a/u + v/bʰ aɪ̯ + e n i + m i d i	68
-69	Telugu	sixty nine	aravai tommidi	aɾavaɪ̯  tomːidi	aː ɾ a/u + v/bʰ aɪ̯ + t o m + m i d i	six ty nine _midi	6 10 9 13	Telugu	aː ɾ a/u + v/bʰ aɪ̯ + t o m + m i d i	69
-70	Telugu	seventy 	debbai	debːaɪ̯	d e + bː/bʰ aɪ̯	seven-2 ty	17 10	Telugu	d e + bː/bʰ aɪ̯	70
-71	Telugu	seventy one	debbai okaṭi	debːaɪ̯ okaʈi	d e + bː/bʰ aɪ̯ + o k a ʈ i	seven-2 ty one	17 10 1	Telugu	d e + bː/bʰ aɪ̯ + o k a ʈ i	71
-72	Telugu	seventy two	debbai reṇḍu	debːaɪ̯ reɳɖu	d e + bː/bʰ aɪ̯ + r e ɳ + ɖ u	seven-2 ty two _ɖu	17 10 2 14	Telugu	d e + bː/bʰ aɪ̯ + r e ɳ + ɖ u	72
-73	Telugu	seventy three	debbai mūḍu	debːaɪ̯ muːɖu	d e + bː/bʰ aɪ̯ + m uː + ɖ u	seven-2 ty three _ɖu	17 10 3 14	Telugu	d e + bː/bʰ aɪ̯ + m uː + ɖ u	73
-74	Telugu	seventy four	debbai nālugu	debːaɪ̯ naːlugu	d e + bː/bʰ aɪ̯ + n aː l u + g u	seven-2 ty four _gu	17 10 4 15	Telugu	d e + bː/bʰ aɪ̯ + n aː l u + g u	74
-75	Telugu	seventy five	debbai aidu	debːaɪ̯ aɪ̯du	d e + bː/bʰ aɪ̯ + aɪ̯ d u	seven-2 ty five	17 10 5	Telugu	d e + bː/bʰ aɪ̯ + aɪ̯ d u	75
-76	Telugu	seventy six	debbai āru	debːaɪ̯ aːɾu	d e + bː/bʰ aɪ̯ + aː ɾ u	seven-2 ty six	17 10 6	Telugu	d e + bː/bʰ aɪ̯ + aː ɾ u	76
-77	Telugu	seventy seven	debbai ēḍu	debːaɪ̯ eːɖu	d e + bː/bʰ aɪ̯ + eː ɖ u	seven-2 ty seven	17 10 7	Telugu	d e + bː/bʰ aɪ̯ + eː ɖ u	77
-78	Telugu	seventy eight	debbai enimidi	debːaɪ̯ enimidi	d e + bː/bʰ aɪ̯ + e n i + m i d i	seven-2 ty eight _midi	17 10 8 13	Telugu	d e + bː/bʰ aɪ̯ + e n i + m i d i	78
-79	Telugu	seventy nine	debbai tommidi	debːaɪ̯ tomːidi	d e + bː/bʰ aɪ̯ + t o m + m i d i	seven-2 ty nine _midi	17 10 9 13	Telugu	d e + bː/bʰ aɪ̯ + t o m + m i d i	79
-80	Telugu	eighty 	enabʰai	enabʰaɪ̯	e n a/i + bʰ aɪ̯	eight ty	8 10	Telugu	e n a/i + bʰ aɪ̯	80
-81	Telugu	eighty one	enabʰai okaṭi	enabʰaɪ̯ okaʈi	e n a/i + bʰ aɪ̯ + o k a ʈ i	eight ty one	8 10 1	Telugu	e n a/i + bʰ aɪ̯ + o k a ʈ i	81
-82	Telugu	eighty two	enabʰai reṇḍu	enabʰaɪ̯ reɳɖu	e n a/i + bʰ aɪ̯ + r e ɳ + ɖ u	eight ty two _ɖu	8 10 2 14	Telugu	e n a/i + bʰ aɪ̯ + r e ɳ + ɖ u	82
-83	Telugu	eighty three	enabʰai mūḍu	enabʰaɪ̯ muːɖu	e n a/i + bʰ aɪ̯ + m uː + ɖ u	eight ty three _ɖu	8 10 3 14	Telugu	e n a/i + bʰ aɪ̯ + m uː + ɖ u	83
-84	Telugu	eighty four	enabʰai nālugu	enabʰaɪ̯ naːlugu	e n a/i + bʰ aɪ̯ + n aː l u + g u	eight ty four _gu	8 10 4 15	Telugu	e n a/i + bʰ aɪ̯ + n aː l u + g u	84
-85	Telugu	eighty five	enabʰai aidu	enabʰaɪ̯ aɪ̯du	e n a/i + bʰ aɪ̯ + aɪ̯ d u	eight ty five	8 10 5	Telugu	e n a/i + bʰ aɪ̯ + aɪ̯ d u	85
-86	Telugu	eighty six	enabʰai āru	enabʰaɪ̯ aːɾu	e n a/i + bʰ aɪ̯ + aː ɾ u	eight ty six	8 10 6	Telugu	e n a/i + bʰ aɪ̯ + aː ɾ u	86
-87	Telugu	eighty seven	enabʰai ēḍu	enabʰaɪ̯ eːɖu	e n a/i + bʰ aɪ̯ + eː ɖ u	eight ty seven	8 10 7	Telugu	e n a/i + bʰ aɪ̯ + eː ɖ u	87
-88	Telugu	eighty eight	enabʰai enimidi	enabʰaɪ̯ enimidi	e n a/i + bʰ aɪ̯ + e n i + m i d i	eight ty eight _midi	8 10 8 13	Telugu	e n a/i + bʰ aɪ̯ + e n i + m i d i	88
-89	Telugu	eighty nine	enabʰai tommidi	enabʰaɪ̯ tomːidi	e n a/i + bʰ aɪ̯ + t o m + m i d i	eight ty nine _midi	8 10 9 13	Telugu	e n a/i + bʰ aɪ̯ + t o m + m i d i	89
-90	Telugu	ninety 	tombʰai	tombʰaɪ̯	t o m + bʰ aɪ̯	nine ty	9 10	Telugu	t o m + bʰ aɪ̯	90
-91	Telugu	ninety one	tombʰai okaṭi	tombʰaɪ̯ okaʈi	t o m + bʰ aɪ̯ + o k a ʈ i	nine ty one	9 10 1	Telugu	t o m + bʰ aɪ̯ + o k a ʈ i	91
-92	Telugu	ninety two	tombʰai reṇḍu	tombʰaɪ̯ reɳɖu	t o m + bʰ aɪ̯ + r e ɳ + ɖ u	nine ty two _ɖu	9 10 2 14	Telugu	t o m + bʰ aɪ̯ + r e ɳ + ɖ u	92
-93	Telugu	ninety three	tombʰai mūḍu	tombʰaɪ̯ muːɖu	t o m + bʰ aɪ̯ + m uː + ɖ u	nine ty three _ɖu	9 10 3 14	Telugu	t o m + bʰ aɪ̯ + m uː + ɖ u	93
-94	Telugu	ninety four	tombʰai nālugu	tombʰaɪ̯ naːlugu	t o m + bʰ aɪ̯ + n aː l u + g u	nine ty four _gu	9 10 4 15	Telugu	t o m + bʰ aɪ̯ + n aː l u + g u	94
-95	Telugu	ninety five	tombʰai aidu	tombʰaɪ̯ aɪ̯du	t o m + bʰ aɪ̯ + aɪ̯ d u	nine ty five	9 10 5	Telugu	t o m + bʰ aɪ̯ + aɪ̯ d u	95
-96	Telugu	ninety six	tombʰai āru	tombʰaɪ̯ aːɾu	t o m + bʰ aɪ̯ + aː ɾ u	nine ty six	9 10 6	Telugu	t o m + bʰ aɪ̯ + aː ɾ u	96
-97	Telugu	ninety seven	tombʰai ēḍu	tombʰaɪ̯ eːɖu	t o m + bʰ aɪ̯ + eː ɖ u	nine ty seven	9 10 7	Telugu	t o m + bʰ aɪ̯ + eː ɖ u	97
-98	Telugu	ninety eight	tombʰai enimidi	tombʰaɪ̯ enimidi	t o m + bʰ aɪ̯ + e n i + m i d i	nine ty eight _midi	9 13 8 13	Telugu	t o m + bʰ aɪ̯ + e n i + m i d i	98
-99	Telugu	ninety nine	tombʰai tommidi	tombʰaɪ̯ tomːidi	t o m + bʰ aɪ̯ + t o m + m i d i	nine ty nine _midi	9 10 9 13	Telugu	t o m + bʰ aɪ̯ + t o m + m i d i	99
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
+1	Telugu	one	okaṭi	okaʈi	o k a ʈ i	one	1	Telugu
+2	Telugu	two	reṇḍu	reɳɖu	r e ɳ + ɖ u	two _ɖu	2 14	Telugu
+3	Telugu	three	mūḍu	muːɖu	m uː + ɖ u	three _ɖu	3 14	Telugu
+4	Telugu	four	nālugu	naːlugu	n aː l u + g u	four _gu	4 15	Telugu
+5	Telugu	five	aidu	aɪ̯du	aɪ̯ d u	five	5	Telugu
+6	Telugu	six	āru	aːɾu	aː ɾ u	six	6	Telugu
+7	Telugu	seven	ēḍu	eːɖu	eː ɖ u	seven	7	Telugu
+8	Telugu	eight	enimidi	enimidi	e n i + m i d i	eight _midi	8 13	Telugu
+9	Telugu	nine	tommidi	tomːidi	t o m + m i d i	nine _midi	9 13	Telugu
+10	Telugu	ten	padi	padi	p a d i	ten	16	Telugu
+11	Telugu	eleven	padakoṇḍu	padakoɳɖu	p a d a/i + k o n ɖ u	ten one-2	16 12	Telugu
+12	Telugu	twelve	panneṇḍu	panːeɳɖu	p a n/d -/i + -/r e ɳ + ɖ u	ten two _ɖu	16 2 14	Telugu
+13	Telugu	thirteen	padamūḍu	padamuːɖu	p a d a/i + m uː + ɖ u	ten three _ɖu	16 3 14	Telugu
+14	Telugu	fourteen	padnālugu	padnaːlugu	p a d -/i + n aː l u + g u	ten four _gu	16 4 15	Telugu
+15	Telugu	fifteen	padihēnu	padiheːnu	p a d a/i + h eː n u	ten five-3	16 18	Telugu
+16	Telugu	sixteen	padahāru	padahaːru	p a d a/i + h/- aː ɾ u	ten six	16 6	Telugu
+17	Telugu	seventeen	padihēḍu	padiheːɖu	p a d i + h/- eː ɖ u	ten seven	16 7	Telugu
+18	Telugu	eighteen	paddenimidi	padːenimidi	p a dː/d -/i + e n i + m i d i	ten eight _midi	16 8 13	Telugu
+19	Telugu	nineteen	pandommidi	pandomːidi	p a n/d -/i + d/t o m + m i d i	ten nine _midi	16 9 13	Telugu
+20	Telugu	twenty	iravai	iɾavaɪ̯	i ɾ a + v/bʰ aɪ̯	two-2 ty	11 10	Telugu
+21	Telugu	twenty one	iravai okaṭi	iɾavaɪ̯  okaʈi	i ɾ a + v/bʰ aɪ̯ + o k a ʈ i	two-2 ty one	11 10 1	Telugu
+22	Telugu	twenty two	iravai reṇḍu	iɾavaɪ̯  reɳɖu	i ɾ a + v/bʰ aɪ̯ + r e ɳ + ɖ u	two-2 ty two _ɖu	11 10 2 14	Telugu
+23	Telugu	twenty three	iravai mūḍu	iɾavaɪ̯  muːɖu	i ɾ a + v/bʰ aɪ̯ + m uː + ɖ u	two-2 ty three _ɖu	11 10 3 14	Telugu
+24	Telugu	twenty four	iravai nālugu	iɾavaɪ̯  naːlugu	i ɾ a + v/bʰ aɪ̯ + n aː l u + g u	two-2 ty four _gu	11 10 4 15	Telugu
+25	Telugu	twenty five	iravai aidu	iɾavaɪ̯  aɪ̯du	i ɾ a + v/bʰ aɪ̯ + aɪ̯ d u	two-2 ty five	11 10 5	Telugu
+26	Telugu	twenty six	iravai āru	iɾavaɪ̯  aːɾu	i ɾ a + v/bʰ aɪ̯ + aː ɾ u	two-2 ty six	11 10 6	Telugu
+27	Telugu	twenty seven	iravai ēḍu	iɾavaɪ̯  eːɖu	i ɾ a + v/bʰ aɪ̯ + eː ɖ u	two-2 ty seven	11 10 7	Telugu
+28	Telugu	twenty eight	iravai enimidi	iɾavaɪ̯  enimidi	i ɾ a + v/bʰ aɪ̯ + e n i + m i d i	two-2 ty eight _midi	11 10 8 13	Telugu
+29	Telugu	twenty nine	iravai tommidi	iɾavaɪ̯  tomːidi	i ɾ a + v/bʰ aɪ̯ + t o m + m i d i	two-2 ty nine _midi	11 10 9 13	Telugu
+30	Telugu	thirty	muppai	mupːaɪ̯	m u/uː + pː/bʰ aɪ̯	three ty	3 10	Telugu
+31	Telugu	thirty one	muppai okaṭi	mupːaɪ̯ okaʈi	m u/uː + pː/bʰ aɪ̯ + o k a ʈ i	three ty one	3 10 1	Telugu
+32	Telugu	thirty two	muppai reṇḍu	mupːaɪ̯ reɳɖu	m u/uː + pː/bʰ aɪ̯ + r e ɳ + ɖ u	three ty two _ɖu	3 10 2 14	Telugu
+33	Telugu	thirty three	muppai mūḍu	mupːaɪ̯ muːɖu	m u/uː + pː/bʰ aɪ̯ + m uː + ɖ u	three ty three _ɖu	3 10 3 14	Telugu
+34	Telugu	thirty four	muppai nālugu	mupːaɪ̯ naːlugu	m u/uː + pː/bʰ aɪ̯ + n aː l u + g u	three ty four _gu	3 10 4 15	Telugu
+35	Telugu	thirty five	muppai aidu	mupːaɪ̯ aɪ̯du	m u/uː + pː/bʰ aɪ̯ + aɪ̯ d u	three ty five	3 10 5	Telugu
+36	Telugu	thirty six	muppai āru	mupːaɪ̯ aːɾu	m u/uː + pː/bʰ aɪ̯ + aː ɾ u	three ty six	3 10 6	Telugu
+37	Telugu	thirty seven	muppai ēḍu	mupːaɪ̯ eːɖu	m u/uː + pː/bʰ aɪ̯ + eː ɖ u	three ty seven	3 10 7	Telugu
+38	Telugu	thirty eight	muppai enimidi	mupːaɪ̯ enimidi	m u/uː + pː/bʰ aɪ̯ + e n i + m i d i	three ty eight _midi	3 10 8 13	Telugu
+39	Telugu	thirty nine	muppai tommidi	mupːaɪ̯ tomːidi	m u/uː + pː/bʰ aɪ̯ + t o m + m i d i	three ty nine _midi	3 10 9 13	Telugu
+40	Telugu	forty	nalabʰai	nalabʰaɪ̯	n aː l a/u + bʰ aɪ̯	four ty	4 10	Telugu
+41	Telugu	forty one	nalabʰai okaṭi	nalabʰaɪ̯ okaʈi	n aː l a/u + bʰ aɪ̯ + o k a ʈ i	four ty one	4 10 1	Telugu
+42	Telugu	forty two	nalabʰai reṇḍu	nalabʰaɪ̯ reɳɖu	n aː l a/u + bʰ aɪ̯ + r e ɳ + ɖ u	four ty two _ɖu	4 10 2 14	Telugu
+43	Telugu	forty three	nalabʰai mūḍu	nalabʰaɪ̯ muːɖu	n aː l a/u + bʰ aɪ̯ + m uː + ɖ u	four ty three _ɖu	4 10 3 14	Telugu
+44	Telugu	forty four	nalabʰai nālugu	nalabʰaɪ̯ naːlugu	n aː l a/u + bʰ aɪ̯ + n aː l u + g u	four ty four _gu	4 10 4 15	Telugu
+45	Telugu	forty five	nalabʰai aidu	nalabʰaɪ̯ aɪ̯du	n aː l a/u + bʰ aɪ̯ + aɪ̯ d u	four ty five	4 10 5	Telugu
+46	Telugu	forty six	nalabʰai āru	nalabʰaɪ̯ aːɾu	n aː l a/u + bʰ aɪ̯ + aː ɾ u	four ty six	4 10 6	Telugu
+47	Telugu	forty seven	nalabʰai ēḍu	nalabʰaɪ̯ eːɖu	n aː l a/u + bʰ aɪ̯ + eː ɖ u	four ty seven	4 10 7	Telugu
+48	Telugu	forty eight	nalabʰai enimidi	nalabʰaɪ̯ enimidi	n aː l a/u + bʰ aɪ̯ + e n i + m i d i	four ty eight _midi	4 10 8 13	Telugu
+49	Telugu	forty nine	nalabʰai tommidi	nalabʰaɪ̯ tomːidi	n aː l a/u + bʰ aɪ̯ + t o m + m i d i	four ty nine _midi	4 10 9 13	Telugu
+50	Telugu	fifty 	yābʰai	jaːbʰaɪ̯	j aː + bʰ aɪ̯	five-2 ty	19 10	Telugu
+51	Telugu	fifty one	yābʰai okaṭi	jaːbʰaɪ̯ okaʈi	j aː + bʰ aɪ̯ + o k a ʈ i	five-2 ty one	19 10 1	Telugu
+52	Telugu	fifty two	yābʰai reṇḍu	jaːbʰaɪ̯ reɳɖu	j aː + bʰ aɪ̯ + r e ɳ + ɖ u	five-2 ty two _ɖu	19 10 2 14	Telugu
+53	Telugu	fifty three	yābʰai mūḍu	jaːbʰaɪ̯ muːɖu	j aː + bʰ aɪ̯ + m uː + ɖ u	five-2 ty three _ɖu	19 10 3 14	Telugu
+54	Telugu	fifty four	yābʰai nālugu	jaːbʰaɪ̯ naːlugu	j aː + bʰ aɪ̯ + n aː l u + g u	five-2 ty four _gu	19 10 4 15	Telugu
+55	Telugu	fifty five	yābʰai aidu	jaːbʰaɪ̯ aɪ̯du	j aː + bʰ aɪ̯ + aɪ̯ d u	five-2 ty five	19 10 5	Telugu
+56	Telugu	fifty six	yābʰai āru	jaːbʰaɪ̯ aːɾu	j aː + bʰ aɪ̯ + aː ɾ u	five-2 ty six	19 10 6	Telugu
+57	Telugu	fifty seven	yābʰai ēḍu	jaːbʰaɪ̯ eːɖu	j aː + bʰ aɪ̯ + eː ɖ u	five-2 ty seven	19 10 7	Telugu
+58	Telugu	fifty eight	yābʰai enimidi	jaːbʰaɪ̯ enimidi	j aː + bʰ aɪ̯ + e n i + m i d i	five-2 ty eight _midi	19 10 8 13	Telugu
+59	Telugu	fifty nine	yābʰai tommidi	jaːbʰaɪ̯ tomːidi	j aː + bʰ aɪ̯ + t o m + m i d i	five-2 ty nine _midi	19 10 9 13	Telugu
+60	Telugu	sixty 	aravai	aɾavaɪ̯	a/aː ɾ a/u + v/bʰ aɪ̯	six ty	6 10	Telugu
+61	Telugu	sixty one	aravai okaṭi	aɾavaɪ̯ okaʈi	aː ɾ u + pː/p aɪ̯/a -/d -/i + o k a ʈ i	six ten one	6 16 1	Telugu
+62	Telugu	sixty two	aravai reṇḍu	aɾavaɪ̯ reɳɖu	aː ɾ a/u + v/bʰ aɪ̯ + r e ɳ + ɖ u	six ty two _ɖu	6 10 2 14	Telugu
+63	Telugu	sixty three	aravai mūḍu	aɾavaɪ̯ muːɖu	aː ɾ a/u + v/bʰ aɪ̯ + m uː + ɖ u	six ty three _ɖu	6 10 3 14	Telugu
+64	Telugu	sixty four	aravai nālugu	aɾavaɪ̯ naːlugu	aː ɾ a/u + v/bʰ aɪ̯ + n aː l u + g u	six ty four _gu	6 10 4 15	Telugu
+65	Telugu	sixty five	aravai aidu	aɾavaɪ̯ aɪ̯du	aː ɾ a/u + v/bʰ aɪ̯ + aɪ̯ d u	six ty five	6 10 5	Telugu
+66	Telugu	sixty six	aravai āru	aɾavaɪ̯ aːɾu	aː ɾ a/u + v/bʰ aɪ̯ + aː ɾ u	six ty six	6 10 6	Telugu
+67	Telugu	sixty seven	aravai ēḍu	aɾavaɪ̯ eːɖu	aː ɾ a/u + v/bʰ aɪ̯ + eː ɖ u	six ty seven	6 10 7	Telugu
+68	Telugu	sixty eight	aravai enimidi	aɾavaɪ̯ enimidi	aː ɾ a/u + v/bʰ aɪ̯ + e n i + m i d i	six ty eight _midi	6 10 8 13	Telugu
+69	Telugu	sixty nine	aravai tommidi	aɾavaɪ̯  tomːidi	aː ɾ a/u + v/bʰ aɪ̯ + t o m + m i d i	six ty nine _midi	6 10 9 13	Telugu
+70	Telugu	seventy 	debbai	debːaɪ̯	d e + bː/bʰ aɪ̯	seven-2 ty	17 10	Telugu
+71	Telugu	seventy one	debbai okaṭi	debːaɪ̯ okaʈi	d e + bː/bʰ aɪ̯ + o k a ʈ i	seven-2 ty one	17 10 1	Telugu
+72	Telugu	seventy two	debbai reṇḍu	debːaɪ̯ reɳɖu	d e + bː/bʰ aɪ̯ + r e ɳ + ɖ u	seven-2 ty two _ɖu	17 10 2 14	Telugu
+73	Telugu	seventy three	debbai mūḍu	debːaɪ̯ muːɖu	d e + bː/bʰ aɪ̯ + m uː + ɖ u	seven-2 ty three _ɖu	17 10 3 14	Telugu
+74	Telugu	seventy four	debbai nālugu	debːaɪ̯ naːlugu	d e + bː/bʰ aɪ̯ + n aː l u + g u	seven-2 ty four _gu	17 10 4 15	Telugu
+75	Telugu	seventy five	debbai aidu	debːaɪ̯ aɪ̯du	d e + bː/bʰ aɪ̯ + aɪ̯ d u	seven-2 ty five	17 10 5	Telugu
+76	Telugu	seventy six	debbai āru	debːaɪ̯ aːɾu	d e + bː/bʰ aɪ̯ + aː ɾ u	seven-2 ty six	17 10 6	Telugu
+77	Telugu	seventy seven	debbai ēḍu	debːaɪ̯ eːɖu	d e + bː/bʰ aɪ̯ + eː ɖ u	seven-2 ty seven	17 10 7	Telugu
+78	Telugu	seventy eight	debbai enimidi	debːaɪ̯ enimidi	d e + bː/bʰ aɪ̯ + e n i + m i d i	seven-2 ty eight _midi	17 10 8 13	Telugu
+79	Telugu	seventy nine	debbai tommidi	debːaɪ̯ tomːidi	d e + bː/bʰ aɪ̯ + t o m + m i d i	seven-2 ty nine _midi	17 10 9 13	Telugu
+80	Telugu	eighty 	enabʰai	enabʰaɪ̯	e n a/i + bʰ aɪ̯	eight ty	8 10	Telugu
+81	Telugu	eighty one	enabʰai okaṭi	enabʰaɪ̯ okaʈi	e n a/i + bʰ aɪ̯ + o k a ʈ i	eight ty one	8 10 1	Telugu
+82	Telugu	eighty two	enabʰai reṇḍu	enabʰaɪ̯ reɳɖu	e n a/i + bʰ aɪ̯ + r e ɳ + ɖ u	eight ty two _ɖu	8 10 2 14	Telugu
+83	Telugu	eighty three	enabʰai mūḍu	enabʰaɪ̯ muːɖu	e n a/i + bʰ aɪ̯ + m uː + ɖ u	eight ty three _ɖu	8 10 3 14	Telugu
+84	Telugu	eighty four	enabʰai nālugu	enabʰaɪ̯ naːlugu	e n a/i + bʰ aɪ̯ + n aː l u + g u	eight ty four _gu	8 10 4 15	Telugu
+85	Telugu	eighty five	enabʰai aidu	enabʰaɪ̯ aɪ̯du	e n a/i + bʰ aɪ̯ + aɪ̯ d u	eight ty five	8 10 5	Telugu
+86	Telugu	eighty six	enabʰai āru	enabʰaɪ̯ aːɾu	e n a/i + bʰ aɪ̯ + aː ɾ u	eight ty six	8 10 6	Telugu
+87	Telugu	eighty seven	enabʰai ēḍu	enabʰaɪ̯ eːɖu	e n a/i + bʰ aɪ̯ + eː ɖ u	eight ty seven	8 10 7	Telugu
+88	Telugu	eighty eight	enabʰai enimidi	enabʰaɪ̯ enimidi	e n a/i + bʰ aɪ̯ + e n i + m i d i	eight ty eight _midi	8 10 8 13	Telugu
+89	Telugu	eighty nine	enabʰai tommidi	enabʰaɪ̯ tomːidi	e n a/i + bʰ aɪ̯ + t o m + m i d i	eight ty nine _midi	8 10 9 13	Telugu
+90	Telugu	ninety 	tombʰai	tombʰaɪ̯	t o m + bʰ aɪ̯	nine ty	9 10	Telugu
+91	Telugu	ninety one	tombʰai okaṭi	tombʰaɪ̯ okaʈi	t o m + bʰ aɪ̯ + o k a ʈ i	nine ty one	9 10 1	Telugu
+92	Telugu	ninety two	tombʰai reṇḍu	tombʰaɪ̯ reɳɖu	t o m + bʰ aɪ̯ + r e ɳ + ɖ u	nine ty two _ɖu	9 10 2 14	Telugu
+93	Telugu	ninety three	tombʰai mūḍu	tombʰaɪ̯ muːɖu	t o m + bʰ aɪ̯ + m uː + ɖ u	nine ty three _ɖu	9 10 3 14	Telugu
+94	Telugu	ninety four	tombʰai nālugu	tombʰaɪ̯ naːlugu	t o m + bʰ aɪ̯ + n aː l u + g u	nine ty four _gu	9 10 4 15	Telugu
+95	Telugu	ninety five	tombʰai aidu	tombʰaɪ̯ aɪ̯du	t o m + bʰ aɪ̯ + aɪ̯ d u	nine ty five	9 10 5	Telugu
+96	Telugu	ninety six	tombʰai āru	tombʰaɪ̯ aːɾu	t o m + bʰ aɪ̯ + aː ɾ u	nine ty six	9 10 6	Telugu
+97	Telugu	ninety seven	tombʰai ēḍu	tombʰaɪ̯ eːɖu	t o m + bʰ aɪ̯ + eː ɖ u	nine ty seven	9 10 7	Telugu
+98	Telugu	ninety eight	tombʰai enimidi	tombʰaɪ̯ enimidi	t o m + bʰ aɪ̯ + e n i + m i d i	nine ty eight _midi	9 13 8 13	Telugu
+99	Telugu	ninety nine	tombʰai tommidi	tombʰaɪ̯ tomːidi	t o m + bʰ aɪ̯ + t o m + m i d i	nine ty nine _midi	9 10 9 13	Telugu
