@@ -1,101 +1,100 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS	MORPHEMES	SOURCE	NOTES
-1	Paraguayan_Guarani	one	peteĩ	peteĩ	p e t e ĩ	10	one	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	Guarani-speaking people originally counted up to four. The present Paraguayan Guarani numeral system is attributed to Reinaldo Decoud Larrosa.
-2	Paraguayan_Guarani	two	mokõi	mokõi	m o k õ i	2	two	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	/eĩ/ and /õi/ should be diphthongs. In the available literature (ParaguayanGuarani1, ParaguayanGuarani3, ParaguayanGuarani4), I find no evidence that diphthongs are monophonematic units. I only find some evidence that they are not in ParaguayanGuarani1[29-30], where they are considered vowel sequences, so I also consider the two separate units. When /i/ in a diphthong is realized as a glide, it is still represented as /i/ in ParaguayanGuarani1[29-30], which I follow here.
-3	Paraguayan_Guarani	three	mbohapy	ᵐbohapɨ	ᵐb o h a p ɨ	7	three	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+1	Paraguayan_Guarani	one	peteĩ	peteĩ	p e t e ĩ	10	one1	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	Guarani-speaking people originally counted up to four. The present Paraguayan Guarani numeral system is attributed to Reinaldo Decoud Larrosa.
+2	Paraguayan_Guarani	two	mokõi	mokõi	m o k õ i	2	two1	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	/eĩ/ and /õi/ should be diphthongs. In the available literature (ParaguayanGuarani1, ParaguayanGuarani3, ParaguayanGuarani4), I find no evidence that diphthongs are monophonematic units. I only find some evidence that they are not in ParaguayanGuarani1[29-30], where they are considered vowel sequences, so I also consider the two separate units. When /i/ in a diphthong is realized as a glide, it is still represented as /i/ in ParaguayanGuarani1[29-30], which I follow here.
+3	Paraguayan_Guarani	three	mbohapy	ᵐbohapɨ	ᵐb o h a p ɨ	7	three1	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
 4	Paraguayan_Guarani	four	irundy	iɾuⁿdɨ	i ɾ u ⁿd ɨ	1	four	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
 5	Paraguayan_Guarani	five	po	po	p o	3	five	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-6	Paraguayan_Guarani	six	poteĩ	poteĩ	p o + -/p -/e t e ĩ	3 10	five one	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	the morpheme teĩ is the shortened form of peteĩ
-7	Paraguayan_Guarani	seven	pokõi	pokõi	p o + -/m -/o k õ i	3 2	five two	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	the morpheme kõi is the shortened form of mokõi
-8	Paraguayan_Guarani	eight	poapy	poapɨ	p o + -/ᵐb -/o -/h a p ɨ	3 7	five three	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	the morpheme apɨ is the shortened form of ᵐbohapɨ
+6	Paraguayan_Guarani	six	poteĩ	poteĩ	p o + t e ĩ	3 11	five one2	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	the morpheme teĩ is the shortened form of peteĩ
+7	Paraguayan_Guarani	seven	pokõi	pokõi	p o + k õ i	3 9	five two2	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	the morpheme kõi is the shortened form of mokõi
+8	Paraguayan_Guarani	eight	poapy	poapɨ	p o + a p ɨ	3 6	five three2	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	the morpheme apɨ is the shortened form of ᵐbohapɨ
 9	Paraguayan_Guarani	nine	porundy	poɾuⁿdɨ	p o + -/i ɾ u ⁿd ɨ	3 1	five four	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	the morpheme ɾuⁿdɨ is the shortened form of iɾuⁿdɨ
 10	Paraguayan_Guarani	ten	pa	pa	p a	8	ten	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	pa stems from "opa ‘end, totality, complete’, because 10 is the modern decimal system." (ParaguayanGuarani1[100])
-11	Paraguayan_Guarani	eleven	pateĩ	pateĩ	p a + -/p -/e t e ĩ	8 10	ten one	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-12	Paraguayan_Guarani	twelve	pakõi	pakõi	p a + -/m -/o k õ i	8 2	ten two	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-13	Paraguayan_Guarani	thirteen	pa'apy	paʔapɨ	p a + ʔ + -/ᵐb -/o -/h a p ɨ	8 4 2007	ten INSERTION three	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+11	Paraguayan_Guarani	eleven	pateĩ	pateĩ	p a + t e ĩ	8 11	ten one2	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+12	Paraguayan_Guarani	twelve	pakõi	pakõi	p a + k õ i	8 9	ten two2	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+13	Paraguayan_Guarani	thirteen	pa'apy	paʔapɨ	p a + ʔ + a p ɨ	8 4 6	ten INSERTION three2	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
 14	Paraguayan_Guarani	fourteen	parundy	paɾuⁿdɨ	p a + -/i ɾ u ⁿd ɨ	8 1	ten four	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
 15	Paraguayan_Guarani	fifteen	papo	papo	p a + p o	8 3	ten five	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-16	Paraguayan_Guarani	sixteen	papoteĩ	papoteĩ	p a + p o + -/p -/e t e ĩ	8 3 10	ten five one	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-17	Paraguayan_Guarani	seventeen	papokõi	papokõi	p a + p o + -/m -/o k õ i	8 3 2002	ten five two	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-18	Paraguayan_Guarani	eighteen	papoapy	papoapɨ	p a + p o + -/ᵐb -/o -/h a p ɨ	8 3 2007	ten five three	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-19	Paraguayan_Guarani	nineteen	paporundy	papoɾuⁿdɨ	p a + p o + -/i ɾ u ⁿd ɨ	8 3 2001	ten five four	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-20	Paraguayan_Guarani	twenty	mokõipa	mokõipa	m o k õ i + p a	2 8	two ten	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-21	Paraguayan_Guarani	twenty one	mokõipa peteĩ	mokõipa peteĩ	m o k õ i + p a + p e t e ĩ	2 8 10	two ten one	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-22	Paraguayan_Guarani	twenty two	mokõipa mokõi	mokõipa mokõi	m o k õ i + p a + m o k õ i	2 8 2002	two ten two	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-23	Paraguayan_Guarani	twenty three	mokõipa mbohapy	mokõipa ᵐbohapɨ	m o k õ i + p a + ᵐb o h a p ɨ	2 8 2007	two ten three	ParaguayanGuarani2[152]	
-24	Paraguayan_Guarani	twenty four	mokõipa irundy	mokõipa iɾuⁿdɨ	m o k õ i + p a + i ɾ u ⁿd ɨ	2 8 2001	two ten four	ParaguayanGuarani2[152]	
-25	Paraguayan_Guarani	twenty five	mokõipa po	mokõipa po	m o k õ i + p a + p o	2 8 2003	two ten five	ParaguayanGuarani2[152]	
-26	Paraguayan_Guarani	twenty six	mokõipa poteĩ	mokõipa poteĩ	m o k õ i + p a + p o + -/p -/e t e ĩ	2 8 3 10	two ten five one	ParaguayanGuarani2[152]	
-27	Paraguayan_Guarani	twenty seven	mokõipa pokõi	mokõipa pokõi	m o k õ i + p a + p o + -/m -/o k õ i	2 8 3 2	two ten five two	 ParaguayanGuarani2[152]	
-28	Paraguayan_Guarani	twenty eight	mokõipa poapy	mokõipa poapɨ	m o k õ i + p a + p o + -/ᵐb -/o -/h a p ɨ	2 8 3 7	two ten five three	ParaguayanGuarani2[152]	
-29	Paraguayan_Guarani	twenty nine	mokõipa porundy	mokõipa poɾuⁿdɨ	m o k õ i + p a + p o + -/i ɾ u ⁿd ɨ	2 8 3 1	two ten five four	ParaguayanGuarani2[152]	
-30	Paraguayan_Guarani	thirty	mbohapypa	ᵐbohapɨpa	ᵐb o h a p ɨ + p a	7 8	three ten	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-31	Paraguayan_Guarani	thirty one	mbohapypa peteĩ	ᵐbohapɨpa peteĩ	ᵐb o h a p ɨ + p a + p e t e ĩ	7 8 10	three ten one	ParaguayanGuarani5	
-32	Paraguayan_Guarani	thirty two	mbohapypa mokõi	ᵐbohapɨpa mokõi	ᵐb o h a p ɨ + p a + m o k õ i	7 8 2002	three ten two	ParaguayanGuarani5	
-33	Paraguayan_Guarani	thirty three	mbohapypa mbohapy	ᵐbohapɨpa ᵐbohapɨ	ᵐb o h a p ɨ + p a + ᵐb o h a p ɨ	7 8 2007	three ten three	ParaguayanGuarani5	
-34	Paraguayan_Guarani	thirty four	mbohapypa irundy	ᵐbohapɨpa iɾuⁿdɨ	ᵐb o h a p ɨ + p a + i ɾ u ⁿd ɨ	7 8 2001	three ten four	ParaguayanGuarani5	
-35	Paraguayan_Guarani	thirty five	mbohapypa po	ᵐbohapɨpa po	ᵐb o h a p ɨ + p a + p o	7 8 2003	three ten five	ParaguayanGuarani5	
-36	Paraguayan_Guarani	thirty six	mbohapypa poteĩ	ᵐbohapɨpa poteĩ	ᵐb o h a p ɨ + p a + p o + -/p -/e t e ĩ	7 8 3 10	three ten five one	ParaguayanGuarani5	
-37	Paraguayan_Guarani	thirty seven	mbohapypa pokõi	ᵐbohapɨpa pokõi	ᵐb o h a p ɨ + p a + p o + -/m -/o k õ i	7 8 3 2	three ten five two	ParaguayanGuarani5	
-38	Paraguayan_Guarani	thirty eight	mbohapypa poapy	ᵐbohapɨpa poapɨ	ᵐb o h a p ɨ + p a + p o + -/ᵐb -/o -/h a p ɨ	7 8 3 7	three ten five three	ParaguayanGuarani5	
-39	Paraguayan_Guarani	thirty nine	mbohapypa porundy	ᵐbohapɨpa poɾuⁿdɨ	ᵐb o h a p ɨ + p a + p o + -/i ɾ u ⁿd ɨ	7 8 3 1	three ten five four	ParaguayanGuarani5	
+16	Paraguayan_Guarani	sixteen	papoteĩ	papoteĩ	p a + p o + t e ĩ	8 3 11	ten five one2	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+17	Paraguayan_Guarani	seventeen	papokõi	papokõi	p a + p o + k õ i	8 3 9	ten five two2	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+18	Paraguayan_Guarani	eighteen	papoapy	papoapɨ	p a + p o + a p ɨ	8 3 6	ten five three2	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+19	Paraguayan_Guarani	nineteen	paporundy	papoɾuⁿdɨ	p a + p o + -/i ɾ u ⁿd ɨ	8 3 1	ten five four	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+20	Paraguayan_Guarani	twenty	mokõipa	mokõipa	m o k õ i + p a	2 8	two1 ten	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+21	Paraguayan_Guarani	twenty one	mokõipa peteĩ	mokõipa peteĩ	m o k õ i + p a + p e t e ĩ	2 8 10	two1 ten one1	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+22	Paraguayan_Guarani	twenty two	mokõipa mokõi	mokõipa mokõi	m o k õ i + p a + m o k õ i	2 8 2	two1 ten two1	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+23	Paraguayan_Guarani	twenty three	mokõipa mbohapy	mokõipa ᵐbohapɨ	m o k õ i + p a + ᵐb o h a p ɨ	2 8 7	two1 ten three1	ParaguayanGuarani2[152]	
+24	Paraguayan_Guarani	twenty four	mokõipa irundy	mokõipa iɾuⁿdɨ	m o k õ i + p a + i ɾ u ⁿd ɨ	2 8 1	two1 ten four	ParaguayanGuarani2[152]	
+25	Paraguayan_Guarani	twenty five	mokõipa po	mokõipa po	m o k õ i + p a + p o	2 8 3	two1 ten five	ParaguayanGuarani2[152]	
+26	Paraguayan_Guarani	twenty six	mokõipa poteĩ	mokõipa poteĩ	m o k õ i + p a + p o + t e ĩ	2 8 3 11	two1 ten five one2	ParaguayanGuarani2[152]	
+27	Paraguayan_Guarani	twenty seven	mokõipa pokõi	mokõipa pokõi	m o k õ i + p a + p o + k õ i	2 8 3 9	two1 ten five two2	ParaguayanGuarani2[152]	
+28	Paraguayan_Guarani	twenty eight	mokõipa poapy	mokõipa poapɨ	m o k õ i + p a + p o + a p ɨ	2 8 3 6	two1 ten five three2	ParaguayanGuarani2[152]	
+29	Paraguayan_Guarani	twenty nine	mokõipa porundy	mokõipa poɾuⁿdɨ	m o k õ i + p a + p o + -/i ɾ u ⁿd ɨ	2 8 3 1	two1 ten five four	ParaguayanGuarani2[152]	
+30	Paraguayan_Guarani	thirty	mbohapypa	ᵐbohapɨpa	ᵐb o h a p ɨ + p a	7 8	three1 ten	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
+31	Paraguayan_Guarani	thirty one	mbohapypa peteĩ	ᵐbohapɨpa peteĩ	ᵐb o h a p ɨ + p a + p e t e ĩ	7 8 10	three1 ten one1	ParaguayanGuarani5	
+32	Paraguayan_Guarani	thirty two	mbohapypa mokõi	ᵐbohapɨpa mokõi	ᵐb o h a p ɨ + p a + m o k õ i	7 8 2	three1 ten two1	ParaguayanGuarani5	
+33	Paraguayan_Guarani	thirty three	mbohapypa mbohapy	ᵐbohapɨpa ᵐbohapɨ	ᵐb o h a p ɨ + p a + ᵐb o h a p ɨ	7 8 7	three1 ten three1	ParaguayanGuarani5	
+34	Paraguayan_Guarani	thirty four	mbohapypa irundy	ᵐbohapɨpa iɾuⁿdɨ	ᵐb o h a p ɨ + p a + i ɾ u ⁿd ɨ	7 8 1	three1 ten four	ParaguayanGuarani5	
+35	Paraguayan_Guarani	thirty five	mbohapypa po	ᵐbohapɨpa po	ᵐb o h a p ɨ + p a + p o	7 8 3	three1 ten five	ParaguayanGuarani5	
+36	Paraguayan_Guarani	thirty six	mbohapypa poteĩ	ᵐbohapɨpa poteĩ	ᵐb o h a p ɨ + p a + p o + t e ĩ	7 8 3 11	three1 ten five one2	ParaguayanGuarani5	
+37	Paraguayan_Guarani	thirty seven	mbohapypa pokõi	ᵐbohapɨpa pokõi	ᵐb o h a p ɨ + p a + p o + k õ i	7 8 3 9	three1 ten five two2	ParaguayanGuarani5	
+38	Paraguayan_Guarani	thirty eight	mbohapypa poapy	ᵐbohapɨpa poapɨ	ᵐb o h a p ɨ + p a + p o + a p ɨ	7 8 3 6	three1 ten five three2	ParaguayanGuarani5	
+39	Paraguayan_Guarani	thirty nine	mbohapypa porundy	ᵐbohapɨpa poɾuⁿdɨ	ᵐb o h a p ɨ + p a + p o + -/i ɾ u ⁿd ɨ	7 8 3 1	three1 ten five four	ParaguayanGuarani5	
 40	Paraguayan_Guarani	forty	irundypa	iɾuⁿdɨpa	i ɾ u ⁿd ɨ + p a	1 8	four ten	ParaguayanGuarani1[100] ParaguayanGuarani2[152]	
-41	Paraguayan_Guarani	forty one	irundypa peteĩ	iɾuⁿdɨpa peteĩ	i ɾ u ⁿd ɨ  + p a + p e t e ĩ			ParaguayanGuarani5	
-42	Paraguayan_Guarani	forty two	irundypa mokõi	iɾuⁿdɨpa mokõi	i ɾ u ⁿd ɨ  + p a + m o k õ i			ParaguayanGuarani5	
-43	Paraguayan_Guarani	forty three	irundypa mbohapy	iɾuⁿdɨpa ᵐbohapɨ	i ɾ u ⁿd ɨ  + p a + ᵐb o h a p ɨ			ParaguayanGuarani5	
-44	Paraguayan_Guarani	forty four	irundypa irundy	iɾuⁿdɨpa iɾuⁿdɨ	i ɾ u ⁿd ɨ  + p a + i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-45	Paraguayan_Guarani	forty five	irundypa po	iɾuⁿdɨpa po	i ɾ u ⁿd ɨ  + p a + p o			ParaguayanGuarani5	
-46	Paraguayan_Guarani	forty six	irundypa poteĩ	iɾuⁿdɨpa poteĩ	i ɾ u ⁿd ɨ  + p a + p o + -/p -/e t e ĩ			ParaguayanGuarani5	
-47	Paraguayan_Guarani	forty seven	irundypa pokõi	iɾuⁿdɨpa pokõi	i ɾ u ⁿd ɨ  + p a + p o + -/m -/o k õ i			ParaguayanGuarani5	
-48	Paraguayan_Guarani	forty eight	irundypa poapy	iɾuⁿdɨpa poapɨ	i ɾ u ⁿd ɨ  + p a + p o + -/ᵐb -/o -/h a p ɨ			ParaguayanGuarani5	
-49	Paraguayan_Guarani	forty nine	irundypa porundy	iɾuⁿdɨpa poɾuⁿdɨ	i ɾ u ⁿd ɨ  + p a + p o + -/i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-50	Paraguayan_Guarani	fifty	popa	popa	p o + p a			ParaguayanGuarani2[152]	
-51	Paraguayan_Guarani	fifty one	popa peteĩ	popa peteĩ	p o + p a + p e t e ĩ			ParaguayanGuarani5	
-52	Paraguayan_Guarani	fifty two	popa mokõi	popa mokõi	p o + p a + m o k õ i			ParaguayanGuarani5	
-53	Paraguayan_Guarani	fifty three	popa mbohapy	popa ᵐbohapɨ	p o + p a + ᵐb o h a p ɨ			ParaguayanGuarani5	
-54	Paraguayan_Guarani	fifty four	popa irundy	popa iɾuⁿdɨ	p o + p a + i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-55	Paraguayan_Guarani	fifty five	popa po	popa po	p o + p a + p o			ParaguayanGuarani5	
-56	Paraguayan_Guarani	fifty six	popa poteĩ	popa poteĩ	p o + p a + p o + -/p -/e t e ĩ			ParaguayanGuarani5	
-57	Paraguayan_Guarani	fifty seven	popa pokõi	popa pokõi	p o + p a + p o + -/m -/o k õ i			ParaguayanGuarani5	
-58	Paraguayan_Guarani	fifty eight	popa poapy	popa poapɨ	p o + p a + p o + -/ᵐb -/o -/h a p ɨ			ParaguayanGuarani5	
-59	Paraguayan_Guarani	fifty nine	popa porundy	popa poɾuⁿdɨ	p o + p a + p o + -/i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-60	Paraguayan_Guarani	sixty	poteĩpa	poteĩpa	p o + -/p -/e t e ĩ + p a			ParaguayanGuarani2[152]	
-61	Paraguayan_Guarani	sixty one	poteĩpa peteĩ	poteĩpa peteĩ	p o + -/p -/e t e ĩ  + p a + p e t e ĩ			ParaguayanGuarani5	
-62	Paraguayan_Guarani	sixty two	poteĩpa mokõi	poteĩpa mokõi	p o + -/p -/e t e ĩ  + p a + m o k õ i			ParaguayanGuarani5	
-63	Paraguayan_Guarani	sixty three	poteĩpa mbohapy	poteĩpa ᵐbohapɨ	p o + -/p -/e t e ĩ  + p a + ᵐb o h a p ɨ			ParaguayanGuarani5	
-64	Paraguayan_Guarani	sixty four	poteĩpa irundy	poteĩpa iɾuⁿdɨ	p o + -/p -/e t e ĩ  + p a + i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-65	Paraguayan_Guarani	sixty five	poteĩpa po	poteĩpa po	p o + -/p -/e t e ĩ  + p a + p o			ParaguayanGuarani5	
-66	Paraguayan_Guarani	sixty six	poteĩpa poteĩ	poteĩpa poteĩ	p o + -/p -/e t e ĩ  + p a + p o + -/p -/e t e ĩ			ParaguayanGuarani5	
-67	Paraguayan_Guarani	sixty seven	poteĩpa pokõi	poteĩpa pokõi	p o + -/p -/e t e ĩ  + p a + p o + -/m -/o k õ i			ParaguayanGuarani5	
-68	Paraguayan_Guarani	sixty eight	poteĩpa poapy	poteĩpa poapɨ	p o + -/p -/e t e ĩ  + p a + p o + -/ᵐb -/o -/h a p ɨ			ParaguayanGuarani5	
-69	Paraguayan_Guarani	sixty nine	poteĩpa porundy	poteĩpa poɾuⁿdɨ	p o + -/p -/e t e ĩ  + p a + p o + -/i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-70	Paraguayan_Guarani	seventy	pokõipa	pokõipa	p o + -/m -/o k õ i + p a			ParaguayanGuarani2[152]	
-71	Paraguayan_Guarani	seventy one	pokõipa peteĩ	pokõipa peteĩ	p o + -/m -/o k õ i  + p a + p e t e ĩ			ParaguayanGuarani5	
-72	Paraguayan_Guarani	seventy two	pokõipa mokõi	pokõipa mokõi	p o + -/m -/o k õ i  + p a + m o k õ i			ParaguayanGuarani5	
-73	Paraguayan_Guarani	seventy three	pokõipa mbohapy	pokõipa ᵐbohapɨ	p o + -/m -/o k õ i  + p a + ᵐb o h a p ɨ			ParaguayanGuarani5	
-74	Paraguayan_Guarani	seventy four	pokõipa irundy	pokõipa iɾuⁿdɨ	p o + -/m -/o k õ i  + p a + i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-75	Paraguayan_Guarani	seventy five	pokõipa po	pokõipa po	p o + -/m -/o k õ i  + p a + p o			ParaguayanGuarani5	
-76	Paraguayan_Guarani	seventy six	pokõipa poteĩ	pokõipa poteĩ	p o + -/m -/o k õ i  + p a + p o + -/p -/e t e ĩ			ParaguayanGuarani5	
-77	Paraguayan_Guarani	seventy seven	pokõipa pokõi	pokõipa pokõi	p o + -/m -/o k õ i  + p a + p o + -/m -/o k õ i			ParaguayanGuarani5	
-78	Paraguayan_Guarani	seventy eight	pokõipa poapy	pokõipa poapɨ	p o + -/m -/o k õ i  + p a + p o + -/ᵐb -/o -/h a p ɨ			ParaguayanGuarani5	
-79	Paraguayan_Guarani	seventy nine	pokõipa porundy	pokõipa poɾuⁿdɨ	p o + -/m -/o k õ i  + p a + p o + -/i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-80	Paraguayan_Guarani	eighty	poapypa	poapɨpa	p o + -/ᵐb -/o -/h a p ɨ + p a			ParaguayanGuarani2[152]	
-81	Paraguayan_Guarani	eighty one	poapypa peteĩ	poapɨpa peteĩ	p o + -/ᵐb -/o -/h a p ɨ + p a + p e t e ĩ			ParaguayanGuarani5	
-82	Paraguayan_Guarani	eighty two	poapypa mokõi	poapɨpa mokõi	p o + -/ᵐb -/o -/h a p ɨ + p a + m o k õ i			ParaguayanGuarani5	
-83	Paraguayan_Guarani	eighty three	poapypa mbohapy	poapɨpa ᵐbohapɨ	p o + -/ᵐb -/o -/h a p ɨ + p a + ᵐb o h a p ɨ			ParaguayanGuarani5	
-84	Paraguayan_Guarani	eighty four	poapypa irundy	poapɨpa iɾuⁿdɨ	p o + -/ᵐb -/o -/h a p ɨ + p a + i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-85	Paraguayan_Guarani	eighty five	poapypa po	poapɨpa po	p o + -/ᵐb -/o -/h a p ɨ + p a + p o			ParaguayanGuarani5	
-86	Paraguayan_Guarani	eighty six	poapypa poteĩ	poapɨpa poteĩ	p o + -/ᵐb -/o -/h a p ɨ + p a + p o + -/p -/e t e ĩ			ParaguayanGuarani5	
-87	Paraguayan_Guarani	eighty seven	poapypa pokõi	poapɨpa pokõi	p o + -/ᵐb -/o -/h a p ɨ + p a + p o + -/m -/o k õ i			ParaguayanGuarani5	
-88	Paraguayan_Guarani	eighty eight	poapypa poapy	poapɨpa poapɨ	p o + -/ᵐb -/o -/h a p ɨ + p a + p o + -/ᵐb -/o -/h a p ɨ			ParaguayanGuarani5	
-89	Paraguayan_Guarani	eighty nine	poapypa porundy	poapɨpa poɾuⁿdɨ	p o + -/ᵐb -/o -/h a p ɨ + p a + p o + -/i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-90	Paraguayan_Guarani	ninety	porundypa	poɾuⁿdɨpa	p o + -/i ɾ u ⁿd ɨ + p a			ParaguayanGuarani2[152]	
-91	Paraguayan_Guarani	ninety one	porundypa peteĩ	poɾuⁿdɨpa peteĩ	p o + -/i ɾ u ⁿd ɨ + p a + p e t e ĩ			ParaguayanGuarani5	
-92	Paraguayan_Guarani	ninety two	porundypa mokõi	poɾuⁿdɨpa mokõi	p o + -/i ɾ u ⁿd ɨ + p a + m o k õ i			ParaguayanGuarani5	
-93	Paraguayan_Guarani	ninety three	porundypa mbohapy	poɾuⁿdɨpa ᵐbohapɨ	p o + -/i ɾ u ⁿd ɨ + p a + ᵐb o h a p ɨ			ParaguayanGuarani5	
-94	Paraguayan_Guarani	ninety four	porundypa irundy	poɾuⁿdɨpa iɾuⁿdɨ	p o + -/i ɾ u ⁿd ɨ + p a + i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-95	Paraguayan_Guarani	ninety five	porundypa po	poɾuⁿdɨpa po	p o + -/i ɾ u ⁿd ɨ + p a + p o			ParaguayanGuarani5	
-96	Paraguayan_Guarani	ninety six	porundypa poteĩ	poɾuⁿdɨpa poteĩ	p o + -/i ɾ u ⁿd ɨ + p a + p o + -/p -/e t e ĩ			ParaguayanGuarani5	
-97	Paraguayan_Guarani	ninety seven	porundypa pokõi	poɾuⁿdɨpa pokõi	p o + -/i ɾ u ⁿd ɨ + p a + p o + -/m -/o k õ i			ParaguayanGuarani5	
-98	Paraguayan_Guarani	ninety eight	porundypa poapy	poɾuⁿdɨpa poapɨ	p o + -/i ɾ u ⁿd ɨ + p a + p o + -/ᵐb -/o -/h a p ɨ			ParaguayanGuarani5	
-99	Paraguayan_Guarani	ninety nine	porundypa porundy	poɾuⁿdɨpa poɾuⁿdɨ	p o + -/i ɾ u ⁿd ɨ + p a + p o + -/i ɾ u ⁿd ɨ			ParaguayanGuarani5	
-100	Paraguayan_Guarani	hundred	sa	sa	s a			ParaguayanGuarani1[100]	
+41	Paraguayan_Guarani	forty one	irundypa peteĩ	iɾuⁿdɨpa peteĩ	i ɾ u ⁿd ɨ + p a + p e t e ĩ	1 8 10	four ten one1	ParaguayanGuarani5	
+42	Paraguayan_Guarani	forty two	irundypa mokõi	iɾuⁿdɨpa mokõi	i ɾ u ⁿd ɨ + p a + m o k õ i	1 8 2	four ten two1	ParaguayanGuarani5	
+43	Paraguayan_Guarani	forty three	irundypa mbohapy	iɾuⁿdɨpa ᵐbohapɨ	i ɾ u ⁿd ɨ + p a + ᵐb o h a p ɨ	1 8 7	four ten three1	ParaguayanGuarani5	
+44	Paraguayan_Guarani	forty four	irundypa irundy	iɾuⁿdɨpa iɾuⁿdɨ	i ɾ u ⁿd ɨ + p a + i ɾ u ⁿd ɨ	1 8 1	four ten four	ParaguayanGuarani5	
+45	Paraguayan_Guarani	forty five	irundypa po	iɾuⁿdɨpa po	i ɾ u ⁿd ɨ + p a + p o	1 8 3	four ten five	ParaguayanGuarani5	
+46	Paraguayan_Guarani	forty six	irundypa poteĩ	iɾuⁿdɨpa poteĩ	i ɾ u ⁿd ɨ + p a + p o + t e ĩ	1 8 3 11	four ten five one2	ParaguayanGuarani5	
+47	Paraguayan_Guarani	forty seven	irundypa pokõi	iɾuⁿdɨpa pokõi	i ɾ u ⁿd ɨ + p a + p o + k õ i	1 8 3 9	four ten five two2	ParaguayanGuarani5	
+48	Paraguayan_Guarani	forty eight	irundypa poapy	iɾuⁿdɨpa poapɨ	i ɾ u ⁿd ɨ + p a + p o + a p ɨ	1 8 3 6	four ten five three2	ParaguayanGuarani5	
+49	Paraguayan_Guarani	forty nine	irundypa porundy	iɾuⁿdɨpa poɾuⁿdɨ	i ɾ u ⁿd ɨ + p a + p o + -/i ɾ u ⁿd ɨ	1 8 3 1	four ten five four	ParaguayanGuarani5	
+50	Paraguayan_Guarani	fifty	popa	popa	p o + p a	3 8	five ten	ParaguayanGuarani2[152]	
+51	Paraguayan_Guarani	fifty one	popa peteĩ	popa peteĩ	p o + p a + p e t e ĩ	3 8 10	five ten one1	ParaguayanGuarani5	
+52	Paraguayan_Guarani	fifty two	popa mokõi	popa mokõi	p o + p a + m o k õ i	3 8 2	five ten two1	ParaguayanGuarani5	
+53	Paraguayan_Guarani	fifty three	popa mbohapy	popa ᵐbohapɨ	p o + p a + ᵐb o h a p ɨ	3 8 7	five ten three1	ParaguayanGuarani5	
+54	Paraguayan_Guarani	fifty four	popa irundy	popa iɾuⁿdɨ	p o + p a + i ɾ u ⁿd ɨ	3 8 1	five ten four	ParaguayanGuarani5	
+55	Paraguayan_Guarani	fifty five	popa po	popa po	p o + p a + p o	3 8 3	five ten five	ParaguayanGuarani5	
+56	Paraguayan_Guarani	fifty six	popa poteĩ	popa poteĩ	p o + p a + p o + t e ĩ	3 8 3 11	five ten five one2	ParaguayanGuarani5	
+57	Paraguayan_Guarani	fifty seven	popa pokõi	popa pokõi	p o + p a + p o + k õ i	3 8 3 9	five ten five two2	ParaguayanGuarani5	
+58	Paraguayan_Guarani	fifty eight	popa poapy	popa poapɨ	p o + p a + p o + a p ɨ	3 8 3 6	five ten five three2	ParaguayanGuarani5	
+59	Paraguayan_Guarani	fifty nine	popa porundy	popa poɾuⁿdɨ	p o + p a + p o + -/i ɾ u ⁿd ɨ	3 8 3 1	five ten five four	ParaguayanGuarani5	
+60	Paraguayan_Guarani	sixty	poteĩpa	poteĩpa	p o + t e ĩ + p a	3 11 8	five one2 ten	ParaguayanGuarani2[152]	
+61	Paraguayan_Guarani	sixty one	poteĩpa peteĩ	poteĩpa peteĩ	p o + t e ĩ + p a + p e t e ĩ	3 11 8 10	five one2 ten one1	ParaguayanGuarani5	
+62	Paraguayan_Guarani	sixty two	poteĩpa mokõi	poteĩpa mokõi	p o + t e ĩ + p a + m o k õ i	3 11 8 2	five one2 ten two1	ParaguayanGuarani5	
+63	Paraguayan_Guarani	sixty three	poteĩpa mbohapy	poteĩpa ᵐbohapɨ	p o + t e ĩ + p a + ᵐb o h a p ɨ	3 11 8 7	five one2 ten three1	ParaguayanGuarani5	
+64	Paraguayan_Guarani	sixty four	poteĩpa irundy	poteĩpa iɾuⁿdɨ	p o + t e ĩ + p a + i ɾ u ⁿd ɨ	3 11 8 1	five one2 ten four	ParaguayanGuarani5	
+65	Paraguayan_Guarani	sixty five	poteĩpa po	poteĩpa po	p o + t e ĩ + p a + p o	3 11 8 3	five one2 ten five	ParaguayanGuarani5	
+66	Paraguayan_Guarani	sixty six	poteĩpa poteĩ	poteĩpa poteĩ	p o + t e ĩ + p a + p o + t e ĩ	3 11 8 3 11	five one2 ten five one2	ParaguayanGuarani5	
+67	Paraguayan_Guarani	sixty seven	poteĩpa pokõi	poteĩpa pokõi	p o + t e ĩ + p a + p o + k õ i	3 11 8 3 9	five one2 ten five two2	ParaguayanGuarani5	
+68	Paraguayan_Guarani	sixty eight	poteĩpa poapy	poteĩpa poapɨ	p o + t e ĩ + p a + p o + a p ɨ	3 11 8 3 6	five one2 ten five three2	ParaguayanGuarani5	
+69	Paraguayan_Guarani	sixty nine	poteĩpa porundy	poteĩpa poɾuⁿdɨ	p o + t e ĩ + p a + p o + -/i ɾ u ⁿd ɨ	3 11 8 3 1	five one2 ten five four	ParaguayanGuarani5	
+70	Paraguayan_Guarani	seventy	pokõipa	pokõipa	p o + k õ i + p a	3 9 8	five two2 ten	ParaguayanGuarani2[152]	
+71	Paraguayan_Guarani	seventy one	pokõipa peteĩ	pokõipa peteĩ	p o + k õ i + p a + p e t e ĩ	3 9 8 10	five two2 ten one1	ParaguayanGuarani5	
+72	Paraguayan_Guarani	seventy two	pokõipa mokõi	pokõipa mokõi	p o + k õ i + p a + m o k õ i	3 9 8 2	five two2 ten two1	ParaguayanGuarani5	
+73	Paraguayan_Guarani	seventy three	pokõipa mbohapy	pokõipa ᵐbohapɨ	p o + k õ i + p a + ᵐb o h a p ɨ	3 9 8 7	five two2 ten three1	ParaguayanGuarani5	
+74	Paraguayan_Guarani	seventy four	pokõipa irundy	pokõipa iɾuⁿdɨ	p o + k õ i + p a + i ɾ u ⁿd ɨ	3 9 8 1	five two2 ten four	ParaguayanGuarani5	
+75	Paraguayan_Guarani	seventy five	pokõipa po	pokõipa po	p o + k õ i + p a + p o	3 9 8 3	five two2 ten five	ParaguayanGuarani5	
+76	Paraguayan_Guarani	seventy six	pokõipa poteĩ	pokõipa poteĩ	p o + k õ i + p a + p o + t e ĩ	3 9 8 3 11	five two2 ten five one2	ParaguayanGuarani5	
+77	Paraguayan_Guarani	seventy seven	pokõipa pokõi	pokõipa pokõi	p o + k õ i + p a + p o + k õ i	3 9 8 3 9	five two2 ten five two2	ParaguayanGuarani5	
+78	Paraguayan_Guarani	seventy eight	pokõipa poapy	pokõipa poapɨ	p o + k õ i + p a + p o + a p ɨ	3 9 8 3 6	five two2 ten five three2	ParaguayanGuarani5	
+79	Paraguayan_Guarani	seventy nine	pokõipa porundy	pokõipa poɾuⁿdɨ	p o + k õ i + p a + p o + -/i ɾ u ⁿd ɨ	3 9 8 3 1	five two2 ten five four	ParaguayanGuarani5	
+80	Paraguayan_Guarani	eighty	poapypa	poapɨpa	p o + a p ɨ + p a	3 6 8	five three2 ten	ParaguayanGuarani2[152]	
+81	Paraguayan_Guarani	eighty one	poapypa peteĩ	poapɨpa peteĩ	p o + a p ɨ + p a + p e t e ĩ	3 6 8 10	five three2 ten one1	ParaguayanGuarani5	
+82	Paraguayan_Guarani	eighty two	poapypa mokõi	poapɨpa mokõi	p o + a p ɨ + p a + m o k õ i	3 6 8 2	five three2 ten two1	ParaguayanGuarani5	
+83	Paraguayan_Guarani	eighty three	poapypa mbohapy	poapɨpa ᵐbohapɨ	p o + a p ɨ + p a + ᵐb o h a p ɨ	3 6 8 7	five three2 ten three1	ParaguayanGuarani5	
+84	Paraguayan_Guarani	eighty four	poapypa irundy	poapɨpa iɾuⁿdɨ	p o + a p ɨ + p a + i ɾ u ⁿd ɨ	3 6 8 1	five three2 ten four	ParaguayanGuarani5	
+85	Paraguayan_Guarani	eighty five	poapypa po	poapɨpa po	p o + a p ɨ + p a + p o	3 6 8 3	five three2 ten five	ParaguayanGuarani5	
+86	Paraguayan_Guarani	eighty six	poapypa poteĩ	poapɨpa poteĩ	p o + a p ɨ + p a + p o + t e ĩ	3 6 8 3 11	five three2 ten five one2	ParaguayanGuarani5	
+87	Paraguayan_Guarani	eighty seven	poapypa pokõi	poapɨpa pokõi	p o + a p ɨ + p a + p o + k õ i	3 6 8 3 9	five three2 ten five two2	ParaguayanGuarani5	
+88	Paraguayan_Guarani	eighty eight	poapypa poapy	poapɨpa poapɨ	p o + a p ɨ + p a + p o + a p ɨ	3 6 8 3 6	five three2 ten five three2	ParaguayanGuarani5	
+89	Paraguayan_Guarani	eighty nine	poapypa porundy	poapɨpa poɾuⁿdɨ	p o + a p ɨ + p a + p o + -/i ɾ u ⁿd ɨ	3 6 8 3 1	five three2 ten five four	ParaguayanGuarani5	
+90	Paraguayan_Guarani	ninety	porundypa	poɾuⁿdɨpa	p o + -/i ɾ u ⁿd ɨ + p a	3 1 8	five four ten	ParaguayanGuarani2[152]	
+91	Paraguayan_Guarani	ninety one	porundypa peteĩ	poɾuⁿdɨpa peteĩ	p o + -/i ɾ u ⁿd ɨ + p a + p e t e ĩ	3 1 8 10	five four ten one1	ParaguayanGuarani5	
+92	Paraguayan_Guarani	ninety two	porundypa mokõi	poɾuⁿdɨpa mokõi	p o + -/i ɾ u ⁿd ɨ + p a + m o k õ i	3 1 8 2	five four ten two1	ParaguayanGuarani5	
+93	Paraguayan_Guarani	ninety three	porundypa mbohapy	poɾuⁿdɨpa ᵐbohapɨ	p o + -/i ɾ u ⁿd ɨ + p a + ᵐb o h a p ɨ	3 1 8 7	five four ten three1	ParaguayanGuarani5	
+94	Paraguayan_Guarani	ninety four	porundypa irundy	poɾuⁿdɨpa iɾuⁿdɨ	p o + -/i ɾ u ⁿd ɨ + p a + i ɾ u ⁿd ɨ	3 1 8 1	five four ten four	ParaguayanGuarani5	
+95	Paraguayan_Guarani	ninety five	porundypa po	poɾuⁿdɨpa po	p o + -/i ɾ u ⁿd ɨ + p a + p o	3 1 8 3	five four ten five	ParaguayanGuarani5	
+96	Paraguayan_Guarani	ninety six	porundypa poteĩ	poɾuⁿdɨpa poteĩ	p o + -/i ɾ u ⁿd ɨ + p a + p o + t e ĩ	3 1 8 3 11	five four ten five one2	ParaguayanGuarani5	
+97	Paraguayan_Guarani	ninety seven	porundypa pokõi	poɾuⁿdɨpa pokõi	p o + -/i ɾ u ⁿd ɨ + p a + p o + k õ i	3 1 8 3 9	five four ten five two2	ParaguayanGuarani5	
+98	Paraguayan_Guarani	ninety eight	porundypa poapy	poɾuⁿdɨpa poapɨ	p o + -/i ɾ u ⁿd ɨ + p a + p o + a p ɨ	3 1 8 3 6	five four ten five three2	ParaguayanGuarani5	
+99	Paraguayan_Guarani	ninety nine	porundypa porundy	poɾuⁿdɨpa poɾuⁿdɨ	p o + -/i ɾ u ⁿd ɨ + p a + p o + -/i ɾ u ⁿd ɨ	3 1 8 3 1	five four ten five four	ParaguayanGuarani5	

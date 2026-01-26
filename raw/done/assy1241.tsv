@@ -1,100 +1,110 @@
 ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
-1	Barwar_Neo-Aramaic	one	xa	x a	one	x a	14		Khan2008
-2	Barwar_Neo-Aramaic	two	tre	t r e	two	t r e	28		Khan2008
-3	Barwar_Neo-Aramaic	three	ṭḷáθa	tˤ lˤ a θ a	three	tˤ lˤ a θ a	25		Khan2008
-4	Barwar_Neo-Aramaic	four	árba	ʕ a r b a	four	ʕ a r b a	9		Khan2008
-5	Barwar_Neo-Aramaic	five	xámša	x a m ʃ a	five	x a m ʃ a	6		Khan2008
-6	Barwar_Neo-Aramaic	six	ǝ́šta	ǝ ʃ t a	six	ǝ ʃ t a	19		Khan2008
-7	Barwar_Neo-Aramaic	seven	šáwwa	ʃ a w w a	seven	ʃ a w w a	16		Khan2008
-8	Barwar_Neo-Aramaic	eight	tmánya	t m a n j a	eight	t m a n j a	2		Khan2008
-9	Barwar_Neo-Aramaic	nine	ǝč̣č̣a	ʕ ǝ ʧˤ ʧˤ a	nine	ʕ ǝ ʧˤ ʧˤ a	11		Khan2008
-10	Barwar_Neo-Aramaic	ten	ǝ́ṣra	ʕ ǝ sˤ r a	ten	ʕ ǝ sˤ r a	22		Khan2008
-11	Barwar_Neo-Aramaic	eleven	xadǝ́ssǝr	x a d + a/ǝ s s ǝ r	one2 ten2	x a d + ǝ s s ǝ r	15 23		Khan2008
-12	Barwar_Neo-Aramaic	twelve	trǝ́ssǝr	t r + a/ǝ s s ǝ r	two2 ten2	t r + ǝ s s ǝ r	29 23		Khan2008
-13	Barwar_Neo-Aramaic	thirteen	tǝltassǝr	t ǝ l t + a/ǝ s s ǝ r	three3 ten2	t ǝ l t + a s s ǝ r	26 23		Khan2008
-14	Barwar_Neo-Aramaic	fourteen	arbássǝr	ʕ a r b + a/ǝ s s ǝ r	four2 ten2	ʕ a r b + a s s ǝ r	10 23		Khan2008
-15	Barwar_Neo-Aramaic	fifteen	xamsássǝr	x a m s + a/ǝ s s ǝ r	five2 ten2	x a m s + a s s ǝ r	7 23		Khan2008
-16	Barwar_Neo-Aramaic	sixteen	ǝštássǝr	ʕ ǝ ʃ t + a/ǝ s s ǝ r	six2 ten2	ʕ ǝ ʃ t + a s s ǝ r	20 23		Khan2008
-17	Barwar_Neo-Aramaic	seventeen	šwássǝr	ʃ w + a/ǝ s s ǝ r	seven2 ten2	ʃ w + a s s ǝ r	17 23		Khan2008
-18	Barwar_Neo-Aramaic	eighteen	tmanǝ́ssar	t m a n + a/ǝ s s ǝ r	eight2 ten2	t m a n + ǝ s s a r	3 23		Khan2008
-19	Barwar_Neo-Aramaic	nineteen	ǝč̣č̣ássǝr	ʕ ǝ ʧˤ ʧˤ + a/ǝ s s ǝ r	nine2 ten2	ʕ ǝ ʧˤ ʧˤ + a s s ǝ r	12 23		Khan2008
-20	Barwar_Neo-Aramaic	twenty	ǝ́sri	ʕ ǝ s r i	twenty	ʕ ǝ s r i	27		Khan2008
-21	Barwar_Neo-Aramaic	twenty one	ǝ́sri-w-xa	ʕ ǝ s r i + w + x a	twenty and one	ʕ ǝ s r i + w + x a	27 1 14		Khan2008
-22	Barwar_Neo-Aramaic	twenty two	ǝ́sri-w-tre	ʕ ǝ s r i + w + t r e	twenty and two	ʕ ǝ s r i + w + t r e	27 1 28		Khan2008
-23	Barwar_Neo-Aramaic	twenty three	ǝ́sri-w-ṭḷáθa	ʕ ǝ s r i + w + tˤ lˤ a θ a	twenty and three	ʕ ǝ s r i + w + tˤ lˤ a θ a	27 1 25		Khan2008
-24	Barwar_Neo-Aramaic	twenty four	ǝ́sri-w-’árba	ʕ ǝ s r i + w + ʕ a r b a	twenty and four	ʕ ǝ s r i + w + ʕ a r b a	27 1 9		Khan2008
-25	Barwar_Neo-Aramaic	twenty five	ǝ́sri-w-xámša	ʕ ǝ s r i + w + x a m ʃ a	twenty and five	ʕ ǝ s r i + w + x a m ʃ a	27 1 6		Khan2008
-26	Barwar_Neo-Aramaic	twenty six	ǝ́sri-w-ǝ́šta	ʕ ǝ s r i + w + ǝ ʃ t a	twenty and six	ʕ ǝ s r i + w + ǝ ʃ t a	27 1 19		Khan2008
-27	Barwar_Neo-Aramaic	twenty seven	ǝ́sri-w-šáwwa	ʕ ǝ s r i + w + ʃ a w w a	twenty and seven	ʕ ǝ s r i + w + ʃ a w w a	27 1 16		Khan2008
-28	Barwar_Neo-Aramaic	twenty eight	ǝ́sri-w-tmánya	ʕ ǝ s r i + w + t m a n j a	twenty and eight	ʕ ǝ s r i + w + t m a n j a	27 1 2		Khan2008
-29	Barwar_Neo-Aramaic	twenty nine	ǝ́sri-w-’ǝč̣č̣a	ʕ ǝ s r i + w + ʕ ǝ ʧˤ ʧˤ a	twenty and nine	ʕ ǝ s r i + w + ʕ ǝ ʧˤ ʧˤ a	27 1 11		Khan2008
-30	Barwar_Neo-Aramaic	thirty 	ṭḷáθi	tˤ lˤ a θ i	thirty	tˤ lˤ a θ i	24		Khan2008
-31	Barwar_Neo-Aramaic	thirty one	ṭḷáθi-w-xa	tˤ lˤ a θ i + w + x a	thirty and one	tˤ lˤ a θ i + w + x a	24 1 14		Khan2008
-32	Barwar_Neo-Aramaic	thirty two	ṭḷáθi-w-tre	tˤ lˤ a θ i + w + t r e	thirty and two	tˤ lˤ a θ i + w + t r e	24 1 28		Khan2008
-33	Barwar_Neo-Aramaic	thirty three	ṭḷáθi-w-ṭḷáθa	tˤ lˤ a θ i + w + tˤ lˤ a θ a	thirty and three	tˤ lˤ a θ i + w + tˤ lˤ a θ a	24 1 25		Khan2008
-34	Barwar_Neo-Aramaic	thirty four	ṭḷáθi-w-’árba	tˤ lˤ a θ i + w + ʕ a r b a	thirty and four	tˤ lˤ a θ i + w + ʕ a r b a	24 1 9		Khan2008
-35	Barwar_Neo-Aramaic	thirty five	ṭḷáθi-w-xámša	tˤ lˤ a θ i + w + x a m ʃ a	thirty and five	tˤ lˤ a θ i + w + x a m ʃ a	24 1 6		Khan2008
-36	Barwar_Neo-Aramaic	thirty six	ṭḷáθi-w-ǝ́šta	tˤ lˤ a θ i + w + ǝ ʃ t a	thirty and six	tˤ lˤ a θ i + w + ǝ ʃ t a	24 1 19		Khan2008
-37	Barwar_Neo-Aramaic	thirty seven	ṭḷáθi-w-šáwwa	tˤ lˤ a θ i + w + ʃ a w w a	thirty and seven	tˤ lˤ a θ i + w + ʃ a w w a	24 1 16		Khan2008
-38	Barwar_Neo-Aramaic	thirty eight	ṭḷáθi-w-tmánya	tˤ lˤ a θ i + w + t m a n j a	thirty and eight	tˤ lˤ a θ i + w + t m a n j a	24 1 2		Khan2008
-39	Barwar_Neo-Aramaic	thirty nine	ṭḷáθi-w-’ǝč̣č̣a	tˤ lˤ a θ i + w + ʕ ǝ ʧˤ ʧˤ a	thirty and nine	tˤ lˤ a θ i + w + ʕ ǝ ʧˤ ʧˤ a	24 1 11		Khan2008
-40	Barwar_Neo-Aramaic	forty 	árbi	ʕ a r b i	forty	ʕ a r b i	8		Khan2008
-41	Barwar_Neo-Aramaic	forty one	árbi-w-xa	ʕ a r b i + w + x a	forty and one	ʕ a r b i + w + x a	8 1 14		Khan2008
-42	Barwar_Neo-Aramaic	forty two	árbi-w-tre	ʕ a r b i + w + t r e	forty and two	ʕ a r b i + w + t r e	8 1 28		Khan2008
-43	Barwar_Neo-Aramaic	forty three	árbi-w-ṭḷáθa	ʕ a r b i + w + tˤ lˤ a θ a	forty and three	ʕ a r b i + w + tˤ lˤ a θ a	8 1 25		Khan2008
-44	Barwar_Neo-Aramaic	forty four	árbi-w-’árba	ʕ a r b i + w + ʕ a r b a	forty and four	ʕ a r b i + w + ʕ a r b a	8 1 9		Khan2008
-45	Barwar_Neo-Aramaic	forty five	árbi-w-xámša	ʕ a r b i + w + x a m ʃ a	forty and five	ʕ a r b i + w + x a m ʃ a	8 1 6		Khan2008
-46	Barwar_Neo-Aramaic	forty six	árbi-w-ǝ́šta	ʕ a r b i + w + ǝ ʃ t a	forty and six	ʕ a r b i + w + ǝ ʃ t a	8 1 19		Khan2008
-47	Barwar_Neo-Aramaic	forty seven	árbi-w-šáwwa	ʕ a r b i + w + ʃ a w w a	forty and seven	ʕ a r b i + w + ʃ a w w a	8 1 16		Khan2008
-48	Barwar_Neo-Aramaic	forty eight	árbi-w-tmánya	ʕ a r b i + w + t m a n j a	forty and eight	ʕ a r b i + w + t m a n j a	8 1 2		Khan2008
-49	Barwar_Neo-Aramaic	forty nine	árbi-w-’ǝč̣č̣a	ʕ a r b i + w + ʕ ǝ ʧˤ ʧˤ a	forty and nine	ʕ a r b i + w + ʕ ǝ ʧˤ ʧˤ a	8 1 11		Khan2008
-50	Barwar_Neo-Aramaic	fifty 	xámši	x a m ʃ i	fifty	x a m ʃ i	5		Khan2008
-51	Barwar_Neo-Aramaic	fifty one	xámši-w-xa	x a m ʃ i + w + x a	fifty and one	x a m ʃ i + w + x a	5 1 14		Khan2008
-52	Barwar_Neo-Aramaic	fifty two	xámši-w-tre	x a m ʃ i + w + t r e	fifty and two	x a m ʃ i + w + t r e	5 1 28		Khan2008
-53	Barwar_Neo-Aramaic	fifty three	xámši-w-ṭḷáθa	x a m ʃ i + w + tˤ lˤ a θ a	fifty and three	x a m ʃ i + w + tˤ lˤ a θ a	5 1 25		Khan2008
-54	Barwar_Neo-Aramaic	fifty four	xámši-w-’árba	x a m ʃ i + w + ʕ a r b a	fifty and four	x a m ʃ i + w + ʕ a r b a	5 1 9		Khan2008
-55	Barwar_Neo-Aramaic	fifty five	xámši-w-xámša	x a m ʃ i + w + x a m ʃ a	fifty and five	x a m ʃ i + w + x a m ʃ a	5 1 6		Khan2008
-56	Barwar_Neo-Aramaic	fifty six	xámši-w-ǝ́šta	x a m ʃ i + w + ǝ ʃ t a	fifty and six	x a m ʃ i + w + ǝ ʃ t a	5 1 19		Khan2008
-57	Barwar_Neo-Aramaic	fifty seven	xámši-w-šáwwa	x a m ʃ i + w + ʃ a w w a	fifty and seven	x a m ʃ i + w + ʃ a w w a	5 1 16		Khan2008
-58	Barwar_Neo-Aramaic	fifty eight	xámši-w-tmánya	x a m ʃ i + w + t m a n j a	fifty and eight	x a m ʃ i + w + t m a n j a	5 1 2		Khan2008
-59	Barwar_Neo-Aramaic	fifty nine	xámši-w-’ǝč̣č̣a	x a m ʃ i + w + ʕ ǝ ʧˤ ʧˤ a	fifty and nine	x a m ʃ i + w + ʕ ǝ ʧˤ ʧˤ a	5 1 11		Khan2008
-60	Barwar_Neo-Aramaic	sixty 	ǝ́šti	ʕ ǝ ʃ t i	sixty	ʕ ǝ ʃ t i	21		Khan2008
-61	Barwar_Neo-Aramaic	sixty one	ǝ́šti-w-xa	ʕ ǝ ʃ t i + w + x a	sixty and one	ʕ ǝ ʃ t i + w + x a	21 1 14		Khan2008
-62	Barwar_Neo-Aramaic	sixty two	ǝ́šti-w-tre	ʕ ǝ ʃ t i + w + t r e	sixty and two	ʕ ǝ ʃ t i + w + t r e	21 1 28		Khan2008
-63	Barwar_Neo-Aramaic	sixty three	ǝ́šti-w-ṭḷáθa	ʕ ǝ ʃ t i + w + tˤ lˤ a θ a	sixty and three	ʕ ǝ ʃ t i + w + tˤ lˤ a θ a	21 1 25		Khan2008
-64	Barwar_Neo-Aramaic	sixty four	ǝ́šti-w-’árba	ʕ ǝ ʃ t i + w + ʕ a r b a	sixty and four	ʕ ǝ ʃ t i + w + ʕ a r b a	21 1 9		Khan2008
-65	Barwar_Neo-Aramaic	sixty five	ǝ́šti-w-xámša	ʕ ǝ ʃ t i + w + x a m ʃ a	sixty and five	ʕ ǝ ʃ t i + w + x a m ʃ a	21 1 6		Khan2008
-66	Barwar_Neo-Aramaic	sixty six	ǝ́šti-w-ǝ́šta	ʕ ǝ ʃ t i + w + ǝ ʃ t a	sixty and six	ʕ ǝ ʃ t i + w + ǝ ʃ t a	21 1 19		Khan2008
-67	Barwar_Neo-Aramaic	sixty seven	ǝ́šti-w-šáwwa	ʕ ǝ ʃ t i + w + ʃ a w w a	sixty and seven	ʕ ǝ ʃ t i + w + ʃ a w w a	21 1 16		Khan2008
-68	Barwar_Neo-Aramaic	sixty eight	ǝ́šti-w-tmánya	ʕ ǝ ʃ t i + w + t m a n j a	sixty and eight	ʕ ǝ ʃ t i + w + t m a n j a	21 1 2		Khan2008
-69	Barwar_Neo-Aramaic	sixty nine	ǝ́šti-w-’ǝč̣č̣a	ʕ ǝ ʃ t i + w + ʕ ǝ ʧˤ ʧˤ a	sixty and nine	ʕ ǝ ʃ t i + w + ʕ ǝ ʧˤ ʧˤ a	21 1 11		Khan2008
-70	Barwar_Neo-Aramaic	seventy 	šáwwi	ʃ a w w i	seventy	ʃ a w w i	18		Khan2008
-71	Barwar_Neo-Aramaic	seventy one	šáwwi-w-xa	ʃ a w w i + w + x a	seventy and one	ʃ a w w i + w + x a	18 1 14		Khan2008
-72	Barwar_Neo-Aramaic	seventy two	šáwwi-w-tre	ʃ a w w i + w + t r e	seventy and two	ʃ a w w i + w + t r e	18 1 28		Khan2008
-73	Barwar_Neo-Aramaic	seventy three	šáwwi-w-ṭḷáθa	ʃ a w w i + w + tˤ lˤ a θ a	seventy and three	ʃ a w w i + w + tˤ lˤ a θ a	18 1 25		Khan2008
-74	Barwar_Neo-Aramaic	seventy four	šáwwi-w-’árba	ʃ a w w i + w + ʕ a r b a	seventy and four	ʃ a w w i + w + ʕ a r b a	18 1 9		Khan2008
-75	Barwar_Neo-Aramaic	seventy five	šáwwi-w-xámša	ʃ a w w i + w + x a m ʃ a	seventy and five	ʃ a w w i + w + x a m ʃ a	18 1 6		Khan2008
-76	Barwar_Neo-Aramaic	seventy six	šáwwi-w-ǝ́šta	ʃ a w w i + w + ǝ ʃ t a	seventy and six	ʃ a w w i + w + ǝ ʃ t a	18 1 19		Khan2008
-77	Barwar_Neo-Aramaic	seventy seven	šáwwi-w-šáwwa	ʃ a w w i + w + ʃ a w w a	seventy and seven	ʃ a w w i + w + ʃ a w w a	18 1 16		Khan2008
-78	Barwar_Neo-Aramaic	seventy eight	šáwwi-w-tmánya	ʃ a w w i + w + t m a n j a	seventy and eight	ʃ a w w i + w + t m a n j a	18 1 2		Khan2008
-79	Barwar_Neo-Aramaic	seventy nine	šáwwi-w-’ǝč̣č̣a	ʃ a w w i + w + ʕ ǝ ʧˤ ʧˤ a	seventy and nine	ʃ a w w i + w + ʕ ǝ ʧˤ ʧˤ a	18 1 11		Khan2008
-80	Barwar_Neo-Aramaic	eighty 	tmáni	t m a n i	eighty	t m a n i	4		Khan2008
-81	Barwar_Neo-Aramaic	eighty one	tmáni-w-xa	t m a n i + w + x a	eighty and one	t m a n i + w + x a	4 1 14		Khan2008
-82	Barwar_Neo-Aramaic	eighty two	tmáni-w-tre	t m a n i + w + t r e	eighty and two	t m a n i + w + t r e	4 1 28		Khan2008
-83	Barwar_Neo-Aramaic	eighty three	tmáni-w-ṭḷáθa	t m a n i + w + tˤ lˤ a θ a	eighty and three	t m a n i + w + tˤ lˤ a θ a	4 1 25		Khan2008
-84	Barwar_Neo-Aramaic	eighty four	tmáni-w-’árba	t m a n i + w + ʕ a r b a	eighty and four	t m a n i + w + ʕ a r b a	4 1 9		Khan2008
-85	Barwar_Neo-Aramaic	eighty five	tmáni-w-xámša	t m a n i + w + x a m ʃ a	eighty and five	t m a n i + w + x a m ʃ a	4 1 6		Khan2008
-86	Barwar_Neo-Aramaic	eighty six	tmáni-w-ǝ́šta	t m a n i + w + ǝ ʃ t a	eighty and six	t m a n i + w + ǝ ʃ t a	4 1 19		Khan2008
-87	Barwar_Neo-Aramaic	eighty seven	tmáni-w-šáwwa	t m a n i + w + ʃ a w w a	eighty and seven	t m a n i + w + ʃ a w w a	4 1 16		Khan2008
-88	Barwar_Neo-Aramaic	eighty eight	tmáni-w-tmánya	t m a n i + w + t m a n j a	eighty and eight	t m a n i + w + t m a n j a	4 1 2		Khan2008
-89	Barwar_Neo-Aramaic	eighty nine	tmáni-w-’ǝč̣č̣a	t m a n i + w + ʕ ǝ ʧˤ ʧˤ a	eighty and nine	t m a n i + w + ʕ ǝ ʧˤ ʧˤ a	4 1 11		Khan2008
-90	Barwar_Neo-Aramaic	ninety 	ǝč̣č̣i	ʕ ǝ ʧˤ ʧˤ i	ninety	ʕ ǝ ʧˤ ʧˤ i	13		Khan2008
-91	Barwar_Neo-Aramaic	ninety one	ǝč̣č̣i-w-xa	ʕ ǝ ʧˤ ʧˤ i + w + x a	ninety and one	ʕ ǝ ʧˤ ʧˤ i + w + x a	13 1 14		Khan2008
-92	Barwar_Neo-Aramaic	ninety two	ǝč̣č̣i-w-tre	ʕ ǝ ʧˤ ʧˤ i + w + t r e	ninety and two	ʕ ǝ ʧˤ ʧˤ i + w + t r e	13 1 28		Khan2008
-93	Barwar_Neo-Aramaic	ninety three	ǝč̣č̣i-w-ṭḷáθa	ʕ ǝ ʧˤ ʧˤ i + w + tˤ lˤ a θ a	ninety and three	ʕ ǝ ʧˤ ʧˤ i + w + tˤ lˤ a θ a	13 1 25		Khan2008
-94	Barwar_Neo-Aramaic	ninety four	ǝč̣č̣i-w-’árba	ʕ ǝ ʧˤ ʧˤ i + w + ʕ a r b a	ninety and four	ʕ ǝ ʧˤ ʧˤ i + w + ʕ a r b a	13 1 9		Khan2008
-95	Barwar_Neo-Aramaic	ninety five	ǝč̣č̣i-w-xámša	ʕ ǝ ʧˤ ʧˤ i + w + x a m ʃ a	ninety and five	ʕ ǝ ʧˤ ʧˤ i + w + x a m ʃ a	13 1 6		Khan2008
-96	Barwar_Neo-Aramaic	ninety six	ǝč̣č̣i-w-ǝ́šta	ʕ ǝ ʧˤ ʧˤ i + w + ǝ ʃ t a	ninety and six	ʕ ǝ ʧˤ ʧˤ i + w + ǝ ʃ t a	13 1 19		Khan2008
-97	Barwar_Neo-Aramaic	ninety seven	ǝč̣č̣i-w-šáwwa	ʕ ǝ ʧˤ ʧˤ i + w + ʃ a w w a	ninety and seven	ʕ ǝ ʧˤ ʧˤ i + w + ʃ a w w a	13 1 16		Khan2008
-98	Barwar_Neo-Aramaic	ninety eight	ǝč̣č̣i-w-tmánya	ʕ ǝ ʧˤ ʧˤ i + w + t m a n j a	ninety and eight	ʕ ǝ ʧˤ ʧˤ i + w + t m a n j a	13 1 2		Khan2008
-99	Barwar_Neo-Aramaic	ninety nine	ǝč̣č̣i-w-’ǝč̣č̣a	ʕ ǝ ʧˤ ʧˤ i + w + ʕ ǝ ʧˤ ʧˤ a	ninety and nine	ʕ ǝ ʧˤ ʧˤ i + w + ʕ ǝ ʧˤ ʧˤ a	13 1 11		Khan2008
+1	Barwar_Neo-Aramaic	one	xa	x a -/d	one		1	xad is the original form. The stop /d/ resurfaces before vowels, like in 11	Khan2008
+2	Barwar_Neo-Aramaic	one	ða	ð a	one2		2	it is an open question if the two forms of the units should be derived from each other or treated as different morphemes. In my opinion, only the numbers 4 and eight are transparently derived from each other, while all the rest are different enough to mark them as separate morphemes	Khan2008
+3	Barwar_Neo-Aramaic	two	tre	t r e	two		3		Khan2008
+4	Barwar_Neo-Aramaic	two	tǝrte	t ǝ r t e	two2		4		Khan2008
+5	Barwar_Neo-Aramaic	three	ṭḷáθa	tˤ lˤ a θ a	three		5		Khan2008
+6	Barwar_Neo-Aramaic	three	ṭǝḷḷǝθ	tˤ ǝ lˤː ǝ θ	three2		7		Khan2008
+7	Barwar_Neo-Aramaic	four	’árba	ʔ a r b a	four		8		Khan2008
+8	Barwar_Neo-Aramaic	four	’árbe	ʔ a r b e/a	four		8		Khan2008
+9	Barwar_Neo-Aramaic	five	xámša	x a m ʃ a	five		9		Khan2008
+10	Barwar_Neo-Aramaic	five	xámmǝš	x a mː ǝ ʃ	five2		10		Khan2008
+11	Barwar_Neo-Aramaic	six	’ǝ́šta	ʔ ǝ ʃ t a	six		11		Khan2008
+12	Barwar_Neo-Aramaic	six	’ǝ́ššǝt	ǝ ʃː ǝ t	six2		12		Khan2008
+13	Barwar_Neo-Aramaic	seven	šáwwa	ʃ a wː a	seven		13		Khan2008
+14	Barwar_Neo-Aramaic	seven	’ǝ́šwa	ʔ ǝ ʃ w a	seven2		15		Khan2008
+15	Barwar_Neo-Aramaic	eight	tmánya	t m a n j a	eight		16		Khan2008
+16	Barwar_Neo-Aramaic	eight	tmáne	t m a n -/j e/a	eight		16		Khan2008
+17	Barwar_Neo-Aramaic	nine	’ǝč̣č̣a	ʔ ǝ ʧˤː a	nine		17		Khan2008
+18	Barwar_Neo-Aramaic	nine	’ǝčča	ʔ ǝ ʧː a	nine2		18		Khan2008
+19	Barwar_Neo-Aramaic	ten	’ǝ́ṣra	ʔ ǝ sˤ r a	ten		19		Khan2008
+20	Barwar_Neo-Aramaic	ten	’ǝ́ssǝr	ʔ ǝ sː ǝ r	ten2		20		Khan2008
+21	Barwar_Neo-Aramaic	eleven	xadǝ́ssǝr	x a d + -/ʔ ǝ sː ǝ r	one ten2		1 20	after 10 the numbers are invariable	Khan2008
+22	Barwar_Neo-Aramaic	twelve	trǝ́ssǝr	t r -/e + -/ʔ ǝ sː ǝ r	two ten2		3 20		Khan2008
+23	Barwar_Neo-Aramaic	thirteen	tǝltassǝr	t ǝ l t + -/ʔ a/ǝ sː ǝ r	three3 ten2		6 20		Khan2008
+24	Barwar_Neo-Aramaic	fourteen	’arbássǝr	ʔ a r b -/a + -/ʔ a/ǝ sː ǝ r	four ten2		8 20		Khan2008
+25	Barwar_Neo-Aramaic	fifteen	xamsássǝr	x a m s/ʃ -/a + -/ʔ a/ǝ sː ǝ r	five ten2		9 20		Khan2008
+26	Barwar_Neo-Aramaic	sixteen	’ǝštássǝr	ʔ ǝ ʃ t -/a + -/ʔ a/ǝ sː ǝ r	six ten2		11 20		Khan2008
+27	Barwar_Neo-Aramaic	seventeen	šwássǝr	ʃ w + -/ʔ a/ǝ sː ǝ r	seven3 ten2		14 20		Khan2008
+28	Barwar_Neo-Aramaic	eighteen	tmanǝ́ssar	t m a n -/j -/a + -/ʔ ǝ sː ǝ r	eight ten2		16 20		Khan2008
+29	Barwar_Neo-Aramaic	nineteen	’ǝč̣č̣ássǝr	ʔ ǝ ʧˤː -/a + -/ʔ a/ǝ sː ǝ r	nine ten2		17 20		Khan2008
+30	Barwar_Neo-Aramaic	twenty	’ǝ́sri	ʔ ǝ s/sˤ r -/a + i	ten ty		19 21		Khan2008
+31	Barwar_Neo-Aramaic	twenty one	’ǝ́sri-w-xa	ʔ ǝ s/sˤ r -/a + i + w + x a -/d	ten ty and one		19 21 22 1		Khan2008
+32	Barwar_Neo-Aramaic	twenty two	’ǝ́sri-w-tre	ʔ ǝ s/sˤ r -/a + i + w + t r e	ten ty and two		19 21 22 3		Khan2008
+33	Barwar_Neo-Aramaic	twenty three	’ǝ́sri-w-ṭḷáθa	ʔ ǝ s/sˤ r -/a + i + w + tˤ lˤ a θ a	ten ty and three		19 21 22 5		Khan2008
+34	Barwar_Neo-Aramaic	twenty four	’ǝ́sri-w-’árba	ʔ ǝ s/sˤ r -/a + i + w + ʔ a r b a	ten ty and four		19 21 22 8		Khan2008
+35	Barwar_Neo-Aramaic	twenty five	’ǝ́sri-w-xámša	ʔ ǝ s/sˤ r -/a + i + w + x a m ʃ a	ten ty and five		19 21 22 9		Khan2008
+36	Barwar_Neo-Aramaic	twenty six	’ǝ́sri-w-’ǝ́šta	ʔ ǝ s/sˤ r -/a + i + w + ʔ ǝ ʃ t a	ten ty and six		19 21 22 11		Khan2008
+37	Barwar_Neo-Aramaic	twenty seven	’ǝ́sri-w-šáwwa	ʔ ǝ s/sˤ r -/a + i + w + ʃ a wː a	ten ty and seven		19 21 22 13		Khan2008
+38	Barwar_Neo-Aramaic	twenty eight	’ǝ́sri-w-tmánya	ʔ ǝ s/sˤ r -/a + i + w + t m a n j a	ten ty and eight		19 21 22 16		Khan2008
+39	Barwar_Neo-Aramaic	twenty nine	’ǝ́sri-w-’ǝč̣č̣a	ʔ ǝ s/sˤ r -/a + i + w + ʔ ǝ ʧˤː a	ten ty and nine		19 21 22 17		Khan2008
+40	Barwar_Neo-Aramaic	thirty	ṭḷáθi	tˤ lˤ a θ -/a + i	three ty		5 21		Khan2008
+41	Barwar_Neo-Aramaic	thirty one	ṭḷáθi-w-xa	tˤ lˤ a θ -/a + i + w + x a -/d	three ty and one		5 21 22 1		Khan2008
+42	Barwar_Neo-Aramaic	thirty two	ṭḷáθi-w-tre	tˤ lˤ a θ -/a + i + w + t r e	three ty and two		5 21 22 3		Khan2008
+43	Barwar_Neo-Aramaic	thirty three	ṭḷáθi-w-ṭḷáθa	tˤ lˤ a θ -/a + i + w + tˤ lˤ a θ a	three ty and three		5 21 22 5		Khan2008
+44	Barwar_Neo-Aramaic	thirty four	ṭḷáθi-w-’árba	tˤ lˤ a θ -/a + i + w + ʔ a r b a	three ty and four		5 21 22 8		Khan2008
+45	Barwar_Neo-Aramaic	thirty five	ṭḷáθi-w-xámša	tˤ lˤ a θ -/a + i + w + x a m ʃ a	three ty and five		5 21 22 9		Khan2008
+46	Barwar_Neo-Aramaic	thirty six	ṭḷáθi-w-’ǝ́šta	tˤ lˤ a θ -/a + i + w + ʔ ǝ ʃ t a	three ty and six		5 21 22 11		Khan2008
+47	Barwar_Neo-Aramaic	thirty seven	ṭḷáθi-w-šáwwa	tˤ lˤ a θ -/a + i + w + ʃ a wː a	three ty and seven		5 21 22 13		Khan2008
+48	Barwar_Neo-Aramaic	thirty eight	ṭḷáθi-w-tmánya	tˤ lˤ a θ -/a + i + w + t m a n j a	three ty and eight		5 21 22 16		Khan2008
+49	Barwar_Neo-Aramaic	thirty nine	ṭḷáθi-w-’ǝč̣č̣a	tˤ lˤ a θ -/a + i + w + ʔ ǝ ʧˤː a	three ty and nine		5 21 22 17		Khan2008
+50	Barwar_Neo-Aramaic	forty	’árbi	ʔ a r b -/a + i	four ty		8 21		Khan2008
+51	Barwar_Neo-Aramaic	forty one	’árbi-w-xa	ʔ a r b -/a + i + w + x a -/d	four ty and one		8 21 22 1		Khan2008
+52	Barwar_Neo-Aramaic	forty two	’árbi-w-tre	ʔ a r b -/a + i + w + t r e	four ty and two		8 21 22 3		Khan2008
+53	Barwar_Neo-Aramaic	forty three	’árbi-w-ṭḷáθa	ʔ a r b -/a + i + w + tˤ lˤ a θ a	four ty and three		8 21 22 5		Khan2008
+54	Barwar_Neo-Aramaic	forty four	’árbi-w-’árba	ʔ a r b -/a + i + w + ʔ a r b a	four ty and four		8 21 22 8		Khan2008
+55	Barwar_Neo-Aramaic	forty five	’árbi-w-xámša	ʔ a r b -/a + i + w + x a m ʃ a	four ty and five		8 21 22 9		Khan2008
+56	Barwar_Neo-Aramaic	forty six	’árbi-w-’ǝ́šta	ʔ a r b -/a + i + w + ʔ ǝ ʃ t a	four ty and six		8 21 22 11		Khan2008
+57	Barwar_Neo-Aramaic	forty seven	’árbi-w-šáwwa	ʔ a r b -/a + i + w + ʃ a wː a	four ty and seven		8 21 22 13		Khan2008
+58	Barwar_Neo-Aramaic	forty eight	’árbi-w-tmánya	ʔ a r b -/a + i + w + t m a n j a	four ty and eight		8 21 22 16		Khan2008
+59	Barwar_Neo-Aramaic	forty nine	’árbi-w-’ǝč̣č̣a	ʔ a r b -/a + i + w + ʔ ǝ ʧˤː a	four ty and nine		8 21 22 17		Khan2008
+60	Barwar_Neo-Aramaic	fifty	xámši	x a m ʃ -/a + i	five ty		9 21		Khan2008
+61	Barwar_Neo-Aramaic	fifty one	xámši-w-xa	x a m ʃ -/a + i + w + x a -/d	five ty and one		9 21 22 1		Khan2008
+62	Barwar_Neo-Aramaic	fifty two	xámši-w-tre	x a m ʃ -/a + i + w + t r e	five ty and two		9 21 22 3		Khan2008
+63	Barwar_Neo-Aramaic	fifty three	xámši-w-ṭḷáθa	x a m ʃ -/a + i + w + tˤ lˤ a θ a	five ty and three		9 21 22 5		Khan2008
+64	Barwar_Neo-Aramaic	fifty four	xámši-w-’árba	x a m ʃ -/a + i + w + ʔ a r b a	five ty and four		9 21 22 8		Khan2008
+65	Barwar_Neo-Aramaic	fifty five	xámši-w-xámša	x a m ʃ -/a + i + w + x a m ʃ a	five ty and five		9 21 22 9		Khan2008
+66	Barwar_Neo-Aramaic	fifty six	xámši-w-’ǝ́šta	x a m ʃ -/a + i + w + ʔ ǝ ʃ t a	five ty and six		9 21 22 11		Khan2008
+67	Barwar_Neo-Aramaic	fifty seven	xámši-w-šáwwa	x a m ʃ -/a + i + w + ʃ a wː a	five ty and seven		9 21 22 13		Khan2008
+68	Barwar_Neo-Aramaic	fifty eight	xámši-w-tmánya	x a m ʃ -/a + i + w + t m a n j a	five ty and eight		9 21 22 16		Khan2008
+69	Barwar_Neo-Aramaic	fifty nine	xámši-w-’ǝč̣č̣a	x a m ʃ -/a + i + w + ʔ ǝ ʧˤː a	five ty and nine		9 21 22 17		Khan2008
+70	Barwar_Neo-Aramaic	sixty	’ǝ́šti	ʔ ǝ ʃ t -/a + i	six ty		11 21		Khan2008
+71	Barwar_Neo-Aramaic	sixty one	’ǝ́šti-w-xa	ʔ ǝ ʃ t -/a + i + w + x a -/d	six ty and one		11 21 22 1		Khan2008
+72	Barwar_Neo-Aramaic	sixty two	’ǝ́šti-w-tre	ʔ ǝ ʃ t -/a + i + w + t r e	six ty and two		11 21 22 3		Khan2008
+73	Barwar_Neo-Aramaic	sixty three	’ǝ́šti-w-ṭḷáθa	ʔ ǝ ʃ t -/a + i + w + tˤ lˤ a θ a	six ty and three		11 21 22 5		Khan2008
+74	Barwar_Neo-Aramaic	sixty four	’ǝ́šti-w-’árba	ʔ ǝ ʃ t -/a + i + w + ʔ a r b a	six ty and four		11 21 22 8		Khan2008
+75	Barwar_Neo-Aramaic	sixty five	’ǝ́šti-w-xámša	ʔ ǝ ʃ t -/a + i + w + x a m ʃ a	six ty and five		11 21 22 9		Khan2008
+76	Barwar_Neo-Aramaic	sixty six	’ǝ́šti-w-’ǝ́šta	ʔ ǝ ʃ t -/a + i + w + ʔ ǝ ʃ t a	six ty and six		11 21 22 11		Khan2008
+77	Barwar_Neo-Aramaic	sixty seven	’ǝ́šti-w-šáwwa	ʔ ǝ ʃ t -/a + i + w + ʃ a wː a	six ty and seven		11 21 22 13		Khan2008
+78	Barwar_Neo-Aramaic	sixty eight	’ǝ́šti-w-tmánya	ʔ ǝ ʃ t -/a + i + w + t m a n j a	six ty and eight		11 21 22 16		Khan2008
+79	Barwar_Neo-Aramaic	sixty nine	’ǝ́šti-w-’ǝč̣č̣a	ʔ ǝ ʃ t -/a + i + w + ʔ ǝ ʧˤː a	six ty and nine		11 21 22 17		Khan2008
+80	Barwar_Neo-Aramaic	seventy	šáwwi	ʃ a wː -/a + i	seven ty		13 21		Khan2008
+81	Barwar_Neo-Aramaic	seventy one	šáwwi-w-xa	ʃ a wː -/a + i + w + x a -/d	seven ty and one		13 21 22 1		Khan2008
+82	Barwar_Neo-Aramaic	seventy two	šáwwi-w-tre	ʃ a wː -/a + i + w + t r e	seven ty and two		13 21 22 3		Khan2008
+83	Barwar_Neo-Aramaic	seventy three	šáwwi-w-ṭḷáθa	ʃ a wː -/a + i + w + tˤ lˤ a θ a	seven ty and three		13 21 22 5		Khan2008
+84	Barwar_Neo-Aramaic	seventy four	šáwwi-w-’árba	ʃ a wː -/a + i + w + ʔ a r b a	seven ty and four		13 21 22 8		Khan2008
+85	Barwar_Neo-Aramaic	seventy five	šáwwi-w-xámša	ʃ a wː -/a + i + w + x a m ʃ a	seven ty and five		13 21 22 9		Khan2008
+86	Barwar_Neo-Aramaic	seventy six	šáwwi-w-’ǝ́šta	ʃ a wː -/a + i + w + ʔ ǝ ʃ t a	seven ty and six		13 21 22 11		Khan2008
+87	Barwar_Neo-Aramaic	seventy seven	šáwwi-w-šáwwa	ʃ a wː -/a + i + w + ʃ a wː a	seven ty and seven		13 21 22 13		Khan2008
+88	Barwar_Neo-Aramaic	seventy eight	šáwwi-w-tmánya	ʃ a wː -/a + i + w + t m a n j a	seven ty and eight		13 21 22 16		Khan2008
+89	Barwar_Neo-Aramaic	seventy nine	šáwwi-w-’ǝč̣č̣a	ʃ a wː -/a + i + w + ʔ ǝ ʧˤː a	seven ty and nine		13 21 22 17		Khan2008
+90	Barwar_Neo-Aramaic	eighty	tmáni	t m a n -/j -/a + i	eight ty		16 21		Khan2008
+91	Barwar_Neo-Aramaic	eighty one	tmáni-w-xa	t m a n -/j -/a + i + w + x a -/d	eight ty and one		16 21 22 1		Khan2008
+92	Barwar_Neo-Aramaic	eighty two	tmáni-w-tre	t m a n -/j -/a + i + w + t r e	eight ty and two		16 21 22 3		Khan2008
+93	Barwar_Neo-Aramaic	eighty three	tmáni-w-ṭḷáθa	t m a n -/j -/a + i + w + tˤ lˤ a θ a	eight ty and three		16 21 22 5		Khan2008
+94	Barwar_Neo-Aramaic	eighty four	tmáni-w-’árba	t m a n -/j -/a + i + w + ʔ a r b a	eight ty and four		16 21 22 8		Khan2008
+95	Barwar_Neo-Aramaic	eighty five	tmáni-w-xámša	t m a n -/j -/a + i + w + x a m ʃ a	eight ty and five		16 21 22 9		Khan2008
+96	Barwar_Neo-Aramaic	eighty six	tmáni-w-’ǝ́šta	t m a n -/j -/a + i + w + ʔ ǝ ʃ t a	eight ty and six		16 21 22 11		Khan2008
+97	Barwar_Neo-Aramaic	eighty seven	tmáni-w-šáwwa	t m a n -/j -/a + i + w + ʃ a wː a	eight ty and seven		16 21 22 13		Khan2008
+98	Barwar_Neo-Aramaic	eighty eight	tmáni-w-tmánya	t m a n -/j -/a + i + w + t m a n j a	eight ty and eight		16 21 22 16		Khan2008
+99	Barwar_Neo-Aramaic	eighty nine	tmáni-w-’ǝč̣č̣a	t m a n -/j -/a + i + w + ʔ ǝ ʧˤː a	eight ty and nine		16 21 22 17		Khan2008
+100	Barwar_Neo-Aramaic	ninety	’ǝč̣č̣i	ʔ ǝ ʧˤː -/a + i	nine ty		17 21		Khan2008
+101	Barwar_Neo-Aramaic	ninety one	’ǝč̣č̣i-w-xa	ʔ ǝ ʧˤː -/a + i + w + x a -/d	nine ty and one		17 21 22 1		Khan2008
+102	Barwar_Neo-Aramaic	ninety two	’ǝč̣č̣i-w-tre	ʔ ǝ ʧˤː -/a + i + w + t r e	nine ty and two		17 21 22 3		Khan2008
+103	Barwar_Neo-Aramaic	ninety three	’ǝč̣č̣i-w-ṭḷáθa	ʔ ǝ ʧˤː -/a + i + w + tˤ lˤ a θ a	nine ty and three		17 21 22 5		Khan2008
+104	Barwar_Neo-Aramaic	ninety four	’ǝč̣č̣i-w-’árba	ʔ ǝ ʧˤː -/a + i + w + ʔ a r b a	nine ty and four		17 21 22 8		Khan2008
+105	Barwar_Neo-Aramaic	ninety five	’ǝč̣č̣i-w-xámša	ʔ ǝ ʧˤː -/a + i + w + x a m ʃ a	nine ty and five		17 21 22 9		Khan2008
+106	Barwar_Neo-Aramaic	ninety six	’ǝč̣č̣i-w-’ǝ́šta	ʔ ǝ ʧˤː -/a + i + w + ʔ ǝ ʃ t a	nine ty and six		17 21 22 11		Khan2008
+107	Barwar_Neo-Aramaic	ninety seven	’ǝč̣č̣i-w-šáwwa	ʔ ǝ ʧˤː -/a + i + w + ʃ a wː a	nine ty and seven		17 21 22 13		Khan2008
+108	Barwar_Neo-Aramaic	ninety eight	’ǝč̣č̣i-w-tmánya	ʔ ǝ ʧˤː -/a + i + w + t m a n j a	nine ty and eight		17 21 22 16		Khan2008
+109	Barwar_Neo-Aramaic	ninety nine	’ǝč̣č̣i-w-’ǝč̣č̣a	ʔ ǝ ʧˤː -/a + i + w + ʔ ǝ ʧˤː a	nine ty and nine		17 21 22 17		Khan2008

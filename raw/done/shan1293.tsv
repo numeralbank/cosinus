@@ -9,7 +9,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM	TOKENS	ALIGNMENT	MORPHEMES	COGIDS	SOURCE
 8	Shanghainese	eight	8	pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵	p ᴀ ʔ ⁵⁵	eight	8	Shanghainese
 9	Shanghainese	nine	9	tɕiɤ³⁴	tɕ iɤ ³⁴	tɕ iɤ ³⁴	nine	9	Shanghainese
 10	Shanghainese	ten	10	zəʔ¹²	z ə ʔ ¹²	z ə ʔ ¹²	ten	10	Shanghainese
-11	Shanghainese	eleven	11	zəʔ¹²iɪʔ⁵⁵	z ə ʔ ¹² + iɪ ʔ ⁵⁵	z ə ʔ ¹² +iɪ ʔ ⁵⁵	ten one	10 1	Shanghainese
+11	Shanghainese	eleven	11	zəʔ¹²iɪʔ⁵⁵	z ə ʔ ¹² + iɪ ʔ ⁵⁵	z ə ʔ ¹² + iɪ ʔ ⁵⁵	ten one	10 1	Shanghainese
 12	Shanghainese	twelve	12	zəʔ¹²ȵi²³	z ə ʔ ¹² + ȵ i ²³	z ə ʔ ¹² + ȵ i ²³	ten two	10 2	Shanghainese
 13	Shanghainese	thirteen	13	zəʔ¹²sᴇ⁵³	z ə ʔ ¹² + s ᴇ ⁵³	z ə ʔ ¹² + s ᴇ ⁵³	ten three	10 3	Shanghainese
 14	Shanghainese	fourteen	14	zəʔ¹²sɿ³⁴	z ə ʔ ¹² + s ɿ ³⁴	z ə ʔ ¹² + s ɿ ³⁴	ten four	10 4	Shanghainese
@@ -19,7 +19,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM	TOKENS	ALIGNMENT	MORPHEMES	COGIDS	SOURCE
 18	Shanghainese	eighteen	18	zəʔ¹²pᴀʔ⁵⁵	z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	ten eight	10 8	Shanghainese
 19	Shanghainese	nineteen	19	zəʔ¹²tɕiɤ³⁴	z ə ʔ ¹² + tɕ iɤ ³⁴	z ə ʔ ¹² + tɕ iɤ ³⁴	ten nine	10 9	Shanghainese
 20	Shanghainese	twenty	20	ȵiᴇ²³	ȵ iᴇ ²³	ȵ iᴇ ²³	twenty	20	Shanghainese
-21	Shanghainese	twenty one	21	ȵiᴇ²³iɪʔ⁵⁵	ȵ iᴇ ²³ + iɪ ʔ ⁵⁵	ȵ iᴇ ²³ +iɪ ʔ ⁵⁵	twenty one	20 1	Shanghainese
+21	Shanghainese	twenty one	21	ȵiᴇ²³iɪʔ⁵⁵	ȵ iᴇ ²³ + iɪ ʔ ⁵⁵	ȵ iᴇ ²³ + iɪ ʔ ⁵⁵	twenty one	20 1	Shanghainese
 22	Shanghainese	twenty two	22	ȵiᴇ²³ȵi²³	ȵ iᴇ ²³ + ȵ i ²³	ȵ iᴇ ²³ + ȵ i ²³	twenty two	20 2	Shanghainese
 23	Shanghainese	twenty three	23	ȵiᴇ²³sᴇ⁵³	ȵ iᴇ ²³ + s ᴇ ⁵³	ȵ iᴇ ²³ + s ᴇ ⁵³	twenty three	20 3	Shanghainese
 24	Shanghainese	twenty four	24	ȵiᴇ²³sɿ³⁴	ȵ iᴇ ²³ + s ɿ ³⁴	ȵ iᴇ ²³ + s ɿ ³⁴	twenty four	20 4	Shanghainese
@@ -28,26 +28,26 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM	TOKENS	ALIGNMENT	MORPHEMES	COGIDS	SOURCE
 27	Shanghainese	twenty seven	27	ȵiᴇ²³tɕ'iɪʔ³⁴	ȵ iᴇ ²³ + tɕʰ iɪ ʔ ³⁴	ȵ iᴇ ²³ + tɕʰ iɪ ʔ ³⁴	twenty seven	20 7	Shanghainese
 28	Shanghainese	twenty eight	28	ȵiᴇ²³pᴀʔ⁵⁵	ȵ iᴇ ²³ + p ᴀ ʔ ⁵⁵	ȵ iᴇ ²³ + p ᴀ ʔ ⁵⁵	twenty eight	20 8	Shanghainese
 29	Shanghainese	twenty nine	29	ȵiᴇ²³tɕiɤ³⁴	ȵ iᴇ ²³ + tɕ iɤ ³⁴	ȵ iᴇ ²³ + tɕ iɤ ³⁴	twenty nine	20 9	Shanghainese
-30	Shanghainese	thirty	30	sᴇ⁵³səʔ¹²	s ᴇ ⁵³ + s ə ʔ ¹²	s ᴇ ⁵³ + s ə ʔ ¹²	three ten	3 10	Shanghainese
-31	Shanghainese	thirty one	31	sᴇ⁵³zəʔ¹²iɪʔ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² +iɪ ʔ ⁵⁵	three ten one	3 10 2001	Shanghainese
-32	Shanghainese	thirty two	32	sᴇ⁵³zəʔ¹²ȵi²³	s ᴇ ⁵³ + z ə ʔ ¹² + ȵ i ²³	s ᴇ ⁵³ + z ə ʔ ¹² + ȵ i ²³	three ten two	3 10 2002	Shanghainese
-33	Shanghainese	thirty three	33	sᴇ⁵³zəʔ¹²sᴇ⁵³	s ᴇ ⁵³ + z ə ʔ ¹² + s ᴇ ⁵³	s ᴇ ⁵³ + z ə ʔ ¹² + s ᴇ ⁵³	three ten three	3 10 2003	Shanghainese
-34	Shanghainese	thirty four	34	sᴇ⁵³zəʔ¹²sɿ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + s ɿ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + s ɿ ³⁴	three ten four	3 10 2004	Shanghainese
-35	Shanghainese	thirty five	35	sᴇ⁵³zəʔ¹²ɦŋ̍²³	s ᴇ ⁵³ + z ə ʔ ¹² + ɦ ŋ̍ ²³	s ᴇ ⁵³ + z ə ʔ ¹² + ɦ ŋ̍ ²³	three ten five	3 10 2005	Shanghainese
-36	Shanghainese	thirty six	36	sᴇ⁵³zəʔ¹²loʔ¹²	s ᴇ ⁵³ + z ə ʔ ¹² + l o ʔ ¹²	s ᴇ ⁵³ + z ə ʔ ¹² + l o ʔ ¹²	three ten six	3 10 2006	Shanghainese
-37	Shanghainese	thirty seven	37	sᴇ⁵³zəʔ¹²tɕ'iɪʔ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	three ten seven	3 10 2007	Shanghainese
-38	Shanghainese	thirty eight	38	sᴇ⁵³zəʔ¹²pᴀʔ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	three ten eight	3 10 2008	Shanghainese
-39	Shanghainese	thirty nine	39	sᴇ⁵³zəʔ¹²tɕiɤ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕ iɤ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕ iɤ ³⁴	three ten nine	3 10 2009	Shanghainese
-40	Shanghainese	forty	40	sɿ³⁴səʔ¹²	s ɿ ³⁴ + s/z ə ʔ ¹²	s ɿ ³⁴ + s ə ʔ ¹²	four ten	4 10	Shanghainese
-41	Shanghainese	forty one	41	sɿ³⁴səʔ¹²iɪʔ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	four ten one	4 10 1	Shanghainese
-42	Shanghainese	forty two	42	sɿ³⁴səʔ¹²ȵi²³	s ᴇ ⁵³ + z ə ʔ ¹² + ȵ i ²³	s ᴇ ⁵³ + z ə ʔ ¹² + ȵ i ²³	four ten two	4 10 2	Shanghainese
-43	Shanghainese	forty three	43	sɿ³⁴səʔ¹²sᴇ⁵³	s ᴇ ⁵³ + z ə ʔ ¹² + s ᴇ ⁵³	s ᴇ ⁵³ + z ə ʔ ¹² + s ᴇ ⁵³	four ten three	4 10 3	Shanghainese
-44	Shanghainese	forty four	44	sɿ³⁴səʔ¹²sɿ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + s ɿ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + s ɿ ³⁴	four ten four	4 10 4	Shanghainese
-45	Shanghainese	forty five	45	sɿ³⁴səʔ¹²ɦŋ̍²³	s ᴇ ⁵³ + z ə ʔ ¹² + ɦ ŋ̍ ²³	s ᴇ ⁵³ + z ə ʔ ¹² + ɦ ŋ̍ ²³	four ten five	4 10 5	Shanghainese
-46	Shanghainese	forty six	46	sɿ³⁴səʔ¹²loʔ¹²	s ᴇ ⁵³ + z ə ʔ ¹² + l o ʔ ¹²	s ᴇ ⁵³ + z ə ʔ ¹² + l o ʔ ¹²	four ten six	4 10 6	Shanghainese
-47	Shanghainese	forty seven	47	sɿ³⁴səʔ¹²tɕ'iɪʔ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	four ten seven	4 10 7	Shanghainese
-48	Shanghainese	forty eight	48	sɿ³⁴səʔ¹²pᴀʔ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	four ten eight	4 10 8	Shanghainese
-49	Shanghainese	forty nine	49	sɿ³⁴səʔ¹²tɕiɤ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕ iɤ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕ iɤ ³⁴	four ten nine	4 10 9	Shanghainese
+30	Shanghainese	thirty	30	sᴇ⁵³səʔ¹²	s ᴇ ⁵³ + s/z ə ʔ ¹²	s ᴇ ⁵³ + s/z ə ʔ ¹²	three ten	3 10	Shanghainese
+31	Shanghainese	thirty one	31	sᴇ⁵³zəʔ¹²iɪʔ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	three ten one	3 10 1	Shanghainese
+32	Shanghainese	thirty two	32	sᴇ⁵³zəʔ¹²ȵi²³	s ᴇ ⁵³ + z ə ʔ ¹² + ȵ i ²³	s ᴇ ⁵³ + z ə ʔ ¹² + ȵ i ²³	three ten two	3 10 2	Shanghainese
+33	Shanghainese	thirty three	33	sᴇ⁵³zəʔ¹²sᴇ⁵³	s ᴇ ⁵³ + z ə ʔ ¹² + s ᴇ ⁵³	s ᴇ ⁵³ + z ə ʔ ¹² + s ᴇ ⁵³	three ten three	3 10 3	Shanghainese
+34	Shanghainese	thirty four	34	sᴇ⁵³zəʔ¹²sɿ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + s ɿ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + s ɿ ³⁴	three ten four	3 10 4	Shanghainese
+35	Shanghainese	thirty five	35	sᴇ⁵³zəʔ¹²ɦŋ̍²³	s ᴇ ⁵³ + z ə ʔ ¹² + ɦ ŋ̍ ²³	s ᴇ ⁵³ + z ə ʔ ¹² + ɦ ŋ̍ ²³	three ten five	3 10 5	Shanghainese
+36	Shanghainese	thirty six	36	sᴇ⁵³zəʔ¹²loʔ¹²	s ᴇ ⁵³ + z ə ʔ ¹² + l o ʔ ¹²	s ᴇ ⁵³ + z ə ʔ ¹² + l o ʔ ¹²	three ten six	3 10 6	Shanghainese
+37	Shanghainese	thirty seven	37	sᴇ⁵³zəʔ¹²tɕ'iɪʔ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	three ten seven	3 10 7	Shanghainese
+38	Shanghainese	thirty eight	38	sᴇ⁵³zəʔ¹²pᴀʔ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	three ten eight	3 10 8	Shanghainese
+39	Shanghainese	thirty nine	39	sᴇ⁵³zəʔ¹²tɕiɤ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕ iɤ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕ iɤ ³⁴	three ten nine	3 10 9	Shanghainese
+40	Shanghainese	forty	40	sɿ³⁴səʔ¹²	s ɿ ³⁴ + s/z ə ʔ ¹²	s ɿ ³⁴ + s/z ə ʔ ¹²	four ten	4 10	Shanghainese
+41	Shanghainese	forty one	41	sɿ³⁴səʔ¹²iɪʔ⁵⁵	s ɿ ³⁴ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	four ten one	4 10 1	Shanghainese
+42	Shanghainese	forty two	42	sɿ³⁴səʔ¹²ȵi²³	s ɿ ³⁴ + z ə ʔ ¹² + ȵ i ²³	s ᴇ ⁵³ + z ə ʔ ¹² + ȵ i ²³	four ten two	4 10 2	Shanghainese
+43	Shanghainese	forty three	43	sɿ³⁴səʔ¹²sᴇ⁵³	s ɿ ³⁴ + z ə ʔ ¹² + s ᴇ ⁵³	s ᴇ ⁵³ + z ə ʔ ¹² + s ᴇ ⁵³	four ten three	4 10 3	Shanghainese
+44	Shanghainese	forty four	44	sɿ³⁴səʔ¹²sɿ³⁴	s ɿ ³⁴ + z ə ʔ ¹² + s ɿ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + s ɿ ³⁴	four ten four	4 10 4	Shanghainese
+45	Shanghainese	forty five	45	sɿ³⁴səʔ¹²ɦŋ̍²³	s ɿ ³⁴ + z ə ʔ ¹² + ɦ ŋ̍ ²³	s ᴇ ⁵³ + z ə ʔ ¹² + ɦ ŋ̍ ²³	four ten five	4 10 5	Shanghainese
+46	Shanghainese	forty six	46	sɿ³⁴səʔ¹²loʔ¹²	s ɿ ³⁴ + z ə ʔ ¹² + l o ʔ ¹²	s ᴇ ⁵³ + z ə ʔ ¹² + l o ʔ ¹²	four ten six	4 10 6	Shanghainese
+47	Shanghainese	forty seven	47	sɿ³⁴səʔ¹²tɕ'iɪʔ³⁴	s ɿ ³⁴ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	four ten seven	4 10 7	Shanghainese
+48	Shanghainese	forty eight	48	sɿ³⁴səʔ¹²pᴀʔ⁵⁵	s ɿ ³⁴ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	s ᴇ ⁵³ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	four ten eight	4 10 8	Shanghainese
+49	Shanghainese	forty nine	49	sɿ³⁴səʔ¹²tɕiɤ³⁴	s ɿ ³⁴ + z ə ʔ ¹² + tɕ iɤ ³⁴	s ᴇ ⁵³ + z ə ʔ ¹² + tɕ iɤ ³⁴	four ten nine	4 10 9	Shanghainese
 50	Shanghainese	fifty	50	ɦŋ̍²³zəʔ¹²	ɦ ŋ̍ ²³ + z ə ʔ ¹²	ɦ ŋ̍ ²³ + z ə ʔ ¹²	five ten	5 10	Shanghainese
 51	Shanghainese	fifty one	51	ɦŋ̍²³zəʔ¹²iɪʔ⁵⁵	ɦ ŋ̍ ²³ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	ɦ ŋ̍ ²³ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	five ten one	5 10 1	Shanghainese
 52	Shanghainese	fifty two	52	ɦŋ̍²³zəʔ¹²ȵi²³	ɦ ŋ̍ ²³ + z ə ʔ ¹² + ȵ i ²³	ɦ ŋ̍ ²³ + z ə ʔ ¹² + ȵ i ²³	five ten two	5 10 2	Shanghainese
@@ -68,33 +68,33 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM	TOKENS	ALIGNMENT	MORPHEMES	COGIDS	SOURCE
 67	Shanghainese	sixty seven	67	loʔ¹²zəʔ¹²tɕ'iɪʔ³⁴	l o ʔ ¹² + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	l o ʔ ¹² + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	six ten seven	6 10 7	Shanghainese
 68	Shanghainese	sixty eight	68	loʔ¹²zəʔ¹²pᴀʔ⁵⁵	l o ʔ ¹² + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	l o ʔ ¹² + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	six ten eight	6 10 8	Shanghainese
 69	Shanghainese	sixty nine	69	loʔ¹²zəʔ¹²tɕiɤ³⁴	l o ʔ ¹² + z ə ʔ ¹² + tɕ iɤ ³⁴	l o ʔ ¹² + z ə ʔ ¹² + tɕ iɤ ³⁴	six ten nine	6 10 9	Shanghainese
-70	Shanghainese	seventy	70	tɕ'iɪʔ³⁴	tɕʰ iɪ ʔ ³⁴	tɕʰ iɪ ʔ ³⁴	seven ten	7 10	Shanghainese
-71	Shanghainese	seventy one	71	tɕ'iɪʔ³⁴iɪʔ⁵⁵	tɕʰ iɪ ʔ ³⁴ + iɪ ʔ ⁵⁵	tɕʰ iɪ ʔ ³⁴ + iɪ ʔ ⁵⁵	seven ten one	7 10 1	Shanghainese
-72	Shanghainese	seventy two	72	tɕ'iɪʔ³⁴ȵi²³	tɕʰ iɪ ʔ ³⁴ + ȵ i ²³	tɕʰ iɪ ʔ ³⁴ + ȵ i ²³	seven ten two	7 10 2	Shanghainese
-73	Shanghainese	seventy three	73	tɕ'iɪʔ³⁴sᴇ⁵³	tɕʰ iɪ ʔ ³⁴ + s ᴇ ⁵³	tɕʰ iɪ ʔ ³⁴ + s ᴇ ⁵³	seven ten three	7 10 3	Shanghainese
-74	Shanghainese	seventy four	74	tɕ'iɪʔ³⁴sɿ³⁴	tɕʰ iɪ ʔ ³⁴ + s ɿ ³⁴	tɕʰ iɪ ʔ ³⁴ + s ɿ ³⁴	seven ten four	7 10 4	Shanghainese
-75	Shanghainese	seventy five	75	tɕ'iɪʔ³⁴ɦŋ̍²³	tɕʰ iɪ ʔ ³⁴ + ɦ ŋ̍ ²³	tɕʰ iɪ ʔ ³⁴ + ɦ ŋ̍ ²³	seven ten five	7 10 5	Shanghainese
-76	Shanghainese	seventy six	76	tɕ'iɪʔ³⁴loʔ¹²	tɕʰ iɪ ʔ ³⁴ + l o ʔ ¹²	tɕʰ iɪ ʔ ³⁴ + l o ʔ ¹²	seven ten six	7 10 6	Shanghainese
-77	Shanghainese	seventy seven	77	tɕ'iɪʔ³⁴tɕ'iɪʔ³⁴	tɕʰ iɪ ʔ ³⁴ + tɕʰ iɪ ʔ ³⁴	tɕʰ iɪ ʔ ³⁴ + tɕʰ iɪ ʔ ³⁴	seven ten seven	7 10 7	Shanghainese
-78	Shanghainese	seventy eight	78	tɕ'iɪʔ³⁴pᴀʔ⁵⁵	tɕʰ iɪ ʔ ³⁴ + p ᴀ ʔ ⁵⁵	tɕʰ iɪ ʔ ³⁴ + p ᴀ ʔ ⁵⁵	seven ten eight	7 10 8	Shanghainese
-79	Shanghainese	seventy nine	79	tɕ'iɪʔ³⁴tɕiɤ³⁴	tɕʰ iɪ ʔ ³⁴ + tɕ iɤ ³⁴	tɕʰ iɪ ʔ ³⁴ + tɕ iɤ ³⁴	seven ten nine	7 10 9	Shanghainese
-80	Shanghainese	eighty	80	pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵	p ᴀ ʔ ⁵⁵	eight ten	8 10	Shanghainese
-81	Shanghainese	eighty one	81	pᴀʔ⁵⁵iɪʔ⁵⁵	p ᴀ ʔ ⁵⁵ + iɪ ʔ ⁵⁵	p ᴀ ʔ ⁵⁵ + iɪ ʔ ⁵⁵	eight ten one	8 10 1	Shanghainese
-82	Shanghainese	eighty two	82	pᴀʔ⁵⁵ȵi²³	p ᴀ ʔ ⁵⁵ + ȵ i ²³	p ᴀ ʔ ⁵⁵ + ȵ i ²³	eight ten two	8 10 2	Shanghainese
-83	Shanghainese	eighty three	83	pᴀʔ⁵⁵sᴇ⁵³	p ᴀ ʔ ⁵⁵ + s ᴇ ⁵³	p ᴀ ʔ ⁵⁵ + s ᴇ ⁵³	eight ten three	8 10 3	Shanghainese
-84	Shanghainese	eighty four	84	pᴀʔ⁵⁵sɿ³⁴	p ᴀ ʔ ⁵⁵ + s ɿ ³⁴	p ᴀ ʔ ⁵⁵ + s ɿ ³⁴	eight ten four	8 10 4	Shanghainese
-85	Shanghainese	eighty five	85	pᴀʔ⁵⁵ɦŋ̍²³	p ᴀ ʔ ⁵⁵ + ɦ ŋ̍ ²³	p ᴀ ʔ ⁵⁵ + ɦ ŋ̍ ²³	eight ten five	8 10 5	Shanghainese
-86	Shanghainese	eighty six	86	pᴀʔ⁵⁵loʔ¹²	p ᴀ ʔ ⁵⁵ + l o ʔ ¹²	p ᴀ ʔ ⁵⁵ + l o ʔ ¹²	eight ten six	8 10 6	Shanghainese
-87	Shanghainese	eighty seven	87	pᴀʔ⁵⁵tɕ'iɪʔ³⁴	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	eight ten seven	8 10 7	Shanghainese
-88	Shanghainese	eighty eight	88	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + p ᴀ ʔ ⁵⁵	p ᴀ ʔ ⁵⁵ + p ᴀ ʔ ⁵⁵	eight ten eight	8 10 8	Shanghainese
-89	Shanghainese	eighty nine	89	pᴀʔ⁵⁵tɕiɤ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	eight ten nine	8 10 9	Shanghainese
-90	Shanghainese	ninety	90	tɕiɤ³⁴	tɕ iɤ ³⁴	tɕ iɤ ³⁴	nine ten	9 10	Shanghainese
-91	Shanghainese	ninety one	91	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	nine ten one	9 10 1	Shanghainese
-92	Shanghainese	ninety two	92	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	nine ten two	9 10 2	Shanghainese
-93	Shanghainese	ninety three	93	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	nine ten three	9 10 3	Shanghainese
-94	Shanghainese	ninety four	94	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	nine ten four	9 10 4	Shanghainese
-95	Shanghainese	ninety five	95	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	nine ten five	9 10 5	Shanghainese
-96	Shanghainese	ninety six	96	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	nine ten six	9 10 6	Shanghainese
-97	Shanghainese	ninety seven	97	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	nine ten seven	9 10 7	Shanghainese
-98	Shanghainese	ninety eight	98	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	nine ten eight	9 10 8	Shanghainese
-99	Shanghainese	ninety nine	99	pᴀʔ⁵⁵pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + tɕ iɤ ³⁴	nine ten nine	9 10 9	Shanghainese
+70	Shanghainese	seventy	70	tɕ'iɪʔ³⁴zəʔ¹²	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹²	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹²	seven ten	7 10	Shanghainese
+71	Shanghainese	seventy one	71	tɕ'iɪʔ³⁴zəʔ¹²iɪʔ⁵⁵	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	seven ten one	7 10 1	Shanghainese
+72	Shanghainese	seventy two	72	tɕ'iɪʔ³⁴zəʔ¹²ȵi²³	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + ȵ i ²³	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + ȵ i ²³	seven ten two	7 10 2	Shanghainese
+73	Shanghainese	seventy three	73	tɕ'iɪʔ³⁴zəʔ¹²sᴇ⁵³	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + s ᴇ ⁵³	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + s ᴇ ⁵³	seven ten three	7 10 3	Shanghainese
+74	Shanghainese	seventy four	74	tɕ'iɪʔ³⁴zəʔ¹²sɿ³⁴	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + s ɿ ³⁴	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + s ɿ ³⁴	seven ten four	7 10 4	Shanghainese
+75	Shanghainese	seventy five	75	tɕ'iɪʔ³⁴zəʔ¹²ɦŋ̍²³	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + ɦ ŋ̍ ²³	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + ɦ ŋ̍ ²³	seven ten five	7 10 5	Shanghainese
+76	Shanghainese	seventy six	76	tɕ'iɪʔ³⁴zəʔ¹²loʔ¹²	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + l o ʔ ¹²	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + l o ʔ ¹²	seven ten six	7 10 6	Shanghainese
+77	Shanghainese	seventy seven	77	tɕ'iɪʔ³⁴zəʔ¹²tɕ'iɪʔ³⁴	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	seven ten seven	7 10 7	Shanghainese
+78	Shanghainese	seventy eight	78	tɕ'iɪʔ³⁴zəʔ¹²pᴀʔ⁵⁵	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	seven ten eight	7 10 8	Shanghainese
+79	Shanghainese	seventy nine	79	tɕ'iɪʔ³⁴zəʔ¹²tɕiɤ³⁴	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + tɕ iɤ ³⁴	tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + tɕ iɤ ³⁴	seven ten nine	7 10 9	Shanghainese
+80	Shanghainese	eighty	80	pᴀʔ⁵⁵zəʔ¹²	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹²	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹²	eight ten	8 10	Shanghainese
+81	Shanghainese	eighty one	81	pᴀʔ⁵⁵zəʔ¹²iɪʔ⁵⁵	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	eight ten one	8 10 1	Shanghainese
+82	Shanghainese	eighty two	82	pᴀʔ⁵⁵zəʔ¹²ȵi²³	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + ȵ i ²³	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + ȵ i ²³	eight ten two	8 10 2	Shanghainese
+83	Shanghainese	eighty three	83	pᴀʔ⁵⁵zəʔ¹²sᴇ⁵³	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + s ᴇ ⁵³	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + s ᴇ ⁵³	eight ten three	8 10 3	Shanghainese
+84	Shanghainese	eighty four	84	pᴀʔ⁵⁵zəʔ¹²sɿ³⁴	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + s ɿ ³⁴	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + s ɿ ³⁴	eight ten four	8 10 4	Shanghainese
+85	Shanghainese	eighty five	85	pᴀʔ⁵⁵zəʔ¹²ɦŋ̍²³	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + ɦ ŋ̍ ²³	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + ɦ ŋ̍ ²³	eight ten five	8 10 5	Shanghainese
+86	Shanghainese	eighty six	86	pᴀʔ⁵⁵zəʔ¹²loʔ¹²	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + l o ʔ ¹²	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + l o ʔ ¹²	eight ten six	8 10 6	Shanghainese
+87	Shanghainese	eighty seven	87	pᴀʔ⁵⁵zəʔ¹²tɕ'iɪʔ³⁴	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	eight ten seven	8 10 7	Shanghainese
+88	Shanghainese	eighty eight	88	pᴀʔ⁵⁵zəʔ¹²pᴀʔ⁵⁵	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	eight ten eight	8 10 8	Shanghainese
+89	Shanghainese	eighty nine	89	pᴀʔ⁵⁵zəʔ¹²tɕiɤ³⁴	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + tɕ iɤ ³⁴	p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + tɕ iɤ ³⁴	eight ten nine	8 10 9	Shanghainese
+90	Shanghainese	ninety	90	tɕiɤ³⁴zəʔ¹²	tɕ iɤ ³⁴ + z ə ʔ ¹²	tɕ iɤ ³⁴ + z ə ʔ ¹²	nine ten	9 10	Shanghainese
+91	Shanghainese	ninety one	91	tɕiɤ³⁴zəʔ¹²iɪʔ⁵⁵	tɕ iɤ ³⁴ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	tɕ iɤ ³⁴ + z ə ʔ ¹² + iɪ ʔ ⁵⁵	nine ten one	9 10 1	Shanghainese
+92	Shanghainese	ninety two	92	tɕiɤ³⁴zəʔ¹²ȵi²³	tɕ iɤ ³⁴ + z ə ʔ ¹² + ȵ i ²³	tɕ iɤ ³⁴ + z ə ʔ ¹² + ȵ i ²³	nine ten two	9 10 2	Shanghainese
+93	Shanghainese	ninety three	93	tɕiɤ³⁴zəʔ¹²sᴇ⁵³	tɕ iɤ ³⁴ + z ə ʔ ¹² + s ᴇ ⁵³	tɕ iɤ ³⁴ + z ə ʔ ¹² + s ᴇ ⁵³	nine ten three	9 10 3	Shanghainese
+94	Shanghainese	ninety four	94	tɕiɤ³⁴zəʔ¹²sɿ³⁴	tɕ iɤ ³⁴ + z ə ʔ ¹² + s ɿ ³⁴	tɕ iɤ ³⁴ + z ə ʔ ¹² + s ɿ ³⁴	nine ten four	9 10 4	Shanghainese
+95	Shanghainese	ninety five	95	tɕiɤ³⁴zəʔ¹²ɦŋ̍²³	tɕ iɤ ³⁴ + z ə ʔ ¹² + ɦ ŋ̍ ²³	tɕ iɤ ³⁴ + z ə ʔ ¹² + ɦ ŋ̍ ²³	nine ten five	9 10 5	Shanghainese
+96	Shanghainese	ninety six	96	tɕiɤ³⁴zəʔ¹²loʔ¹²	tɕ iɤ ³⁴ + z ə ʔ ¹² + l o ʔ ¹²	tɕ iɤ ³⁴ + z ə ʔ ¹² + l o ʔ ¹²	nine ten six	9 10 6	Shanghainese
+97	Shanghainese	ninety seven	97	tɕiɤ³⁴zəʔ¹²tɕ'iɪʔ³⁴	tɕ iɤ ³⁴ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	tɕ iɤ ³⁴ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴	nine ten seven	9 10 7	Shanghainese
+98	Shanghainese	ninety eight	98	tɕiɤ³⁴zəʔ¹²pᴀʔ⁵⁵	tɕ iɤ ³⁴ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	tɕ iɤ ³⁴ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵	nine ten eight	9 10 8	Shanghainese
+99	Shanghainese	ninety nine	99	tɕiɤ³⁴zəʔ¹²tɕiɤ³⁴	tɕ iɤ ³⁴ + z ə ʔ ¹² + tɕ iɤ ³⁴	tɕ iɤ ³⁴ + z ə ʔ ¹² + tɕ iɤ ³⁴	nine ten nine	9 10 9	Shanghainese

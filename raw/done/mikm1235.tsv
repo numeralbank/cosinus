@@ -1,0 +1,100 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
+1	Mikmaq	one	newt	n e w t	one		1		MikmaqOnline
+2	Mikmaq	two	ta'pu	t aː b u	two		2		MikmaqOnline
+3	Mikmaq	three	si'st	s iː s t	three		3		MikmaqOnline
+4	Mikmaq	four	ne'w	n eː w	four		4		MikmaqOnline
+5	Mikmaq	five	na'n	n aː n	five		5		MikmaqOnline
+6	Mikmaq	six	as'gom	a s ə ɡ o m	six		6		MikmaqOnline
+7	Mikmaq	seven	lluigneg	ə lː u i ɡ ə n e k	seven		7		MikmaqOnline
+8	Mikmaq	eight	ugumuljin	u ɡ u m u l tʃ i n	eight		8		MikmaqOnline
+9	Mikmaq	nine	pesgunateg	p e s k u n a d e k	nine		9		MikmaqOnline
+10	Mikmaq	ten	newtisga'q	n e w d/t + i s k aː x	one -ty		1 10		MikmaqOnline
+11	Mikmaq	eleven	newtisga'q jel newt	n e w d/t + i s k aː x + tʃ e l + n e w t	one -ty and one		1 10 11 1		MikmaqOnline
+12	Mikmaq	twelve	newtisga'q jel ta'pu	n e w d/t + i s k aː x + tʃ e l + t aː b u	one -ty and two		1 10 11 2		MikmaqOnline
+13	Mikmaq	thirteen	newtisga'q jel si'st	n e w d/t + i s k aː x + tʃ e l + s iː s t	one -ty and three		1 10 11 3		MikmaqOnline
+14	Mikmaq	fourteen	newtisga'q jel ne'w	n e w d/t + i s k aː x + tʃ e l + n eː w	one -ty and four		1 10 11 4		MikmaqOnline
+15	Mikmaq	fifteen	newtisga'q jel na'n	n e w d/t + i s k aː x + tʃ e l + n aː n	one -ty and five		1 10 11 5		MikmaqOnline
+16	Mikmaq	sixteen	newtisga'q jel as'gom	n e w d/t + i s k aː x + tʃ e l + a s ə ɡ o m	one -ty and six		1 10 11 6		MikmaqOnline
+17	Mikmaq	seventeen	newtisga'q jel lluigneg	n e w d/t + i s k aː x + tʃ e l + ə lː u i ɡ ə n e k	one -ty and seven		1 10 11 7		MikmaqOnline
+18	Mikmaq	eighteen	newtisga'q jel ugumuljin	n e w d/t + i s k aː x + tʃ e l + u ɡ u m u l tʃ i n	one -ty and eight		1 10 11 8		MikmaqOnline
+19	Mikmaq	nineteen	newtisga'q jel pesgunateg	n e w d/t + i s k aː x + tʃ e l + p e s k u n a d e k	one -ty and nine		1 10 11 9		MikmaqOnline
+20	Mikmaq	twenty	tapuisga'q	t a/aː b u + i s k aː x	two -ty		2 10		MikmaqOnline
+21	Mikmaq	twenty one	tapuisga'q jel newt	t a/aː b u + i s k aː x + tʃ e l + n e w t	two -ty and one		2 10 11 1		MikmaqOnline
+22	Mikmaq	twenty two	tapuisga'q jel ta'pu	t a/aː b u + i s k aː x + tʃ e l + t aː b u	two -ty and two		2 10 11 2		MikmaqOnline
+23	Mikmaq	twenty three	tapuisga'q jel si'st	t a/aː b u + i s k aː x + tʃ e l + s iː s t	two -ty and three		2 10 11 3		MikmaqOnline
+24	Mikmaq	twenty four	tapuisga'q jel ne'w	t a/aː b u + i s k aː x + tʃ e l + n eː w	two -ty and four		2 10 11 4		MikmaqOnline
+25	Mikmaq	twenty five	tapuisga'q jel na'n	t a/aː b u + i s k aː x + tʃ e l + n aː n	two -ty and five		2 10 11 5		MikmaqOnline
+26	Mikmaq	twenty six	tapuisga'q jel as'gom	t a/aː b u + i s k aː x + tʃ e l + a s ə ɡ o m	two -ty and six		2 10 11 6		MikmaqOnline
+27	Mikmaq	twenty seven	tapuisga'q jel lluigneg	t a/aː b u + i s k aː x + tʃ e l + ə lː u i ɡ ə n e k	two -ty and seven		2 10 11 7		MikmaqOnline
+28	Mikmaq	twenty eight	tapuisga'q jel ugumuljin	t a/aː b u + i s k aː x + tʃ e l + u ɡ u m u l tʃ i n	two -ty and eight		2 10 11 8		MikmaqOnline
+29	Mikmaq	twenty nine	tapuisga'q jel pesgunateg	t a/aː b u + i s k aː x + tʃ e l + p e s k u n a d e k	two -ty and nine		2 10 11 9		MikmaqOnline
+30	Mikmaq	thirty	nesisga'q	n e s + i s k aː x	three2 -ty		31 10		MikmaqOnline
+31	Mikmaq	thirty one	nesisga'q jel newt	n e s + i s k aː x + tʃ e l + n e w t	three2 -ty and one		31 10 11 1		MikmaqOnline
+32	Mikmaq	thirty two	nesisga'q jel ta'pu	n e s + i s k aː x + tʃ e l + t aː b u	three2 -ty and two		31 10 11 2		MikmaqOnline
+33	Mikmaq	thirty three	nesisga'q jel si'st	n e s + i s k aː x + tʃ e l + s iː s t	three2 -ty and three		31 10 11 3		MikmaqOnline
+34	Mikmaq	thirty four	nesisga'q jel ne'w	n e s + i s k aː x + tʃ e l + n eː w	three2 -ty and four		31 10 11 4		MikmaqOnline
+35	Mikmaq	thirty five	nesisga'q jel na'n	n e s + i s k aː x + tʃ e l + n aː n	three2 -ty and five		31 10 11 5		MikmaqOnline
+36	Mikmaq	thirty six	nesisga'q jel as'gom	n e s + i s k aː x + tʃ e l + a s ə ɡ o m	three2 -ty and six		31 10 11 6		MikmaqOnline
+37	Mikmaq	thirty seven	nesisga'q jel lluigneg	n e s + i s k aː x + tʃ e l + ə lː u i ɡ ə n e k	three2 -ty and seven		31 10 11 7		MikmaqOnline
+38	Mikmaq	thirty eight	nesisga'q jel ugumuljin	n e s + i s k aː x + tʃ e l + u ɡ u m u l tʃ i n	three2 -ty and eight		31 10 11 8		MikmaqOnline
+39	Mikmaq	thirty nine	nesisga'q jel pesgunateg	n e s + i s k aː x + tʃ e l + p e s k u n a d e k	three2 -ty and nine		31 10 11 9		MikmaqOnline
+40	Mikmaq	forty	newisga'q	n e/eː w + i s k aː x	four -ty		4 10		MikmaqOnline
+41	Mikmaq	forty one	newisga'q jel newt	n e/eː w + i s k aː x + tʃ e l + n e w t	four -ty and one		4 10 11 1		MikmaqOnline
+42	Mikmaq	forty two	newisga'q jel ta'pu	n e/eː w + i s k aː x + tʃ e l + t aː b u	four -ty and two		4 10 11 2		MikmaqOnline
+43	Mikmaq	forty three	newisga'q jel si'st	n e/eː w + i s k aː x + tʃ e l + s iː s t	four -ty and three		4 10 11 3		MikmaqOnline
+44	Mikmaq	forty four	newisga'q jel ne'w	n e/eː w + i s k aː x + tʃ e l + n eː w	four -ty and four		4 10 11 4		MikmaqOnline
+45	Mikmaq	forty five	newisga'q jel na'n	n e/eː w + i s k aː x + tʃ e l + n aː n	four -ty and five		4 10 11 5		MikmaqOnline
+46	Mikmaq	forty six	newisga'q jel as'gom	n e/eː w + i s k aː x + tʃ e l + a s ə ɡ o m	four -ty and six		4 10 11 6		MikmaqOnline
+47	Mikmaq	forty seven	newisga'q jel lluigneg	n e/eː w + i s k aː x + tʃ e l + ə lː u i ɡ ə n e k	four -ty and seven		4 10 11 7		MikmaqOnline
+48	Mikmaq	forty eight	newisga'q jel ugumuljin	n e/eː w + i s k aː x + tʃ e l + u ɡ u m u l tʃ i n	four -ty and eight		4 10 11 8		MikmaqOnline
+49	Mikmaq	forty nine	newisga'q jel pesgunateg	n e/eː w + i s k aː x + tʃ e l + p e s k u n a d e k	four -ty and nine		4 10 11 9		MikmaqOnline
+50	Mikmaq	fifty	nanisga'q	n a/aː n + i s k aː x	five -ty		5 10		MikmaqOnline
+51	Mikmaq	fifty one	nanisga'q jel newt	n a/aː n + i s k aː x + tʃ e l + n e w t	five -ty and one		5 10 11 1		MikmaqOnline
+52	Mikmaq	fifty two	nanisga'q jel ta'pu	n a/aː n + i s k aː x + tʃ e l + t aː b u	five -ty and two		5 10 11 2		MikmaqOnline
+53	Mikmaq	fifty three	nanisga'q jel si'st	n a/aː n + i s k aː x + tʃ e l + s iː s t	five -ty and three		5 10 11 3		MikmaqOnline
+54	Mikmaq	fifty four	nanisga'q jel ne'w	n a/aː n + i s k aː x + tʃ e l + n eː w	five -ty and four		5 10 11 4		MikmaqOnline
+55	Mikmaq	fifty five	nanisga'q jel na'n	n a/aː n + i s k aː x + tʃ e l + n aː n	five -ty and five		5 10 11 5		MikmaqOnline
+56	Mikmaq	fifty six	nanisga'q jel as'gom	n a/aː n + i s k aː x + tʃ e l + a s ə ɡ o m	five -ty and six		5 10 11 6		MikmaqOnline
+57	Mikmaq	fifty seven	nanisga'q jel lluigneg	n a/aː n + i s k aː x + tʃ e l + ə lː u i ɡ ə n e k	five -ty and seven		5 10 11 7		MikmaqOnline
+58	Mikmaq	fifty eight	nanisga'q jel ugumuljin	n a/aː n + i s k aː x + tʃ e l + u ɡ u m u l tʃ i n	five -ty and eight		5 10 11 8		MikmaqOnline
+59	Mikmaq	fifty nine	nanisga'q jel pesgunateg	n a/aː n + i s k aː x + tʃ e l + p e s k u n a d e k	five -ty and nine		5 10 11 9		MikmaqOnline
+60	Mikmaq	sixty	as'gom te'sisga'q	a s ə ɡ o m + t eː s + i s k aː x	six ? -ty		6 99 10		MikmaqOnline
+61	Mikmaq	sixty one	as'gom te'sisga'q jel newt	a s ə ɡ o m + t eː s + i s k aː x + tʃ e l + n e w t	six ? -ty and one		6 99 10 11 1		MikmaqOnline
+62	Mikmaq	sixty two	as'gom te'sisga'q jel ta'pu	a s ə ɡ o m + t eː s + i s k aː x + tʃ e l + t aː b u	six ? -ty and two		6 99 10 11 2		MikmaqOnline
+63	Mikmaq	sixty three	as'gom te'sisga'q jel si'st	a s ə ɡ o m + t eː s + i s k aː x + tʃ e l + s iː s t	six ? -ty and three		6 99 10 11 3		MikmaqOnline
+64	Mikmaq	sixty four	as'gom te'sisga'q jel ne'w	a s ə ɡ o m + t eː s + i s k aː x + tʃ e l + n eː w	six ? -ty and four		6 99 10 11 4		MikmaqOnline
+65	Mikmaq	sixty five	as'gom te'sisga'q jel na'n	a s ə ɡ o m + t eː s + i s k aː x + tʃ e l + n aː n	six ? -ty and five		6 99 10 11 5		MikmaqOnline
+66	Mikmaq	sixty six	as'gom te'sisga'q jel as'gom	a s ə ɡ o m + t eː s + i s k aː x + tʃ e l + a s ə ɡ o m	six ? -ty and six		6 99 10 11 6		MikmaqOnline
+67	Mikmaq	sixty seven	as'gom te'sisga'q jel lluigneg	a s ə ɡ o m + t eː s + i s k aː x + tʃ e l + ə lː u i ɡ ə n e k	six ? -ty and seven		6 99 10 11 7		MikmaqOnline
+68	Mikmaq	sixty eight	as'gom te'sisga'q jel ugumuljin	a s ə ɡ o m + t eː s + i s k aː x + tʃ e l + u ɡ u m u l tʃ i n	six ? -ty and eight		6 99 10 11 8		MikmaqOnline
+69	Mikmaq	sixty nine	as'gom te'sisga'q jel pesgunateg	a s ə ɡ o m + t eː s + i s k aː x + tʃ e l + p e s k u n a d e k	six ? -ty and nine		6 99 10 11 9		MikmaqOnline
+70	Mikmaq	seventy	lluigneg te'sisga'q	ə lː u i ɡ ə n e k + t eː s + i s k aː x	seven ? -ty		7 99 10		MikmaqOnline
+71	Mikmaq	seventy one	lluigneg te'sisga'q jel newt	ə lː u i ɡ ə n e k + t eː s + i s k aː x + tʃ e l + n e w t	seven ? -ty and one		7 99 10 11 1		MikmaqOnline
+72	Mikmaq	seventy two	lluigneg te'sisga'q jel ta'pu	ə lː u i ɡ ə n e k + t eː s + i s k aː x + tʃ e l + t aː b u	seven ? -ty and two		7 99 10 11 2		MikmaqOnline
+73	Mikmaq	seventy three	lluigneg te'sisga'q jel si'st	ə lː u i ɡ ə n e k + t eː s + i s k aː x + tʃ e l + s iː s t	seven ? -ty and three		7 99 10 11 3		MikmaqOnline
+74	Mikmaq	seventy four	lluigneg te'sisga'q jel ne'w	ə lː u i ɡ ə n e k + t eː s + i s k aː x + tʃ e l + n eː w	seven ? -ty and four		7 99 10 11 4		MikmaqOnline
+75	Mikmaq	seventy five	lluigneg te'sisga'q jel na'n	ə lː u i ɡ ə n e k + t eː s + i s k aː x + tʃ e l + n aː n	seven ? -ty and five		7 99 10 11 5		MikmaqOnline
+76	Mikmaq	seventy six	lluigneg te'sisga'q jel as'gom	ə lː u i ɡ ə n e k + t eː s + i s k aː x + tʃ e l + a s ə ɡ o m	seven ? -ty and six		7 99 10 11 6		MikmaqOnline
+77	Mikmaq	seventy seven	lluigneg te'sisga'q jel lluigneg	ə lː u i ɡ ə n e k + t eː s + i s k aː x + tʃ e l + ə lː u i ɡ ə n e k	seven ? -ty and seven		7 99 10 11 7		MikmaqOnline
+78	Mikmaq	seventy eight	lluigneg te'sisga'q jel ugumuljin	ə lː u i ɡ ə n e k + t eː s + i s k aː x + tʃ e l + u ɡ u m u l tʃ i n	seven ? -ty and eight		7 99 10 11 8		MikmaqOnline
+79	Mikmaq	seventy nine	lluigneg te'sisga'q jel pesgunateg	ə lː u i ɡ ə n e k + t eː s + i s k aː x + tʃ e l + p e s k u n a d e k	seven ? -ty and nine		7 99 10 11 9		MikmaqOnline
+80	Mikmaq	eighty	ugumuljin te'sisga'q	u ɡ u m u l tʃ i n + t eː s + i s k aː x	eight ? -ty		8 99 10		MikmaqOnline
+81	Mikmaq	eighty one	ugumuljin te'sisga'q jel newt	u ɡ u m u l tʃ i n + t eː s + i s k aː x + tʃ e l + n e w t	eight ? -ty and one		8 99 10 11 1		MikmaqOnline
+82	Mikmaq	eighty two	ugumuljin te'sisga'q jel ta'pu	u ɡ u m u l tʃ i n + t eː s + i s k aː x + tʃ e l + t aː b u	eight ? -ty and two		8 99 10 11 2		MikmaqOnline
+83	Mikmaq	eighty three	ugumuljin te'sisga'q jel si'st	u ɡ u m u l tʃ i n + t eː s + i s k aː x + tʃ e l + s iː s t	eight ? -ty and three		8 99 10 11 3		MikmaqOnline
+84	Mikmaq	eighty four	ugumuljin te'sisga'q jel ne'w	u ɡ u m u l tʃ i n + t eː s + i s k aː x + tʃ e l + n eː w	eight ? -ty and four		8 99 10 11 4		MikmaqOnline
+85	Mikmaq	eighty five	ugumuljin te'sisga'q jel na'n	u ɡ u m u l tʃ i n + t eː s + i s k aː x + tʃ e l + n aː n	eight ? -ty and five		8 99 10 11 5		MikmaqOnline
+86	Mikmaq	eighty six	ugumuljin te'sisga'q jel as'gom	u ɡ u m u l tʃ i n + t eː s + i s k aː x + tʃ e l + a s ə ɡ o m	eight ? -ty and six		8 99 10 11 6		MikmaqOnline
+87	Mikmaq	eighty seven	ugumuljin te'sisga'q jel lluigneg	u ɡ u m u l tʃ i n + t eː s + i s k aː x + tʃ e l + ə lː u i ɡ ə n e k	eight ? -ty and seven		8 99 10 11 7		MikmaqOnline
+88	Mikmaq	eighty eight	ugumuljin te'sisga'q jel ugumuljin	u ɡ u m u l tʃ i n + t eː s + i s k aː x + tʃ e l + u ɡ u m u l tʃ i n	eight ? -ty and eight		8 99 10 11 8		MikmaqOnline
+89	Mikmaq	eighty nine	ugumuljin te'sisga'q jel pesgunateg	u ɡ u m u l tʃ i n + t eː s + i s k aː x + tʃ e l + p e s k u n a d e k	eight ? -ty and nine		8 99 10 11 9		MikmaqOnline
+90	Mikmaq	ninety	pesgunateg te'sisga'q	p e s k u n a d e k + t eː s + i s k aː x	nine ? -ty		9 99 10		MikmaqOnline
+91	Mikmaq	ninety one	pesgunateg te'sisga'q jel newt	p e s k u n a d e k + t eː s + i s k aː x + tʃ e l + n e w t	nine ? -ty and one		9 99 10 11 1		MikmaqOnline
+92	Mikmaq	ninety two	pesgunateg te'sisga'q jel ta'pu	p e s k u n a d e k + t eː s + i s k aː x + tʃ e l + t aː b u	nine ? -ty and two		9 99 10 11 2		MikmaqOnline
+93	Mikmaq	ninety three	pesgunateg te'sisga'q jel si'st	p e s k u n a d e k + t eː s + i s k aː x + tʃ e l + s iː s t	nine ? -ty and three		9 99 10 11 3		MikmaqOnline
+94	Mikmaq	ninety four	pesgunateg te'sisga'q jel ne'w	p e s k u n a d e k + t eː s + i s k aː x + tʃ e l + n eː w	nine ? -ty and four		9 99 10 11 4		MikmaqOnline
+95	Mikmaq	ninety five	pesgunateg te'sisga'q jel na'n	p e s k u n a d e k + t eː s + i s k aː x + tʃ e l + n aː n	nine ? -ty and five		9 99 10 11 5		MikmaqOnline
+96	Mikmaq	ninety six	pesgunateg te'sisga'q jel as'gom	p e s k u n a d e k + t eː s + i s k aː x + tʃ e l + a s ə ɡ o m	nine ? -ty and six		9 99 10 11 6		MikmaqOnline
+97	Mikmaq	ninety seven	pesgunateg te'sisga'q jel lluigneg	p e s k u n a d e k + t eː s + i s k aː x + tʃ e l + ə lː u i ɡ ə n e k	nine ? -ty and seven		9 99 10 11 7		MikmaqOnline
+98	Mikmaq	ninety eight	pesgunateg te'sisga'q jel ugumuljin	p e s k u n a d e k + t eː s + i s k aː x + tʃ e l + u ɡ u m u l tʃ i n	nine ? -ty and eight		9 99 10 11 8		MikmaqOnline
+99	Mikmaq	ninety nine	pesgunateg te'sisga'q jel pesgunateg	p e s k u n a d e k + t eː s + i s k aː x + tʃ e l + p e s k u n a d e k	nine ? -ty and nine		9 99 10 11 9		MikmaqOnline

@@ -1,101 +1,101 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
-1	lish1247	one	χa	χa	χ a	one	χ a	1		Mutzafi2008LishanaDeni
-2	lish1247	two	tre	tre	t r e	two	t r e	2		Mutzafi2008LishanaDeni
-3	lish1247	three	tˤlaːha	tˤlaːha	tˤ l aː h a	three	tˤ l aː h a	3		Mutzafi2008LishanaDeni
-4	lish1247	four	ʔarba	ʔarba	ʔ a r b a	four	ʔ a r b a	4		Mutzafi2008LishanaDeni
-5	lish1247	five	χamʃa	χamʃa	χ a m ʃ a	five	χ a m ʃ a	5		Mutzafi2008LishanaDeni
-6	lish1247	six	ʔəʃta	ʔəʃta	ʔ ə ʃ t a	six	ʔ ə ʃ t a	6		Mutzafi2008LishanaDeni
-7	lish1247	seven	ʃoʔa	ʃoʔa	ʃ o ʔ a	seven	ʃ o ʔ a	7		Mutzafi2008LishanaDeni
-8	lish1247	eight	tmanja	tmanja	t m a n j a	eight	t m a n j a	8		Mutzafi2008LishanaDeni
-9	lish1247	nine	ʔəɕˤʔa	ʔəɕˤʔa	ʔ ə ɕˤ ʔ a	nine	ʔ ə ɕˤ ʔ a	9		Mutzafi2008LishanaDeni
-10	lish1247	ten	ʔəsˤrˤa	ʔəsˤrˤa	ʔ ə sˤ rˤ a	ten	ʔ ə sˤ rˤ a	10		Mutzafi2008LishanaDeni
-11	lish1247	eleven	χadeʔəssar	χadeʔəssar	χ a d/- e/- + ʔ ə s/sˤ s/- a/- r/rˤ -/a	one ten	χ a d/- e/- + ʔ ə s/sˤ s/- a/- r/rˤ -/a	1 10		Mutzafi2008LishanaDeni
-12	lish1247	twelve	treʔəssar	treʔəssar	t r e + ʔ ə s/sˤ s/- a/- r/rˤ -/a	two ten	t r e + ʔ ə s/sˤ s/- a/- r/rˤ -/a	2 10		Mutzafi2008LishanaDeni
-13	lish1247	thirteen	təltaʔəssar	təltaʔəssar	t/tˤ ə/- l -/aː t/h a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	three ten	t/tˤ ə/- l -/aː t/h a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	3 10		Mutzafi2008LishanaDeni
-14	lish1247	fourteen	ʔarbaʔəssar	ʔarbaʔəssar	ʔ a r b a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	four ten	ʔ a r b a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	4 10		Mutzafi2008LishanaDeni
-15	lish1247	fifteen	χamʃaʔəssar	χamʃaʔəssar	χ a m ʃ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	five ten	χ a m ʃ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	5 10		Mutzafi2008LishanaDeni
-16	lish1247	sixteen	ʔəʃtaʔəssar	ʔəʃtaʔəssar	ʔ ə ʃ t a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	six ten	ʔ ə ʃ t a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	6 10		Mutzafi2008LishanaDeni
-17	lish1247	seventeen	ʃuwaʔəssar	ʃuwaʔəssar	ʃ u/o w/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	seven ten	ʃ u/o w/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	7 10		Mutzafi2008LishanaDeni
-18	lish1247	seventeen	ʔəʃwaʔəssar	ʔəʃwaʔəssar	ʔ/- ə/- ʃ w/o -/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	seven ten	ʔ/- ə/- ʃ w/o -/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	7 10		Mutzafi2008LishanaDeni
-19	lish1247	eighteen	tˤmˤaneʔəssar	tˤmˤaneʔəssar	tˤ/t mˤ/m a n e/j -/a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	eight ten	tˤ/t mˤ/m a n e/j -/a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	8 10		Mutzafi2008LishanaDeni
-20	lish1247	nineteen	ʔəɕɕaʔəssar	ʔəɕɕaʔəssar	ʔ ə ɕ/ɕˤ ɕ/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	nine ten	ʔ ə ɕ/ɕˤ ɕ/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	9 10		Mutzafi2008LishanaDeni
-21	lish1247	twenty	ʔəsri	ʔəsri	ʔ ə s/sˤ r/rˤ -/a + i	ten ty	ʔ ə s/sˤ r/rˤ -/a + i	10 11	older plural suffix /in/, now only found in numerals	Mutzafi2008LishanaDeni
-22	lish1247	twenty one	ʔəsri ʔu χa	ʔəsriʔuχa	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + χ a	ten ty and one	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + χ a	10 11 12 1		Mutzafi2008LishanaDeni
-23	lish1247	twenty two	ʔəsri ʔu tre	ʔəsriʔutre	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + t r e	ten ty and two	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + t r e	10 11 12 2		Mutzafi2008LishanaDeni
-24	lish1247	twenty three	ʔəsri ʔu tˤlaːha	ʔəsriʔutˤlaːha	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + tˤ l aː h a	ten ty and three	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + tˤ l aː h a	10 11 12 3		Mutzafi2008LishanaDeni
-25	lish1247	twenty four	ʔəsri ʔu ʔarba	ʔəsriʔuʔarba	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ a r b a	ten ty and four	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ a r b a	10 11 12 4		Mutzafi2008LishanaDeni
-26	lish1247	twenty five	ʔəsri ʔu χamʃa	ʔəsriʔuχamʃa	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + χ a m ʃ a	ten ty and five	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + χ a m ʃ a	10 11 12 5		Mutzafi2008LishanaDeni
-27	lish1247	twenty six	ʔəsri ʔu ʔəʃta	ʔəsriʔuʔəʃta	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ ə ʃ t a	ten ty and six	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ ə ʃ t a	10 11 12 6		Mutzafi2008LishanaDeni
-28	lish1247	twenty seven	ʔəsri ʔu ʃoʔa	ʔəsriʔuʃoʔa	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʃ o ʔ a	ten ty and seven	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʃ o ʔ a	10 11 12 7		Mutzafi2008LishanaDeni
-29	lish1247	twenty eight	ʔəsri ʔu tmanja	ʔəsriʔutmanja	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + t m a n j a	ten ty and eight	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + t m a n j a	10 11 12 8		Mutzafi2008LishanaDeni
-30	lish1247	twenty nine	ʔəsri ʔu ʔəɕˤʔa	ʔəsriʔuʔəɕˤʔa	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	ten ty and nine	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	10 11 12 9		Mutzafi2008LishanaDeni
-31	lish1247	thirty	tˤlaːθi	tˤlaːθi	tˤ l aː θ/h -/a + i	three ty	tˤ l aː θ/h -/a + i	3 11		Mutzafi2008LishanaDeni
-32	lish1247	thirty one	tˤlaːθi ʔu χa	tˤlaːθiʔuχa	tˤ l aː θ/h -/a + i + ʔ u + χ a	three ty and one	tˤ l aː θ/h -/a + i + ʔ u + χ a	3 11 12 1		Mutzafi2008LishanaDeni
-33	lish1247	thirty two	tˤlaːθi ʔu tre	tˤlaːθiʔutre	tˤ l aː θ/h -/a + i + ʔ u + t r e	three ty and two	tˤ l aː θ/h -/a + i + ʔ u + t r e	3 11 12 2		Mutzafi2008LishanaDeni
-34	lish1247	thirty three	tˤlaːθi ʔu tˤlaːha	tˤlaːθiʔutˤlaːha	tˤ l aː θ/h -/a + i + ʔ u + tˤ l aː h a	three ty and three	tˤ l aː θ/h -/a + i + ʔ u + tˤ l aː h a	3 11 12 3		Mutzafi2008LishanaDeni
-35	lish1247	thirty four	tˤlaːθi ʔu ʔarba	tˤlaːθiʔuʔarba	tˤ l aː θ/h -/a + i + ʔ u + ʔ a r b a	three ty and four	tˤ l aː θ/h -/a + i + ʔ u + ʔ a r b a	3 11 12 4		Mutzafi2008LishanaDeni
-36	lish1247	thirty five	tˤlaːθi ʔu χamʃa	tˤlaːθiʔuχamʃa	tˤ l aː θ/h -/a + i + ʔ u + χ a m ʃ a	three ty and five	tˤ l aː θ/h -/a + i + ʔ u + χ a m ʃ a	3 11 12 5		Mutzafi2008LishanaDeni
-37	lish1247	thirty six	tˤlaːθi ʔu ʔəʃta	tˤlaːθiʔuʔəʃta	tˤ l aː θ/h -/a + i + ʔ u + ʔ ə ʃ t a	three ty and six	tˤ l aː θ/h -/a + i + ʔ u + ʔ ə ʃ t a	3 11 12 6		Mutzafi2008LishanaDeni
-38	lish1247	thirty seven	tˤlaːθi ʔu ʃoʔa	tˤlaːθiʔuʃoʔa	tˤ l aː θ/h -/a + i + ʔ u + ʃ o ʔ a	three ty and seven	tˤ l aː θ/h -/a + i + ʔ u + ʃ o ʔ a	3 11 12 7		Mutzafi2008LishanaDeni
-39	lish1247	thirty eight	tˤlaːθi ʔu tmanja	tˤlaːθiʔutmanja	tˤ l aː θ/h -/a + i + ʔ u + t m a n j a	three ty and eight	tˤ l aː θ/h -/a + i + ʔ u + t m a n j a	3 11 12 8		Mutzafi2008LishanaDeni
-40	lish1247	thirty nine	tˤlaːθi ʔu ʔəɕˤʔa	tˤlaːθiʔuʔəɕˤʔa	tˤ l aː θ/h -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	three ty and nine	tˤ l aː θ/h -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	3 11 12 9		Mutzafi2008LishanaDeni
-41	lish1247	forty	ʔarbi	ʔarbi	ʔ a r b -/a + i	four ty	ʔ a r b -/a + i	4 11		Mutzafi2008LishanaDeni
-42	lish1247	forty one	ʔarbi ʔu χa	ʔarbiʔuχa	ʔ a r b -/a + i + ʔ u + χ a	four ty and one	ʔ a r b -/a + i + ʔ u + χ a	4 11 12 1		Mutzafi2008LishanaDeni
-43	lish1247	forty two	ʔarbi ʔu tre	ʔarbiʔutre	ʔ a r b -/a + i + ʔ u + t r e	four ty and two	ʔ a r b -/a + i + ʔ u + t r e	4 11 12 2		Mutzafi2008LishanaDeni
-44	lish1247	forty three	ʔarbi ʔu tˤlaːha	ʔarbiʔutˤlaːha	ʔ a r b -/a + i + ʔ u + tˤ l aː h a	four ty and three	ʔ a r b -/a + i + ʔ u + tˤ l aː h a	4 11 12 3		Mutzafi2008LishanaDeni
-45	lish1247	forty four	ʔarbi ʔu ʔarba	ʔarbiʔuʔarba	ʔ a r b -/a + i + ʔ u + ʔ a r b a	four ty and four	ʔ a r b -/a + i + ʔ u + ʔ a r b a	4 11 12 4		Mutzafi2008LishanaDeni
-46	lish1247	forty five	ʔarbi ʔu χamʃa	ʔarbiʔuχamʃa	ʔ a r b -/a + i + ʔ u + χ a m ʃ a	four ty and five	ʔ a r b -/a + i + ʔ u + χ a m ʃ a	4 11 12 5		Mutzafi2008LishanaDeni
-47	lish1247	forty six	ʔarbi ʔu ʔəʃta	ʔarbiʔuʔəʃta	ʔ a r b -/a + i + ʔ u + ʔ ə ʃ t a	four ty and six	ʔ a r b -/a + i + ʔ u + ʔ ə ʃ t a	4 11 12 6		Mutzafi2008LishanaDeni
-48	lish1247	forty seven	ʔarbi ʔu ʃoʔa	ʔarbiʔuʃoʔa	ʔ a r b -/a + i + ʔ u + ʃ o ʔ a	four ty and seven	ʔ a r b -/a + i + ʔ u + ʃ o ʔ a	4 11 12 7		Mutzafi2008LishanaDeni
-49	lish1247	forty eight	ʔarbi ʔu tmanja	ʔarbiʔutmanja	ʔ a r b -/a + i + ʔ u + t m a n j a	four ty and eight	ʔ a r b -/a + i + ʔ u + t m a n j a	4 11 12 8		Mutzafi2008LishanaDeni
-50	lish1247	forty nine	ʔarbi ʔu ʔəɕˤʔa	ʔarbiʔuʔəɕˤʔa	ʔ a r b -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	four ty and nine	ʔ a r b -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	4 11 12 9		Mutzafi2008LishanaDeni
-51	lish1247	fifty	χamʃi	χamʃi	χ a m ʃ -/a + i	five ty	χ a m ʃ -/a + i	5 11		Mutzafi2008LishanaDeni
-52	lish1247	fifty one	χamʃi ʔu χa	χamʃiʔuχa	χ a m ʃ -/a + i + ʔ u + χ a	five ty and one	χ a m ʃ -/a + i + ʔ u + χ a	5 11 12 1		Mutzafi2008LishanaDeni
-53	lish1247	fifty two	χamʃi ʔu tre	χamʃiʔutre	χ a m ʃ -/a + i + ʔ u + t r e	five ty and two	χ a m ʃ -/a + i + ʔ u + t r e	5 11 12 2		Mutzafi2008LishanaDeni
-54	lish1247	fifty three	χamʃi ʔu tˤlaːha	χamʃiʔutˤlaːha	χ a m ʃ -/a + i + ʔ u + tˤ l aː h a	five ty and three	χ a m ʃ -/a + i + ʔ u + tˤ l aː h a	5 11 12 3		Mutzafi2008LishanaDeni
-55	lish1247	fifty four	χamʃi ʔu ʔarba	χamʃiʔuʔarba	χ a m ʃ -/a + i + ʔ u + ʔ a r b a	five ty and four	χ a m ʃ -/a + i + ʔ u + ʔ a r b a	5 11 12 4		Mutzafi2008LishanaDeni
-56	lish1247	fifty five	χamʃi ʔu χamʃa	χamʃiʔuχamʃa	χ a m ʃ -/a + i + ʔ u + χ a m ʃ a	five ty and five	χ a m ʃ -/a + i + ʔ u + χ a m ʃ a	5 11 12 5		Mutzafi2008LishanaDeni
-57	lish1247	fifty six	χamʃi ʔu ʔəʃta	χamʃiʔuʔəʃta	χ a m ʃ -/a + i + ʔ u + ʔ ə ʃ t a	five ty and six	χ a m ʃ -/a + i + ʔ u + ʔ ə ʃ t a	5 11 12 6		Mutzafi2008LishanaDeni
-58	lish1247	fifty seven	χamʃi ʔu ʃoʔa	χamʃiʔuʃoʔa	χ a m ʃ -/a + i + ʔ u + ʃ o ʔ a	five ty and seven	χ a m ʃ -/a + i + ʔ u + ʃ o ʔ a	5 11 12 7		Mutzafi2008LishanaDeni
-59	lish1247	fifty eight	χamʃi ʔu tmanja	χamʃiʔutmanja	χ a m ʃ -/a + i + ʔ u + t m a n j a	five ty and eight	χ a m ʃ -/a + i + ʔ u + t m a n j a	5 11 12 8		Mutzafi2008LishanaDeni
-60	lish1247	fifty nine	χamʃi ʔu ʔəɕˤʔa	χamʃiʔuʔəɕˤʔa	χ a m ʃ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	five ty and nine	χ a m ʃ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	5 11 12 9		Mutzafi2008LishanaDeni
-61	lish1247	sixty	ʔəʃti	ʔəʃti	ʔ ə ʃ t -/a + i	six ty	ʔ ə ʃ t -/a + i	6 11		Mutzafi2008LishanaDeni
-62	lish1247	sixty one	ʔəʃti ʔu χa	ʔəʃtiʔuχa	ʔ ə ʃ t -/a + i + ʔ u + χ a	six ty and one	ʔ ə ʃ t -/a + i + ʔ u + χ a	6 11 12 1		Mutzafi2008LishanaDeni
-63	lish1247	sixty two	ʔəʃti ʔu tre	ʔəʃtiʔutre	ʔ ə ʃ t -/a + i + ʔ u + t r e	six ty and two	ʔ ə ʃ t -/a + i + ʔ u + t r e	6 11 12 2		Mutzafi2008LishanaDeni
-64	lish1247	sixty three	ʔəʃti ʔu tˤlaːha	ʔəʃtiʔutˤlaːha	ʔ ə ʃ t -/a + i + ʔ u + tˤ l aː h a	six ty and three	ʔ ə ʃ t -/a + i + ʔ u + tˤ l aː h a	6 11 12 3		Mutzafi2008LishanaDeni
-65	lish1247	sixty four	ʔəʃti ʔu ʔarba	ʔəʃtiʔuʔarba	ʔ ə ʃ t -/a + i + ʔ u + ʔ a r b a	six ty and four	ʔ ə ʃ t -/a + i + ʔ u + ʔ a r b a	6 11 12 4		Mutzafi2008LishanaDeni
-66	lish1247	sixty five	ʔəʃti ʔu χamʃa	ʔəʃtiʔuχamʃa	ʔ ə ʃ t -/a + i + ʔ u + χ a m ʃ a	six ty and five	ʔ ə ʃ t -/a + i + ʔ u + χ a m ʃ a	6 11 12 5		Mutzafi2008LishanaDeni
-67	lish1247	sixty six	ʔəʃti ʔu ʔəʃta	ʔəʃtiʔuʔəʃta	ʔ ə ʃ t -/a + i + ʔ u + ʔ ə ʃ t a	six ty and six	ʔ ə ʃ t -/a + i + ʔ u + ʔ ə ʃ t a	6 11 12 6		Mutzafi2008LishanaDeni
-68	lish1247	sixty seven	ʔəʃti ʔu ʃoʔa	ʔəʃtiʔuʃoʔa	ʔ ə ʃ t -/a + i + ʔ u + ʃ o ʔ a	six ty and seven	ʔ ə ʃ t -/a + i + ʔ u + ʃ o ʔ a	6 11 12 7		Mutzafi2008LishanaDeni
-69	lish1247	sixty eight	ʔəʃti ʔu tmanja	ʔəʃtiʔutmanja	ʔ ə ʃ t -/a + i + ʔ u + t m a n j a	six ty and eight	ʔ ə ʃ t -/a + i + ʔ u + t m a n j a	6 11 12 8		Mutzafi2008LishanaDeni
-70	lish1247	sixty nine	ʔəʃti ʔu ʔəɕˤʔa	ʔəʃtiʔuʔəɕˤʔa	ʔ ə ʃ t -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	six ty and nine	ʔ ə ʃ t -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	6 11 12 9		Mutzafi2008LishanaDeni
-71	lish1247	seventy	ʃoʔi	ʃoʔi	ʃ o ʔ -/a + i	seven ty	ʃ o ʔ -/a + i	7 11		Mutzafi2008LishanaDeni
-72	lish1247	seventy one	ʃoʔi ʔu χa	ʃoʔiʔuχa	ʃ o ʔ -/a + i + ʔ u + χ a	seven ty and one	ʃ o ʔ -/a + i + ʔ u + χ a	7 11 12 1		Mutzafi2008LishanaDeni
-73	lish1247	seventy two	ʃoʔi ʔu tre	ʃoʔiʔutre	ʃ o ʔ -/a + i + ʔ u + t r e	seven ty and two	ʃ o ʔ -/a + i + ʔ u + t r e	7 11 12 2		Mutzafi2008LishanaDeni
-74	lish1247	seventy three	ʃoʔi ʔu tˤlaːha	ʃoʔiʔutˤlaːha	ʃ o ʔ -/a + i + ʔ u + tˤ l aː h a	seven ty and three	ʃ o ʔ -/a + i + ʔ u + tˤ l aː h a	7 11 12 3		Mutzafi2008LishanaDeni
-75	lish1247	seventy four	ʃoʔi ʔu ʔarba	ʃoʔiʔuʔarba	ʃ o ʔ -/a + i + ʔ u + ʔ a r b a	seven ty and four	ʃ o ʔ -/a + i + ʔ u + ʔ a r b a	7 11 12 4		Mutzafi2008LishanaDeni
-76	lish1247	seventy five	ʃoʔi ʔu χamʃa	ʃoʔiʔuχamʃa	ʃ o ʔ -/a + i + ʔ u + χ a m ʃ a	seven ty and five	ʃ o ʔ -/a + i + ʔ u + χ a m ʃ a	7 11 12 5		Mutzafi2008LishanaDeni
-77	lish1247	seventy six	ʃoʔi ʔu ʔəʃta	ʃoʔiʔuʔəʃta	ʃ o ʔ -/a + i + ʔ u + ʔ ə ʃ t a	seven ty and six	ʃ o ʔ -/a + i + ʔ u + ʔ ə ʃ t a	7 11 12 6		Mutzafi2008LishanaDeni
-78	lish1247	seventy seven	ʃoʔi ʔu ʃoʔa	ʃoʔiʔuʃoʔa	ʃ o ʔ -/a + i + ʔ u + ʃ o ʔ a	seven ty and seven	ʃ o ʔ -/a + i + ʔ u + ʃ o ʔ a	7 11 12 7		Mutzafi2008LishanaDeni
-79	lish1247	seventy eight	ʃoʔi ʔu tmanja	ʃoʔiʔutmanja	ʃ o ʔ -/a + i + ʔ u + t m a n j a	seven ty and eight	ʃ o ʔ -/a + i + ʔ u + t m a n j a	7 11 12 8		Mutzafi2008LishanaDeni
-80	lish1247	seventy nine	ʃoʔi ʔu ʔəɕˤʔa	ʃoʔiʔuʔəɕˤʔa	ʃ o ʔ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	seven ty and nine	ʃ o ʔ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	7 11 12 9		Mutzafi2008LishanaDeni
-81	lish1247	eighty	tˤmˤani	tˤmˤani	tˤ/t mˤ/m a n -/j -/a + i	eight ty	tˤ/t mˤ/m a n -/j -/a + i	8 11		Mutzafi2008LishanaDeni
-82	lish1247	eighty one	tˤmˤani ʔu χa	tˤmˤaniʔuχa	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + χ a	eight ty and one	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + χ a	8 11 12 1		Mutzafi2008LishanaDeni
-83	lish1247	eighty two	tˤmˤani ʔu tre	tˤmˤaniʔutre	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + t r e	eight ty and two	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + t r e	8 11 12 2		Mutzafi2008LishanaDeni
-84	lish1247	eighty three	tˤmˤani ʔu tˤlaːha	tˤmˤaniʔutˤlaːha	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + tˤ l aː h a	eight ty and three	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + tˤ l aː h a	8 11 12 3		Mutzafi2008LishanaDeni
-85	lish1247	eighty four	tˤmˤani ʔu ʔarba	tˤmˤaniʔuʔarba	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ a r b a	eight ty and four	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ a r b a	8 11 12 4		Mutzafi2008LishanaDeni
-86	lish1247	eighty five	tˤmˤani ʔu χamʃa	tˤmˤaniʔuχamʃa	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + χ a m ʃ a	eight ty and five	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + χ a m ʃ a	8 11 12 5		Mutzafi2008LishanaDeni
-87	lish1247	eighty six	tˤmˤani ʔu ʔəʃta	tˤmˤaniʔuʔəʃta	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ ə ʃ t a	eight ty and six	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ ə ʃ t a	8 11 12 6		Mutzafi2008LishanaDeni
-88	lish1247	eighty seven	tˤmˤani ʔu ʃoʔa	tˤmˤaniʔuʃoʔa	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʃ o ʔ a	eight ty and seven	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʃ o ʔ a	8 11 12 7		Mutzafi2008LishanaDeni
-89	lish1247	eighty eight	tˤmˤani ʔu tmanja	tˤmˤaniʔutmanja	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + t m a n j a	eight ty and eight	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + t m a n j a	8 11 12 8		Mutzafi2008LishanaDeni
-90	lish1247	eighty nine	tˤmˤani ʔu ʔəɕˤʔa	tˤmˤaniʔuʔəɕˤʔa	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	eight ty and nine	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	8 11 12 9		Mutzafi2008LishanaDeni
-91	lish1247	ninety	ʔəɕˤʔi	ʔəɕˤʔi	ʔ ə ɕˤ ʔ -/a + i	nine ty	ʔ ə ɕˤ ʔ -/a + i	9 11		Mutzafi2008LishanaDeni
-92	lish1247	ninety one	ʔəɕˤʔi ʔu χa	ʔəɕˤʔiʔuχa	ʔ ə ɕˤ ʔ -/a + i + ʔ u + χ a	nine ty and one	ʔ ə ɕˤ ʔ -/a + i + ʔ u + χ a	9 11 12 1		Mutzafi2008LishanaDeni
-93	lish1247	ninety two	ʔəɕˤʔi ʔu tre	ʔəɕˤʔiʔutre	ʔ ə ɕˤ ʔ -/a + i + ʔ u + t r e	nine ty and two	ʔ ə ɕˤ ʔ -/a + i + ʔ u + t r e	9 11 12 2		Mutzafi2008LishanaDeni
-94	lish1247	ninety three	ʔəɕˤʔi ʔu tˤlaːha	ʔəɕˤʔiʔutˤlaːha	ʔ ə ɕˤ ʔ -/a + i + ʔ u + tˤ l aː h a	nine ty and three	ʔ ə ɕˤ ʔ -/a + i + ʔ u + tˤ l aː h a	9 11 12 3		Mutzafi2008LishanaDeni
-95	lish1247	ninety four	ʔəɕˤʔi ʔu ʔarba	ʔəɕˤʔiʔuʔarba	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ a r b a	nine ty and four	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ a r b a	9 11 12 4		Mutzafi2008LishanaDeni
-96	lish1247	ninety five	ʔəɕˤʔi ʔu χamʃa	ʔəɕˤʔiʔuχamʃa	ʔ ə ɕˤ ʔ -/a + i + ʔ u + χ a m ʃ a	nine ty and five	ʔ ə ɕˤ ʔ -/a + i + ʔ u + χ a m ʃ a	9 11 12 5		Mutzafi2008LishanaDeni
-97	lish1247	ninety six	ʔəɕˤʔi ʔu ʔəʃta	ʔəɕˤʔiʔuʔəʃta	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ ə ʃ t a	nine ty and six	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ ə ʃ t a	9 11 12 6		Mutzafi2008LishanaDeni
-98	lish1247	ninety seven	ʔəɕˤʔi ʔu ʃoʔa	ʔəɕˤʔiʔuʃoʔa	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʃ o ʔ a	nine ty and seven	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʃ o ʔ a	9 11 12 7		Mutzafi2008LishanaDeni
-99	lish1247	ninety eight	ʔəɕˤʔi ʔu tmanja	ʔəɕˤʔiʔutmanja	ʔ ə ɕˤ ʔ -/a + i + ʔ u + t m a n j a	nine ty and eight	ʔ ə ɕˤ ʔ -/a + i + ʔ u + t m a n j a	9 11 12 8		Mutzafi2008LishanaDeni
-100	lish1247	ninety nine	ʔəɕˤʔi ʔu ʔəɕˤʔa	ʔəɕˤʔiʔuʔəɕˤʔa	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	nine ty and nine	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	9 11 12 9		Mutzafi2008LishanaDeni
+1	Lishana_Deni	one	χa	χa	χ a	one	χ a	1		Mutzafi2008LishanaDeni
+2	Lishana_Deni	two	tre	tre	t r e	two	t r e	2		Mutzafi2008LishanaDeni
+3	Lishana_Deni	three	tˤlaːha	tˤlaːha	tˤ l aː h a	three	tˤ l aː h a	3		Mutzafi2008LishanaDeni
+4	Lishana_Deni	four	ʔarba	ʔarba	ʔ a r b a	four	ʔ a r b a	4		Mutzafi2008LishanaDeni
+5	Lishana_Deni	five	χamʃa	χamʃa	χ a m ʃ a	five	χ a m ʃ a	5		Mutzafi2008LishanaDeni
+6	Lishana_Deni	six	ʔəʃta	ʔəʃta	ʔ ə ʃ t a	six	ʔ ə ʃ t a	6		Mutzafi2008LishanaDeni
+7	Lishana_Deni	seven	ʃoʔa	ʃoʔa	ʃ o ʔ a	seven	ʃ o ʔ a	7		Mutzafi2008LishanaDeni
+8	Lishana_Deni	eight	tmanja	tmanja	t m a n j a	eight	t m a n j a	8		Mutzafi2008LishanaDeni
+9	Lishana_Deni	nine	ʔəɕˤʔa	ʔəɕˤʔa	ʔ ə ɕˤ ʔ a	nine	ʔ ə ɕˤ ʔ a	9		Mutzafi2008LishanaDeni
+10	Lishana_Deni	ten	ʔəsˤrˤa	ʔəsˤrˤa	ʔ ə sˤ rˤ a	ten	ʔ ə sˤ rˤ a	10		Mutzafi2008LishanaDeni
+11	Lishana_Deni	eleven	χadeʔəssar	χadeʔəssar	χ a d/- e/- + ʔ ə s/sˤ s/- a/- r/rˤ -/a	one ten	χ a d/- e/- + ʔ ə s/sˤ s/- a/- r/rˤ -/a	1 10		Mutzafi2008LishanaDeni
+12	Lishana_Deni	twelve	treʔəssar	treʔəssar	t r e + ʔ ə s/sˤ s/- a/- r/rˤ -/a	two ten	t r e + ʔ ə s/sˤ s/- a/- r/rˤ -/a	2 10		Mutzafi2008LishanaDeni
+13	Lishana_Deni	thirteen	təltaʔəssar	təltaʔəssar	t/tˤ ə/- l -/aː t/h a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	three ten	t/tˤ ə/- l -/aː t/h a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	3 10		Mutzafi2008LishanaDeni
+14	Lishana_Deni	fourteen	ʔarbaʔəssar	ʔarbaʔəssar	ʔ a r b a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	four ten	ʔ a r b a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	4 10		Mutzafi2008LishanaDeni
+15	Lishana_Deni	fifteen	χamʃaʔəssar	χamʃaʔəssar	χ a m ʃ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	five ten	χ a m ʃ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	5 10		Mutzafi2008LishanaDeni
+16	Lishana_Deni	sixteen	ʔəʃtaʔəssar	ʔəʃtaʔəssar	ʔ ə ʃ t a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	six ten	ʔ ə ʃ t a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	6 10		Mutzafi2008LishanaDeni
+17	Lishana_Deni	seventeen	ʃuwaʔəssar	ʃuwaʔəssar	ʃ u/o w/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	seven ten	ʃ u/o w/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	7 10		Mutzafi2008LishanaDeni
+18	Lishana_Deni	seventeen	ʔəʃwaʔəssar	ʔəʃwaʔəssar	ʔ/- ə/- ʃ w/o -/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	seven ten	ʔ/- ə/- ʃ w/o -/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	7 10		Mutzafi2008LishanaDeni
+19	Lishana_Deni	eighteen	tˤmˤaneʔəssar	tˤmˤaneʔəssar	tˤ/t mˤ/m a n e/j -/a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	eight ten	tˤ/t mˤ/m a n e/j -/a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	8 10		Mutzafi2008LishanaDeni
+20	Lishana_Deni	nineteen	ʔəɕɕaʔəssar	ʔəɕɕaʔəssar	ʔ ə ɕ/ɕˤ ɕ/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	nine ten	ʔ ə ɕ/ɕˤ ɕ/ʔ a + ʔ ə s/sˤ s/- a/- r/rˤ -/a	9 10		Mutzafi2008LishanaDeni
+21	Lishana_Deni	twenty	ʔəsri	ʔəsri	ʔ ə s/sˤ r/rˤ -/a + i	ten ty	ʔ ə s/sˤ r/rˤ -/a + i	10 11	older plural suffix /in/, now only found in numerals	Mutzafi2008LishanaDeni
+22	Lishana_Deni	twenty one	ʔəsri ʔu χa	ʔəsriʔuχa	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + χ a	ten ty and one	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + χ a	10 11 12 1		Mutzafi2008LishanaDeni
+23	Lishana_Deni	twenty two	ʔəsri ʔu tre	ʔəsriʔutre	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + t r e	ten ty and two	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + t r e	10 11 12 2		Mutzafi2008LishanaDeni
+24	Lishana_Deni	twenty three	ʔəsri ʔu tˤlaːha	ʔəsriʔutˤlaːha	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + tˤ l aː h a	ten ty and three	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + tˤ l aː h a	10 11 12 3		Mutzafi2008LishanaDeni
+25	Lishana_Deni	twenty four	ʔəsri ʔu ʔarba	ʔəsriʔuʔarba	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ a r b a	ten ty and four	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ a r b a	10 11 12 4		Mutzafi2008LishanaDeni
+26	Lishana_Deni	twenty five	ʔəsri ʔu χamʃa	ʔəsriʔuχamʃa	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + χ a m ʃ a	ten ty and five	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + χ a m ʃ a	10 11 12 5		Mutzafi2008LishanaDeni
+27	Lishana_Deni	twenty six	ʔəsri ʔu ʔəʃta	ʔəsriʔuʔəʃta	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ ə ʃ t a	ten ty and six	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ ə ʃ t a	10 11 12 6		Mutzafi2008LishanaDeni
+28	Lishana_Deni	twenty seven	ʔəsri ʔu ʃoʔa	ʔəsriʔuʃoʔa	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʃ o ʔ a	ten ty and seven	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʃ o ʔ a	10 11 12 7		Mutzafi2008LishanaDeni
+29	Lishana_Deni	twenty eight	ʔəsri ʔu tmanja	ʔəsriʔutmanja	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + t m a n j a	ten ty and eight	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + t m a n j a	10 11 12 8		Mutzafi2008LishanaDeni
+30	Lishana_Deni	twenty nine	ʔəsri ʔu ʔəɕˤʔa	ʔəsriʔuʔəɕˤʔa	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	ten ty and nine	ʔ ə s/sˤ r/rˤ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	10 11 12 9		Mutzafi2008LishanaDeni
+31	Lishana_Deni	thirty	tˤlaːθi	tˤlaːθi	tˤ l aː θ/h -/a + i	three ty	tˤ l aː θ/h -/a + i	3 11		Mutzafi2008LishanaDeni
+32	Lishana_Deni	thirty one	tˤlaːθi ʔu χa	tˤlaːθiʔuχa	tˤ l aː θ/h -/a + i + ʔ u + χ a	three ty and one	tˤ l aː θ/h -/a + i + ʔ u + χ a	3 11 12 1		Mutzafi2008LishanaDeni
+33	Lishana_Deni	thirty two	tˤlaːθi ʔu tre	tˤlaːθiʔutre	tˤ l aː θ/h -/a + i + ʔ u + t r e	three ty and two	tˤ l aː θ/h -/a + i + ʔ u + t r e	3 11 12 2		Mutzafi2008LishanaDeni
+34	Lishana_Deni	thirty three	tˤlaːθi ʔu tˤlaːha	tˤlaːθiʔutˤlaːha	tˤ l aː θ/h -/a + i + ʔ u + tˤ l aː h a	three ty and three	tˤ l aː θ/h -/a + i + ʔ u + tˤ l aː h a	3 11 12 3		Mutzafi2008LishanaDeni
+35	Lishana_Deni	thirty four	tˤlaːθi ʔu ʔarba	tˤlaːθiʔuʔarba	tˤ l aː θ/h -/a + i + ʔ u + ʔ a r b a	three ty and four	tˤ l aː θ/h -/a + i + ʔ u + ʔ a r b a	3 11 12 4		Mutzafi2008LishanaDeni
+36	Lishana_Deni	thirty five	tˤlaːθi ʔu χamʃa	tˤlaːθiʔuχamʃa	tˤ l aː θ/h -/a + i + ʔ u + χ a m ʃ a	three ty and five	tˤ l aː θ/h -/a + i + ʔ u + χ a m ʃ a	3 11 12 5		Mutzafi2008LishanaDeni
+37	Lishana_Deni	thirty six	tˤlaːθi ʔu ʔəʃta	tˤlaːθiʔuʔəʃta	tˤ l aː θ/h -/a + i + ʔ u + ʔ ə ʃ t a	three ty and six	tˤ l aː θ/h -/a + i + ʔ u + ʔ ə ʃ t a	3 11 12 6		Mutzafi2008LishanaDeni
+38	Lishana_Deni	thirty seven	tˤlaːθi ʔu ʃoʔa	tˤlaːθiʔuʃoʔa	tˤ l aː θ/h -/a + i + ʔ u + ʃ o ʔ a	three ty and seven	tˤ l aː θ/h -/a + i + ʔ u + ʃ o ʔ a	3 11 12 7		Mutzafi2008LishanaDeni
+39	Lishana_Deni	thirty eight	tˤlaːθi ʔu tmanja	tˤlaːθiʔutmanja	tˤ l aː θ/h -/a + i + ʔ u + t m a n j a	three ty and eight	tˤ l aː θ/h -/a + i + ʔ u + t m a n j a	3 11 12 8		Mutzafi2008LishanaDeni
+40	Lishana_Deni	thirty nine	tˤlaːθi ʔu ʔəɕˤʔa	tˤlaːθiʔuʔəɕˤʔa	tˤ l aː θ/h -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	three ty and nine	tˤ l aː θ/h -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	3 11 12 9		Mutzafi2008LishanaDeni
+41	Lishana_Deni	forty	ʔarbi	ʔarbi	ʔ a r b -/a + i	four ty	ʔ a r b -/a + i	4 11		Mutzafi2008LishanaDeni
+42	Lishana_Deni	forty one	ʔarbi ʔu χa	ʔarbiʔuχa	ʔ a r b -/a + i + ʔ u + χ a	four ty and one	ʔ a r b -/a + i + ʔ u + χ a	4 11 12 1		Mutzafi2008LishanaDeni
+43	Lishana_Deni	forty two	ʔarbi ʔu tre	ʔarbiʔutre	ʔ a r b -/a + i + ʔ u + t r e	four ty and two	ʔ a r b -/a + i + ʔ u + t r e	4 11 12 2		Mutzafi2008LishanaDeni
+44	Lishana_Deni	forty three	ʔarbi ʔu tˤlaːha	ʔarbiʔutˤlaːha	ʔ a r b -/a + i + ʔ u + tˤ l aː h a	four ty and three	ʔ a r b -/a + i + ʔ u + tˤ l aː h a	4 11 12 3		Mutzafi2008LishanaDeni
+45	Lishana_Deni	forty four	ʔarbi ʔu ʔarba	ʔarbiʔuʔarba	ʔ a r b -/a + i + ʔ u + ʔ a r b a	four ty and four	ʔ a r b -/a + i + ʔ u + ʔ a r b a	4 11 12 4		Mutzafi2008LishanaDeni
+46	Lishana_Deni	forty five	ʔarbi ʔu χamʃa	ʔarbiʔuχamʃa	ʔ a r b -/a + i + ʔ u + χ a m ʃ a	four ty and five	ʔ a r b -/a + i + ʔ u + χ a m ʃ a	4 11 12 5		Mutzafi2008LishanaDeni
+47	Lishana_Deni	forty six	ʔarbi ʔu ʔəʃta	ʔarbiʔuʔəʃta	ʔ a r b -/a + i + ʔ u + ʔ ə ʃ t a	four ty and six	ʔ a r b -/a + i + ʔ u + ʔ ə ʃ t a	4 11 12 6		Mutzafi2008LishanaDeni
+48	Lishana_Deni	forty seven	ʔarbi ʔu ʃoʔa	ʔarbiʔuʃoʔa	ʔ a r b -/a + i + ʔ u + ʃ o ʔ a	four ty and seven	ʔ a r b -/a + i + ʔ u + ʃ o ʔ a	4 11 12 7		Mutzafi2008LishanaDeni
+49	Lishana_Deni	forty eight	ʔarbi ʔu tmanja	ʔarbiʔutmanja	ʔ a r b -/a + i + ʔ u + t m a n j a	four ty and eight	ʔ a r b -/a + i + ʔ u + t m a n j a	4 11 12 8		Mutzafi2008LishanaDeni
+50	Lishana_Deni	forty nine	ʔarbi ʔu ʔəɕˤʔa	ʔarbiʔuʔəɕˤʔa	ʔ a r b -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	four ty and nine	ʔ a r b -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	4 11 12 9		Mutzafi2008LishanaDeni
+51	Lishana_Deni	fifty	χamʃi	χamʃi	χ a m ʃ -/a + i	five ty	χ a m ʃ -/a + i	5 11		Mutzafi2008LishanaDeni
+52	Lishana_Deni	fifty one	χamʃi ʔu χa	χamʃiʔuχa	χ a m ʃ -/a + i + ʔ u + χ a	five ty and one	χ a m ʃ -/a + i + ʔ u + χ a	5 11 12 1		Mutzafi2008LishanaDeni
+53	Lishana_Deni	fifty two	χamʃi ʔu tre	χamʃiʔutre	χ a m ʃ -/a + i + ʔ u + t r e	five ty and two	χ a m ʃ -/a + i + ʔ u + t r e	5 11 12 2		Mutzafi2008LishanaDeni
+54	Lishana_Deni	fifty three	χamʃi ʔu tˤlaːha	χamʃiʔutˤlaːha	χ a m ʃ -/a + i + ʔ u + tˤ l aː h a	five ty and three	χ a m ʃ -/a + i + ʔ u + tˤ l aː h a	5 11 12 3		Mutzafi2008LishanaDeni
+55	Lishana_Deni	fifty four	χamʃi ʔu ʔarba	χamʃiʔuʔarba	χ a m ʃ -/a + i + ʔ u + ʔ a r b a	five ty and four	χ a m ʃ -/a + i + ʔ u + ʔ a r b a	5 11 12 4		Mutzafi2008LishanaDeni
+56	Lishana_Deni	fifty five	χamʃi ʔu χamʃa	χamʃiʔuχamʃa	χ a m ʃ -/a + i + ʔ u + χ a m ʃ a	five ty and five	χ a m ʃ -/a + i + ʔ u + χ a m ʃ a	5 11 12 5		Mutzafi2008LishanaDeni
+57	Lishana_Deni	fifty six	χamʃi ʔu ʔəʃta	χamʃiʔuʔəʃta	χ a m ʃ -/a + i + ʔ u + ʔ ə ʃ t a	five ty and six	χ a m ʃ -/a + i + ʔ u + ʔ ə ʃ t a	5 11 12 6		Mutzafi2008LishanaDeni
+58	Lishana_Deni	fifty seven	χamʃi ʔu ʃoʔa	χamʃiʔuʃoʔa	χ a m ʃ -/a + i + ʔ u + ʃ o ʔ a	five ty and seven	χ a m ʃ -/a + i + ʔ u + ʃ o ʔ a	5 11 12 7		Mutzafi2008LishanaDeni
+59	Lishana_Deni	fifty eight	χamʃi ʔu tmanja	χamʃiʔutmanja	χ a m ʃ -/a + i + ʔ u + t m a n j a	five ty and eight	χ a m ʃ -/a + i + ʔ u + t m a n j a	5 11 12 8		Mutzafi2008LishanaDeni
+60	Lishana_Deni	fifty nine	χamʃi ʔu ʔəɕˤʔa	χamʃiʔuʔəɕˤʔa	χ a m ʃ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	five ty and nine	χ a m ʃ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	5 11 12 9		Mutzafi2008LishanaDeni
+61	Lishana_Deni	sixty	ʔəʃti	ʔəʃti	ʔ ə ʃ t -/a + i	six ty	ʔ ə ʃ t -/a + i	6 11		Mutzafi2008LishanaDeni
+62	Lishana_Deni	sixty one	ʔəʃti ʔu χa	ʔəʃtiʔuχa	ʔ ə ʃ t -/a + i + ʔ u + χ a	six ty and one	ʔ ə ʃ t -/a + i + ʔ u + χ a	6 11 12 1		Mutzafi2008LishanaDeni
+63	Lishana_Deni	sixty two	ʔəʃti ʔu tre	ʔəʃtiʔutre	ʔ ə ʃ t -/a + i + ʔ u + t r e	six ty and two	ʔ ə ʃ t -/a + i + ʔ u + t r e	6 11 12 2		Mutzafi2008LishanaDeni
+64	Lishana_Deni	sixty three	ʔəʃti ʔu tˤlaːha	ʔəʃtiʔutˤlaːha	ʔ ə ʃ t -/a + i + ʔ u + tˤ l aː h a	six ty and three	ʔ ə ʃ t -/a + i + ʔ u + tˤ l aː h a	6 11 12 3		Mutzafi2008LishanaDeni
+65	Lishana_Deni	sixty four	ʔəʃti ʔu ʔarba	ʔəʃtiʔuʔarba	ʔ ə ʃ t -/a + i + ʔ u + ʔ a r b a	six ty and four	ʔ ə ʃ t -/a + i + ʔ u + ʔ a r b a	6 11 12 4		Mutzafi2008LishanaDeni
+66	Lishana_Deni	sixty five	ʔəʃti ʔu χamʃa	ʔəʃtiʔuχamʃa	ʔ ə ʃ t -/a + i + ʔ u + χ a m ʃ a	six ty and five	ʔ ə ʃ t -/a + i + ʔ u + χ a m ʃ a	6 11 12 5		Mutzafi2008LishanaDeni
+67	Lishana_Deni	sixty six	ʔəʃti ʔu ʔəʃta	ʔəʃtiʔuʔəʃta	ʔ ə ʃ t -/a + i + ʔ u + ʔ ə ʃ t a	six ty and six	ʔ ə ʃ t -/a + i + ʔ u + ʔ ə ʃ t a	6 11 12 6		Mutzafi2008LishanaDeni
+68	Lishana_Deni	sixty seven	ʔəʃti ʔu ʃoʔa	ʔəʃtiʔuʃoʔa	ʔ ə ʃ t -/a + i + ʔ u + ʃ o ʔ a	six ty and seven	ʔ ə ʃ t -/a + i + ʔ u + ʃ o ʔ a	6 11 12 7		Mutzafi2008LishanaDeni
+69	Lishana_Deni	sixty eight	ʔəʃti ʔu tmanja	ʔəʃtiʔutmanja	ʔ ə ʃ t -/a + i + ʔ u + t m a n j a	six ty and eight	ʔ ə ʃ t -/a + i + ʔ u + t m a n j a	6 11 12 8		Mutzafi2008LishanaDeni
+70	Lishana_Deni	sixty nine	ʔəʃti ʔu ʔəɕˤʔa	ʔəʃtiʔuʔəɕˤʔa	ʔ ə ʃ t -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	six ty and nine	ʔ ə ʃ t -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	6 11 12 9		Mutzafi2008LishanaDeni
+71	Lishana_Deni	seventy	ʃoʔi	ʃoʔi	ʃ o ʔ -/a + i	seven ty	ʃ o ʔ -/a + i	7 11		Mutzafi2008LishanaDeni
+72	Lishana_Deni	seventy one	ʃoʔi ʔu χa	ʃoʔiʔuχa	ʃ o ʔ -/a + i + ʔ u + χ a	seven ty and one	ʃ o ʔ -/a + i + ʔ u + χ a	7 11 12 1		Mutzafi2008LishanaDeni
+73	Lishana_Deni	seventy two	ʃoʔi ʔu tre	ʃoʔiʔutre	ʃ o ʔ -/a + i + ʔ u + t r e	seven ty and two	ʃ o ʔ -/a + i + ʔ u + t r e	7 11 12 2		Mutzafi2008LishanaDeni
+74	Lishana_Deni	seventy three	ʃoʔi ʔu tˤlaːha	ʃoʔiʔutˤlaːha	ʃ o ʔ -/a + i + ʔ u + tˤ l aː h a	seven ty and three	ʃ o ʔ -/a + i + ʔ u + tˤ l aː h a	7 11 12 3		Mutzafi2008LishanaDeni
+75	Lishana_Deni	seventy four	ʃoʔi ʔu ʔarba	ʃoʔiʔuʔarba	ʃ o ʔ -/a + i + ʔ u + ʔ a r b a	seven ty and four	ʃ o ʔ -/a + i + ʔ u + ʔ a r b a	7 11 12 4		Mutzafi2008LishanaDeni
+76	Lishana_Deni	seventy five	ʃoʔi ʔu χamʃa	ʃoʔiʔuχamʃa	ʃ o ʔ -/a + i + ʔ u + χ a m ʃ a	seven ty and five	ʃ o ʔ -/a + i + ʔ u + χ a m ʃ a	7 11 12 5		Mutzafi2008LishanaDeni
+77	Lishana_Deni	seventy six	ʃoʔi ʔu ʔəʃta	ʃoʔiʔuʔəʃta	ʃ o ʔ -/a + i + ʔ u + ʔ ə ʃ t a	seven ty and six	ʃ o ʔ -/a + i + ʔ u + ʔ ə ʃ t a	7 11 12 6		Mutzafi2008LishanaDeni
+78	Lishana_Deni	seventy seven	ʃoʔi ʔu ʃoʔa	ʃoʔiʔuʃoʔa	ʃ o ʔ -/a + i + ʔ u + ʃ o ʔ a	seven ty and seven	ʃ o ʔ -/a + i + ʔ u + ʃ o ʔ a	7 11 12 7		Mutzafi2008LishanaDeni
+79	Lishana_Deni	seventy eight	ʃoʔi ʔu tmanja	ʃoʔiʔutmanja	ʃ o ʔ -/a + i + ʔ u + t m a n j a	seven ty and eight	ʃ o ʔ -/a + i + ʔ u + t m a n j a	7 11 12 8		Mutzafi2008LishanaDeni
+80	Lishana_Deni	seventy nine	ʃoʔi ʔu ʔəɕˤʔa	ʃoʔiʔuʔəɕˤʔa	ʃ o ʔ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	seven ty and nine	ʃ o ʔ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	7 11 12 9		Mutzafi2008LishanaDeni
+81	Lishana_Deni	eighty	tˤmˤani	tˤmˤani	tˤ/t mˤ/m a n -/j -/a + i	eight ty	tˤ/t mˤ/m a n -/j -/a + i	8 11		Mutzafi2008LishanaDeni
+82	Lishana_Deni	eighty one	tˤmˤani ʔu χa	tˤmˤaniʔuχa	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + χ a	eight ty and one	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + χ a	8 11 12 1		Mutzafi2008LishanaDeni
+83	Lishana_Deni	eighty two	tˤmˤani ʔu tre	tˤmˤaniʔutre	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + t r e	eight ty and two	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + t r e	8 11 12 2		Mutzafi2008LishanaDeni
+84	Lishana_Deni	eighty three	tˤmˤani ʔu tˤlaːha	tˤmˤaniʔutˤlaːha	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + tˤ l aː h a	eight ty and three	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + tˤ l aː h a	8 11 12 3		Mutzafi2008LishanaDeni
+85	Lishana_Deni	eighty four	tˤmˤani ʔu ʔarba	tˤmˤaniʔuʔarba	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ a r b a	eight ty and four	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ a r b a	8 11 12 4		Mutzafi2008LishanaDeni
+86	Lishana_Deni	eighty five	tˤmˤani ʔu χamʃa	tˤmˤaniʔuχamʃa	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + χ a m ʃ a	eight ty and five	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + χ a m ʃ a	8 11 12 5		Mutzafi2008LishanaDeni
+87	Lishana_Deni	eighty six	tˤmˤani ʔu ʔəʃta	tˤmˤaniʔuʔəʃta	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ ə ʃ t a	eight ty and six	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ ə ʃ t a	8 11 12 6		Mutzafi2008LishanaDeni
+88	Lishana_Deni	eighty seven	tˤmˤani ʔu ʃoʔa	tˤmˤaniʔuʃoʔa	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʃ o ʔ a	eight ty and seven	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʃ o ʔ a	8 11 12 7		Mutzafi2008LishanaDeni
+89	Lishana_Deni	eighty eight	tˤmˤani ʔu tmanja	tˤmˤaniʔutmanja	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + t m a n j a	eight ty and eight	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + t m a n j a	8 11 12 8		Mutzafi2008LishanaDeni
+90	Lishana_Deni	eighty nine	tˤmˤani ʔu ʔəɕˤʔa	tˤmˤaniʔuʔəɕˤʔa	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	eight ty and nine	tˤ/t mˤ/m a n -/j -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	8 11 12 9		Mutzafi2008LishanaDeni
+91	Lishana_Deni	ninety	ʔəɕˤʔi	ʔəɕˤʔi	ʔ ə ɕˤ ʔ -/a + i	nine ty	ʔ ə ɕˤ ʔ -/a + i	9 11		Mutzafi2008LishanaDeni
+92	Lishana_Deni	ninety one	ʔəɕˤʔi ʔu χa	ʔəɕˤʔiʔuχa	ʔ ə ɕˤ ʔ -/a + i + ʔ u + χ a	nine ty and one	ʔ ə ɕˤ ʔ -/a + i + ʔ u + χ a	9 11 12 1		Mutzafi2008LishanaDeni
+93	Lishana_Deni	ninety two	ʔəɕˤʔi ʔu tre	ʔəɕˤʔiʔutre	ʔ ə ɕˤ ʔ -/a + i + ʔ u + t r e	nine ty and two	ʔ ə ɕˤ ʔ -/a + i + ʔ u + t r e	9 11 12 2		Mutzafi2008LishanaDeni
+94	Lishana_Deni	ninety three	ʔəɕˤʔi ʔu tˤlaːha	ʔəɕˤʔiʔutˤlaːha	ʔ ə ɕˤ ʔ -/a + i + ʔ u + tˤ l aː h a	nine ty and three	ʔ ə ɕˤ ʔ -/a + i + ʔ u + tˤ l aː h a	9 11 12 3		Mutzafi2008LishanaDeni
+95	Lishana_Deni	ninety four	ʔəɕˤʔi ʔu ʔarba	ʔəɕˤʔiʔuʔarba	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ a r b a	nine ty and four	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ a r b a	9 11 12 4		Mutzafi2008LishanaDeni
+96	Lishana_Deni	ninety five	ʔəɕˤʔi ʔu χamʃa	ʔəɕˤʔiʔuχamʃa	ʔ ə ɕˤ ʔ -/a + i + ʔ u + χ a m ʃ a	nine ty and five	ʔ ə ɕˤ ʔ -/a + i + ʔ u + χ a m ʃ a	9 11 12 5		Mutzafi2008LishanaDeni
+97	Lishana_Deni	ninety six	ʔəɕˤʔi ʔu ʔəʃta	ʔəɕˤʔiʔuʔəʃta	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ ə ʃ t a	nine ty and six	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ ə ʃ t a	9 11 12 6		Mutzafi2008LishanaDeni
+98	Lishana_Deni	ninety seven	ʔəɕˤʔi ʔu ʃoʔa	ʔəɕˤʔiʔuʃoʔa	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʃ o ʔ a	nine ty and seven	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʃ o ʔ a	9 11 12 7		Mutzafi2008LishanaDeni
+99	Lishana_Deni	ninety eight	ʔəɕˤʔi ʔu tmanja	ʔəɕˤʔiʔutmanja	ʔ ə ɕˤ ʔ -/a + i + ʔ u + t m a n j a	nine ty and eight	ʔ ə ɕˤ ʔ -/a + i + ʔ u + t m a n j a	9 11 12 8		Mutzafi2008LishanaDeni
+100	Lishana_Deni	ninety nine	ʔəɕˤʔi ʔu ʔəɕˤʔa	ʔəɕˤʔiʔuʔəɕˤʔa	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	nine ty and nine	ʔ ə ɕˤ ʔ -/a + i + ʔ u + ʔ ə ɕˤ ʔ a	9 11 12 9		Mutzafi2008LishanaDeni

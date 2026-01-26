@@ -68,16 +68,16 @@ ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 67	Spanish	SIXTY SEVEN	67	sesenta y siete	sesentaisjete	s e/ei s + e n t a + i + s je t e	six tenstep and seven	6 17 16 7	OpenDictData2025span;Manczak1985
 68	Spanish	SIXTY EIGHT	68	sesenta y ocho	sesentajotʃo	s e/ei s + e n t a + j/i + o tʃ o	six tenstep and eight	6 17 16 8	OpenDictData2025span;Manczak1985
 69	Spanish	SIXTY NINE	69	sesenta y nueve	sesentainweβe	s e/ei s + e n t a + i + n we β e	six tenstep and nine	6 17 16 9	OpenDictData2025span;Manczak1985
-70	Spanish	SEVENTY	70	setenta	setenta	s -/je t -/e + e n t a	seven tenstep	7 17	OpenDictData2025span;Manczak1985
-71	Spanish	SEVENTY ONE	71	setenta y uno	setentajuno	s -/je t -/e + e n t a + j/i + u n + o	seven tenstep and one mask_flex	7 17 16 1 18	OpenDictData2025span;Manczak1985
-72	Spanish	SEVENTY TWO	72	setenta y dos	setentaiðos	s -/je t -/e + e n t a + i + ð o s	seven tenstep and two	7 17 16 2	OpenDictData2025span;Manczak1985
-73	Spanish	SEVENTY THREE	73	setenta y tres	setentaitɾes	s -/je t -/e + e n t a + i + t ɾ e s	seven tenstep and three	7 17 16 3	OpenDictData2025span;Manczak1985
-74	Spanish	SEVENTY FOUR	74	setenta y cuatro	setentaikwatɾo	s -/je t -/e + e n t a + i + k wa t ɾ o	seven tenstep and four	7 17 16 4	OpenDictData2025span;Manczak1985
-75	Spanish	SEVENTY FIVE	75	setenta y cinco	setentaiθiŋko	s -/je t -/e + e n t a + i + θ i ŋ k o	seven tenstep and five	7 17 16 5	OpenDictData2025span;Manczak1985
-76	Spanish	SEVENTY SIX	76	setenta y seis	setentaiseis	s -/je t -/e + e n t a + i + s ei s	seven tenstep and six	7 17 16 6	OpenDictData2025span;Manczak1985
-77	Spanish	SEVENTY SEVEN	77	setenta y siete	setentaisjete	s -/je t -/e + e n t a + i + s je t e	seven tenstep and seven	7 17 16 7	OpenDictData2025span;Manczak1985
-78	Spanish	SEVENTY EIGHT	78	setenta y ocho	setentajotʃo	s -/je t -/e + e n t a + j/i + o tʃ o	seven tenstep and eight	7 17 16 8	OpenDictData2025span;Manczak1985
-79	Spanish	SEVENTY NINE	79	setenta y nueve	setentainweβe	s -/je t -/e + e n t a + i + n we β e	seven tenstep and nine	7 17 16 9	OpenDictData2025span;Manczak1985
+70	Spanish	SEVENTY	70	setenta	setenta	s e/je t -/e + e n t a	seven tenstep	7 17	OpenDictData2025span;Manczak1985
+71	Spanish	SEVENTY ONE	71	setenta y uno	setentajuno	s e/je t -/e + e n t a + j/i + u n + o	seven tenstep and one mask_flex	7 17 16 1 18	OpenDictData2025span;Manczak1985
+72	Spanish	SEVENTY TWO	72	setenta y dos	setentaiðos	s e/je t -/e + e n t a + i + ð o s	seven tenstep and two	7 17 16 2	OpenDictData2025span;Manczak1985
+73	Spanish	SEVENTY THREE	73	setenta y tres	setentaitɾes	s e/je t -/e + e n t a + i + t ɾ e s	seven tenstep and three	7 17 16 3	OpenDictData2025span;Manczak1985
+74	Spanish	SEVENTY FOUR	74	setenta y cuatro	setentaikwatɾo	s e/je t -/e + e n t a + i + k wa t ɾ o	seven tenstep and four	7 17 16 4	OpenDictData2025span;Manczak1985
+75	Spanish	SEVENTY FIVE	75	setenta y cinco	setentaiθiŋko	s e/je t -/e + e n t a + i + θ i ŋ k o	seven tenstep and five	7 17 16 5	OpenDictData2025span;Manczak1985
+76	Spanish	SEVENTY SIX	76	setenta y seis	setentaiseis	s e/je t -/e + e n t a + i + s ei s	seven tenstep and six	7 17 16 6	OpenDictData2025span;Manczak1985
+77	Spanish	SEVENTY SEVEN	77	setenta y siete	setentaisjete	s e/je t -/e + e n t a + i + s je t e	seven tenstep and seven	7 17 16 7	OpenDictData2025span;Manczak1985
+78	Spanish	SEVENTY EIGHT	78	setenta y ocho	setentajotʃo	s e/je t -/e + e n t a + j/i + o tʃ o	seven tenstep and eight	7 17 16 8	OpenDictData2025span;Manczak1985
+79	Spanish	SEVENTY NINE	79	setenta y nueve	setentainweβe	s e/je t -/e + e n t a + i + n we β e	seven tenstep and nine	7 17 16 9	OpenDictData2025span;Manczak1985
 80	Spanish	EIGHTY	80	ochenta	otʃenta	o tʃ -/o + e n t a	eight tenstep	8 17	OpenDictData2025span;Manczak1985
 81	Spanish	EIGHTY ONE	81	ochenta y uno	otʃentajuno	o tʃ -/o + e n t a + j/i + u n + o	eight tenstep and one mask_flex	8 17 16 1 18	OpenDictData2025span;Manczak1985
 82	Spanish	EIGHTY TWO	82	ochenta y dos	otʃentaiðos	o tʃ -/o + e n t a + i + ð o s	eight tenstep and two	8 17 16 2	OpenDictData2025span;Manczak1985

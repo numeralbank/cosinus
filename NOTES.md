@@ -1,23 +1,3 @@
-# CLDF Dataset presenting Rubehn et al.'s "Compositional Structures in Numeral Systems Across Languages" from 2025
-
-[![CLDF validation](https://github.com/numeralbank/cosinus//workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/cosinus//actions?query=workflow%3ACLDF-validation)
-
-## How to cite
-
-If you use these data please cite
-- the original source
-  > Rubehn, A., C. Rzymski, L. Ciucci, K. Bocklage, A. Kučerová, D. Snee, A. Stephen, K. P. van Dam, and J.-M. List (2025): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 29-42. https://doi.org/10.18653/v1/2025.sigtyp-1.4
-- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
-
-## Description
-
-
-CLDF dataset providing annotated numeral systems.
-
-This dataset is licensed under a CC-BY-4.0 license
-
-## Notes
-
 # A Note on Browsing the Data with PyCLDF
 
 If you have installed `pycldf` via `pip` in Python (using a fresh virtual environment), you can easily browse the data in the following way. The following code accesses all forms in the data. The individual data types are automatically imposed by `pycldf`. 
@@ -225,50 +205,3 @@ Then, having created the file `flat.sql` with the code above, one can use the co
 ```shell
 $ sqlite3 cosinus.sqlite < flat.sql > cosinus.csv
 ```
-
-
-
-## Statistics
-
-
-[![CLDF validation](https://github.com/numeralbank/cosinus//workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/cosinus//actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 96%](https://img.shields.io/badge/BIPA-96%25-green.svg "BIPA: 96%")
-![CLTS SoundClass: 96%](https://img.shields.io/badge/CLTS%20SoundClass-96%25-green.svg "CLTS SoundClass: 96%")
-
-- **Varieties:** 48 (linked to 48 different Glottocodes)
-- **Concepts:** 99 (linked to 99 different Concepticon concept sets)
-- **Lexemes:** 5,296
-- **Sources:** 76
-- **Synonymy:** 1.13
-- **Invalid lexemes:** 0
-- **Tokens:** 69,567
-- **Segments:** 237 (9 BIPA errors, 9 CLTS sound class errors, 224 CLTS modified)
-- **Inventory size (avg):** 23.40
-
-# Contributors
-
-Name                  | GitHub user | Description                      | Role
----                   |-------------| ---                              | ---
-Arne Rubehn           | @arubehn    | data annotation, CLDF conversion | Author
-Christoph Rzymski     | @chrzyki    | CLDF conversion                  | Author
-Luca Ciucci           |             | data annotation                  | Author
-Katja Bocklage        |             | data annotation                  | Author
-Alžběta Kučerová      |             | data annotation                  | Author
-David Snee            |             | data annotation                  | Author
-Kellen Parker van Dam |             | data annotation                  | Author
-Chundra Cathcart      | @chundrac   | data annotation                  | Author
-Carlo Meloni          | @Cymelo92   | data annotation                  | Author
-Johann-Mattis List    | @lingulist  | CLDF conversion, data annotation | Author
-
-
-
-
-
-## CLDF Datasets
-
-The following CLDF datasets are available in [cldf](cldf):
-
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

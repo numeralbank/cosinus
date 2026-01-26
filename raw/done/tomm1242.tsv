@@ -1,0 +1,100 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
+1	Tommo_So	one	tíí	t í í	one	t í í	7		McPherson2013
+2	Tommo_So	two	néé	n é é	two	n é é	14		McPherson2013
+3	Tommo_So	three	tààndú	t à à n d ú	three	t à à n d ú	13		McPherson2013
+4	Tommo_So	four	nǎy	n ǎ j	four	n ǎ j	4		McPherson2013
+5	Tommo_So	five	ǹnɔ́	ǹ n ɔ́	five	ǹ n ɔ́	3		McPherson2013
+6	Tommo_So	six	kúlóy	k ú l ó j	six	k ú l ó j	10		McPherson2013
+7	Tommo_So	seven	sɔ́y	s ɔ́ j	seven	s ɔ́ j	9		McPherson2013
+8	Tommo_So	eight	gágìrà	g á g ì r à	eight	g á g ì r à	2		McPherson2013
+9	Tommo_So	nine	túwwɔ́	t ú w w ɔ́	nine	t ú w w ɔ́	6		McPherson2013
+10	Tommo_So	ten	pɛ́lu	p ɛ́ l u	ten	p ɛ́ l u	11		McPherson2013
+11	Tommo_So	eleven	pɛ́lu-go túru-go sígɛ́	p ɛ́ l u + g o + t ú r u + g o + s í g ɛ́	ten adv one2 adv more	p ɛ́ l u + g o + t ú r u + g o + s í g ɛ́	11 1 8 1 5	go = ADV, sígɛ́ = MORE	McPherson2013
+12	Tommo_So	twelve	pɛ́lu-go néé-go sígɛ́	p ɛ́ l u + g o + n é é + g o + s í g ɛ́	ten adv two adv more	p ɛ́ l u + g o + n é é + g o + s í g ɛ́	11 1 14 1 5		McPherson2013
+13	Tommo_So	thirteen	pɛ́lu-go tààndú-go sígɛ́	p ɛ́ l u + g o + t à à n d ú + g o + s í g ɛ́	ten adv three adv more	p ɛ́ l u + g o + t à à n d ú + g o + s í g ɛ́	11 1 13 1 5		McPherson2013
+14	Tommo_So	fourteen	pɛ́lu-go nǎy-go sígɛ́	p ɛ́ l u + g o + n ǎ j + g o + s í g ɛ́	ten adv four adv more	p ɛ́ l u + g o + n ǎ j + g o + s í g ɛ́	11 1 4 1 5		McPherson2013
+15	Tommo_So	fifteen	pɛ́lu-go ǹnɔ́-go sígɛ́	p ɛ́ l u + g o + ǹ n ɔ́ + g o + s í g ɛ́	ten adv five adv more	p ɛ́ l u + g o + ǹ n ɔ́ + g o + s í g ɛ́	11 1 3 1 5		McPherson2013
+16	Tommo_So	sixteen	pɛ́lu-go kúlóy-go sígɛ́	p ɛ́ l u + g o + k ú l ó j + g o + s í g ɛ́	ten adv six adv more	p ɛ́ l u + g o + k ú l ó j + g o + s í g ɛ́	11 1 10 1 5		McPherson2013
+17	Tommo_So	seventeen	pɛ́lu-go sɔ́y-go sígɛ́	p ɛ́ l u + g o + s ɔ́ j + g o + s í g ɛ́	ten adv seven adv more	p ɛ́ l u + g o + s ɔ́ j + g o + s í g ɛ́	11 1 9 1 5		McPherson2013
+18	Tommo_So	eighteen	pɛ́lu-go gágìrà-go sígɛ́	p ɛ́ l u + g o + g á g ì r à + g o + s í g ɛ́	ten adv eight adv more	p ɛ́ l u + g o + g á g ì r à + g o + s í g ɛ́	11 1 2 1 5		McPherson2013
+19	Tommo_So	nineteen	pɛ́lu-go túwwɔ́-go sígɛ́	p ɛ́ l u + g o + t ú w w ɔ́ + g o + s í g ɛ́	ten adv nine adv more	p ɛ́ l u + g o + t ú w w ɔ́ + g o + s í g ɛ́	11 1 6 1 5		McPherson2013
+20	Tommo_So	twenty	pɛ̀ɛ̀-néé	p ɛ̀ ɛ̀ + n é é	ten2 two	p ɛ̀ ɛ̀ + n é é	12 14		McPherson2013
+21	Tommo_So	twenty one	pɛ̀ɛ̀-néé túru-go sígɛ́	p ɛ̀ ɛ̀ + n é é + t ú r u + g o + s í g ɛ́	ten2 two one2 adv more	p ɛ̀ ɛ̀ + n é é + t ú r u + g o + s í g ɛ́	12 14 8 1 5		McPherson2013
+22	Tommo_So	twenty two	pɛ̀ɛ̀-néé néé(-go) sígɛ́	p ɛ̀ ɛ̀ + n é é + n é é + g o + s í g ɛ́	ten2 two two adv more	p ɛ̀ ɛ̀ + n é é + n é é + g o + s í g ɛ́	12 14 14 1 5		McPherson2013
+23	Tommo_So	twenty three	pɛ̀ɛ̀-néé tààndú(-go) sígɛ́	p ɛ̀ ɛ̀ + n é é + t à à n d ú + g o + s í g ɛ́	ten2 two three adv more	p ɛ̀ ɛ̀ + n é é + t à à n d ú + g o + s í g ɛ́	12 14 13 1 5		McPherson2013
+24	Tommo_So	twenty four	pɛ̀ɛ̀-néé nǎy(-go) sígɛ́	p ɛ̀ ɛ̀ + n é é + n ǎ j + g o + s í g ɛ́	ten2 two four adv more	p ɛ̀ ɛ̀ + n é é + n ǎ j + g o + s í g ɛ́	12 14 4 1 5		McPherson2013
+25	Tommo_So	twenty five	pɛ̀ɛ̀-néé ǹnɔ́(-go) sígɛ́	p ɛ̀ ɛ̀ + n é é + ǹ n ɔ́ + g o + s í g ɛ́	ten2 two five adv more	p ɛ̀ ɛ̀ + n é é + ǹ n ɔ́ + g o + s í g ɛ́	12 14 3 1 5		McPherson2013
+26	Tommo_So	twenty six	pɛ̀ɛ̀-néé kúlóy(-go) sígɛ́	p ɛ̀ ɛ̀ + n é é + k ú l ó j + g o + s í g ɛ́	ten2 two six adv more	p ɛ̀ ɛ̀ + n é é + k ú l ó j + g o + s í g ɛ́	12 14 10 1 5		McPherson2013
+27	Tommo_So	twenty seven	pɛ̀ɛ̀-néé sɔ́y(-go) sígɛ́	p ɛ̀ ɛ̀ + n é é + s ɔ́ j + g o + s í g ɛ́	ten2 two seven adv more	p ɛ̀ ɛ̀ + n é é + s ɔ́ j + g o + s í g ɛ́	12 14 9 1 5		McPherson2013
+28	Tommo_So	twenty eight	pɛ̀ɛ̀-néé gágìrà(-go) sígɛ́	p ɛ̀ ɛ̀ + n é é + g á g ì r à + g o + s í g ɛ́	ten2 two eight adv more	p ɛ̀ ɛ̀ + n é é + g á g ì r à + g o + s í g ɛ́	12 14 2 1 5		McPherson2013
+29	Tommo_So	twenty nine	pɛ̀ɛ̀-néé túwwɔ́(-go) sígɛ́	p ɛ̀ ɛ̀ + n é é + t ú w w ɔ́ + g o + s í g ɛ́	ten2 two nine adv more	p ɛ̀ ɛ̀ + n é é + t ú w w ɔ́ + g o + s í g ɛ́	12 14 6 1 5		McPherson2013
+30	Tommo_So	thirty 	pɛ́-tààndù	p ɛ́/ɛ̀ -/ɛ̀ + t à à n d ù/ú	ten2 three	p ɛ́ + t à à n d ù	12 13	Also pɛ́-rààndù	McPherson2013
+31	Tommo_So	thirty one	pɛ̀-tààndù túru-go sígɛ́	p ɛ̀ -/ɛ̀ + t à à n d ù/ú + t ú r u + g o + s í g ɛ́	ten2 three one2 adv more	p ɛ̀ + t à à n d ù + t ú r u + g o + s í g ɛ́	12 13 8 1 5		McPherson2013
+32	Tommo_So	thirty two	pɛ̀-tààndù néé(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t à à n d ù/ú + n é é + g o + s í g ɛ́	ten2 three two adv more	p ɛ̀ + t à à n d ù + n é é + g o + s í g ɛ́	12 13 14 1 5		McPherson2013
+33	Tommo_So	thirty three	pɛ̀-tààndù tààndú(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t à à n d ù/ú + t à à n d ú + g o + s í g ɛ́	ten2 three three adv more	p ɛ̀ + t à à n d ù + t à à n d ú + g o + s í g ɛ́	12 13 13 1 5		McPherson2013
+34	Tommo_So	thirty four	pɛ̀-tààndù nǎy(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t à à n d ù/ú + n ǎ j + g o + s í g ɛ́	ten2 three four adv more	p ɛ̀ + t à à n d ù + n ǎ j + g o + s í g ɛ́	12 13 4 1 5		McPherson2013
+35	Tommo_So	thirty five	pɛ̀-tààndù ǹnɔ́(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t à à n d ù/ú + ǹ n ɔ́ + g o + s í g ɛ́	ten2 three five adv more	p ɛ̀ + t à à n d ù + ǹ n ɔ́ + g o + s í g ɛ́	12 13 3 1 5		McPherson2013
+36	Tommo_So	thirty six	pɛ̀-tààndù kúlóy(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t à à n d ù/ú + k ú l ó j + g o + s í g ɛ́	ten2 three six adv more	p ɛ̀ + t à à n d ù + k ú l ó j + g o + s í g ɛ́	12 13 10 1 5		McPherson2013
+37	Tommo_So	thirty seven	pɛ̀-tààndù sɔ́y(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t à à n d ù/ú + s ɔ́ j + g o + s í g ɛ́	ten2 three seven adv more	p ɛ̀ + t à à n d ù + s ɔ́ j + g o + s í g ɛ́	12 13 9 1 5		McPherson2013
+38	Tommo_So	thirty eight	pɛ̀-tààndù gágìrà(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t à à n d ù/ú + g á g ì r à + g o + s í g ɛ́	ten2 three eight adv more	p ɛ̀ + t à à n d ù + g á g ì r à + g o + s í g ɛ́	12 13 2 1 5		McPherson2013
+39	Tommo_So	thirty nine	pɛ̀-tààndù túwwɔ́(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t à à n d ù/ú + t ú w w ɔ́ + g o + s í g ɛ́	ten2 three nine adv more	p ɛ̀ + t à à n d ù + t ú w w ɔ́ + g o + s í g ɛ́	12 13 6 1 5		McPherson2013
+40	Tommo_So	forty 	pɛ́-nǎy	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j	ten2 four	p ɛ́ + n ǎ j	12 4		McPherson2013
+41	Tommo_So	forty one	pɛ́-nǎy túru-go sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j + t ú r u + g o + s í g ɛ́	ten2 four one2 adv more	p ɛ́ + n ǎ j + t ú r u + g o + s í g ɛ́	12 4 8 1 5		McPherson2013
+42	Tommo_So	forty two	pɛ́-nǎy néé(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j + n é é + g o + s í g ɛ́	ten2 four two adv more	p ɛ́ + n ǎ j + n é é + g o + s í g ɛ́	12 4 14 1 5		McPherson2013
+43	Tommo_So	forty three	pɛ́-nǎy tààndú(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j + t à à n d ú + g o + s í g ɛ́	ten2 four three adv more	p ɛ́ + n ǎ j + t à à n d ú + g o + s í g ɛ́	12 4 13 1 5		McPherson2013
+44	Tommo_So	forty four	pɛ́-nǎy nǎy(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j + n ǎ j + g o + s í g ɛ́	ten2 four four adv more	p ɛ́ + n ǎ j + n ǎ j + g o + s í g ɛ́	12 4 4 1 5		McPherson2013
+45	Tommo_So	forty five	pɛ́-nǎy ǹnɔ́(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j + ǹ n ɔ́ + g o + s í g ɛ́	ten2 four five adv more	p ɛ́ + n ǎ j + ǹ n ɔ́ + g o + s í g ɛ́	12 4 3 1 5		McPherson2013
+46	Tommo_So	forty six	pɛ́-nǎy kúlóy(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j + k ú l ó j + g o + s í g ɛ́	ten2 four six adv more	p ɛ́ + n ǎ j + k ú l ó j + g o + s í g ɛ́	12 4 10 1 5		McPherson2013
+47	Tommo_So	forty seven	pɛ́-nǎy sɔ́y(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j + s ɔ́ j + g o + s í g ɛ́	ten2 four seven adv more	p ɛ́ + n ǎ j + s ɔ́ j + g o + s í g ɛ́	12 4 9 1 5		McPherson2013
+48	Tommo_So	forty eight	pɛ́-nǎy gágìrà(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j + g á g ì r à + g o + s í g ɛ́	ten2 four eight adv more	p ɛ́ + n ǎ j + g á g ì r à + g o + s í g ɛ́	12 4 2 1 5		McPherson2013
+49	Tommo_So	forty nine	pɛ́-nǎy túwwɔ́(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + n ǎ j + t ú w w ɔ́ + g o + s í g ɛ́	ten2 four nine adv more	p ɛ́ + n ǎ j + t ú w w ɔ́ + g o + s í g ɛ́	12 4 6 1 5		McPherson2013
+50	Tommo_So	fifty 	pɛ́-ǹnɔ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́	ten2 five	p ɛ́ + ǹ n ɔ́	12 3		McPherson2013
+51	Tommo_So	fifty one	pɛ́-ǹnɔ́ túru-go sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́ + t ú r u + g o + s í g ɛ́	ten2 five one2 adv more	p ɛ́ + ǹ n ɔ́ + t ú r u + g o + s í g ɛ́	12 3 8 1 5		McPherson2013
+52	Tommo_So	fifty two	pɛ́-ǹnɔ́ néé(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́ + n é é + g o + s í g ɛ́	ten2 five two adv more	p ɛ́ + ǹ n ɔ́ + n é é + g o + s í g ɛ́	12 3 14 1 5		McPherson2013
+53	Tommo_So	fifty three	pɛ́-ǹnɔ́ tààndú(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́ + t à à n d ú + g o + s í g ɛ́	ten2 five three adv more	p ɛ́ + ǹ n ɔ́ + t à à n d ú + g o + s í g ɛ́	12 3 13 1 5		McPherson2013
+54	Tommo_So	fifty four	pɛ́-ǹnɔ́ nǎy(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́ + n ǎ j + g o + s í g ɛ́	ten2 five four adv more	p ɛ́ + ǹ n ɔ́ + n ǎ j + g o + s í g ɛ́	12 3 4 1 5		McPherson2013
+55	Tommo_So	fifty five	pɛ́-ǹnɔ́ ǹnɔ́(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́ + ǹ n ɔ́ + g o + s í g ɛ́	ten2 five five adv more	p ɛ́ + ǹ n ɔ́ + ǹ n ɔ́ + g o + s í g ɛ́	12 3 3 1 5		McPherson2013
+56	Tommo_So	fifty six	pɛ́-ǹnɔ́ kúlóy(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́ + k ú l ó j + g o + s í g ɛ́	ten2 five six adv more	p ɛ́ + ǹ n ɔ́ + k ú l ó j + g o + s í g ɛ́	12 3 10 1 5		McPherson2013
+57	Tommo_So	fifty seven	pɛ́-ǹnɔ́ sɔ́y(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́ + s ɔ́ j + g o + s í g ɛ́	ten2 five seven adv more	p ɛ́ + ǹ n ɔ́ + s ɔ́ j + g o + s í g ɛ́	12 3 9 1 5		McPherson2013
+58	Tommo_So	fifty eight	pɛ́-ǹnɔ́ gágìrà(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́ + g á g ì r à + g o + s í g ɛ́	ten2 five eight adv more	p ɛ́ + ǹ n ɔ́ + g á g ì r à + g o + s í g ɛ́	12 3 2 1 5		McPherson2013
+59	Tommo_So	fifty nine	pɛ́-ǹnɔ́ túwwɔ́(-go) sígɛ́	p ɛ́/ɛ̀ -/ɛ̀ + ǹ n ɔ́ + t ú w w ɔ́ + g o + s í g ɛ́	ten2 five nine adv more	p ɛ́ + ǹ n ɔ́ + t ú w w ɔ́ + g o + s í g ɛ́	12 3 6 1 5		McPherson2013
+60	Tommo_So	sixty 	pɛ̀lù kúlóy	p ɛ̀/ɛ́ l ù/u + k ú l ó j	ten six	p ɛ̀ l ù + k ú l ó j	11 10		McPherson2013
+61	Tommo_So	sixty one	pɛ̀lù kúlóy túru-go sígɛ́	p ɛ̀/ɛ́ l ù/u + k ú l ó j + t ú r u + g o + s í g ɛ́	ten six one2 adv more	p ɛ̀ l ù + k ú l ó j + t ú r u + g o + s í g ɛ́	11 10 8 1 5		McPherson2013
+62	Tommo_So	sixty two	pɛ̀lù kúlóy néé(-go) sígɛ́	p ɛ̀/ɛ́ l ù/u + k ú l ó j + n é é + g o + s í g ɛ́	ten six two adv more	p ɛ̀ l ù + k ú l ó j + n é é + g o + s í g ɛ́	11 10 14 1 5		McPherson2013
+63	Tommo_So	sixty three	pɛ̀lù kúlóy tààndú(-go) sígɛ́	p ɛ̀/ɛ́ l ù/u + k ú l ó j + t à à n d ú + g o + s í g ɛ́	ten six three adv more	p ɛ̀ l ù + k ú l ó j + t à à n d ú + g o + s í g ɛ́	11 10 13 1 5		McPherson2013
+64	Tommo_So	sixty four	pɛ̀lù kúlóy nǎy(-go) sígɛ́	p ɛ̀/ɛ́ l ù/u + k ú l ó j + n ǎ j + g o + s í g ɛ́	ten six four adv more	p ɛ̀ l ù + k ú l ó j + n ǎ j + g o + s í g ɛ́	11 10 4 1 5		McPherson2013
+65	Tommo_So	sixty five	pɛ̀lù kúlóy ǹnɔ́(-go) sígɛ́	p ɛ̀/ɛ́ l ù/u + k ú l ó j + ǹ n ɔ́ + g o + s í g ɛ́	ten six five adv more	p ɛ̀ l ù + k ú l ó j + ǹ n ɔ́ + g o + s í g ɛ́	11 10 3 1 5		McPherson2013
+66	Tommo_So	sixty six	pɛ̀lù kúlóy kúlóy(-go) sígɛ́	p ɛ̀/ɛ́ l ù/u + k ú l ó j + k ú l ó j + g o + s í g ɛ́	ten six six adv more	p ɛ̀ l ù + k ú l ó j + k ú l ó j + g o + s í g ɛ́	11 10 10 1 5		McPherson2013
+67	Tommo_So	sixty seven	pɛ̀lù kúlóy sɔ́y(-go) sígɛ́	p ɛ̀/ɛ́ l ù/u + k ú l ó j + s ɔ́ j + g o + s í g ɛ́	ten six seven adv more	p ɛ̀ l ù + k ú l ó j + s ɔ́ j + g o + s í g ɛ́	11 10 9 1 5		McPherson2013
+68	Tommo_So	sixty eight	pɛ̀lù kúlóy gágìrà(-go) sígɛ́	p ɛ̀/ɛ́ l ù/u + k ú l ó j + g á g ì r à + g o + s í g ɛ́	ten six eight adv more	p ɛ̀ l ù + k ú l ó j + g á g ì r à + g o + s í g ɛ́	11 10 2 1 5		McPherson2013
+69	Tommo_So	sixty nine	pɛ̀lù kúlóy túwwɔ́(-go) sígɛ́	p ɛ̀/ɛ́ l ù/u + k ú l ó j + t ú w w ɔ́ + g o + s í g ɛ́	ten six nine adv more	p ɛ̀ l ù + k ú l ó j + t ú w w ɔ́ + g o + s í g ɛ́	11 10 6 1 5		McPherson2013
+70	Tommo_So	seventy 	pɛ̀-sɔ́y	p ɛ̀ -/ɛ̀ + s ɔ́ j	ten2 seven	p ɛ̀ + s ɔ́ j	12 9		McPherson2013
+71	Tommo_So	seventy one	pɛ̀-sɔ́y túru-go sígɛ́	p ɛ̀ -/ɛ̀ + s ɔ́ j + t ú r u + g o + s í g ɛ́	ten2 seven one2 adv more	p ɛ̀ + s ɔ́ j + t ú r u + g o + s í g ɛ́	12 9 8 1 5		McPherson2013
+72	Tommo_So	seventy two	pɛ̀-sɔ́y néé(-go) sígɛ́	p ɛ̀ -/ɛ̀ + s ɔ́ j + n é é + g o + s í g ɛ́	ten2 seven two adv more	p ɛ̀ + s ɔ́ j + n é é + g o + s í g ɛ́	12 9 14 1 5		McPherson2013
+73	Tommo_So	seventy three	pɛ̀-sɔ́y tààndú(-go) sígɛ́	p ɛ̀ -/ɛ̀ + s ɔ́ j + t à à n d ú + g o + s í g ɛ́	ten2 seven three adv more	p ɛ̀ + s ɔ́ j + t à à n d ú + g o + s í g ɛ́	12 9 13 1 5		McPherson2013
+74	Tommo_So	seventy four	pɛ̀-sɔ́y nǎy(-go) sígɛ́	p ɛ̀ -/ɛ̀ + s ɔ́ j + n ǎ j + g o + s í g ɛ́	ten2 seven four adv more	p ɛ̀ + s ɔ́ j + n ǎ j + g o + s í g ɛ́	12 9 4 1 5		McPherson2013
+75	Tommo_So	seventy five	pɛ̀-sɔ́y ǹnɔ́(-go) sígɛ́	p ɛ̀ -/ɛ̀ + s ɔ́ j + ǹ n ɔ́ + g o + s í g ɛ́	ten2 seven five adv more	p ɛ̀ + s ɔ́ j + ǹ n ɔ́ + g o + s í g ɛ́	12 9 3 1 5		McPherson2013
+76	Tommo_So	seventy six	pɛ̀-sɔ́y kúlóy(-go) sígɛ́	p ɛ̀ -/ɛ̀ + s ɔ́ j + k ú l ó j + g o + s í g ɛ́	ten2 seven six adv more	p ɛ̀ + s ɔ́ j + k ú l ó j + g o + s í g ɛ́	12 9 10 1 5		McPherson2013
+77	Tommo_So	seventy seven	pɛ̀-sɔ́y sɔ́y(-go) sígɛ́	p ɛ̀ -/ɛ̀ + s ɔ́ j + s ɔ́ j + g o + s í g ɛ́	ten2 seven seven adv more	p ɛ̀ + s ɔ́ j + s ɔ́ j + g o + s í g ɛ́	12 9 9 1 5		McPherson2013
+78	Tommo_So	seventy eight	pɛ̀-sɔ́y gágìrà(-go) sígɛ́	p ɛ̀ -/ɛ̀ + s ɔ́ j + g á g ì r à + g o + s í g ɛ́	ten2 seven eight adv more	p ɛ̀ + s ɔ́ j + g á g ì r à + g o + s í g ɛ́	12 9 2 1 5		McPherson2013
+79	Tommo_So	seventy nine	pɛ̀-sɔ́y túwwɔ́(-go) sígɛ́	p ɛ̀ -/ɛ̀ + s ɔ́ j + t ú w w ɔ́ + g o + s í g ɛ́	ten2 seven nine adv more	p ɛ̀ + s ɔ́ j + t ú w w ɔ́ + g o + s í g ɛ́	12 9 6 1 5		McPherson2013
+80	Tommo_So	eighty 	pɛ̀-gágìrà	p ɛ̀ -/ɛ̀ + g á g ì r à	ten2 eight	p ɛ̀ + g á g ì r à	12 2		McPherson2013
+81	Tommo_So	eighty one	pɛ̀-gágìrà túru-go sígɛ́	p ɛ̀ -/ɛ̀ + g á g ì r à + t ú r u + g o + s í g ɛ́	ten2 eight one2 adv more	p ɛ̀ + g á g ì r à + t ú r u + g o + s í g ɛ́	12 2 8 1 5		McPherson2013
+82	Tommo_So	eighty two	pɛ̀-gágìrà néé(-go) sígɛ́	p ɛ̀ -/ɛ̀ + g á g ì r à + n é é + g o + s í g ɛ́	ten2 eight two adv more	p ɛ̀ + g á g ì r à + n é é + g o + s í g ɛ́	12 2 14 1 5		McPherson2013
+83	Tommo_So	eighty three	pɛ̀-gágìrà tààndú(-go) sígɛ́	p ɛ̀ -/ɛ̀ + g á g ì r à + t à à n d ú + g o + s í g ɛ́	ten2 eight three adv more	p ɛ̀ + g á g ì r à + t à à n d ú + g o + s í g ɛ́	12 2 13 1 5		McPherson2013
+84	Tommo_So	eighty four	pɛ̀-gágìrà nǎy(-go) sígɛ́	p ɛ̀ -/ɛ̀ + g á g ì r à + n ǎ j + g o + s í g ɛ́	ten2 eight four adv more	p ɛ̀ + g á g ì r à + n ǎ j + g o + s í g ɛ́	12 2 4 1 5		McPherson2013
+85	Tommo_So	eighty five	pɛ̀-gágìrà ǹnɔ́(-go) sígɛ́	p ɛ̀ -/ɛ̀ + g á g ì r à + ǹ n ɔ́ + g o + s í g ɛ́	ten2 eight five adv more	p ɛ̀ + g á g ì r à + ǹ n ɔ́ + g o + s í g ɛ́	12 2 3 1 5		McPherson2013
+86	Tommo_So	eighty six	pɛ̀-gágìrà kúlóy(-go) sígɛ́	p ɛ̀ -/ɛ̀ + g á g ì r à + k ú l ó j + g o + s í g ɛ́	ten2 eight six adv more	p ɛ̀ + g á g ì r à + k ú l ó j + g o + s í g ɛ́	12 2 10 1 5		McPherson2013
+87	Tommo_So	eighty seven	pɛ̀-gágìrà sɔ́y(-go) sígɛ́	p ɛ̀ -/ɛ̀ + g á g ì r à + s ɔ́ j + g o + s í g ɛ́	ten2 eight seven adv more	p ɛ̀ + g á g ì r à + s ɔ́ j + g o + s í g ɛ́	12 2 9 1 5		McPherson2013
+88	Tommo_So	eighty eight	pɛ̀-gágìrà gágìrà(-go) sígɛ́	p ɛ̀ -/ɛ̀ + g á g ì r à + g á g ì r à + g o + s í g ɛ́	ten2 eight eight adv more	p ɛ̀ + g á g ì r à + g á g ì r à + g o + s í g ɛ́	12 2 2 1 5		McPherson2013
+89	Tommo_So	eighty nine	pɛ̀-gágìrà túwwɔ́(-go) sígɛ́	p ɛ̀ -/ɛ̀ + g á g ì r à + t ú w w ɔ́ + g o + s í g ɛ́	ten2 eight nine adv more	p ɛ̀ + g á g ì r à + t ú w w ɔ́ + g o + s í g ɛ́	12 2 6 1 5		McPherson2013
+90	Tommo_So	ninety 	pɛ̀-túwwɔ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́	ten2 nine	p ɛ̀ + t ú w w ɔ́	12 6		McPherson2013
+91	Tommo_So	ninety one	pɛ̀-túwwɔ́ túru-go sígɛ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́ + t ú r u + g o + s í g ɛ́	ten2 nine one2 adv more	p ɛ̀ + t ú w w ɔ́ + t ú r u + g o + s í g ɛ́	12 6 8 1 5		McPherson2013
+92	Tommo_So	ninety two	pɛ̀-túwwɔ́ néé(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́ + n é é + g o + s í g ɛ́	ten2 nine two adv more	p ɛ̀ + t ú w w ɔ́ + n é é + g o + s í g ɛ́	12 6 14 1 5		McPherson2013
+93	Tommo_So	ninety three	pɛ̀-túwwɔ́ tààndú(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́ + t à à n d ú + g o + s í g ɛ́	ten2 nine three adv more	p ɛ̀ + t ú w w ɔ́ + t à à n d ú + g o + s í g ɛ́	12 6 13 1 5		McPherson2013
+94	Tommo_So	ninety four	pɛ̀-túwwɔ́ nǎy(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́ + n ǎ j + g o + s í g ɛ́	ten2 nine four adv more	p ɛ̀ + t ú w w ɔ́ + n ǎ j + g o + s í g ɛ́	12 6 4 1 5		McPherson2013
+95	Tommo_So	ninety five	pɛ̀-túwwɔ́ ǹnɔ́(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́ + ǹ n ɔ́ + g o + s í g ɛ́	ten2 nine five adv more	p ɛ̀ + t ú w w ɔ́ + ǹ n ɔ́ + g o + s í g ɛ́	12 6 3 1 5		McPherson2013
+96	Tommo_So	ninety six	pɛ̀-túwwɔ́ kúlóy(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́ + k ú l ó j + g o + s í g ɛ́	ten2 nine six adv more	p ɛ̀ + t ú w w ɔ́ + k ú l ó j + g o + s í g ɛ́	12 6 10 1 5		McPherson2013
+97	Tommo_So	ninety seven	pɛ̀-túwwɔ́ sɔ́y(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́ + s ɔ́ j + g o + s í g ɛ́	ten2 nine seven adv more	p ɛ̀ + t ú w w ɔ́ + s ɔ́ j + g o + s í g ɛ́	12 6 9 1 5		McPherson2013
+98	Tommo_So	ninety eight	pɛ̀-túwwɔ́ gágìrà(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́ + g á g ì r à + g o + s í g ɛ́	ten2 nine eight adv more	p ɛ̀ + t ú w w ɔ́ + g á g ì r à + g o + s í g ɛ́	12 6 2 1 5		McPherson2013
+99	Tommo_So	ninety nine	pɛ̀-túwwɔ́ túwwɔ́(-go) sígɛ́	p ɛ̀ -/ɛ̀ + t ú w w ɔ́ + t ú w w ɔ́ + g o + s í g ɛ́	ten2 nine nine adv more	p ɛ̀ + t ú w w ɔ́ + t ú w w ɔ́ + g o + s í g ɛ́	12 6 6 1 5		McPherson2013

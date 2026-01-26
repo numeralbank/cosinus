@@ -1,100 +1,100 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
-1	seba1251	one	at	at	a t	one	a t	1		Voellmin2017Gumer
-2	seba1251	two	xʷet	xʷet	xʷ e t	two	xʷ e t	2		Voellmin2017Gumer
-3	seba1251	three	sost	sost	s o s t	three	s o s t	3		Voellmin2017Gumer
-4	seba1251	four	arβət	arβət	a r β ə t	four	a r β ə t	4		Voellmin2017Gumer
-5	seba1251	five	ammɨst	ammɨst	a m m ɨ s t	five	a m m ɨ s t	5		Voellmin2017Gumer
-6	seba1251	six	sɨddɨst	sɨddɨst	s ɨ d d ɨ s t	six	s ɨ d d ɨ s t	6		Voellmin2017Gumer
-7	seba1251	seven	səβat	səβat	s ə β a t	seven	s ə β a t	7		Voellmin2017Gumer
-8	seba1251	eight	sɨmʷɨt	sɨmʷɨt	s ɨ mʷ ɨ t	eight	s ɨ mʷ ɨ t	8		Voellmin2017Gumer
-9	seba1251	nine	ʒətʼə	ʒətʼə	ʒ ə tʼ ə	nine	ʒ ə tʼ ə	9		Voellmin2017Gumer
-10	seba1251	ten	assɨr	assɨr	a s s ɨ r	ten	a s s ɨ r	10		Voellmin2017Gumer
-11	seba1251	eleven	asrat	asrat	a s -/s -/ɨ r + a t	ten one	a s -/s -/ɨ r + a t	10 1	As Voellmin notes: "The numerals below ten and their corresponding multiples of ten share some similarities, but there is no regular derivative morpheme." Therefore, I mark the units and the tens as separate morphemes	Voellmin2017Gumer
-12	seba1251	twelve	asrə xʷet	asrəxʷet	a s -/s -/ɨ r ə/- + xʷ e t	ten two	a s -/s -/ɨ r ə/- + xʷ e t	10 2		Voellmin2017Gumer
-13	seba1251	thirteen	asrə sost	asrəsost	a s -/s -/ɨ r ə/- + s o s t	ten three	a s -/s -/ɨ r ə/- + s o s t	10 3		Voellmin2017Gumer
-14	seba1251	fourteen	asrarβət	asrarβət	a s -/s -/ɨ r + a r β ə t	ten four	a s -/s -/ɨ r + a r β ə t	10 4		Voellmin2017Gumer
-15	seba1251	fifteen	asrammɨst	asrammɨst	a s -/s -/ɨ r + a m m ɨ s t	ten five	a s -/s -/ɨ r + a m m ɨ s t	10 5		Voellmin2017Gumer
-16	seba1251	sixteen	asrə sɨddɨst	asrəsɨddɨst	a s -/s -/ɨ r ə/- + s ɨ d d ɨ s t	ten six	a s -/s -/ɨ r ə/- + s ɨ d d ɨ s t	10 6		Voellmin2017Gumer
-17	seba1251	seventeen	asrə səβat	asrəsəβat	a s -/s -/ɨ r ə/- + s ə β a t	ten seven	a s -/s -/ɨ r ə/- + s ə β a t	10 7		Voellmin2017Gumer
-18	seba1251	eighteen	asrə sɨmʷɨt	asrəsɨmʷɨt	a s -/s -/ɨ r ə/- + s ɨ mʷ ɨ t	ten eight	a s -/s -/ɨ r ə/- + s ɨ mʷ ɨ t	10 8		Voellmin2017Gumer
-19	seba1251	nineteen	asrə ʒətʼə	asrəʒətʼə	a s -/s -/ɨ r ə/- + ʒ ə tʼ ə	ten nine	a s -/s -/ɨ r ə/- + ʒ ə tʼ ə	10 9		Voellmin2017Gumer
-20	seba1251	twenty	xʷɨya	xʷɨya	xʷ ɨ y + a	twenty ty	xʷ ɨ y + a	20 11	/-a/ corresponds to Ge'ez /-a/ "ty"	Voellmin2017Gumer
-21	seba1251	twenty one	xʷɨya at	xʷɨyaat	xʷ ɨ y + a + a t	twenty ty one	xʷ ɨ y + a + a t	20 11 1		Voellmin2017Gumer
-22	seba1251	twenty two	xʷɨya xʷet	xʷɨyaxʷet	xʷ ɨ y + a + xʷ e t	twenty ty two	xʷ ɨ y + a + xʷ e t	20 11 2		Voellmin2017Gumer
-23	seba1251	twenty three	xʷɨya sost	xʷɨyasost	xʷ ɨ y + a + s o s t	twenty ty three	xʷ ɨ y + a + s o s t	20 11 3		Voellmin2017Gumer
-24	seba1251	twenty four	xʷɨya arβət	xʷɨyaarβət	xʷ ɨ y + a + a r β ə t	twenty ty four	xʷ ɨ y + a + a r β ə t	20 11 4		Voellmin2017Gumer
-25	seba1251	twenty five	xʷɨya ammɨst	xʷɨyaammɨst	xʷ ɨ y + a + a m m ɨ s t	twenty ty five	xʷ ɨ y + a + a m m ɨ s t	20 11 5		Voellmin2017Gumer
-26	seba1251	twenty six	xʷɨya sɨddɨst	xʷɨyasɨddɨst	xʷ ɨ y + a + s ɨ d d ɨ s t	twenty ty six	xʷ ɨ y + a + s ɨ d d ɨ s t	20 11 6		Voellmin2017Gumer
-27	seba1251	twenty seven	xʷɨya səβat	xʷɨyasəβat	xʷ ɨ y + a + s ə β a t	twenty ty seven	xʷ ɨ y + a + s ə β a t	20 11 7		Voellmin2017Gumer
-28	seba1251	twenty eight	xʷɨya sɨmʷɨt	xʷɨyasɨmʷɨt	xʷ ɨ y + a + s ɨ mʷ ɨ t	twenty ty eight	xʷ ɨ y + a + s ɨ mʷ ɨ t	20 11 8		Voellmin2017Gumer
-29	seba1251	twenty nine	xʷɨya ʒətʼə	xʷɨyaʒətʼə	xʷ ɨ y + a + ʒ ə tʼ ə	twenty ty nine	xʷ ɨ y + a + ʒ ə tʼ ə	20 11 9		Voellmin2017Gumer
-30	seba1251	thirty	sasa	sasa	s a s + a	thirty ty	s a s + a	30 11		Voellmin2017Gumer
-31	seba1251	thirty one	sasa at	sasaat	s a s + a + a t	thirty ty one	s a s + a + a t	30 11 1		Voellmin2017Gumer
-32	seba1251	thirty two	sasa xʷet	sasaxʷet	s a s + a + xʷ e t	thirty ty two	s a s + a + xʷ e t	30 11 2		Voellmin2017Gumer
-33	seba1251	thirty three	sasa sost	sasasost	s a s + a + s o s t	thirty ty three	s a s + a + s o s t	30 11 3		Voellmin2017Gumer
-34	seba1251	thirty four	sasa arβət	sasaarβət	s a s + a + a r β ə t	thirty ty four	s a s + a + a r β ə t	30 11 4		Voellmin2017Gumer
-35	seba1251	thirty five	sasa ammɨst	sasaammɨst	s a s + a + a m m ɨ s t	thirty ty five	s a s + a + a m m ɨ s t	30 11 5		Voellmin2017Gumer
-36	seba1251	thirty six	sasa sɨddɨst	sasasɨddɨst	s a s + a + s ɨ d d ɨ s t	thirty ty six	s a s + a + s ɨ d d ɨ s t	30 11 6		Voellmin2017Gumer
-37	seba1251	thirty seven	sasa səβat	sasasəβat	s a s + a + s ə β a t	thirty ty seven	s a s + a + s ə β a t	30 11 7		Voellmin2017Gumer
-38	seba1251	thirty eight	sasa sɨmʷɨt	sasasɨmʷɨt	s a s + a + s ɨ mʷ ɨ t	thirty ty eight	s a s + a + s ɨ mʷ ɨ t	30 11 8		Voellmin2017Gumer
-39	seba1251	thirty nine	sasa ʒətʼə	sasaʒətʼə	s a s + a + ʒ ə tʼ ə	thirty ty nine	s a s + a + ʒ ə tʼ ə	30 11 9		Voellmin2017Gumer
-40	seba1251	forty	arβa	arβa	a r β + a	forty ty	a r β + a	40 11		Voellmin2017Gumer
-41	seba1251	forty one	arβa at	arβaat	a r β + a + a t	forty ty one	a r β + a + a t	40 11 1		Voellmin2017Gumer
-42	seba1251	forty two	arβa xʷet	arβaxʷet	a r β + a + xʷ e t	forty ty two	a r β + a + xʷ e t	40 11 2		Voellmin2017Gumer
-43	seba1251	forty three	arβa sost	arβasost	a r β + a + s o s t	forty ty three	a r β + a + s o s t	40 11 3		Voellmin2017Gumer
-44	seba1251	forty four	arβa arβət	arβaarβət	a r β + a + a r β ə t	forty ty four	a r β + a + a r β ə t	40 11 4		Voellmin2017Gumer
-45	seba1251	forty five	arβa ammɨst	arβaammɨst	a r β + a + a m m ɨ s t	forty ty five	a r β + a + a m m ɨ s t	40 11 5		Voellmin2017Gumer
-46	seba1251	forty six	arβa sɨddɨst	arβasɨddɨst	a r β + a + s ɨ d d ɨ s t	forty ty six	a r β + a + s ɨ d d ɨ s t	40 11 6		Voellmin2017Gumer
-47	seba1251	forty seven	arβa səβat	arβasəβat	a r β + a + s ə β a t	forty ty seven	a r β + a + s ə β a t	40 11 7		Voellmin2017Gumer
-48	seba1251	forty eight	arβa sɨmʷɨt	arβasɨmʷɨt	a r β + a + s ɨ mʷ ɨ t	forty ty eight	a r β + a + s ɨ mʷ ɨ t	40 11 8		Voellmin2017Gumer
-49	seba1251	forty nine	arβa ʒətʼə	arβaʒətʼə	a r β + a + ʒ ə tʼ ə	forty ty nine	a r β + a + ʒ ə tʼ ə	40 11 9		Voellmin2017Gumer
-50	seba1251	fifty	amsa	amsa	a m s + a	fifty ty	a m s + a	50 11		Voellmin2017Gumer
-51	seba1251	fifty one	amsa at	amsaat	a m s + a + a t	fifty ty one	a m s + a + a t	50 11 1		Voellmin2017Gumer
-52	seba1251	fifty two	amsa xʷet	amsaxʷet	a m s + a + xʷ e t	fifty ty two	a m s + a + xʷ e t	50 11 2		Voellmin2017Gumer
-53	seba1251	fifty three	amsa sost	amsasost	a m s + a + s o s t	fifty ty three	a m s + a + s o s t	50 11 3		Voellmin2017Gumer
-54	seba1251	fifty four	amsa arβət	amsaarβət	a m s + a + a r β ə t	fifty ty four	a m s + a + a r β ə t	50 11 4		Voellmin2017Gumer
-55	seba1251	fifty five	amsa ammɨst	amsaammɨst	a m s + a + a m m ɨ s t	fifty ty five	a m s + a + a m m ɨ s t	50 11 5		Voellmin2017Gumer
-56	seba1251	fifty six	amsa sɨddɨst	amsasɨddɨst	a m s + a + s ɨ d d ɨ s t	fifty ty six	a m s + a + s ɨ d d ɨ s t	50 11 6		Voellmin2017Gumer
-57	seba1251	fifty seven	amsa səβat	amsasəβat	a m s + a + s ə β a t	fifty ty seven	a m s + a + s ə β a t	50 11 7		Voellmin2017Gumer
-58	seba1251	fifty eight	amsa sɨmʷɨt	amsasɨmʷɨt	a m s + a + s ɨ mʷ ɨ t	fifty ty eight	a m s + a + s ɨ mʷ ɨ t	50 11 8		Voellmin2017Gumer
-59	seba1251	fifty nine	amsa ʒətʼə	amsaʒətʼə	a m s + a + ʒ ə tʼ ə	fifty ty nine	a m s + a + ʒ ə tʼ ə	50 11 9		Voellmin2017Gumer
-60	seba1251	sixty	sɨdsa	sɨdsa	s ɨ d s + a	sixty ty	s ɨ d s + a	60 11		Voellmin2017Gumer
-61	seba1251	sixty one	sɨdsa at	sɨdsaat	s ɨ d s + a + a t	sixty ty one	s ɨ d s + a + a t	60 11 1		Voellmin2017Gumer
-62	seba1251	sixty two	sɨdsa xʷet	sɨdsaxʷet	s ɨ d s + a + xʷ e t	sixty ty two	s ɨ d s + a + xʷ e t	60 11 2		Voellmin2017Gumer
-63	seba1251	sixty three	sɨdsa sost	sɨdsasost	s ɨ d s + a + s o s t	sixty ty three	s ɨ d s + a + s o s t	60 11 3		Voellmin2017Gumer
-64	seba1251	sixty four	sɨdsa arβət	sɨdsaarβət	s ɨ d s + a + a r β ə t	sixty ty four	s ɨ d s + a + a r β ə t	60 11 4		Voellmin2017Gumer
-65	seba1251	sixty five	sɨdsa ammɨst	sɨdsaammɨst	s ɨ d s + a + a m m ɨ s t	sixty ty five	s ɨ d s + a + a m m ɨ s t	60 11 5		Voellmin2017Gumer
-66	seba1251	sixty six	sɨdsa sɨddɨst	sɨdsasɨddɨst	s ɨ d s + a + s ɨ d d ɨ s t	sixty ty six	s ɨ d s + a + s ɨ d d ɨ s t	60 11 6		Voellmin2017Gumer
-67	seba1251	sixty seven	sɨdsa səβat	sɨdsasəβat	s ɨ d s + a + s ə β a t	sixty ty seven	s ɨ d s + a + s ə β a t	60 11 7		Voellmin2017Gumer
-68	seba1251	sixty eight	sɨdsa sɨmʷɨt	sɨdsasɨmʷɨt	s ɨ d s + a + s ɨ mʷ ɨ t	sixty ty eight	s ɨ d s + a + s ɨ mʷ ɨ t	60 11 8		Voellmin2017Gumer
-69	seba1251	sixty nine	sɨdsa ʒətʼə	sɨdsaʒətʼə	s ɨ d s + a + ʒ ə tʼ ə	sixty ty nine	s ɨ d s + a + ʒ ə tʼ ə	60 11 9		Voellmin2017Gumer
-70	seba1251	seventy	sɨβa	sɨβa	s ɨ β + a	seventy ty	s ɨ β + a	70 11		Voellmin2017Gumer
-71	seba1251	seventy one	sɨβa at	sɨβaat	s ɨ β + a + a t	seventy ty one	s ɨ β + a + a t	70 11 1		Voellmin2017Gumer
-72	seba1251	seventy two	sɨβa xʷet	sɨβaxʷet	s ɨ β + a + xʷ e t	seventy ty two	s ɨ β + a + xʷ e t	70 11 2		Voellmin2017Gumer
-73	seba1251	seventy three	sɨβa sost	sɨβasost	s ɨ β + a + s o s t	seventy ty three	s ɨ β + a + s o s t	70 11 3		Voellmin2017Gumer
-74	seba1251	seventy four	sɨβa arβət	sɨβaarβət	s ɨ β + a + a r β ə t	seventy ty four	s ɨ β + a + a r β ə t	70 11 4		Voellmin2017Gumer
-75	seba1251	seventy five	sɨβa ammɨst	sɨβaammɨst	s ɨ β + a + a m m ɨ s t	seventy ty five	s ɨ β + a + a m m ɨ s t	70 11 5		Voellmin2017Gumer
-76	seba1251	seventy six	sɨβa sɨddɨst	sɨβasɨddɨst	s ɨ β + a + s ɨ d d ɨ s t	seventy ty six	s ɨ β + a + s ɨ d d ɨ s t	70 11 6		Voellmin2017Gumer
-77	seba1251	seventy seven	sɨβa səβat	sɨβasəβat	s ɨ β + a + s ə β a t	seventy ty seven	s ɨ β + a + s ə β a t	70 11 7		Voellmin2017Gumer
-78	seba1251	seventy eight	sɨβa sɨmʷɨt	sɨβasɨmʷɨt	s ɨ β + a + s ɨ mʷ ɨ t	seventy ty eight	s ɨ β + a + s ɨ mʷ ɨ t	70 11 8		Voellmin2017Gumer
-79	seba1251	seventy nine	sɨβa ʒətʼə	sɨβaʒətʼə	s ɨ β + a + ʒ ə tʼ ə	seventy ty nine	s ɨ β + a + ʒ ə tʼ ə	70 11 9		Voellmin2017Gumer
-80	seba1251	eighty	sɨmra	sɨmra	s ɨ m r + a	eighty ty	s ɨ m r + a	80 11		Voellmin2017Gumer
-81	seba1251	eighty one	sɨmra at	sɨmraat	s ɨ m r + a + a t	eighty ty one	s ɨ m r + a + a t	80 11 1		Voellmin2017Gumer
-82	seba1251	eighty two	sɨmra xʷet	sɨmraxʷet	s ɨ m r + a + xʷ e t	eighty ty two	s ɨ m r + a + xʷ e t	80 11 2		Voellmin2017Gumer
-83	seba1251	eighty three	sɨmra sost	sɨmrasost	s ɨ m r + a + s o s t	eighty ty three	s ɨ m r + a + s o s t	80 11 3		Voellmin2017Gumer
-84	seba1251	eighty four	sɨmra arβət	sɨmraarβət	s ɨ m r + a + a r β ə t	eighty ty four	s ɨ m r + a + a r β ə t	80 11 4		Voellmin2017Gumer
-85	seba1251	eighty five	sɨmra ammɨst	sɨmraammɨst	s ɨ m r + a + a m m ɨ s t	eighty ty five	s ɨ m r + a + a m m ɨ s t	80 11 5		Voellmin2017Gumer
-86	seba1251	eighty six	sɨmra sɨddɨst	sɨmrasɨddɨst	s ɨ m r + a + s ɨ d d ɨ s t	eighty ty six	s ɨ m r + a + s ɨ d d ɨ s t	80 11 6		Voellmin2017Gumer
-87	seba1251	eighty seven	sɨmra səβat	sɨmrasəβat	s ɨ m r + a + s ə β a t	eighty ty seven	s ɨ m r + a + s ə β a t	80 11 7		Voellmin2017Gumer
-88	seba1251	eighty eight	sɨmra sɨmʷɨt	sɨmrasɨmʷɨt	s ɨ m r + a + s ɨ mʷ ɨ t	eighty ty eight	s ɨ m r + a + s ɨ mʷ ɨ t	80 11 8		Voellmin2017Gumer
-89	seba1251	eighty nine	sɨmra ʒətʼə	sɨmraʒətʼə	s ɨ m r + a + ʒ ə tʼ ə	eighty ty nine	s ɨ m r + a + ʒ ə tʼ ə	80 11 9		Voellmin2017Gumer
-90	seba1251	ninety	zɨtʼəra	zɨtʼəra	z ɨ tʼ ə r + a	ninety ty	z ɨ tʼ ə r + a	90 11		Voellmin2017Gumer
-91	seba1251	ninety one	zɨtʼəra at	zɨtʼəraat	z ɨ tʼ ə r + a + a t	ninety ty one	z ɨ tʼ ə r + a + a t	90 11 1		Voellmin2017Gumer
-92	seba1251	ninety two	zɨtʼəra xʷet	zɨtʼəraxʷet	z ɨ tʼ ə r + a + xʷ e t	ninety ty two	z ɨ tʼ ə r + a + xʷ e t	90 11 2		Voellmin2017Gumer
-93	seba1251	ninety three	zɨtʼəra sost	zɨtʼərasost	z ɨ tʼ ə r + a + s o s t	ninety ty three	z ɨ tʼ ə r + a + s o s t	90 11 3		Voellmin2017Gumer
-94	seba1251	ninety four	zɨtʼəra arβət	zɨtʼəraarβət	z ɨ tʼ ə r + a + a r β ə t	ninety ty four	z ɨ tʼ ə r + a + a r β ə t	90 11 4		Voellmin2017Gumer
-95	seba1251	ninety five	zɨtʼəra ammɨst	zɨtʼəraammɨst	z ɨ tʼ ə r + a + a m m ɨ s t	ninety ty five	z ɨ tʼ ə r + a + a m m ɨ s t	90 11 5		Voellmin2017Gumer
-96	seba1251	ninety six	zɨtʼəra sɨddɨst	zɨtʼərasɨddɨst	z ɨ tʼ ə r + a + s ɨ d d ɨ s t	ninety ty six	z ɨ tʼ ə r + a + s ɨ d d ɨ s t	90 11 6		Voellmin2017Gumer
-97	seba1251	ninety seven	zɨtʼəra səβat	zɨtʼərasəβat	z ɨ tʼ ə r + a + s ə β a t	ninety ty seven	z ɨ tʼ ə r + a + s ə β a t	90 11 7		Voellmin2017Gumer
-98	seba1251	ninety eight	zɨtʼəra sɨmʷɨt	zɨtʼərasɨmʷɨt	z ɨ tʼ ə r + a + s ɨ mʷ ɨ t	ninety ty eight	z ɨ tʼ ə r + a + s ɨ mʷ ɨ t	90 11 8		Voellmin2017Gumer
-99	seba1251	ninety nine	zɨtʼəra ʒətʼə	zɨtʼəraʒətʼə	z ɨ tʼ ə r + a + ʒ ə tʼ ə	ninety ty nine	z ɨ tʼ ə r + a + ʒ ə tʼ ə	90 11 9		Voellmin2017Gumer
+1	Sebat_Bet_Gurage	one	at	at	a t	one	a t	1		Voellmin2017Gumer
+2	Sebat_Bet_Gurage	two	xʷet	xʷet	xʷ e t	two	xʷ e t	2		Voellmin2017Gumer
+3	Sebat_Bet_Gurage	three	sost	sost	s o s t	three	s o s t	3		Voellmin2017Gumer
+4	Sebat_Bet_Gurage	four	arβət	arβət	a r β ə t	four	a r β ə t	4		Voellmin2017Gumer
+5	Sebat_Bet_Gurage	five	ammɨst	ammɨst	a m m ɨ s t	five	a m m ɨ s t	5		Voellmin2017Gumer
+6	Sebat_Bet_Gurage	six	sɨddɨst	sɨddɨst	s ɨ d d ɨ s t	six	s ɨ d d ɨ s t	6		Voellmin2017Gumer
+7	Sebat_Bet_Gurage	seven	səβat	səβat	s ə β a t	seven	s ə β a t	7		Voellmin2017Gumer
+8	Sebat_Bet_Gurage	eight	sɨmʷɨt	sɨmʷɨt	s ɨ mʷ ɨ t	eight	s ɨ mʷ ɨ t	8		Voellmin2017Gumer
+9	Sebat_Bet_Gurage	nine	ʒətʼə	ʒətʼə	ʒ ə tʼ ə	nine	ʒ ə tʼ ə	9		Voellmin2017Gumer
+10	Sebat_Bet_Gurage	ten	assɨr	assɨr	a s s ɨ r	ten	a s s ɨ r	10		Voellmin2017Gumer
+11	Sebat_Bet_Gurage	eleven	asrat	asrat	a s -/s -/ɨ r + a t	ten one	a s -/s -/ɨ r + a t	10 1	As Voellmin notes: "The numerals below ten and their corresponding multiples of ten share some similarities, but there is no regular derivative morpheme." Therefore, I mark the units and the tens as separate morphemes	Voellmin2017Gumer
+12	Sebat_Bet_Gurage	twelve	asrə xʷet	asrəxʷet	a s -/s -/ɨ r ə/- + xʷ e t	ten two	a s -/s -/ɨ r ə/- + xʷ e t	10 2		Voellmin2017Gumer
+13	Sebat_Bet_Gurage	thirteen	asrə sost	asrəsost	a s -/s -/ɨ r ə/- + s o s t	ten three	a s -/s -/ɨ r ə/- + s o s t	10 3		Voellmin2017Gumer
+14	Sebat_Bet_Gurage	fourteen	asrarβət	asrarβət	a s -/s -/ɨ r + a r β ə t	ten four	a s -/s -/ɨ r + a r β ə t	10 4		Voellmin2017Gumer
+15	Sebat_Bet_Gurage	fifteen	asrammɨst	asrammɨst	a s -/s -/ɨ r + a m m ɨ s t	ten five	a s -/s -/ɨ r + a m m ɨ s t	10 5		Voellmin2017Gumer
+16	Sebat_Bet_Gurage	sixteen	asrə sɨddɨst	asrəsɨddɨst	a s -/s -/ɨ r ə/- + s ɨ d d ɨ s t	ten six	a s -/s -/ɨ r ə/- + s ɨ d d ɨ s t	10 6		Voellmin2017Gumer
+17	Sebat_Bet_Gurage	seventeen	asrə səβat	asrəsəβat	a s -/s -/ɨ r ə/- + s ə β a t	ten seven	a s -/s -/ɨ r ə/- + s ə β a t	10 7		Voellmin2017Gumer
+18	Sebat_Bet_Gurage	eighteen	asrə sɨmʷɨt	asrəsɨmʷɨt	a s -/s -/ɨ r ə/- + s ɨ mʷ ɨ t	ten eight	a s -/s -/ɨ r ə/- + s ɨ mʷ ɨ t	10 8		Voellmin2017Gumer
+19	Sebat_Bet_Gurage	nineteen	asrə ʒətʼə	asrəʒətʼə	a s -/s -/ɨ r ə/- + ʒ ə tʼ ə	ten nine	a s -/s -/ɨ r ə/- + ʒ ə tʼ ə	10 9		Voellmin2017Gumer
+20	Sebat_Bet_Gurage	twenty	xʷɨya	xʷɨya	xʷ ɨ y + a	twenty ty	xʷ ɨ y + a	20 11	/-a/ corresponds to Ge'ez /-a/ "ty"	Voellmin2017Gumer
+21	Sebat_Bet_Gurage	twenty one	xʷɨya at	xʷɨyaat	xʷ ɨ y + a + a t	twenty ty one	xʷ ɨ y + a + a t	20 11 1		Voellmin2017Gumer
+22	Sebat_Bet_Gurage	twenty two	xʷɨya xʷet	xʷɨyaxʷet	xʷ ɨ y + a + xʷ e t	twenty ty two	xʷ ɨ y + a + xʷ e t	20 11 2		Voellmin2017Gumer
+23	Sebat_Bet_Gurage	twenty three	xʷɨya sost	xʷɨyasost	xʷ ɨ y + a + s o s t	twenty ty three	xʷ ɨ y + a + s o s t	20 11 3		Voellmin2017Gumer
+24	Sebat_Bet_Gurage	twenty four	xʷɨya arβət	xʷɨyaarβət	xʷ ɨ y + a + a r β ə t	twenty ty four	xʷ ɨ y + a + a r β ə t	20 11 4		Voellmin2017Gumer
+25	Sebat_Bet_Gurage	twenty five	xʷɨya ammɨst	xʷɨyaammɨst	xʷ ɨ y + a + a m m ɨ s t	twenty ty five	xʷ ɨ y + a + a m m ɨ s t	20 11 5		Voellmin2017Gumer
+26	Sebat_Bet_Gurage	twenty six	xʷɨya sɨddɨst	xʷɨyasɨddɨst	xʷ ɨ y + a + s ɨ d d ɨ s t	twenty ty six	xʷ ɨ y + a + s ɨ d d ɨ s t	20 11 6		Voellmin2017Gumer
+27	Sebat_Bet_Gurage	twenty seven	xʷɨya səβat	xʷɨyasəβat	xʷ ɨ y + a + s ə β a t	twenty ty seven	xʷ ɨ y + a + s ə β a t	20 11 7		Voellmin2017Gumer
+28	Sebat_Bet_Gurage	twenty eight	xʷɨya sɨmʷɨt	xʷɨyasɨmʷɨt	xʷ ɨ y + a + s ɨ mʷ ɨ t	twenty ty eight	xʷ ɨ y + a + s ɨ mʷ ɨ t	20 11 8		Voellmin2017Gumer
+29	Sebat_Bet_Gurage	twenty nine	xʷɨya ʒətʼə	xʷɨyaʒətʼə	xʷ ɨ y + a + ʒ ə tʼ ə	twenty ty nine	xʷ ɨ y + a + ʒ ə tʼ ə	20 11 9		Voellmin2017Gumer
+30	Sebat_Bet_Gurage	thirty	sasa	sasa	s a s + a	thirty ty	s a s + a	30 11		Voellmin2017Gumer
+31	Sebat_Bet_Gurage	thirty one	sasa at	sasaat	s a s + a + a t	thirty ty one	s a s + a + a t	30 11 1		Voellmin2017Gumer
+32	Sebat_Bet_Gurage	thirty two	sasa xʷet	sasaxʷet	s a s + a + xʷ e t	thirty ty two	s a s + a + xʷ e t	30 11 2		Voellmin2017Gumer
+33	Sebat_Bet_Gurage	thirty three	sasa sost	sasasost	s a s + a + s o s t	thirty ty three	s a s + a + s o s t	30 11 3		Voellmin2017Gumer
+34	Sebat_Bet_Gurage	thirty four	sasa arβət	sasaarβət	s a s + a + a r β ə t	thirty ty four	s a s + a + a r β ə t	30 11 4		Voellmin2017Gumer
+35	Sebat_Bet_Gurage	thirty five	sasa ammɨst	sasaammɨst	s a s + a + a m m ɨ s t	thirty ty five	s a s + a + a m m ɨ s t	30 11 5		Voellmin2017Gumer
+36	Sebat_Bet_Gurage	thirty six	sasa sɨddɨst	sasasɨddɨst	s a s + a + s ɨ d d ɨ s t	thirty ty six	s a s + a + s ɨ d d ɨ s t	30 11 6		Voellmin2017Gumer
+37	Sebat_Bet_Gurage	thirty seven	sasa səβat	sasasəβat	s a s + a + s ə β a t	thirty ty seven	s a s + a + s ə β a t	30 11 7		Voellmin2017Gumer
+38	Sebat_Bet_Gurage	thirty eight	sasa sɨmʷɨt	sasasɨmʷɨt	s a s + a + s ɨ mʷ ɨ t	thirty ty eight	s a s + a + s ɨ mʷ ɨ t	30 11 8		Voellmin2017Gumer
+39	Sebat_Bet_Gurage	thirty nine	sasa ʒətʼə	sasaʒətʼə	s a s + a + ʒ ə tʼ ə	thirty ty nine	s a s + a + ʒ ə tʼ ə	30 11 9		Voellmin2017Gumer
+40	Sebat_Bet_Gurage	forty	arβa	arβa	a r β + a	forty ty	a r β + a	40 11		Voellmin2017Gumer
+41	Sebat_Bet_Gurage	forty one	arβa at	arβaat	a r β + a + a t	forty ty one	a r β + a + a t	40 11 1		Voellmin2017Gumer
+42	Sebat_Bet_Gurage	forty two	arβa xʷet	arβaxʷet	a r β + a + xʷ e t	forty ty two	a r β + a + xʷ e t	40 11 2		Voellmin2017Gumer
+43	Sebat_Bet_Gurage	forty three	arβa sost	arβasost	a r β + a + s o s t	forty ty three	a r β + a + s o s t	40 11 3		Voellmin2017Gumer
+44	Sebat_Bet_Gurage	forty four	arβa arβət	arβaarβət	a r β + a + a r β ə t	forty ty four	a r β + a + a r β ə t	40 11 4		Voellmin2017Gumer
+45	Sebat_Bet_Gurage	forty five	arβa ammɨst	arβaammɨst	a r β + a + a m m ɨ s t	forty ty five	a r β + a + a m m ɨ s t	40 11 5		Voellmin2017Gumer
+46	Sebat_Bet_Gurage	forty six	arβa sɨddɨst	arβasɨddɨst	a r β + a + s ɨ d d ɨ s t	forty ty six	a r β + a + s ɨ d d ɨ s t	40 11 6		Voellmin2017Gumer
+47	Sebat_Bet_Gurage	forty seven	arβa səβat	arβasəβat	a r β + a + s ə β a t	forty ty seven	a r β + a + s ə β a t	40 11 7		Voellmin2017Gumer
+48	Sebat_Bet_Gurage	forty eight	arβa sɨmʷɨt	arβasɨmʷɨt	a r β + a + s ɨ mʷ ɨ t	forty ty eight	a r β + a + s ɨ mʷ ɨ t	40 11 8		Voellmin2017Gumer
+49	Sebat_Bet_Gurage	forty nine	arβa ʒətʼə	arβaʒətʼə	a r β + a + ʒ ə tʼ ə	forty ty nine	a r β + a + ʒ ə tʼ ə	40 11 9		Voellmin2017Gumer
+50	Sebat_Bet_Gurage	fifty	amsa	amsa	a m s + a	fifty ty	a m s + a	50 11		Voellmin2017Gumer
+51	Sebat_Bet_Gurage	fifty one	amsa at	amsaat	a m s + a + a t	fifty ty one	a m s + a + a t	50 11 1		Voellmin2017Gumer
+52	Sebat_Bet_Gurage	fifty two	amsa xʷet	amsaxʷet	a m s + a + xʷ e t	fifty ty two	a m s + a + xʷ e t	50 11 2		Voellmin2017Gumer
+53	Sebat_Bet_Gurage	fifty three	amsa sost	amsasost	a m s + a + s o s t	fifty ty three	a m s + a + s o s t	50 11 3		Voellmin2017Gumer
+54	Sebat_Bet_Gurage	fifty four	amsa arβət	amsaarβət	a m s + a + a r β ə t	fifty ty four	a m s + a + a r β ə t	50 11 4		Voellmin2017Gumer
+55	Sebat_Bet_Gurage	fifty five	amsa ammɨst	amsaammɨst	a m s + a + a m m ɨ s t	fifty ty five	a m s + a + a m m ɨ s t	50 11 5		Voellmin2017Gumer
+56	Sebat_Bet_Gurage	fifty six	amsa sɨddɨst	amsasɨddɨst	a m s + a + s ɨ d d ɨ s t	fifty ty six	a m s + a + s ɨ d d ɨ s t	50 11 6		Voellmin2017Gumer
+57	Sebat_Bet_Gurage	fifty seven	amsa səβat	amsasəβat	a m s + a + s ə β a t	fifty ty seven	a m s + a + s ə β a t	50 11 7		Voellmin2017Gumer
+58	Sebat_Bet_Gurage	fifty eight	amsa sɨmʷɨt	amsasɨmʷɨt	a m s + a + s ɨ mʷ ɨ t	fifty ty eight	a m s + a + s ɨ mʷ ɨ t	50 11 8		Voellmin2017Gumer
+59	Sebat_Bet_Gurage	fifty nine	amsa ʒətʼə	amsaʒətʼə	a m s + a + ʒ ə tʼ ə	fifty ty nine	a m s + a + ʒ ə tʼ ə	50 11 9		Voellmin2017Gumer
+60	Sebat_Bet_Gurage	sixty	sɨdsa	sɨdsa	s ɨ d s + a	sixty ty	s ɨ d s + a	60 11		Voellmin2017Gumer
+61	Sebat_Bet_Gurage	sixty one	sɨdsa at	sɨdsaat	s ɨ d s + a + a t	sixty ty one	s ɨ d s + a + a t	60 11 1		Voellmin2017Gumer
+62	Sebat_Bet_Gurage	sixty two	sɨdsa xʷet	sɨdsaxʷet	s ɨ d s + a + xʷ e t	sixty ty two	s ɨ d s + a + xʷ e t	60 11 2		Voellmin2017Gumer
+63	Sebat_Bet_Gurage	sixty three	sɨdsa sost	sɨdsasost	s ɨ d s + a + s o s t	sixty ty three	s ɨ d s + a + s o s t	60 11 3		Voellmin2017Gumer
+64	Sebat_Bet_Gurage	sixty four	sɨdsa arβət	sɨdsaarβət	s ɨ d s + a + a r β ə t	sixty ty four	s ɨ d s + a + a r β ə t	60 11 4		Voellmin2017Gumer
+65	Sebat_Bet_Gurage	sixty five	sɨdsa ammɨst	sɨdsaammɨst	s ɨ d s + a + a m m ɨ s t	sixty ty five	s ɨ d s + a + a m m ɨ s t	60 11 5		Voellmin2017Gumer
+66	Sebat_Bet_Gurage	sixty six	sɨdsa sɨddɨst	sɨdsasɨddɨst	s ɨ d s + a + s ɨ d d ɨ s t	sixty ty six	s ɨ d s + a + s ɨ d d ɨ s t	60 11 6		Voellmin2017Gumer
+67	Sebat_Bet_Gurage	sixty seven	sɨdsa səβat	sɨdsasəβat	s ɨ d s + a + s ə β a t	sixty ty seven	s ɨ d s + a + s ə β a t	60 11 7		Voellmin2017Gumer
+68	Sebat_Bet_Gurage	sixty eight	sɨdsa sɨmʷɨt	sɨdsasɨmʷɨt	s ɨ d s + a + s ɨ mʷ ɨ t	sixty ty eight	s ɨ d s + a + s ɨ mʷ ɨ t	60 11 8		Voellmin2017Gumer
+69	Sebat_Bet_Gurage	sixty nine	sɨdsa ʒətʼə	sɨdsaʒətʼə	s ɨ d s + a + ʒ ə tʼ ə	sixty ty nine	s ɨ d s + a + ʒ ə tʼ ə	60 11 9		Voellmin2017Gumer
+70	Sebat_Bet_Gurage	seventy	sɨβa	sɨβa	s ɨ β + a	seventy ty	s ɨ β + a	70 11		Voellmin2017Gumer
+71	Sebat_Bet_Gurage	seventy one	sɨβa at	sɨβaat	s ɨ β + a + a t	seventy ty one	s ɨ β + a + a t	70 11 1		Voellmin2017Gumer
+72	Sebat_Bet_Gurage	seventy two	sɨβa xʷet	sɨβaxʷet	s ɨ β + a + xʷ e t	seventy ty two	s ɨ β + a + xʷ e t	70 11 2		Voellmin2017Gumer
+73	Sebat_Bet_Gurage	seventy three	sɨβa sost	sɨβasost	s ɨ β + a + s o s t	seventy ty three	s ɨ β + a + s o s t	70 11 3		Voellmin2017Gumer
+74	Sebat_Bet_Gurage	seventy four	sɨβa arβət	sɨβaarβət	s ɨ β + a + a r β ə t	seventy ty four	s ɨ β + a + a r β ə t	70 11 4		Voellmin2017Gumer
+75	Sebat_Bet_Gurage	seventy five	sɨβa ammɨst	sɨβaammɨst	s ɨ β + a + a m m ɨ s t	seventy ty five	s ɨ β + a + a m m ɨ s t	70 11 5		Voellmin2017Gumer
+76	Sebat_Bet_Gurage	seventy six	sɨβa sɨddɨst	sɨβasɨddɨst	s ɨ β + a + s ɨ d d ɨ s t	seventy ty six	s ɨ β + a + s ɨ d d ɨ s t	70 11 6		Voellmin2017Gumer
+77	Sebat_Bet_Gurage	seventy seven	sɨβa səβat	sɨβasəβat	s ɨ β + a + s ə β a t	seventy ty seven	s ɨ β + a + s ə β a t	70 11 7		Voellmin2017Gumer
+78	Sebat_Bet_Gurage	seventy eight	sɨβa sɨmʷɨt	sɨβasɨmʷɨt	s ɨ β + a + s ɨ mʷ ɨ t	seventy ty eight	s ɨ β + a + s ɨ mʷ ɨ t	70 11 8		Voellmin2017Gumer
+79	Sebat_Bet_Gurage	seventy nine	sɨβa ʒətʼə	sɨβaʒətʼə	s ɨ β + a + ʒ ə tʼ ə	seventy ty nine	s ɨ β + a + ʒ ə tʼ ə	70 11 9		Voellmin2017Gumer
+80	Sebat_Bet_Gurage	eighty	sɨmra	sɨmra	s ɨ m r + a	eighty ty	s ɨ m r + a	80 11		Voellmin2017Gumer
+81	Sebat_Bet_Gurage	eighty one	sɨmra at	sɨmraat	s ɨ m r + a + a t	eighty ty one	s ɨ m r + a + a t	80 11 1		Voellmin2017Gumer
+82	Sebat_Bet_Gurage	eighty two	sɨmra xʷet	sɨmraxʷet	s ɨ m r + a + xʷ e t	eighty ty two	s ɨ m r + a + xʷ e t	80 11 2		Voellmin2017Gumer
+83	Sebat_Bet_Gurage	eighty three	sɨmra sost	sɨmrasost	s ɨ m r + a + s o s t	eighty ty three	s ɨ m r + a + s o s t	80 11 3		Voellmin2017Gumer
+84	Sebat_Bet_Gurage	eighty four	sɨmra arβət	sɨmraarβət	s ɨ m r + a + a r β ə t	eighty ty four	s ɨ m r + a + a r β ə t	80 11 4		Voellmin2017Gumer
+85	Sebat_Bet_Gurage	eighty five	sɨmra ammɨst	sɨmraammɨst	s ɨ m r + a + a m m ɨ s t	eighty ty five	s ɨ m r + a + a m m ɨ s t	80 11 5		Voellmin2017Gumer
+86	Sebat_Bet_Gurage	eighty six	sɨmra sɨddɨst	sɨmrasɨddɨst	s ɨ m r + a + s ɨ d d ɨ s t	eighty ty six	s ɨ m r + a + s ɨ d d ɨ s t	80 11 6		Voellmin2017Gumer
+87	Sebat_Bet_Gurage	eighty seven	sɨmra səβat	sɨmrasəβat	s ɨ m r + a + s ə β a t	eighty ty seven	s ɨ m r + a + s ə β a t	80 11 7		Voellmin2017Gumer
+88	Sebat_Bet_Gurage	eighty eight	sɨmra sɨmʷɨt	sɨmrasɨmʷɨt	s ɨ m r + a + s ɨ mʷ ɨ t	eighty ty eight	s ɨ m r + a + s ɨ mʷ ɨ t	80 11 8		Voellmin2017Gumer
+89	Sebat_Bet_Gurage	eighty nine	sɨmra ʒətʼə	sɨmraʒətʼə	s ɨ m r + a + ʒ ə tʼ ə	eighty ty nine	s ɨ m r + a + ʒ ə tʼ ə	80 11 9		Voellmin2017Gumer
+90	Sebat_Bet_Gurage	ninety	zɨtʼəra	zɨtʼəra	z ɨ tʼ ə r + a	ninety ty	z ɨ tʼ ə r + a	90 11		Voellmin2017Gumer
+91	Sebat_Bet_Gurage	ninety one	zɨtʼəra at	zɨtʼəraat	z ɨ tʼ ə r + a + a t	ninety ty one	z ɨ tʼ ə r + a + a t	90 11 1		Voellmin2017Gumer
+92	Sebat_Bet_Gurage	ninety two	zɨtʼəra xʷet	zɨtʼəraxʷet	z ɨ tʼ ə r + a + xʷ e t	ninety ty two	z ɨ tʼ ə r + a + xʷ e t	90 11 2		Voellmin2017Gumer
+93	Sebat_Bet_Gurage	ninety three	zɨtʼəra sost	zɨtʼərasost	z ɨ tʼ ə r + a + s o s t	ninety ty three	z ɨ tʼ ə r + a + s o s t	90 11 3		Voellmin2017Gumer
+94	Sebat_Bet_Gurage	ninety four	zɨtʼəra arβət	zɨtʼəraarβət	z ɨ tʼ ə r + a + a r β ə t	ninety ty four	z ɨ tʼ ə r + a + a r β ə t	90 11 4		Voellmin2017Gumer
+95	Sebat_Bet_Gurage	ninety five	zɨtʼəra ammɨst	zɨtʼəraammɨst	z ɨ tʼ ə r + a + a m m ɨ s t	ninety ty five	z ɨ tʼ ə r + a + a m m ɨ s t	90 11 5		Voellmin2017Gumer
+96	Sebat_Bet_Gurage	ninety six	zɨtʼəra sɨddɨst	zɨtʼərasɨddɨst	z ɨ tʼ ə r + a + s ɨ d d ɨ s t	ninety ty six	z ɨ tʼ ə r + a + s ɨ d d ɨ s t	90 11 6		Voellmin2017Gumer
+97	Sebat_Bet_Gurage	ninety seven	zɨtʼəra səβat	zɨtʼərasəβat	z ɨ tʼ ə r + a + s ə β a t	ninety ty seven	z ɨ tʼ ə r + a + s ə β a t	90 11 7		Voellmin2017Gumer
+98	Sebat_Bet_Gurage	ninety eight	zɨtʼəra sɨmʷɨt	zɨtʼərasɨmʷɨt	z ɨ tʼ ə r + a + s ɨ mʷ ɨ t	ninety ty eight	z ɨ tʼ ə r + a + s ɨ mʷ ɨ t	90 11 8		Voellmin2017Gumer
+99	Sebat_Bet_Gurage	ninety nine	zɨtʼəra ʒətʼə	zɨtʼəraʒətʼə	z ɨ tʼ ə r + a + ʒ ə tʼ ə	ninety ty nine	z ɨ tʼ ə r + a + ʒ ə tʼ ə	90 11 9		Voellmin2017Gumer
