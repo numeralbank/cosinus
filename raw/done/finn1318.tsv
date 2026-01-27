@@ -6,8 +6,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
 5	Finnish	five	viisi	ʋiːsi	ʋ iː s i	five	5		Finnish2018Karlsson
 6	Finnish	six	kuusi	kuːsi	k uː s i	six	6		Finnish2018Karlsson
 7	Finnish	seven	seitsemän	seitsemæn	s ei t s e m æ n	seven	7		Finnish2018Karlsson
-8	Finnish	eight	kahdeksan	kɑhdeksɑn	k ɑ h d e k s ɑ n	eight	8	the first part of the numeral is "2", but the second part is synchronically meanigless, hence I did not further segmented it	Finnish2018Karlsson
-9	Finnish	nine	yhdeksän	yhdeksæn	y h d e k s æ n	nine	9	the first part of the numeral is "1", but the second part is synchronically meanigless, hence I did not further segmented it	Finnish2018Karlsson
+8	Finnish	eight	kahdeksan	kɑhdeksɑn	k ɑ h d + e k s ɑ n	two2 ?	8 99	kahd- + -eksan by surface analysis, kahd- is a phonologically transparent allomorph kaht-, the inflectional stem suppleting the nominative form kaksi 'two'. Since kaks- > kaht- is not phonologically predictable, they are annotated as two morphemes.	Finnish2018Karlsson
+9	Finnish	nine	yhdeksän	yhdeksæn	y h d + e k s æ/ɑ n	one2 ?	9 99	yhd- + -eksän by surface analysis, yhd- is a phonologically transparent allomorph yht-, the inflectional stem suppleting the nominative form yksi 'one'. Since yks- > yht- is not phonologically predictable, they are annotated as two morphemes.	Finnish2018Karlsson
 10	Finnish	ten	kymmenen	kymːenen	k y mː e n + e n	ten nom_sg	10 11		Finnish2018Karlsson
 11	Finnish	eleven	yksitoista	yksitoistɑ	y k s i + t oi s t ɑ	one teen	1 12	/toistɑ/ fossilized suffix meaning "of the second"	Finnish2018Karlsson
 12	Finnish	twelve	kaksitoista	kɑksitoistɑ	k ɑ k s i + t oi s t ɑ	two teen	2 12		Finnish2018Karlsson
@@ -16,8 +16,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
 15	Finnish	fifteen	viisitoista	ʋiːsitoistɑ	ʋ iː s i + t oi s t ɑ	five teen	5 12		Finnish2018Karlsson
 16	Finnish	sixteen	kuusitoista	kuːsitoistɑ	k uː s i + t oi s t ɑ	six teen	6 12		Finnish2018Karlsson
 17	Finnish	seventeen	seitsemäntoista	seitsemæntoistɑ	s ei t s e m æ n + t oi s t ɑ	seven teen	7 12		Finnish2018Karlsson
-18	Finnish	eighteen	kahdeksantoista	kɑhdeksɑntoistɑ	k ɑ h d e k s ɑ n + t oi s t ɑ	eight teen	8 12		Finnish2018Karlsson
-19	Finnish	nineteen	yhdeksäntoista	yhdeksæntoistɑ	y h d e k s æ n + t oi s t ɑ	nine teen	9 12		Finnish2018Karlsson
+18	Finnish	eighteen	kahdeksantoista	kɑhdeksɑntoistɑ	k ɑ h d + e k s ɑ n + t oi s t ɑ	two2 ? teen	8 99 12		Finnish2018Karlsson
+19	Finnish	nineteen	yhdeksäntoista	yhdeksæntoistɑ	y h d + e k s æ/ɑ n + t oi s t ɑ	one2 ? teen	9 99 12		Finnish2018Karlsson
 20	Finnish	twenty	kaksikymmentä	kɑksikymːentæ	k ɑ k s i + k y mː e n + t æ	two ten part_sg	2 10 13		Finnish2018Karlsson
 21	Finnish	twenty one	kaksikymmentäyksi	kɑksikymːentæyksi	k ɑ k s i + k y mː e n + t æ + y k s i	two ten part_sg one	2 10 13 1		Finnish2018Karlsson
 22	Finnish	twenty two	kaksikymmentäkaksi	kɑksikymːentækɑksi	k ɑ k s i + k y mː e n + t æ + k ɑ k s i	two ten part_sg two	2 10 13 2		Finnish2018Karlsson
@@ -26,8 +26,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
 25	Finnish	twenty five	kaksikymmentäviisi	kɑksikymːentæʋiːsi	k ɑ k s i + k y mː e n + t æ + ʋ iː s i	two ten part_sg five	2 10 13 5		Finnish2018Karlsson
 26	Finnish	twenty six	kaksikymmentäkuusi	kɑksikymːentækuːsi	k ɑ k s i + k y mː e n + t æ + k uː s i	two ten part_sg six	2 10 13 6		Finnish2018Karlsson
 27	Finnish	twenty seven	kaksikymmentäseitsemän	kɑksikymːentæseitsemæn	k ɑ k s i + k y mː e n + t æ + s ei t s e m æ n	two ten part_sg seven	2 10 13 7		Finnish2018Karlsson
-28	Finnish	twenty eight	kaksikymmentäkahdeksan	kɑksikymːentækɑhdeksɑn	k ɑ k s i + k y mː e n + t æ + k ɑ h d e k s ɑ n	two ten part_sg eight	2 10 13 8		Finnish2018Karlsson
-29	Finnish	twenty nine	kaksikymmentäyhdeksän	kɑksikymːentæyhdeksæn	k ɑ k s i + k y mː e n + t æ + y h d e k s æ n	two ten part_sg nine	2 10 13 9		Finnish2018Karlsson
+28	Finnish	twenty eight	kaksikymmentäkahdeksan	kɑksikymːentækɑhdeksɑn	k ɑ k s i + k y mː e n + t æ + k ɑ h d + e k s ɑ n	two ten part_sg two2 ?	2 10 13 8 99		Finnish2018Karlsson
+29	Finnish	twenty nine	kaksikymmentäyhdeksän	kɑksikymːentæyhdeksæn	k ɑ k s i + k y mː e n + t æ + y h d + e k s æ/ɑ n	two ten part_sg one2 ?	2 10 13 9 99		Finnish2018Karlsson
 30	Finnish	thirty	kolmekymmentä	kolmekymːentæ	k o l m e + k y mː e n + t æ	three ten part_sg	3 10 13		Finnish2018Karlsson
 31	Finnish	thirty one	kolmekymmentäyksi	kolmekymːentæyksi	k o l m e + k y mː e n + t æ + y k s i	three ten part_sg one	3 10 13 1		Finnish2018Karlsson
 32	Finnish	thirty two	kolmekymmentäkaksi	kolmekymːentækɑksi	k o l m e + k y mː e n + t æ + k ɑ k s i	three ten part_sg two	3 10 13 2		Finnish2018Karlsson
@@ -36,8 +36,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
 35	Finnish	thirty five	kolmekymmentäviisi	kolmekymːentæʋiːsi	k o l m e + k y mː e n + t æ + ʋ iː s i	three ten part_sg five	3 10 13 5		Finnish2018Karlsson
 36	Finnish	thirty six	kolmekymmentäkuusi	kolmekymːentækuːsi	k o l m e + k y mː e n + t æ + k uː s i	three ten part_sg six	3 10 13 6		Finnish2018Karlsson
 37	Finnish	thirty seven	kolmekymmentäseitsemän	kolmekymːentæseitsemæn	k o l m e + k y mː e n + t æ + s ei t s e m æ n	three ten part_sg seven	3 10 13 7		Finnish2018Karlsson
-38	Finnish	thirty eight	kolmekymmentäkahdeksan	kolmekymːentækɑhdeksɑn	k o l m e + k y mː e n + t æ + k ɑ h d e k s ɑ n	three ten part_sg eight	3 10 13 8		Finnish2018Karlsson
-39	Finnish	thirty nine	kolmekymmentäyhdeksän	kolmekymːentæyhdeksæn	k o l m e + k y mː e n + t æ + y h d e k s æ n	three ten part_sg nine	3 10 13 9		Finnish2018Karlsson
+38	Finnish	thirty eight	kolmekymmentäkahdeksan	kolmekymːentækɑhdeksɑn	k o l m e + k y mː e n + t æ + k ɑ h d + e k s ɑ n	three ten part_sg two2 ?	3 10 13 8 99		Finnish2018Karlsson
+39	Finnish	thirty nine	kolmekymmentäyhdeksän	kolmekymːentæyhdeksæn	k o l m e + k y mː e n + t æ + y h d + e k s æ/ɑ n	three ten part_sg one2 ?	3 10 13 9 99		Finnish2018Karlsson
 40	Finnish	forty	neljäkymmentä	neljækymːentæ	n e l j æ + k y mː e n + t æ	four ten part_sg	4 10 13		Finnish2018Karlsson
 41	Finnish	forty one	neljäkymmentäyksi	neljækymːentæyksi	n e l j æ + k y mː e n + t æ + y k s i	four ten part_sg one	4 10 13 1		Finnish2018Karlsson
 42	Finnish	forty two	neljäkymmentäkaksi	neljækymːentækɑksi	n e l j æ + k y mː e n + t æ + k ɑ k s i	four ten part_sg two	4 10 13 2		Finnish2018Karlsson
@@ -46,8 +46,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
 45	Finnish	forty five	neljäkymmentäviisi	neljækymːentæʋiːsi	n e l j æ + k y mː e n + t æ + ʋ iː s i	four ten part_sg five	4 10 13 5		Finnish2018Karlsson
 46	Finnish	forty six	neljäkymmentäkuusi	neljækymːentækuːsi	n e l j æ + k y mː e n + t æ + k uː s i	four ten part_sg six	4 10 13 6		Finnish2018Karlsson
 47	Finnish	forty seven	neljäkymmentäseitsemän	neljækymːentæseitsemæn	n e l j æ + k y mː e n + t æ + s ei t s e m æ n	four ten part_sg seven	4 10 13 7		Finnish2018Karlsson
-48	Finnish	forty eight	neljäkymmentäkahdeksan	neljækymːentækɑhdeksɑn	n e l j æ + k y mː e n + t æ + k ɑ h d e k s ɑ n	four ten part_sg eight	4 10 13 8		Finnish2018Karlsson
-49	Finnish	forty nine	neljäkymmentäyhdeksän	neljækymːentæyhdeksæn	n e l j æ + k y mː e n + t æ + y h d e k s æ n	four ten part_sg nine	4 10 13 9		Finnish2018Karlsson
+48	Finnish	forty eight	neljäkymmentäkahdeksan	neljækymːentækɑhdeksɑn	n e l j æ + k y mː e n + t æ + k ɑ h d + e k s ɑ n	four ten part_sg two2 ?	4 10 13 8 99		Finnish2018Karlsson
+49	Finnish	forty nine	neljäkymmentäyhdeksän	neljækymːentæyhdeksæn	n e l j æ + k y mː e n + t æ + y h d + e k s æ/ɑ n	four ten part_sg one2 ?	4 10 13 9 99		Finnish2018Karlsson
 50	Finnish	fifty	viisikymmentä	ʋiːsikymːentæ	ʋ iː s i + k y mː e n + t æ	five ten part_sg	5 10 13		Finnish2018Karlsson
 51	Finnish	fifty one	viisikymmentäyksi	ʋiːsikymːentæyksi	ʋ iː s i + k y mː e n + t æ + y k s i	five ten part_sg one	5 10 13 1		Finnish2018Karlsson
 52	Finnish	fifty two	viisikymmentäkaksi	ʋiːsikymːentækɑksi	ʋ iː s i + k y mː e n + t æ + k ɑ k s i	five ten part_sg two	5 10 13 2		Finnish2018Karlsson
@@ -56,8 +56,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
 55	Finnish	fifty five	viisikymmentäviisi	ʋiːsikymːentæʋiːsi	ʋ iː s i + k y mː e n + t æ + ʋ iː s i	five ten part_sg five	5 10 13 5		Finnish2018Karlsson
 56	Finnish	fifty six	viisikymmentäkuusi	ʋiːsikymːentækuːsi	ʋ iː s i + k y mː e n + t æ + k uː s i	five ten part_sg six	5 10 13 6		Finnish2018Karlsson
 57	Finnish	fifty seven	viisikymmentäseitsemän	ʋiːsikymːentæseitsemæn	ʋ iː s i + k y mː e n + t æ + s ei t s e m æ n	five ten part_sg seven	5 10 13 7		Finnish2018Karlsson
-58	Finnish	fifty eight	viisikymmentäkahdeksan	ʋiːsikymːentækɑhdeksɑn	ʋ iː s i + k y mː e n + t æ + k ɑ h d e k s ɑ n	five ten part_sg eight	5 10 13 8		Finnish2018Karlsson
-59	Finnish	fifty nine	viisikymmentäyhdeksän	ʋiːsikymːentæyhdeksæn	ʋ iː s i + k y mː e n + t æ + y h d e k s æ n	five ten part_sg nine	5 10 13 9		Finnish2018Karlsson
+58	Finnish	fifty eight	viisikymmentäkahdeksan	ʋiːsikymːentækɑhdeksɑn	ʋ iː s i + k y mː e n + t æ + k ɑ h d + e k s ɑ n	five ten part_sg two2 ?	5 10 13 8 99		Finnish2018Karlsson
+59	Finnish	fifty nine	viisikymmentäyhdeksän	ʋiːsikymːentæyhdeksæn	ʋ iː s i + k y mː e n + t æ + y h d + e k s æ/ɑ n	five ten part_sg one2 ?	5 10 13 9 99		Finnish2018Karlsson
 60	Finnish	sixty	kuusikymmentä	kuːsikymːentæ	k uː s i + k y mː e n + t æ	six ten part_sg	6 10 13		Finnish2018Karlsson
 61	Finnish	sixty one	kuusikymmentäyksi	kuːsikymːentæyksi	k uː s i + k y mː e n + t æ + y k s i	six ten part_sg one	6 10 13 1		Finnish2018Karlsson
 62	Finnish	sixty two	kuusikymmentäkaksi	kuːsikymːentækɑksi	k uː s i + k y mː e n + t æ + k ɑ k s i	six ten part_sg two	6 10 13 2		Finnish2018Karlsson
@@ -66,8 +66,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
 65	Finnish	sixty five	kuusikymmentäviisi	kuːsikymːentæʋiːsi	k uː s i + k y mː e n + t æ + ʋ iː s i	six ten part_sg five	6 10 13 5		Finnish2018Karlsson
 66	Finnish	sixty six	kuusikymmentäkuusi	kuːsikymːentækuːsi	k uː s i + k y mː e n + t æ + k uː s i	six ten part_sg six	6 10 13 6		Finnish2018Karlsson
 67	Finnish	sixty seven	kuusikymmentäseitsemän	kuːsikymːentæseitsemæn	k uː s i + k y mː e n + t æ + s ei t s e m æ n	six ten part_sg seven	6 10 13 7		Finnish2018Karlsson
-68	Finnish	sixty eight	kuusikymmentäkahdeksan	kuːsikymːentækɑhdeksɑn	k uː s i + k y mː e n + t æ + k ɑ h d e k s ɑ n	six ten part_sg eight	6 10 13 8		Finnish2018Karlsson
-69	Finnish	sixty nine	kuusikymmentäyhdeksän	kuːsikymːentæyhdeksæn	k uː s i + k y mː e n + t æ + y h d e k s æ n	six ten part_sg nine	6 10 13 9		Finnish2018Karlsson
+68	Finnish	sixty eight	kuusikymmentäkahdeksan	kuːsikymːentækɑhdeksɑn	k uː s i + k y mː e n + t æ + k ɑ h d + e k s ɑ n	six ten part_sg two2 ?	6 10 13 8 99		Finnish2018Karlsson
+69	Finnish	sixty nine	kuusikymmentäyhdeksän	kuːsikymːentæyhdeksæn	k uː s i + k y mː e n + t æ + y h d + e k s æ/ɑ n	six ten part_sg one2 ?	6 10 13 9 99		Finnish2018Karlsson
 70	Finnish	seventy	seitsemänkymmentä	seitsemænkymːentæ	s ei t s e m æ n + k y mː e n + t æ	seven ten part_sg	7 10 13		Finnish2018Karlsson
 71	Finnish	seventy one	seitsemänkymmentäyksi	seitsemænkymːentæyksi	s ei t s e m æ n + k y mː e n + t æ + y k s i	seven ten part_sg one	7 10 13 1		Finnish2018Karlsson
 72	Finnish	seventy two	seitsemänkymmentäkaksi	seitsemænkymːentækɑksi	s ei t s e m æ n + k y mː e n + t æ + k ɑ k s i	seven ten part_sg two	7 10 13 2		Finnish2018Karlsson
@@ -76,25 +76,25 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	NOTE	SOURCE
 75	Finnish	seventy five	seitsemänkymmentäviisi	seitsemænkymːentæʋiːsi	s ei t s e m æ n + k y mː e n + t æ + ʋ iː s i	seven ten part_sg five	7 10 13 5		Finnish2018Karlsson
 76	Finnish	seventy six	seitsemänkymmentäkuusi	seitsemænkymːentækuːsi	s ei t s e m æ n + k y mː e n + t æ + k uː s i	seven ten part_sg six	7 10 13 6		Finnish2018Karlsson
 77	Finnish	seventy seven	seitsemänkymmentäseitsemän	seitsemænkymːentæseitsemæn	s ei t s e m æ n + k y mː e n + t æ + s ei t s e m æ n	seven ten part_sg seven	7 10 13 7		Finnish2018Karlsson
-78	Finnish	seventy eight	seitsemänkymmentäkahdeksan	seitsemænkymːentækɑhdeksɑn	s ei t s e m æ n + k y mː e n + t æ + k ɑ h d e k s ɑ n	seven ten part_sg eight	7 10 13 8		Finnish2018Karlsson
-79	Finnish	seventy nine	seitsemänkymmentäyhdeksän	seitsemænkymːentæyhdeksæn	s ei t s e m æ n + k y mː e n + t æ + y h d e k s æ n	seven ten part_sg nine	7 10 13 9		Finnish2018Karlsson
-80	Finnish	eighty	kahdeksankymmentä	kɑhdeksɑnkymːentæ	k ɑ h d e k s ɑ n + k y mː e n + t æ	eight ten part_sg	8 10 13		Finnish2018Karlsson
-81	Finnish	eighty one	kahdeksankymmentäyksi	kɑhdeksɑnkymːentæyksi	k ɑ h d e k s ɑ n + k y mː e n + t æ + y k s i	eight ten part_sg one	8 10 13 1		Finnish2018Karlsson
-82	Finnish	eighty two	kahdeksankymmentäkaksi	kɑhdeksɑnkymːentækɑksi	k ɑ h d e k s ɑ n + k y mː e n + t æ + k ɑ k s i	eight ten part_sg two	8 10 13 2		Finnish2018Karlsson
-83	Finnish	eighty three	kahdeksankymmentäkolme	kɑhdeksɑnkymːentækolme	k ɑ h d e k s ɑ n + k y mː e n + t æ + k o l m e	eight ten part_sg three	8 10 13 3		Finnish2018Karlsson
-84	Finnish	eighty four	kahdeksankymmentäneljä	kɑhdeksɑnkymːentæneljæ	k ɑ h d e k s ɑ n + k y mː e n + t æ + n e l j æ	eight ten part_sg four	8 10 13 4		Finnish2018Karlsson
-85	Finnish	eighty five	kahdeksankymmentäviisi	kɑhdeksɑnkymːentæʋiːsi	k ɑ h d e k s ɑ n + k y mː e n + t æ + ʋ iː s i	eight ten part_sg five	8 10 13 5		Finnish2018Karlsson
-86	Finnish	eighty six	kahdeksankymmentäkuusi	kɑhdeksɑnkymːentækuːsi	k ɑ h d e k s ɑ n + k y mː e n + t æ + k uː s i	eight ten part_sg six	8 10 13 6		Finnish2018Karlsson
-87	Finnish	eighty seven	kahdeksankymmentäseitsemän	kɑhdeksɑnkymːentæseitsemæn	k ɑ h d e k s ɑ n + k y mː e n + t æ + s ei t s e m æ n	eight ten part_sg seven	8 10 13 7		Finnish2018Karlsson
-88	Finnish	eighty eight	kahdeksankymmentäkahdeksan	kɑhdeksɑnkymːentækɑhdeksɑn	k ɑ h d e k s ɑ n + k y mː e n + t æ + k ɑ h d e k s ɑ n	eight ten part_sg eight	8 10 13 8		Finnish2018Karlsson
-89	Finnish	eighty nine	kahdeksankymmentäyhdeksän	kɑhdeksɑnkymːentæyhdeksæn	k ɑ h d e k s ɑ n + k y mː e n + t æ + y h d e k s æ n	eight ten part_sg nine	8 10 13 9		Finnish2018Karlsson
-90	Finnish	ninety	yhdeksänkymmentä	yhdeksænkymːentæ	y h d e k s æ n + k y mː e n + t æ	nine ten part_sg	9 10 13		Finnish2018Karlsson
-91	Finnish	ninety one	yhdeksänkymmentäyksi	yhdeksænkymːentæyksi	y h d e k s æ n + k y mː e n + t æ + y k s i	nine ten part_sg one	9 10 13 1		Finnish2018Karlsson
-92	Finnish	ninety two	yhdeksänkymmentäkaksi	yhdeksænkymːentækɑksi	y h d e k s æ n + k y mː e n + t æ + k ɑ k s i	nine ten part_sg two	9 10 13 2		Finnish2018Karlsson
-93	Finnish	ninety three	yhdeksänkymmentäkolme	yhdeksænkymːentækolme	y h d e k s æ n + k y mː e n + t æ + k o l m e	nine ten part_sg three	9 10 13 3		Finnish2018Karlsson
-94	Finnish	ninety four	yhdeksänkymmentäneljä	yhdeksænkymːentæneljæ	y h d e k s æ n + k y mː e n + t æ + n e l j æ	nine ten part_sg four	9 10 13 4		Finnish2018Karlsson
-95	Finnish	ninety five	yhdeksänkymmentäviisi	yhdeksænkymːentæʋiːsi	y h d e k s æ n + k y mː e n + t æ + ʋ iː s i	nine ten part_sg five	9 10 13 5		Finnish2018Karlsson
-96	Finnish	ninety six	yhdeksänkymmentäkuusi	yhdeksænkymːentækuːsi	y h d e k s æ n + k y mː e n + t æ + k uː s i	nine ten part_sg six	9 10 13 6		Finnish2018Karlsson
-97	Finnish	ninety seven	yhdeksänkymmentäseitsemän	yhdeksænkymːentæseitsemæn	y h d e k s æ n + k y mː e n + t æ + s ei t s e m æ n	nine ten part_sg seven	9 10 13 7		Finnish2018Karlsson
-98	Finnish	ninety eight	yhdeksänkymmentäkahdeksan	yhdeksænkymːentækɑhdeksɑn	y h d e k s æ n + k y mː e n + t æ + k ɑ h d e k s ɑ n	nine ten part_sg eight	9 10 13 8		Finnish2018Karlsson
-99	Finnish	ninety nine	yhdeksänkymmentäyhdeksän	yhdeksænkymːentæyhdeksæn	y h d e k s æ n + k y mː e n + t æ + y h d e k s æ n	nine ten part_sg nine	9 10 13 9		Finnish2018Karlsson
+78	Finnish	seventy eight	seitsemänkymmentäkahdeksan	seitsemænkymːentækɑhdeksɑn	s ei t s e m æ n + k y mː e n + t æ + k ɑ h d + e k s ɑ n	seven ten part_sg two2 ?	7 10 13 8 99		Finnish2018Karlsson
+79	Finnish	seventy nine	seitsemänkymmentäyhdeksän	seitsemænkymːentæyhdeksæn	s ei t s e m æ n + k y mː e n + t æ + y h d + e k s æ/ɑ n	seven ten part_sg one2 ?	7 10 13 9 99		Finnish2018Karlsson
+80	Finnish	eighty	kahdeksankymmentä	kɑhdeksɑnkymːentæ	k ɑ h d + e k s ɑ n + k y mː e n + t æ	two2 ? ten part_sg	8 99 10 13		Finnish2018Karlsson
+81	Finnish	eighty one	kahdeksankymmentäyksi	kɑhdeksɑnkymːentæyksi	k ɑ h d + e k s ɑ n + k y mː e n + t æ + y k s i	two2 ? ten part_sg one	8 99 10 13 1		Finnish2018Karlsson
+82	Finnish	eighty two	kahdeksankymmentäkaksi	kɑhdeksɑnkymːentækɑksi	k ɑ h d + e k s ɑ n + k y mː e n + t æ + k ɑ k s i	two2 ? ten part_sg two	8 99 10 13 2		Finnish2018Karlsson
+83	Finnish	eighty three	kahdeksankymmentäkolme	kɑhdeksɑnkymːentækolme	k ɑ h d + e k s ɑ n + k y mː e n + t æ + k o l m e	two2 ? ten part_sg three	8 99 10 13 3		Finnish2018Karlsson
+84	Finnish	eighty four	kahdeksankymmentäneljä	kɑhdeksɑnkymːentæneljæ	k ɑ h d + e k s ɑ n + k y mː e n + t æ + n e l j æ	two2 ? ten part_sg four	8 99 10 13 4		Finnish2018Karlsson
+85	Finnish	eighty five	kahdeksankymmentäviisi	kɑhdeksɑnkymːentæʋiːsi	k ɑ h d + e k s ɑ n + k y mː e n + t æ + ʋ iː s i	two2 ? ten part_sg five	8 99 10 13 5		Finnish2018Karlsson
+86	Finnish	eighty six	kahdeksankymmentäkuusi	kɑhdeksɑnkymːentækuːsi	k ɑ h d + e k s ɑ n + k y mː e n + t æ + k uː s i	two2 ? ten part_sg six	8 99 10 13 6		Finnish2018Karlsson
+87	Finnish	eighty seven	kahdeksankymmentäseitsemän	kɑhdeksɑnkymːentæseitsemæn	k ɑ h d + e k s ɑ n + k y mː e n + t æ + s ei t s e m æ n	two2 ? ten part_sg seven	8 99 10 13 7		Finnish2018Karlsson
+88	Finnish	eighty eight	kahdeksankymmentäkahdeksan	kɑhdeksɑnkymːentækɑhdeksɑn	k ɑ h d + e k s ɑ n + k y mː e n + t æ + k ɑ h d + e k s ɑ n	two2 ? ten part_sg two2 ?	8 99 10 13 8 99		Finnish2018Karlsson
+89	Finnish	eighty nine	kahdeksankymmentäyhdeksän	kɑhdeksɑnkymːentæyhdeksæn	k ɑ h d + e k s ɑ n + k y mː e n + t æ + y h d + e k s æ/ɑ n	two2 ? ten part_sg one2 ?	8 99 10 13 9 99		Finnish2018Karlsson
+90	Finnish	ninety	yhdeksänkymmentä	yhdeksænkymːentæ	y h d + e k s æ/ɑ n + k y mː e n + t æ	one2 ? ten part_sg	9 99 10 13		Finnish2018Karlsson
+91	Finnish	ninety one	yhdeksänkymmentäyksi	yhdeksænkymːentæyksi	y h d + e k s æ/ɑ n + k y mː e n + t æ + y k s i	one2 ? ten part_sg one	9 99 10 13 1		Finnish2018Karlsson
+92	Finnish	ninety two	yhdeksänkymmentäkaksi	yhdeksænkymːentækɑksi	y h d + e k s æ/ɑ n + k y mː e n + t æ + k ɑ k s i	one2 ? ten part_sg two	9 99 10 13 2		Finnish2018Karlsson
+93	Finnish	ninety three	yhdeksänkymmentäkolme	yhdeksænkymːentækolme	y h d + e k s æ/ɑ n + k y mː e n + t æ + k o l m e	one2 ? ten part_sg three	9 99 10 13 3		Finnish2018Karlsson
+94	Finnish	ninety four	yhdeksänkymmentäneljä	yhdeksænkymːentæneljæ	y h d + e k s æ/ɑ n + k y mː e n + t æ + n e l j æ	one2 ? ten part_sg four	9 99 10 13 4		Finnish2018Karlsson
+95	Finnish	ninety five	yhdeksänkymmentäviisi	yhdeksænkymːentæʋiːsi	y h d + e k s æ/ɑ n + k y mː e n + t æ + ʋ iː s i	one2 ? ten part_sg five	9 99 10 13 5		Finnish2018Karlsson
+96	Finnish	ninety six	yhdeksänkymmentäkuusi	yhdeksænkymːentækuːsi	y h d + e k s æ/ɑ n + k y mː e n + t æ + k uː s i	one2 ? ten part_sg six	9 99 10 13 6		Finnish2018Karlsson
+97	Finnish	ninety seven	yhdeksänkymmentäseitsemän	yhdeksænkymːentæseitsemæn	y h d + e k s æ/ɑ n + k y mː e n + t æ + s ei t s e m æ n	one2 ? ten part_sg seven	9 99 10 13 7		Finnish2018Karlsson
+98	Finnish	ninety eight	yhdeksänkymmentäkahdeksan	yhdeksænkymːentækɑhdeksɑn	y h d + e k s æ/ɑ n + k y mː e n + t æ + k ɑ h d + e k s ɑ n	one2 ? ten part_sg two2 ?	9 99 10 13 8 99		Finnish2018Karlsson
+99	Finnish	ninety nine	yhdeksänkymmentäyhdeksän	yhdeksænkymːentæyhdeksæn	y h d + e k s æ/ɑ n + k y mː e n + t æ + y h d + e k s æ/ɑ n	one2 ? ten part_sg one2 ?	9 99 10 13 9 99		Finnish2018Karlsson

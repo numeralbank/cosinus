@@ -13,8 +13,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	LOCAL_ID	TOKENS	MORPHEMES	COGIDS	ALIGNMENT	NOTE	S
 12	Latin	twelve	duodecim	dʊɔdɛkɪ̃		d ʊ ɔ + d ɛ k ɪ̃/ɛ -/m	two ten	4 8	d ʊ ɔ + d ɛ k ɪ̃/ɛ -/m	None	Dellert2020
 13	Latin	thirteen	tredecim	treːdɛkɪ̃		t r eː -/s + d ɛ k ɪ̃/ɛ -/m	three ten	1 8	t r eː -/s + d ɛ k ɪ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
 14	Latin	fourteen	quattuordecim	kʷatːʊɔrdɛkɪ̃		kʷ a tː ʊ ɔ r + d ɛ k ɪ̃/ɛ -/m	four ten	9 8	kʷ a tː ʊ ɔ r + d ɛ k ɪ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
-15	Latin	fifteen	quindecim	kʷiːndɛkɪ̃		kʷ iː n/ŋ -/kʷ -/ɛ + d ɛ k ɪ̃/ɛ -/m	five ten	3 8	kʷ iː n/ŋ -/kʷ -/ɛ + d ɛ k ɪ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
-16	Latin	sixteen	sedecim	seːdɛkɪ̃		s eː/ɛ -/k -/s + d ɛ k ɪ̃/ɛ -/m	six ten	12 8	s eː/ɛ -/k -/s + d ɛ k ɪ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
+15	Latin	fifteen	quindecim	kʷiːndɛkɪ̃		kʷ iː n + d ɛ k ɪ̃/ɛ -/m	five2 ten	51 8	kʷ iː n/ŋ -/kʷ -/ɛ + d ɛ k ɪ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
+16	Latin	sixteen	sedecim	seːdɛkɪ̃		s eː + d ɛ k ɪ̃/ɛ -/m	six2 ten	61 8	s eː/ɛ -/k -/s + d ɛ k ɪ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
 17	Latin	seventeen	septendecim	sɛptɛndɛkɪ̃		s ɛ p t ɛ n/m + d ɛ k ɪ̃/ɛ -/m	seven ten	13 8	s ɛ p t ɛ n/m + d ɛ k ɪ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
 18	Latin	eighteen	duodeviginti	dʊodeːwiːɡɪntiː		d ʊ ɔ + d eː + w iː g ɪ n t iː	two from twenty	4 10 6	d ʊ ɔ + d eː + w iː g ɪ n t iː	None	Dellert2020;Rubenbauer1995
 19	Latin	nineteen	undeviginti	ʊndeːwiːɡɪntiː		ʊ/uː n + d eː + w iː g ɪ n t iː	one from twenty	2 10 6	ʊ/uː n + d eː + w iː g ɪ n t iː	None	Dellert2020;Rubenbauer1995
@@ -36,16 +36,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	LOCAL_ID	TOKENS	MORPHEMES	COGIDS	ALIGNMENT	NOTE	S
 35	Latin	thirty five	triginta quinque	triːɡɪntaː_kʷiːŋkʷɛ		t r iː/eː -/s + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	three tens_suff five	1 5 3	t r iː/eː -/s + g ɪ n t aː + kʷ iː ŋ kʷ - ɛ	None	Dellert2020;Rubenbauer1995
 36	Latin	thirty six	triginta sex	triːɡɪntaː_sɛks		t r iː/eː -/s + g ɪ n t aː + s ɛ k s	three tens_suff six	1 5 12	t r iː/eː -/s + g ɪ n t aː + s ɛ k - s -	None	Dellert2020;Rubenbauer1995
 37	Latin	thirty seven	triginta septem	triːɡɪntaː_sɛptɛ̃		t r iː/eː -/s + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	three tens_suff seven	1 5 13	t r iː/eː -/s + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
-38	Latin	thirty eight	duodequadraginta	dʊodeːkʷadraːɡɪntaː		d ʊ ɔ + d eː + kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	two from four a-epenthesis tens_suff	4 10 9 14 5	d ʊ ɔ + d eː + kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
-39	Latin	thirty nine	undequadraginta	ʊndeːkʷadraːɡɪntaː		ʊ/uː n + d eː + kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	one from four a-epenthesis tens_suff	2 10 9 14 5	ʊ/uː n + d eː + kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
-40	Latin	forty	quadraginta	kʷadraːɡɪntaː		kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	four a-epenthesis tens_suff	9 14 5	kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː	None	Dellert2020
-41	Latin	forty one	quadraginta unus	kʷadraːɡɪntaː_uːnʊs		kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + uː n + ʊ s	four a-epenthesis tens_suff one nom.m.sg_suff	9 14 5 2 11	kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + uː n + ʊ s	None	Dellert2020;Rubenbauer1995
-42	Latin	forty two	quadraginta duo	kʷadraːɡɪntaː_dʊɔ		kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + d ʊ ɔ	four a-epenthesis tens_suff two	9 14 5 4	kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + d ʊ ɔ	None	Dellert2020;Rubenbauer1995
-43	Latin	forty three	quadraginta tres	kʷadraːɡɪntaː_treːs		kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + t r eː s	four a-epenthesis tens_suff three	9 14 5 1	kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + t r eː s	None	Dellert2020;Rubenbauer1995
-44	Latin	forty four	quadraginta quattuor	kʷadraːɡɪntaː_kʷatːʊɔr		kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + kʷ a tː ʊ ɔ r	four a-epenthesis tens_suff four	9 14 5 9	kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + kʷ a tː ʊ ɔ r	None	Dellert2020;Rubenbauer1995
-45	Latin	forty five	quadraginta quinque	kʷadraːɡɪntaː_kʷiːŋkʷɛ		kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	four a-epenthesis tens_suff five	9 14 5 3	kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	None	Dellert2020;Rubenbauer1995
-46	Latin	forty six	quadraginta sex	kʷadraːɡɪntaː_sɛks		kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + s ɛ k s	four a-epenthesis tens_suff six	9 14 5 12	kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + s ɛ k s	None	Dellert2020;Rubenbauer1995
-47	Latin	forty seven	quadraginta septem	kʷadraːɡɪntaː_sɛptɛ̃		kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	four a-epenthesis tens_suff seven	9 14 5 13	kʷ a d/tː -/ʊ -/ɔ r + aː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
+38	Latin	thirty eight	duodequadraginta	dʊodeːkʷadraːɡɪntaː		d ʊ ɔ + d eː + kʷ a d r + aː + g ɪ n t aː	two from four2 a-epenthesis tens_suff	4 10 41 14 5	d ʊ ɔ + d eː + kʷ a d r + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
+39	Latin	thirty nine	undequadraginta	ʊndeːkʷadraːɡɪntaː		ʊ/uː n + d eː + kʷ a d r + aː + g ɪ n t aː	one from four2 a-epenthesis tens_suff	2 10 41 14 5	ʊ/uː n + d eː + kʷ a d r + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
+40	Latin	forty	quadraginta	kʷadraːɡɪntaː		kʷ a d r + aː + g ɪ n t aː	four2 a-epenthesis tens_suff	41 14 5	kʷ a d r + aː + g ɪ n t aː	None	Dellert2020
+41	Latin	forty one	quadraginta unus	kʷadraːɡɪntaː_uːnʊs		kʷ a d r + aː + g ɪ n t aː + uː n + ʊ s	four2 a-epenthesis tens_suff one nom.m.sg_suff	41 14 5 2 11	kʷ a d r + aː + g ɪ n t aː + uː n + ʊ s	None	Dellert2020;Rubenbauer1995
+42	Latin	forty two	quadraginta duo	kʷadraːɡɪntaː_dʊɔ		kʷ a d r + aː + g ɪ n t aː + d ʊ ɔ	four2 a-epenthesis tens_suff two	41 14 5 4	kʷ a d r + aː + g ɪ n t aː + d ʊ ɔ	None	Dellert2020;Rubenbauer1995
+43	Latin	forty three	quadraginta tres	kʷadraːɡɪntaː_treːs		kʷ a d r + aː + g ɪ n t aː + t r eː s	four2 a-epenthesis tens_suff three	41 14 5 1	kʷ a d r + aː + g ɪ n t aː + t r eː s	None	Dellert2020;Rubenbauer1995
+44	Latin	forty four	quadraginta quattuor	kʷadraːɡɪntaː_kʷatːʊɔr		kʷ a d r + aː + g ɪ n t aː + kʷ a tː ʊ ɔ r	four2 a-epenthesis tens_suff four	41 14 5 9	kʷ a d r + aː + g ɪ n t aː + kʷ a tː ʊ ɔ r	None	Dellert2020;Rubenbauer1995
+45	Latin	forty five	quadraginta quinque	kʷadraːɡɪntaː_kʷiːŋkʷɛ		kʷ a d r + aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	four2 a-epenthesis tens_suff five	41 14 5 3	kʷ a d r + aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	None	Dellert2020;Rubenbauer1995
+46	Latin	forty six	quadraginta sex	kʷadraːɡɪntaː_sɛks		kʷ a d r + aː + g ɪ n t aː + s ɛ k s	four2 a-epenthesis tens_suff six	41 14 5 12	kʷ a d r + aː + g ɪ n t aː + s ɛ k s	None	Dellert2020;Rubenbauer1995
+47	Latin	forty seven	quadraginta septem	kʷadraːɡɪntaː_sɛptɛ̃		kʷ a d r + aː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	four2 a-epenthesis tens_suff seven	41 14 5 13	kʷ a d r + aː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
 48	Latin	forty eight	duodequinquaginta	dʊodeːkʷiːŋkʷaːɡiːntaː		d ʊ ɔ + d eː + kʷ iː ŋ kʷ -/ɛ + aː + g ɪ n t aː	two from five a-epenthesis tens_suff	4 10 3 14 5	d ʊ ɔ + d eː + kʷ iː ŋ kʷ -/ɛ + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
 49	Latin	forty nine	undequinquaginta	ʊndeːkʷiːŋkʷaːɡiːntaː		ʊ/uː n + d eː + kʷ iː ŋ kʷ -/ɛ + aː + g ɪ n t aː	one from five a-epenthesis tens_suff	2 10 3 14 5	ʊ/uː n + d eː + kʷ iː ŋ kʷ -/ɛ + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
 50	Latin	fifty	quinquaginta	kʷiːŋkʷaːɡiːntaː		kʷ iː ŋ kʷ -/ɛ + aː + g ɪ n t aː	five a-epenthesis tens_suff	3 14 5	kʷ iː ŋ kʷ -/ɛ + aː + g ɪ n t aː	None	Dellert2020
@@ -86,15 +86,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	LOCAL_ID	TOKENS	MORPHEMES	COGIDS	ALIGNMENT	NOTE	S
 85	Latin	eighty five	octoginta quinque	ɔktoːɡɪntaː_kʷiːŋkʷɛ		ɔ k t oː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	eight tens_suff five	15 5 3	ɔ k t oː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	None	Dellert2020;Rubenbauer1995
 86	Latin	eighty six	octoginta sex	ɔktoːɡɪntaː_sɛks		ɔ k t oː + g ɪ n t aː + s ɛ k s	eight tens_suff six	15 5 12	ɔ k t oː + g ɪ n t aː + s ɛ k s	None	Dellert2020;Rubenbauer1995
 87	Latin	eighty seven	octoginta septem	ɔktoːɡɪntaː_sɛptɛ̃		ɔ k t oː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	eight tens_suff seven	15 5 13	ɔ k t oː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
-88	Latin	eighty eight	duodenonaginta	dʊodeːnoːnaːɡɪntaː		d ʊ ɔ + d eː + n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː	two from nine a-epenthesis tens_suff	4 10 7 14 5	d ʊ ɔ + d eː + n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
-89	Latin	eighty nine	undenonaginta	ʊndeːnoːnaːɡɪntaː		ʊ/uː n + d eː + n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː	one from nine a-epenthesis tens_suff	2 10 7 14 5	ʊ/uː n + d eː + n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
-90	Latin	ninety	nonaginta	noːnaːɡɪntaː		n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː	nine a-epenthesis tens_suff	7 14 5	n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː	None	Dellert2020
-91	Latin	ninety one	nonaginta unus	noːnaːɡɪntaː_uːnʊs		n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + uː n + ʊ s	nine a-epenthesis tens_suff one nom.m.sg_suff	7 14 5 2 11	n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + uː n + ʊ s	None	Dellert2020;Rubenbauer1995
-92	Latin	ninety two	nonaginta duo	noːnaːɡɪntaː_dʊɔ		n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + d ʊ ɔ	nine a-epenthesis tens_suff two	7 14 5 4	n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + d ʊ ɔ	None	Dellert2020;Rubenbauer1995
-93	Latin	ninety three	nonaginta tres	noːnaːɡɪntaː_treːs		n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + t r eː s	nine a-epenthesis tens_suff three	7 14 5 1	n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + t r eː s	None	Dellert2020;Rubenbauer1995
-94	Latin	ninety four	nonaginta quattuor	noːnaːɡɪntaː_kʷatːʊɔr		n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + kʷ a tː ʊ ɔ r	nine a-epenthesis tens_suff four	7 14 5 9	n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + kʷ a tː ʊ ɔ r	None	Dellert2020;Rubenbauer1995
-95	Latin	ninety five	nonaginta quinque	noːnaːɡɪntaː_kʷiːŋkʷɛ		n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	nine a-epenthesis tens_suff five	7 14 5 3	n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	None	Dellert2020;Rubenbauer1995
-96	Latin	ninety six	nonaginta sex	noːnaːɡɪntaː_sɛks		n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + s ɛ k s	nine a-epenthesis tens_suff six	7 14 5 12	n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + s ɛ k s	None	Dellert2020;Rubenbauer1995
-97	Latin	ninety seven	nonaginta septem	noːnaːɡɪntaː_sɛptɛ̃		n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	nine a-epenthesis tens_suff seven	7 14 5 13	n oː/ɔ -/w -/ɛ n/m + aː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
+88	Latin	eighty eight	duodenonaginta	dʊodeːnoːnaːɡɪntaː		d ʊ ɔ + d eː + n oː n + aː + g ɪ n t aː	two from nine2 a-epenthesis tens_suff	4 10 91 14 5	d ʊ ɔ + d eː + n oː n + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
+89	Latin	eighty nine	undenonaginta	ʊndeːnoːnaːɡɪntaː		ʊ/uː n + d eː + n oː n + aː + g ɪ n t aː	one from nine2 a-epenthesis tens_suff	2 10 91 14 5	ʊ/uː n + d eː + n oː n + aː + g ɪ n t aː	None	Dellert2020;Rubenbauer1995
+90	Latin	ninety	nonaginta	noːnaːɡɪntaː		n oː n + aː + g ɪ n t aː	nine2 a-epenthesis tens_suff	91 14 5	n oː n + aː + g ɪ n t aː	None	Dellert2020
+91	Latin	ninety one	nonaginta unus	noːnaːɡɪntaː_uːnʊs		n oː n + aː + g ɪ n t aː + uː n + ʊ s	nine2 a-epenthesis tens_suff one nom.m.sg_suff	91 14 5 2 11	n oː n + aː + g ɪ n t aː + uː n + ʊ s	None	Dellert2020;Rubenbauer1995
+92	Latin	ninety two	nonaginta duo	noːnaːɡɪntaː_dʊɔ		n oː n + aː + g ɪ n t aː + d ʊ ɔ	nine2 a-epenthesis tens_suff two	91 14 5 4	n oː n + aː + g ɪ n t aː + d ʊ ɔ	None	Dellert2020;Rubenbauer1995
+93	Latin	ninety three	nonaginta tres	noːnaːɡɪntaː_treːs		n oː n + aː + g ɪ n t aː + t r eː s	nine2 a-epenthesis tens_suff three	91 14 5 1	n oː n + aː + g ɪ n t aː + t r eː s	None	Dellert2020;Rubenbauer1995
+94	Latin	ninety four	nonaginta quattuor	noːnaːɡɪntaː_kʷatːʊɔr		n oː n + aː + g ɪ n t aː + kʷ a tː ʊ ɔ r	nine2 a-epenthesis tens_suff four	91 14 5 9	n oː n + aː + g ɪ n t aː + kʷ a tː ʊ ɔ r	None	Dellert2020;Rubenbauer1995
+95	Latin	ninety five	nonaginta quinque	noːnaːɡɪntaː_kʷiːŋkʷɛ		n oː n + aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	nine2 a-epenthesis tens_suff five	91 14 5 3	n oː n + aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ	None	Dellert2020;Rubenbauer1995
+96	Latin	ninety six	nonaginta sex	noːnaːɡɪntaː_sɛks		n oː n + aː + g ɪ n t aː + s ɛ k s	nine2 a-epenthesis tens_suff six	91 14 5 12	n oː n + aː + g ɪ n t aː + s ɛ k s	None	Dellert2020;Rubenbauer1995
+97	Latin	ninety seven	nonaginta septem	noːnaːɡɪntaː_sɛptɛ̃		n oː n + aː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	nine2 a-epenthesis tens_suff seven	91 14 5 13	n oː n + aː + g ɪ n t aː + s ɛ p t ɛ̃/ɛ -/m	None	Dellert2020;Rubenbauer1995
 98	Latin	ninety eight	duodecentum	dʊodeːkɛntʊ̃		d ʊ ɔ + d eː + k ɛ n t ʊ̃	two from hundred	4 10 16	d ʊ ɔ + d eː + k ɛ n t ʊ̃	None	Dellert2020;Rubenbauer1995
 99	Latin	ninety nine	undecentum	ʊndeːkɛntʊ̃		ʊ/uː n + d eː + k ɛ n t ʊ̃	one from hundred	2 10 16	ʊ/uː n + d eː + k ɛ n t ʊ̃	None	Dellert2020;Rubenbauer1995

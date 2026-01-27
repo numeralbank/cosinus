@@ -9,15 +9,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 8	Irish	eight	ocht	ɔxt̪ˠ	ɔ x t̪ˠ	eight	ɔ x t̪ˠ	8		Dellert2020;Focloir_Scoile1998
 9	Irish	nine	naoi	n̪ˠiː	n̪ˠ iː	nine	n̪ˠ iː	9		Dellert2020;Focloir_Scoile1998
 10	Irish	ten	deich	dʲɛç	dʲ ɛ ç	ten	dʲ ɛ ç	11		Dellert2020;Focloir_Scoile1998
-11	Irish	eleven	aon déag	eːnˠdʲeːg	eː nˠ + dʲ eː/ɛ g/ç	one ten	eː nˠ + dʲ eː/ɛ g/ç	1 11		Focloir_Scoile1998;Heggarty2024
-12	Irish	twelve	dó dhéag	d̪ˠoːjeːg	d̪ˠ oː + j/dʲ eː/ɛ g/ç	two ten	d̪ˠ oː + j/dʲ eː/ɛ g/ç	2 11		Focloir_Scoile1998;Heggarty2024
-13	Irish	thirteen	trí déag	tʲɾʲiːdʲeːg	tʲ ɾʲ iː + dʲ eː/ɛ g/ç	three ten	tʲ ɾʲ iː + dʲ eː/ɛ g/ç	3 11		Focloir_Scoile1998;Heggarty2024
-14	Irish	fourteen	ceathair déag	cahəɾʲjeːg	c a h ə ɾʲ + dʲ eː/ɛ g/ç	four ten	c a h ə ɾʲ + dʲ eː/ɛ g/ç	4 11		Focloir_Scoile1998
-15	Irish	fifteen	cúig déag	kuːɟdʲeːg	k uː ɟ + dʲ eː/ɛ g/ç	five ten	k uː ɟ + dʲ eː/ɛ g/ç	5 11		Focloir_Scoile1998
-16	Irish	sixteen	sé déag	ʃeːdʲeːg	ʃ eː + dʲ eː/ɛ g/ç	six ten	ʃ eː + dʲ eː/ɛ g/ç	6 11		Dellert2020;Focloir_Scoile1998
-17	Irish	seventeen	seacht déag	ʃaxt̪ˠdʲeːg	ʃ a x t̪ˠ + dʲ eː/ɛ g/ç	seven ten	ʃ a x t̪ˠ + dʲ eː/ɛ g/ç	7 11		Dellert2020;Focloir_Scoile1998
-18	Irish	eighteen	ocht déag	ɔxt̪ˠdʲeːg	ɔ x t̪ˠ + dʲ eː/ɛ g/ç	eight ten	ɔ x t̪ˠ + dʲ eː/ɛ g/ç	8 11		Dellert2020;Focloir_Scoile1998
-19	Irish	nineteen	naoi déag	n̪ˠiːdʲeːg	n̪ˠ iː + dʲ eː/ɛ g/ç	nine ten	n̪ˠ iː + dʲ eː/ɛ g/ç	9 11		Dellert2020;Focloir_Scoile1998
+11	Irish	eleven	aon déag	eːnˠdʲeːg	eː nˠ + dʲ eː g	one ten2	eː nˠ + dʲ eː g	1 111		Focloir_Scoile1998;Heggarty2024
+12	Irish	twelve	dó dhéag	d̪ˠoːjeːg	d̪ˠ oː + j/dʲ eː g	two ten2	d̪ˠ oː + j/dʲ eː g	2 111		Focloir_Scoile1998;Heggarty2024
+13	Irish	thirteen	trí déag	tʲɾʲiːdʲeːg	tʲ ɾʲ iː + dʲ eː g	three ten2	tʲ ɾʲ iː + dʲ eː g	3 111		Focloir_Scoile1998;Heggarty2024
+14	Irish	fourteen	ceathair déag	cahəɾʲjeːg	c a h ə ɾʲ + dʲ eː g	four ten2	c a h ə ɾʲ + dʲ eː g	4 111		Focloir_Scoile1998
+15	Irish	fifteen	cúig déag	kuːɟdʲeːg	k uː ɟ + dʲ eː g	five ten2	k uː ɟ + dʲ eː g	5 111		Focloir_Scoile1998
+16	Irish	sixteen	sé déag	ʃeːdʲeːg	ʃ eː + dʲ eː g	six ten2	ʃ eː + dʲ eː g	6 111		Dellert2020;Focloir_Scoile1998
+17	Irish	seventeen	seacht déag	ʃaxt̪ˠdʲeːg	ʃ a x t̪ˠ + dʲ eː g	seven ten2	ʃ a x t̪ˠ + dʲ eː g	7 111		Dellert2020;Focloir_Scoile1998
+18	Irish	eighteen	ocht déag	ɔxt̪ˠdʲeːg	ɔ x t̪ˠ + dʲ eː g	eight ten2	ɔ x t̪ˠ + dʲ eː g	8 111		Dellert2020;Focloir_Scoile1998
+19	Irish	nineteen	naoi déag	n̪ˠiːdʲeːg	n̪ˠ iː + dʲ eː g	nine ten2	n̪ˠ iː + dʲ eː g	9 111		Dellert2020;Focloir_Scoile1998
 20	Irish	twenty	fiche	fʲɪçə	fʲ ɪ ç ə	twenty	fʲ ɪ ç ə	20		Dellert2020;Focloir_Scoile1998
 21	Irish	twenty one	fiche a haon	fʲɪçəheːnˠ	fʲ ɪ ç -/ə + ə + h/- eː nˠ	twenty numeral_particle one	fʲ ɪ ç -/ə + ə + h/- eː nˠ	20 15 1		Dellert2020;Focloir_Scoile1998;Heggarty2024
 22	Irish	twenty two	fiche a dó	fʲɪçəd̪ˠoː	fʲ ɪ ç -/ə + ə + d̪ˠ oː	twenty numeral_particle two	fʲ ɪ ç -/ə + ə + d̪ˠ oː	20 15 2		Dellert2020;Focloir_Scoile1998;Heggarty2024

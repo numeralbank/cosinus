@@ -27,7 +27,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 26	Siraiki	twenty six	chavī	ʧʰ a + ʋ iː -/h	six1 twenty	ʧʰ a + ʋ iː	36 54		BashirConnersSiraiki2019
 27	Siraiki	twenty seven	satāvī	s a t aː + ʋ iː -/h	seven1 twenty	s a t aː + ʋ iː	32 54		BashirConnersSiraiki2019
 28	Siraiki	twenty eight	aṭhāvī	a ʈʰ aː + ʋ iː -/h	eight1 twenty	a ʈʰ aː + ʋ iː	2 54		BashirConnersSiraiki2019
-29	Siraiki	twenty nine	unattrī	u n + a t t r iː	minus thirty1	u n + a t t r iː	21 46		BashirConnersSiraiki2019
+29	Siraiki	twenty nine	unattrī	u n + a tː r iː	minus thirty1	u n + a tː r iː	21 46		BashirConnersSiraiki2019
 30	Siraiki	thirty	trīh	t r iː h	thirty	t r iː h	45	/-h/ -> 0 in polysyllables?	BashirConnersSiraiki2019
 31	Siraiki	thirty one	ikatrī	i k a + t r iː -/h	one3 thirty	i k a + t r iː	30 45		BashirConnersSiraiki2019
 32	Siraiki	thirty two	ɓatrī	ɓ a + t r iː -/h	two2 thirty	ɓ a + t r iː	57 45	Difficult to establish that long ɓ aː and short ɓ a are phonological alternants due to stress or the following segment … ɓ aː + ʋ iː and ɓ a + t r iː both have initial stress (I think), and short a is found in ɓ a + ʋ a n ʤʰ aː	BashirConnersSiraiki2019
@@ -35,8 +35,8 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 34	Siraiki	thirty four	caɔ̃trī	ʧ a ɔ̃ + t r iː -/h	four5 thirty	ʧ a ɔ̃ + t r iː	19 45		BashirConnersSiraiki2019
 35	Siraiki	thirty five	pæntrī	p æ n + t r iː -/h	five5 thirty	p æ n + t r iː	11 45		BashirConnersSiraiki2019
 36	Siraiki	thirty six	chatrī	ʧʰ a + t r iː -/h	six1 thirty	ʧʰ a + t r iː	36 45		BashirConnersSiraiki2019
-37	Siraiki	thirty seven	satattrī	s a -/t + a t t r iː	seven thirty1	s a t + a t t r iː	31 46	Seems to be unpredictable allomorphy, cf. 47	BashirConnersSiraiki2019
-38	Siraiki	thirty eight	aṭhattrī	a ʈʰ + a t t r iː	eight thirty1	a ʈʰ + a t t r iː	1 46		BashirConnersSiraiki2019
+37	Siraiki	thirty seven	satattrī	s a -/t + a tː r iː	seven thirty1	s a t + a tː r iː	31 46	Seems to be unpredictable allomorphy, cf. 47	BashirConnersSiraiki2019
+38	Siraiki	thirty eight	aṭhattrī	a ʈʰ + a tː r iː	eight thirty1	a ʈʰ + a tː r iː	1 46		BashirConnersSiraiki2019
 39	Siraiki	thirty nine	untālī	u n + t aː l iː	minus forty	u n + t aː l iː	21 12		BashirConnersSiraiki2019
 40	Siraiki	forty	calī	ʧ a l iː	forty2	ʧ a l iː	13		BashirConnersSiraiki2019
 41	Siraiki	forty one	iktālī	i k + t aː l iː	one forty	i k + t aː l iː	27 12		BashirConnersSiraiki2019
@@ -67,18 +67,18 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 66	Siraiki	sixty six	chiæṭh	ʧʰ i + æ ʈʰ	six sixty	ʧʰ i + æ ʈʰ	35 38		BashirConnersSiraiki2019
 67	Siraiki	sixty seven	satæṭh	s a t + æ ʈʰ	seven sixty	s a t + æ ʈʰ	31 38		BashirConnersSiraiki2019
 68	Siraiki	sixty eight	aṭhæṭh	a ʈʰ + æ ʈʰ	eight sixty	a ʈʰ + æ ʈʰ	1 38		BashirConnersSiraiki2019
-69	Siraiki	sixty nine	unhattar	u n + h a t t a r	minus seventy	u n + h a t t a r	21 33		BashirConnersSiraiki2019
-70	Siraiki	seventy	sattar	s a t t a r	seventy2	s a t t a r	34		BashirConnersSiraiki2019
-71	Siraiki	seventy one	ikhattar	i k + h a t t a r	one seventy	i k + h a t t a r	27 33	Orthography (p. 170) suggests k+h rather than aspirated kh	BashirConnersSiraiki2019
-72	Siraiki	seventy two	ɓahattar	ɓ a + h a t t a r	two2 seventy	ɓ a + h a t t a r	57 33		BashirConnersSiraiki2019
-73	Siraiki	seventy three	tihattar	t i + h a t t a r	three4 seventy	t i + h a t t a r	51 33		BashirConnersSiraiki2019
-74	Siraiki	seventy four	cuhattar	ʧ u + h a t t a r	four1 seventy	ʧ u + h a t t a r	15 33		BashirConnersSiraiki2019
-75	Siraiki	seventy five	panjhattar	p a n ʤʰ/ʤ + -/h a t t a r	five seventy	p a n ʤʰ + a t t a r	6 33	Orthography (p. 171) suggests breathy-voice jh, rather than j+h. However, given the behavior of ik-hattar, etc. it doesn’t seem justifiable to treat these as phonologically unpredictable allomorphs	BashirConnersSiraiki2019
-76	Siraiki	seventy six	chihattar	ʧʰ i + h a t t a r	six seventy	ʧʰ i + h a t t a r	35 33		BashirConnersSiraiki2019
-77	Siraiki	seventy seven	satattar	s a t + -/h a t t a r	seven seventy	s a t + a t t a r	31 33	Same concern as for p a n ʤʰ + a t t a r	BashirConnersSiraiki2019
-78	Siraiki	seventy eight	aṭhattar	a ʈʰ + -/h a t t a r	eight seventy	a ʈʰ + a t t a r	1 33	Same concern as for p a n ʤʰ + a t t a r	BashirConnersSiraiki2019
+69	Siraiki	sixty nine	unhattar	u n + h a tː a r	minus seventy	u n + h a tː a r	21 33		BashirConnersSiraiki2019
+70	Siraiki	seventy	sattar	s a tː a r	seventy2	s a tː a r	34		BashirConnersSiraiki2019
+71	Siraiki	seventy one	ikhattar	i k + h a tː a r	one seventy	i k + h a tː a r	27 33	Orthography (p. 170) suggests k+h rather than aspirated kh	BashirConnersSiraiki2019
+72	Siraiki	seventy two	ɓahattar	ɓ a + h a tː a r	two2 seventy	ɓ a + h a tː a r	57 33		BashirConnersSiraiki2019
+73	Siraiki	seventy three	tihattar	t i + h a tː a r	three4 seventy	t i + h a tː a r	51 33		BashirConnersSiraiki2019
+74	Siraiki	seventy four	cuhattar	ʧ u + h a tː a r	four1 seventy	ʧ u + h a tː a r	15 33		BashirConnersSiraiki2019
+75	Siraiki	seventy five	panjhattar	p a n ʤʰ/ʤ + -/h a tː a r	five seventy	p a n ʤʰ + a tː a r	6 33	Orthography (p. 171) suggests breathy-voice jh, rather than j+h. However, given the behavior of ik-hattar, etc. it doesn’t seem justifiable to treat these as phonologically unpredictable allomorphs	BashirConnersSiraiki2019
+76	Siraiki	seventy six	chihattar	ʧʰ i + h a tː a r	six seventy	ʧʰ i + h a tː a r	35 33		BashirConnersSiraiki2019
+77	Siraiki	seventy seven	satattar	s a t + -/h a tː a r	seven seventy	s a t + a tː a r	31 33	Same concern as for p a n ʤʰ + a tː a r	BashirConnersSiraiki2019
+78	Siraiki	seventy eight	aṭhattar	a ʈʰ + -/h a tː a r	eight seventy	a ʈʰ + a tː a r	1 33	Same concern as for p a n ʤʰ + a tː a r	BashirConnersSiraiki2019
 79	Siraiki	seventy nine	unāsī	u n + aː s iː	minus eighty	u n + aː s iː	21 3		BashirConnersSiraiki2019
-80	Siraiki	eighty	asī	aː s iː	eighty	a s iː	3	Not exactly clear what conditions length variation, but plausible phonological (prosodic?)	BashirConnersSiraiki2019
+80	Siraiki	eighty	asī	a/aː s iː	eighty	a s iː	3	Not exactly clear what conditions length variation, but plausible phonological (prosodic?)	BashirConnersSiraiki2019
 81	Siraiki	eighty one	ikāsī	i k + aː s iː	one eighty	i k + aː s iː	27 3		BashirConnersSiraiki2019
 82	Siraiki	eighty two	ɓiāsī	ɓ i + aː s iː	two eighty	ɓ i + aː s iː	55 3		BashirConnersSiraiki2019
 83	Siraiki	eighty three	tirāsī	t i r + aː s iː	three eighty	t i r + aː s iː	47 3		BashirConnersSiraiki2019
@@ -88,7 +88,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 87	Siraiki	eighty seven	satāsī	s a t + aː s iː	seven eighty	s a t + aː s iː	31 3		BashirConnersSiraiki2019
 88	Siraiki	eighty eight	aṭhāsī	a ʈʰ + aː s iː	eight eighty	a ʈʰ + aː s iː	1 3		BashirConnersSiraiki2019
 89	Siraiki	eighty nine	unānve	u n + aː n ʋ e	minus ninety	u n + aː n ʋ e	21 24		BashirConnersSiraiki2019
-90	Siraiki	ninety	navve	n a ʋ ʋ e	ninety1	n a ʋ ʋ e	25		BashirConnersSiraiki2019
+90	Siraiki	ninety	navve	n a ʋ ʋ e	ninety1	n a ʋː e	25		BashirConnersSiraiki2019
 91	Siraiki	ninety one	ikānve	i k + aː n ʋ e	one ninety	i k + aː n ʋ e	27 24		BashirConnersSiraiki2019
 92	Siraiki	ninety two	ɓiānve	ɓ i + aː n ʋ e	two ninety	ɓ i + aː n ʋ e	55 24		BashirConnersSiraiki2019
 93	Siraiki	ninety three	triānve	t r i + aː n ʋ e	three3 ninety	t r i + aː n ʋ e	50 24		BashirConnersSiraiki2019
@@ -97,4 +97,4 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 96	Siraiki	ninety six	chiānve	ʧʰ i + aː n ʋ e	six ninety	ʧʰ i + aː n ʋ e	35 24		BashirConnersSiraiki2019
 97	Siraiki	ninety seven	satānve	s a t + aː n ʋ e	seven ninety	s a t + aː n ʋ e	31 24		BashirConnersSiraiki2019
 98	Siraiki	ninety eight	aṭhānve	a ʈʰ + aː n ʋ e	eight ninety	a ʈʰ + aː n ʋ e	1 24		BashirConnersSiraiki2019
-99	Siraiki	ninety nine	niranve	n i r + a n ʋ e	nine ninety2	n i r + a n ʋ e	22 26		BashirConnersSiraiki2019
+99	Siraiki	ninety nine	niranve	n i r + a/aː n ʋ e	nine ninety	n i r + a n ʋ e	22 24		BashirConnersSiraiki2019

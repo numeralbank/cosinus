@@ -38,16 +38,16 @@ ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 37	Spanish	THIRTY SEVEN	37	treinta y siete	tɾeintaisjete	t ɾ e -/s + i/e n t a + i + s j e t e	three tenstep and seven	3 17 16 7	OpenDictData2025span;Manczak1985
 38	Spanish	THIRTY EIGHT	38	treinta y ocho	tɾeintajotʃo	t ɾ e -/s + i/e n t a + j/i + o tʃ o	three tenstep and eight	3 17 16 8	OpenDictData2025span;Manczak1985
 39	Spanish	THIRTY NINE	39	treinta y nueve	tɾeintainweβe	t ɾ e -/s + i/e n t a + i + n w e β e	three tenstep and nine	3 17 16 9	OpenDictData2025span;Manczak1985
-40	Spanish	FORTY	40	cuarenta	kwaɾenta	k w a -/t ɾ -/o + e n t a	four tenstep	4 17	OpenDictData2025span
-41	Spanish	FORTY ONE	41	cuarenta y uno	kwaɾentajuno	k w a -/t ɾ -/o + e n t a + j/i + u n + o	four tenstep and one mask_flex	4 17 16 1 18	OpenDictData2025span;Manczak1985
-42	Spanish	FORTY TWO	42	cuarenta y dos	kwaɾentaiðos	k w a -/t ɾ -/o + e n t a + i + ð o s	four tenstep and two	4 17 16 2	OpenDictData2025span;Manczak1985
-43	Spanish	FORTY THREE	43	cuarenta y tres	kwaɾentaitɾes	k w a -/t ɾ -/o + e n t a + i + t ɾ e s	four tenstep and three	4 17 16 3	OpenDictData2025span;Manczak1985
-44	Spanish	FORTY FOUR	44	cuarenta y cuatro	kwaɾentaikwatɾo	k w a -/t ɾ -/o + e n t a + i + k w a t ɾ o	four tenstep and four	4 17 16 4	OpenDictData2025span;Manczak1985
-45	Spanish	FORTY FIVE	45	cuarenta y cinco	kwaɾentaiθiŋko	k w a -/t ɾ -/o + e n t a + i + θ i ŋ k o	four tenstep and five	4 17 16 5	OpenDictData2025span;Manczak1985
-46	Spanish	FORTY SIX	46	cuarenta y seis	kwaɾentaiseis	k w a -/t ɾ -/o + e n t a + i + s ei s	four tenstep and six	4 17 16 6	OpenDictData2025span;Manczak1985
-47	Spanish	FORTY SEVEN	47	cuarenta y siete	kwaɾentaisjete	k w a -/t ɾ -/o + e n t a + i + s j e t e	four tenstep and seven	4 17 16 7	OpenDictData2025span;Manczak1985
-48	Spanish	FORTY EIGHT	48	cuarenta y ocho	kwaɾentajotʃo	k w a -/t ɾ -/o + e n t a + j/i + o tʃ o	four tenstep and eight	4 17 16 8	OpenDictData2025span;Manczak1985
-49	Spanish	FORTY NINE	49	cuarenta y nueve	kwaɾentainweβe	k w a -/t ɾ -/o + e n t a + i + n w e β e	four tenstep and nine	4 17 16 9	OpenDictData2025span;Manczak1985
+40	Spanish	FORTY	40	cuarenta	kwaɾenta	k w a ɾ + e n t a	four2 tenstep	41 17	OpenDictData2025span
+41	Spanish	FORTY ONE	41	cuarenta y uno	kwaɾentajuno	k w a ɾ + e n t a + j/i + u n + o	four2 tenstep and one mask_flex	41 17 16 1 18	OpenDictData2025span;Manczak1985
+42	Spanish	FORTY TWO	42	cuarenta y dos	kwaɾentaiðos	k w a ɾ + e n t a + i + ð o s	four2 tenstep and two	41 17 16 2	OpenDictData2025span;Manczak1985
+43	Spanish	FORTY THREE	43	cuarenta y tres	kwaɾentaitɾes	k w a ɾ + e n t a + i + t ɾ e s	four2 tenstep and three	41 17 16 3	OpenDictData2025span;Manczak1985
+44	Spanish	FORTY FOUR	44	cuarenta y cuatro	kwaɾentaikwatɾo	k w a ɾ + e n t a + i + k w a t ɾ o	four2 tenstep and four	41 17 16 4	OpenDictData2025span;Manczak1985
+45	Spanish	FORTY FIVE	45	cuarenta y cinco	kwaɾentaiθiŋko	k w a ɾ + e n t a + i + θ i ŋ k o	four2 tenstep and five	41 17 16 5	OpenDictData2025span;Manczak1985
+46	Spanish	FORTY SIX	46	cuarenta y seis	kwaɾentaiseis	k w a ɾ + e n t a + i + s ei s	four2 tenstep and six	41 17 16 6	OpenDictData2025span;Manczak1985
+47	Spanish	FORTY SEVEN	47	cuarenta y siete	kwaɾentaisjete	k w a ɾ + e n t a + i + s j e t e	four2 tenstep and seven	41 17 16 7	OpenDictData2025span;Manczak1985
+48	Spanish	FORTY EIGHT	48	cuarenta y ocho	kwaɾentajotʃo	k w a ɾ + e n t a + j/i + o tʃ o	four2 tenstep and eight	41 17 16 8	OpenDictData2025span;Manczak1985
+49	Spanish	FORTY NINE	49	cuarenta y nueve	kwaɾentainweβe	k w a ɾ + e n t a + i + n w e β e	four2 tenstep and nine	41 17 16 9	OpenDictData2025span;Manczak1985
 50	Spanish	FIFTY	50	cincuenta	θiŋkwenta	θ i ŋ k w/o + e n t a	five tenstep	5 17	OpenDictData2025span;Manczak1985
 51	Spanish	FIFTY ONE	51	cincuenta y uno	θiŋkwentajuno	θ i ŋ k w/o + e n t a + j/i + u n + o	five tenstep and one mask_flex	5 17 16 1 18	OpenDictData2025span;Manczak1985
 52	Spanish	FIFTY TWO	52	cincuenta y dos	θiŋkwentaiðos	θ i ŋ k w/o + e n t a + i + ð o s	five tenstep and two	5 17 16 2	OpenDictData2025span;Manczak1985

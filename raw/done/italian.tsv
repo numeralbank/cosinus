@@ -38,16 +38,16 @@ ID	DOCULECT	CONCEPT	NUMBER	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	SOURCE
 37	Italian	THIRTY SEVEN	37	trentasette	trentasetːe	t r e + -/a n t a + s ɛ tː e	three tenstep seven	3 14 7	Dellert2020;Manczak1985
 38	Italian	THIRTY EIGHT	38	trentotto	trentaotːo	t r e + -/a n t a + ɔ tː o	three tenstep eight	3 14 8	Dellert2020;Manczak1985
 39	Italian	THIRTY NINE	39	trentanove	trentanove	t r e + -/a n t a + n ɔ v e	three tenstep nine	3 14 9	Dellert2020;Manczak1985
-40	Italian	FORTY	40	quaranta	kwaranta	k w a -/tː r -/o - + a n t a	four tenstep	4 14	Dellert2020
-41	Italian	FORTY ONE	41	quarantuno	kwarantu:no	k w a -/tː r -/o - + a n t -/a + uː/u n + o	four tenstep one mask_flex	4 14 1 15	Dellert2020
-42	Italian	FORTY TWO	42	quarantadue	kwarantadue	k w a -/tː r -/o - + a n t a + d u e	four tenstep two	4 14 2	Dellert2020
-43	Italian	FORTY THREE	43	quarantatré	kwarantatre	k w a -/tː r -/o - + a n t a + t r e	four tenstep three	4 14 3	Dellert2020
-44	Italian	FORTY FOUR	44	quarantaquattro	kwarantakwat:ro	k w a -/tː r -/o - + a n t a + k w a tː r o	four tenstep four	4 14 4	Dellert2020
-45	Italian	FORTY FIVE	45	quarantacinque	kwarantat͡ʃinkwe	k w a -/tː r -/o - + a n t a + tʃ i ŋ k w e	four tenstep five	4 14 5	Dellert2020
-46	Italian	FORTY SIX	46	quarantasei	kwarantasei	k w a -/tː r -/o - + a n t a + s ɛ j	four tenstep six	4 14 6	Dellert2020
-47	Italian	FORTY SEVEN	47	quarantasette	kwarantaset:e	k w a -/tː r -/o - + a n t a + s ɛ tː e	four tenstep seven	4 14 7	Dellert2020
-48	Italian	FORTY EIGHT	48	quarantotto	kwarantot:o	k w a -/tː r -/o - + a n t -/a + ɔ tː o	four tenstep eight	4 14 8	Dellert2020
-49	Italian	FORTY NINE	49	quarantanove	kwarantanove	k w a -/tː r -/o - + a n t a + n ɔ v e	four tenstep nine	4 14 9	Dellert2020
+40	Italian	FORTY	40	quaranta	kwaranta	k w a r + a n t a	four2 tenstep	41 14	Dellert2020
+41	Italian	FORTY ONE	41	quarantuno	kwarantu:no	k w a r + a n t -/a + uː/u n + o	four2 tenstep one mask_flex	41 14 1 15	Dellert2020
+42	Italian	FORTY TWO	42	quarantadue	kwarantadue	k w a r + a n t a + d u e	four2 tenstep two	41 14 2	Dellert2020
+43	Italian	FORTY THREE	43	quarantatré	kwarantatre	k w a r + a n t a + t r e	four2 tenstep three	41 14 3	Dellert2020
+44	Italian	FORTY FOUR	44	quarantaquattro	kwarantakwat:ro	k w a r + a n t a + k w a tː r o	four2 tenstep four	41 14 4	Dellert2020
+45	Italian	FORTY FIVE	45	quarantacinque	kwarantat͡ʃinkwe	k w a r + a n t a + tʃ i ŋ k w e	four2 tenstep five	41 14 5	Dellert2020
+46	Italian	FORTY SIX	46	quarantasei	kwarantasei	k w a r + a n t a + s ɛ j	four2 tenstep six	41 14 6	Dellert2020
+47	Italian	FORTY SEVEN	47	quarantasette	kwarantaset:e	k w a r + a n t a + s ɛ tː e	four2 tenstep seven	41 14 7	Dellert2020
+48	Italian	FORTY EIGHT	48	quarantotto	kwarantot:o	k w a r + a n t -/a + ɔ tː o	four2 tenstep eight	41 14 8	Dellert2020
+49	Italian	FORTY NINE	49	quarantanove	kwarantanove	k w a r + a n t a + n ɔ v e	four2 tenstep nine	41 14 9	Dellert2020
 50	Italian	FIFTY	50	cinquanta	t͡ʃinkwanta	tʃ i ŋ k w -/e + a n t a	five tenstep	5 14	Dellert2020
 51	Italian	FIFTY ONE	51	cinquantuno	t͡ʃinkwantuno	tʃ i ŋ k w -/e + a n t -/a + u:/u n + o	five tenstep one mask_flex	5 14 1 15	Dellert2020
 52	Italian	FIFTY TWO	52	cinquantadue	t͡ʃinkwantadue	tʃ i ŋ k w -/e + a n t a + d u e	five tenstep two	5 14 2	Dellert2020
