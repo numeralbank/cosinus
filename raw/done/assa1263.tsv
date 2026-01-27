@@ -1,100 +1,100 @@
-ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
-1	Assamese	one	এক	ɛk	ɛ k	one	ɛ k	1		Assamese
-2	Assamese	two	দুই	dui	d u i	two/dui	d u i	2		Assamese
-3	Assamese	three	তিনি	tini	t i/ɛ n/- i/-	three	t i/ɛ n/- i/-	3		Assamese
-4	Assamese	four	চাৰি	sari	s a/o ɹ/- i/u	four	s a/o ɹ/- i/u	4		Assamese
-5	Assamese	five	পাঁচ	pãs	p ã/ɔ s/n	five	p ã/ɔ s/n	5		Assamese
-6	Assamese	six	ছয়	sai	s a i	six	s a i	6		Assamese
-7	Assamese	seven	সাত	xat	x a t	seven	x a t	7		Assamese
-8	Assamese	eight	আঠ	atʰ	a tʰ	eight	a tʰ	8		Assamese
-9	Assamese	nine	ন	nɔ	n ɔ	nine	n ɔ	9		Assamese
-10	Assamese	ten	দহ	dɔɦ	d ɔ ɦ	ten	d ɔ ɦ	14		Assamese
-11	Assamese	eleven	এঘাৰ	ɛk ɹɔ	ɛ k + ɹ/r ɔ	one teen	ɛ k + ɹ/r ɔ	1 90		Assamese
-12	Assamese	twelve	বাৰ	barɔ	b a + r ɔ	two/ba teen	b a + r ɔ	12 90		Assamese
-13	Assamese	thirteen	তেৰ	tɛrɔ	t + ɛ/- r ɔ	three2 teen	t + ɛ/- r ɔ	13 90		Assamese
-14	Assamese	fourteen	চৈধ্য	sɔiddʰɔ	s ɔ/o i/u + d/- dʰ ɔ	four teen2	s ɔ/o i/u + d/- dʰ ɔ	4 91		Assamese
-15	Assamese	fifteen	পোন্ধৰ	pɔndʰɔrɔ	p ɔ n + dʰ ɔ + r ɔ	five teen2 teen	p ɔ n + dʰ ɔ + r ɔ	5 91 90		Assamese
-16	Assamese	sixteen	ষোল্ল	xɔllɔ	x/s ɔ/a -/i + r ɔ	six teen	x/s ɔ/a -/i + r ɔ	6 90		Assamese
-17	Assamese	seventeen	সোতৰ	xɔtɔrɔ	x ɔ/a t + ɔ/- r ɔ	seven teen	x ɔ/a t + ɔ/- r ɔ	7 90		Assamese
-18	Assamese	eighteen	ওঁঠৰ	ɔtʰɔrɔ	ɔ/a tʰ + ɔ/- r ɔ	eight teen	ɔ/a tʰ + ɔ/- r ɔ	8 90		Assamese
-19	Assamese	nineteen	ঊনৈছ	unnih	u n + o i h	minus twenty1	u n + o i h	99 20	alternate form for 20 in ois	Assamese
-20	Assamese	twenty	বিছ	bis	b i s	twenty3	b i s	98		Assamese
-21	Assamese	twenty one	একৈছ	ekois	ɛ k + o/- i s	one twenty2	ɛ k + o/- i s	1 11		Assamese
-22	Assamese	twenty two	বাইছ	bais	b a + i s	two/ba twenty2	b a + i s	12 11	analysed here as ois not bis due to lack of /b/	Assamese
-23	Assamese	twenty three	তেইছ	teis	t e/ɛ + i s	three twenty2	t e/ɛ + i s	3 11		Assamese
-24	Assamese	twenty four	চৌব্বিছ	soubbis	s o u + b/- b i s	four twenty3	s o u + b/- b i s	4 98	bis as the tens place occurs after 23	Assamese
-25	Assamese	twenty five	পঁচিছ	pɔsis	p ɔ s/n + i s	five twenty2	p ɔ s/n + i s	5 11		Assamese
-26	Assamese	twenty six	ছাব্বিছ	sabbis	s a -/i + b/- b i s	six twenty3	s a -/i + b/- b i s	6 98		Assamese
-27	Assamese	twenty seven	সাতাইছ	xatais	x a t + a/- i s	seven twenty2	x a t + a/- i s	7 11		Assamese
-28	Assamese	twenty eight	আঁঠাইছ	atʰais	a tʰ + a/- i s	eight twenty2	a tʰ + a/- i s	8 11		Assamese
-29	Assamese	twenty nine	উনত্ৰিছ	untɹis	u n + t ɹ i s	minus thirty	u n + t ɹ i s	99 30		Assamese
-30	Assamese	thirty	ত্ৰিছ	tɹis	t ɹ i s	thirty	t ɹ i s	30		Assamese
-31	Assamese	thirty one	একত্ৰিছ	ɛk tɹis	ɛ k + t ɹ i s	one thirty	ɛ k + t ɹ i s	1 30		Assamese
-32	Assamese	thirty two	বত্ৰিছ	bɔtɹis	b ɔ/a + t ɹ i s	two/ba thirty	b ɔ/a + t ɹ i s	12 30		Assamese
-33	Assamese	thirty three	তেত্ৰিছ	tɛtɹis	t ɛ + t ɹ i s	three thirty	t ɛ + t ɹ i s	3 30		Assamese
-34	Assamese	thirty four	চৌত্ৰিছ	soutɹis	s o u + t ɹ i s	four thirty	s o u + t ɹ i s	4 30		Assamese
-35	Assamese	thirty five	পয়ত্ৰিছ	pɔitɹis	p ɔ i/n + t ɹ i s	five thirty	p ɔ i/n + t ɹ i s	5 30		Assamese
-36	Assamese	thirty six	ছয়ত্ৰিছ	saintɹis	s a i n/- + t ɹ i s	six thirty	s a i n/- + t ɹ i s	6 30		Assamese
-37	Assamese	thirty seven	সাতত্ৰিছ	xatɔtɹis	x a t + ɔ/- t ɹ i s	seven thirty	x a t + ɔ/- t ɹ i s	7 30		Assamese
-38	Assamese	thirty eight	আঠত্ৰিছ	atʰɔtɹis	a tʰ + ɔ/- t ɹ i s	eight thirty	a tʰ + ɔ/- t ɹ i s	8 30		Assamese
-39	Assamese	thirty nine	ঊনচল্লিছ	unsɔllis	u n + s ɔ l l i s	minus forty	u n + s ɔ l l i s	99 40		Assamese
-40	Assamese	forty	চল্লিছ	sɔllis	s ɔ l l i s	forty	s ɔ l l i s	40		Assamese
-41	Assamese	forty one	একচল্লিশ	ɛk sɔllis	ɛ k + s ɔ l l i s	one forty	ɛ k + s ɔ l l i s	1 40		Assamese
-42	Assamese	forty two	বিয়াল্লিশ	bij allis	b i j + a l l i s	two/ba forty	b i j + a l l i s	12 40		Assamese
-43	Assamese	forty three	তেতাল্লিশ	tet allis	t e t + a l l i s	three forty	t e t + a l l i s	3 40		Assamese
-44	Assamese	forty four	চুয়াল্লিশ	su allis	s u + a l l i s	four forty	s u + a l l i s	4 40		Assamese
-45	Assamese	forty five	পঁয়তাল্লিশ	pɔ̃ja tallis	p ɔ ̃ j a + t a l l i s	five forty	p ɔ ̃ j a + t a l l i s	5 40		Assamese
-46	Assamese	forty six	ছিয়াল্লিশ	sij allis	s i j + a l l i s	six forty	s i j + a l l i s	6 40		Assamese
-47	Assamese	forty seven	সাতচল্লিশ	xat sɔllis	x a t + s ɔ l l i s	seven forty	x a t + s ɔ l l i s	7 40		Assamese
-48	Assamese	forty eight	আটচল্লিশ	atʰ sɔllis	a tʰ + s ɔ l l i s	eight forty	a tʰ + s ɔ l l i s	8 40		Assamese
-49	Assamese	forty nine	ঊনপঞ্চাশ	un pɔntʃaʃ	u n + p ɔ n tʃ a ʃ	minus fifty	u n + p ɔ n tʃ a ʃ	99 50		Assamese
-50	Assamese	fifty	পঞ্চাশ	pɔntʃaʃ	p ɔ n tʃ a ʃ	fifty	p ɔ n tʃ a ʃ	50		Assamese
-51	Assamese	fifty one	একাৱন্ন	ɛk abɔnɔ	ɛ k + a b ɔ n ɔ	one fifty	ɛ k + a b ɔ n ɔ	1 50		Assamese
-52	Assamese	fifty two	বাহান্ন	bah anɔ	b a h + a n ɔ	two/ba fifty	b a h + a n ɔ	12 50		Assamese
-53	Assamese	fifty three	তিপ্পান্ন	tip anɔ	t i p + a n ɔ	three fifty	t i p + a n ɔ	3 50		Assamese
-54	Assamese	fifty four	চুয়ান্ন	su anɔ	s u + a n ɔ	four fifty	s u + a n ɔ	4 50		Assamese
-55	Assamese	fifty five	পঞ্চান্ন	pɔntʃ anɔ	p ɔ n tʃ + a n ɔ	five fifty	p ɔ n tʃ + a n ɔ	5 50		Assamese
-56	Assamese	fifty six	ছাপ্পান্ন	tʃap anɔ	tʃ a p + a n ɔ	six fifty	tʃ a p + a n ɔ	6 50		Assamese
-57	Assamese	fifty seven	সাতান্ন	xat anɔ	x a t + a n ɔ	seven fifty	x a t + a n ɔ	7 50		Assamese
-58	Assamese	fifty eight	আটান্ন	atʰ  anɔ	a tʰ + + a n ɔ	eight fifty	a tʰ + + a n ɔ	8 50		Assamese
-59	Assamese	fifty nine	ঊনষাঠি	un xatʰi	u n + x a tʰ i	minus sixty	u n + x a tʰ i	99 60		Assamese
-60	Assamese	sixty	ষাঠি	xatʰi	x a tʰ i	sixty	x a tʰ i	60		Assamese
-61	Assamese	sixty one	একাষ্ঠি	ɛk axtʰi	ɛ k + a x tʰ i	one sixty	ɛ k + a x tʰ i	1 60		Assamese
-62	Assamese	sixty two	বাষ্ঠি	b axtʰi	b + a x tʰ i	two/ba sixty	b + a x tʰ i	12 60		Assamese
-63	Assamese	sixty three	তেষ্ঠি	te xtʰi	t e + x tʰ i	three sixty	t e + x tʰ i	3 60		Assamese
-64	Assamese	sixty four	চৌষ্ঠি	sɔ xtʰi	s ɔ + x tʰ i	four sixty	s ɔ + x tʰ i	4 60		Assamese
-65	Assamese	sixty five	পঁয়ষ্ঠি	pɔ̃ja xtʰi	p ɔ ̃ j a + x tʰ i	five sixty	p ɔ ̃ j a + x tʰ i	5 60		Assamese
-66	Assamese	sixty six	ছেষ্ঠি	tʃe xtʰi	tʃ e + x tʰ i	six sixty	tʃ e + x tʰ i	6 60		Assamese
-67	Assamese	sixty seven	সাতষ্ঠি	xat xtʰi	x a t + x tʰ i	seven sixty	x a t + x tʰ i	7 60		Assamese
-68	Assamese	sixty eight	আটষ্ঠি	atʰ xtʰi	a tʰ + x tʰ i	eight sixty	a tʰ + x tʰ i	8 60		Assamese
-69	Assamese	sixty nine	ঊনসত্তৰ	un xɔtɔr	u n + x ɔ t ɔ r	minus seventy	u n + x ɔ t ɔ r	99 70		Assamese
-70	Assamese	seventy	সত্তৰ	xɔtɔr	x ɔ t ɔ r	seventy	x ɔ t ɔ r	70		Assamese
-71	Assamese	seventy one	একাত্তৰ	ɛk atɔr	ɛ k + a t ɔ r	one seventy	ɛ k + a t ɔ r	1 70		Assamese
-72	Assamese	seventy two	বাহাত্তৰ	bah atɔr	b a h + a t ɔ r	two/ba seventy	b a h + a t ɔ r	12 70		Assamese
-73	Assamese	seventy three	তিয়াত্তৰ	tij atɔr	t i j + a t ɔ r	three seventy	t i j + a t ɔ r	3 70		Assamese
-74	Assamese	seventy four	চুয়াত্তৰ	su atɔr	s u + a t ɔ r	four seventy	s u + a t ɔ r	4 70		Assamese
-75	Assamese	seventy five	পঁচাত্তৰ	pɔ̃tʃ atɔr	p ɔ ̃ tʃ + a t ɔ r	five seventy	p ɔ ̃ tʃ + a t ɔ r	5 70		Assamese
-76	Assamese	seventy six	ছিয়াত্তৰ	sij atɔr	s i j + a t ɔ r	six seventy	s i j + a t ɔ r	6 70		Assamese
-77	Assamese	seventy seven	সাতাত্তৰ	xat atɔr	x a t + a t ɔ r	seven seventy	x a t + a t ɔ r	7 70		Assamese
-78	Assamese	seventy eight	আটাত্তৰ	atʰ atɔr	a tʰ + a t ɔ r	eight seventy	a tʰ + a t ɔ r	8 70		Assamese
-79	Assamese	seventy nine	ঊনআশি	un axi	u n + a x i	minus eighty	u n + a x i	99 80		Assamese
-80	Assamese	eighty	আশি	axi	a x i	eighty	a x i	80		Assamese
-81	Assamese	eighty one	একাশি	ɛk axi	ɛ k + a x i	one eighty	ɛ k + a x i	1 80		Assamese
-82	Assamese	eighty two	বিৰাশি	bir axi	b i r + a x i	two/ba eighty	b i r + a x i	12 80		Assamese
-83	Assamese	eighty three	তিৰাশি	tir axi	t i r + a x i	three eighty	t i r + a x i	3 80		Assamese
-84	Assamese	eighty four	চৌৰাশি	sɔu̯r axi	s ɔ u ̯ r + a x i	four eighty	s ɔ u ̯ r + a x i	4 80		Assamese
-85	Assamese	eighty five	পঁচাশি	pɔ̃tʃ axi	p ɔ ̃ tʃ + a x i	five eighty	p ɔ ̃ tʃ + a x i	5 80		Assamese
-86	Assamese	eighty six	ছিয়াশি	sij axi	s i j + a x i	six eighty	s i j + a x i	6 80		Assamese
-87	Assamese	eighty seven	সাতাশি	xat axi	x a t + a x i	seven eighty	x a t + a x i	7 80		Assamese
-88	Assamese	eighty eight	আটাশি	atʰ axi	a tʰ + a x i	eight eighty	a tʰ + a x i	8 80		Assamese
-89	Assamese	eighty nine	ঊননব্বই	un nɔbɔi	u n + n ɔ b ɔ i	minus ninety	u n + n ɔ b ɔ i	99 90		Assamese
-90	Assamese	ninety	নব্বই	nɔbɔi	n ɔ b ɔ i	ninety	n ɔ b ɔ i	90		Assamese
-91	Assamese	ninety one	একানব্বই	ɛk anɔbɔi	ɛ k + a n ɔ b ɔ i	one ninety	ɛ k + a n ɔ b ɔ i	1 90		Assamese
-92	Assamese	ninety two	বাহানব্বই	bah anɔbɔi	b a h + a n ɔ b ɔ i	two/ba ninety	b a h + a n ɔ b ɔ i	12 90		Assamese
-93	Assamese	ninety three	তিৰানব্বই	tir anɔbɔi	t i r + a n ɔ b ɔ i	three ninety	t i r + a n ɔ b ɔ i	3 90		Assamese
-94	Assamese	ninety four	চৌৰানব্বই	sɔu̯r anɔbɔi	s ɔ u ̯ r + a n ɔ b ɔ i	four ninety	s ɔ u ̯ r + a n ɔ b ɔ i	4 90		Assamese
-95	Assamese	ninety five	পঁচানব্বই	pɔ̃tʃ anɔbɔi	p ɔ ̃ tʃ + a n ɔ b ɔ i	five ninety	p ɔ ̃ tʃ + a n ɔ b ɔ i	5 90		Assamese
-96	Assamese	ninety six	ছিয়ানব্বই	sij anɔbɔi	s i j + a n ɔ b ɔ i	six ninety	s i j + a n ɔ b ɔ i	6 90		Assamese
-97	Assamese	ninety seven	সাতানব্বই	xat anɔbɔi	x a t + a n ɔ b ɔ i	seven ninety	x a t + a n ɔ b ɔ i	7 90		Assamese
-98	Assamese	ninety eight	আটানব্বই	atʰ anɔbɔi	a tʰ + a n ɔ b ɔ i	eight ninety	a tʰ + a n ɔ b ɔ i	8 90		Assamese
-99	Assamese	ninety nine	নিৰানব্বই	nir anɔbɔi	n i r + a n ɔ b ɔ i	nine ninety	n i r + a n ɔ b ɔ i	9 90		Assamese
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
+1	Assamese	এক	one	ɛ k	one	ɛ k	31		Assamese
+2	Assamese	দুই	two	d u i	two3	d u i	25		Assamese
+3	Assamese	তিনি	three	t i n i	three3	t i n i	35		Assamese
+4	Assamese	চাৰি	four	s a r i	four	s a r i	44		Assamese
+5	Assamese	পাঁচ	five	p ã s	five	p ã s	24		Assamese
+6	Assamese	ছয়	six	s a -/i	six	s a i	33		Assamese
+7	Assamese	সাত	seven	x ɔ/a t	seven	x a t	34		Assamese
+8	Assamese	আঠ	eight	ɔ/a tʰ -/ɔ/a	eight	a tʰ	23		Assamese
+9	Assamese	ন	nine	n ɔ	nine2	n ɔ	38		Assamese
+10	Assamese	দহ	ten	d ɔ ɦ	ten	d ɔ ɦ	46		Assamese
+11	Assamese	এঘাৰ	eleven	ɛ k + ɔ/- ɹ/r ɔ	one ten4	ɛ k + ɹ ɔ	31 7		Assamese
+12	Assamese	বাৰ	twelve	b i/a h/- + ɔ/- ɹ/r ɔ	two ten4	b a + r ɔ	27 7		Assamese
+13	Assamese	তেৰ	thirteen	t ɛ/e + ɔ/- ɹ/r ɔ	three ten4	t ɛ + r ɔ	20 7		Assamese
+14	Assamese	চৈধ্য	fourteen	s -/ɔ/o -/i/u̯/u + d dʰ ɔ	four2 ten2	s ɔ i + d dʰ ɔ	45 15		Assamese
+15	Assamese	পোন্ধৰ	fifteen	p ɔ n dʰ + ɔ/- ɹ/r ɔ	five3 ten4	p ɔ n dʰ + ɔ r ɔ	48 7		Assamese
+16	Assamese	ষোল্ল	sixteen	x ɔ + l l ɔ	six5 ten3	x ɔ + l l ɔ	19 26		Assamese
+17	Assamese	সোতৰ	seventeen	x ɔ/a t + ɔ/- ɹ/r ɔ	seven ten4	x ɔ t + ɔ r ɔ	34 7		Assamese
+18	Assamese	ওঁঠৰ	eighteen	ɔ/a tʰ -/ɔ/a + ɔ/- ɹ/r ɔ	eight ten4	ɔ tʰ + ɔ r ɔ	23 7		Assamese
+19	Assamese	ঊনৈছ	nineteen	u n n + i h	minus2 twenty4	u n n + i h	30 3		Assamese
+20	Assamese	বিছ	twenty	b/- b i s	twenty	b i s	54		Assamese
+21	Assamese	একৈছ	twenty one	ɛ/e k o/a + i s	one2 twenty5	e k o + i s	2 22		Assamese
+22	Assamese	বাইছ	twenty two	b i/a h/- + i s	two twenty5	b a + i s	27 22		Assamese
+23	Assamese	তেইছ	twenty three	t ɛ/e + i s	three twenty5	t e + i s	20 22		Assamese
+24	Assamese	চৌব্বিছ	twenty four	s -/ɔ/o -/i/u̯/u + b b i s	four2 twenty3	s o u + b b i s	45 55		Assamese
+25	Assamese	পঁচিছ	twenty five	p ɔ̃/ɔ i/j -/a + s i s	five2 twenty2	p ɔ + s i s	29 32		Assamese
+26	Assamese	ছাব্বিছ	twenty six	s a -/i + b/- b i s	six twenty	s a + b b i s	33 54		Assamese
+27	Assamese	সাতাইছ	twenty seven	x a t ɔ/a + i s	seven2 twenty5	x a t a + i s	42 22		Assamese
+28	Assamese	আঁঠাইছ	twenty eight	ɔ/a tʰ -/ɔ/a + i s	eight twenty5	a tʰ a + i s	23 22		Assamese
+29	Assamese	উনত্ৰিছ	twenty nine	u n + t ɹ i s	minus thirty	u n + t ɹ i s	12 13		Assamese
+30	Assamese	ত্ৰিছ	thirty	t ɹ i s	thirty	t ɹ i s	13		Assamese
+31	Assamese	একত্ৰিছ	thirty one	ɛ k + t ɹ i s	one thirty	ɛ k + t ɹ i s	31 13		Assamese
+32	Assamese	বত্ৰিছ	thirty two	b ɔ + t ɹ i s	two2 thirty	b ɔ + t ɹ i s	1 13		Assamese
+33	Assamese	তেত্ৰিছ	thirty three	t ɛ/e + t ɹ i s	three thirty	t ɛ + t ɹ i s	20 13		Assamese
+34	Assamese	চৌত্ৰিছ	thirty four	s -/ɔ/o -/i/u̯/u + t ɹ i s	four2 thirty	s o u + t ɹ i s	45 13		Assamese
+35	Assamese	পয়ত্ৰিছ	thirty five	p ɔ̃/ɔ i/j -/a + t ɹ i s	five2 thirty	p ɔ i + t ɹ i s	29 13		Assamese
+36	Assamese	ছয়ত্ৰিছ	thirty six	s a i n + t ɹ i s	six2 thirty	s a i n + t ɹ i s	40 13		Assamese
+37	Assamese	সাতত্ৰিছ	thirty seven	x a t ɔ/a + t ɹ i s	seven2 thirty	x a t ɔ + t ɹ i s	42 13		Assamese
+38	Assamese	আঠত্ৰিছ	thirty eight	ɔ/a tʰ -/ɔ/a + t ɹ i s	eight thirty	a tʰ ɔ + t ɹ i s	23 13		Assamese
+39	Assamese	ঊনচল্লিছ	thirty nine	u n + s ɔ l l i s	minus forty3	u n + s ɔ l l i s	12 41		Assamese
+40	Assamese	চল্লিছ	forty	s ɔ l l i s	forty3	s ɔ l l i s	41		Assamese
+41	Assamese	একচল্লিশ	forty one	ɛ k + s ɔ l l i s	one forty3	ɛ k + s ɔ l l i s	31 41		Assamese
+42	Assamese	বিয়াল্লিশ	forty two	b i/a h/- + j a l l i s	two forty2	b i + j a l l i s	27 17		Assamese
+43	Assamese	তেতাল্লিশ	forty three	t ɛ/e + t a l l i s	three forty4	t e + t a l l i s	20 16		Assamese
+44	Assamese	চুয়াল্লিশ	forty four	s -/ɔ/o -/i/u̯/u + a l l i s	four2 forty	s u + a l l i s	45 50		Assamese
+45	Assamese	পঁয়তাল্লিশ	forty five	p ɔ̃/ɔ i/j -/a + t a l l i s	five2 forty4	p ɔ̃ j a + t a l l i s	29 16		Assamese
+46	Assamese	ছিয়াল্লিশ	forty six	s i j/- + j a l l i s	six3 forty2	s i + j a l l i s	43 17		Assamese
+47	Assamese	সাতচল্লিশ	forty seven	x ɔ/a t + s ɔ l l i s	seven forty3	x a t + s ɔ l l i s	34 41		Assamese
+48	Assamese	আটচল্লিশ	forty eight	ɔ/a tʰ -/ɔ/a + s ɔ l l i s	eight forty3	a tʰ + s ɔ l l i s	23 41		Assamese
+49	Assamese	ঊনপঞ্চাশ	forty nine	u n + p ɔ n t ʃ a ʃ	minus fifty	u n + p ɔ n t ʃ a ʃ	12 11		Assamese
+50	Assamese	পঞ্চাশ	fifty	p ɔ n t ʃ a ʃ	fifty	p ɔ n t ʃ a ʃ	11		Assamese
+51	Assamese	একাৱন্ন	fifty one	ɛ/e k o/a + b ɔ n ɔ	one2 fifty2	ɛ k a + b ɔ n ɔ	2 5		Assamese
+52	Assamese	বাহান্ন	fifty two	b i/a h/- + a n ɔ	two fifty4	b a h + a n ɔ	27 53		Assamese
+53	Assamese	তিপ্পান্ন	fifty three	t i j/- + p a n ɔ	three2 fifty3	t i + p a n ɔ	21 51		Assamese
+54	Assamese	চুয়ান্ন	fifty four	s -/ɔ/o -/i/u̯/u + a n ɔ	four2 fifty4	s u + a n ɔ	45 53		Assamese
+55	Assamese	পঞ্চান্ন	fifty five	p ɔ̃/ɔ -/n t ʃ + a n ɔ	five4 fifty4	p ɔ n t ʃ + a n ɔ	36 53		Assamese
+56	Assamese	ছাপ্পান্ন	fifty six	t ʃ e/a + p a n ɔ	six4 fifty3	t ʃ a + p a n ɔ	8 51		Assamese
+57	Assamese	সাতান্ন	fifty seven	x ɔ/a t + a n ɔ	seven fifty4	x a t + a n ɔ	34 53		Assamese
+58	Assamese	আটান্ন	fifty eight	ɔ/a tʰ -/ɔ/a + a n ɔ	eight fifty4	a tʰ + a n ɔ	23 53		Assamese
+59	Assamese	ঊনষাঠি	fifty nine	u n + x a tʰ i	minus sixty2	u n + x a tʰ i	12 47		Assamese
+60	Assamese	ষাঠি	sixty	x a tʰ i	sixty2	x a tʰ i	47		Assamese
+61	Assamese	একাষ্ঠি	sixty one	ɛ k + a x tʰ i	one sixty	ɛ k + a x tʰ i	31 49		Assamese
+62	Assamese	বাষ্ঠি	sixty two	b i/a h/- + x tʰ i	two sixty3	b a + x tʰ i	27 52		Assamese
+63	Assamese	তেষ্ঠি	sixty three	t ɛ/e + x tʰ i	three sixty3	t e + x tʰ i	20 52		Assamese
+64	Assamese	চৌষ্ঠি	sixty four	s -/ɔ/o -/i/u̯/u + x tʰ i	four2 sixty3	s ɔ + x tʰ i	45 52		Assamese
+65	Assamese	পঁয়ষ্ঠি	sixty five	p ɔ̃/ɔ i/j -/a + a x tʰ i	five2 sixty	p ɔ̃ j + a x tʰ i	29 49		Assamese
+66	Assamese	ছেষ্ঠি	sixty six	t ʃ e/a + x tʰ i	six4 sixty3	t ʃ e + x tʰ i	8 52		Assamese
+67	Assamese	সাতষ্ঠি	sixty seven	x ɔ/a t + x tʰ i	seven sixty3	x a t + x tʰ i	34 52		Assamese
+68	Assamese	আটষ্ঠি	sixty eight	ɔ/a tʰ -/ɔ/a + x tʰ i	eight sixty3	a tʰ + x tʰ i	23 52		Assamese
+69	Assamese	ঊনসত্তৰ	sixty nine	u n + x ɔ t ɔ r	minus seventy2	u n + x ɔ t ɔ r	12 18		Assamese
+70	Assamese	সত্তৰ	seventy	x ɔ t ɔ r	seventy2	x ɔ t ɔ r	18		Assamese
+71	Assamese	একাত্তৰ	seventy one	ɛ k + a t ɔ r	one seventy	ɛ k + a t ɔ r	31 9		Assamese
+72	Assamese	বাহাত্তৰ	seventy two	b i/a h/- + a t ɔ r	two seventy	b a h + a t ɔ r	27 9		Assamese
+73	Assamese	তিয়াত্তৰ	seventy three	t i j/- + a t ɔ r	three2 seventy	t i j + a t ɔ r	21 9		Assamese
+74	Assamese	চুয়াত্তৰ	seventy four	s -/ɔ/o -/i/u̯/u + a t ɔ r	four2 seventy	s u + a t ɔ r	45 9		Assamese
+75	Assamese	পঁচাত্তৰ	seventy five	p ɔ̃/ɔ -/n t ʃ + a t ɔ r	five4 seventy	p ɔ̃ t ʃ + a t ɔ r	36 9		Assamese
+76	Assamese	ছিয়াত্তৰ	seventy six	s i j/- + a t ɔ r	six3 seventy	s i j + a t ɔ r	43 9		Assamese
+77	Assamese	সাতাত্তৰ	seventy seven	x ɔ/a t + a t ɔ r	seven seventy	x a t + a t ɔ r	34 9		Assamese
+78	Assamese	আটাত্তৰ	seventy eight	ɔ/a tʰ -/ɔ/a + a t ɔ r	eight seventy	a tʰ + a t ɔ r	23 9		Assamese
+79	Assamese	ঊনআশি	seventy nine	u n + a x i	minus eighty	u n + a x i	12 37		Assamese
+80	Assamese	আশি	eighty	a x i	eighty	a x i	37		Assamese
+81	Assamese	একাশি	eighty one	ɛ k + a x i	one eighty	ɛ k + a x i	31 37		Assamese
+82	Assamese	বিৰাশি	eighty two	b i/a h/- + r a x i	two eighty2	b i + r a x i	27 6		Assamese
+83	Assamese	তিৰাশি	eighty three	t i j/- + r a x i	three2 eighty2	t i + r a x i	21 6		Assamese
+84	Assamese	চৌৰাশি	eighty four	s -/ɔ/o -/i/u̯/u + r a x i	four2 eighty2	s ɔ u̯ + r a x i	45 6		Assamese
+85	Assamese	পঁচাশি	eighty five	p ɔ̃/ɔ -/n t ʃ + a x i	five4 eighty	p ɔ̃ t ʃ + a x i	36 37		Assamese
+86	Assamese	ছিয়াশি	eighty six	s i j/- + a x i	six3 eighty	s i j + a x i	43 37		Assamese
+87	Assamese	সাতাশি	eighty seven	x ɔ/a t + a x i	seven eighty	x a t + a x i	34 37		Assamese
+88	Assamese	আটাশি	eighty eight	ɔ/a tʰ -/ɔ/a + a x i	eight eighty	a tʰ + a x i	23 37		Assamese
+89	Assamese	ঊননব্বই	eighty nine	u n + n ɔ b ɔ i	minus ninety2	u n + n ɔ b ɔ i	12 14		Assamese
+90	Assamese	নব্বই	ninety	n ɔ b ɔ i	ninety2	n ɔ b ɔ i	14		Assamese
+91	Assamese	একানব্বই	ninety one	ɛ k + a n ɔ b ɔ i	one ninety	ɛ k + a n ɔ b ɔ i	31 28		Assamese
+92	Assamese	বাহানব্বই	ninety two	b i/a h/- + a n ɔ b ɔ i	two ninety	b a h + a n ɔ b ɔ i	27 28		Assamese
+93	Assamese	তিৰানব্বই	ninety three	t i r + a n ɔ b ɔ i	three4 ninety	t i r + a n ɔ b ɔ i	39 28		Assamese
+94	Assamese	চৌৰানব্বই	ninety four	s ɔ u̯ r + a n ɔ b ɔ i	four3 ninety	s ɔ u̯ r + a n ɔ b ɔ i	4 28		Assamese
+95	Assamese	পঁচানব্বই	ninety five	p ɔ̃/ɔ -/n t ʃ + a n ɔ b ɔ i	five4 ninety	p ɔ̃ t ʃ + a n ɔ b ɔ i	36 28		Assamese
+96	Assamese	ছিয়ানব্বই	ninety six	s i j/- + a n ɔ b ɔ i	six3 ninety	s i j + a n ɔ b ɔ i	43 28		Assamese
+97	Assamese	সাতানব্বই	ninety seven	x ɔ/a t + a n ɔ b ɔ i	seven ninety	x a t + a n ɔ b ɔ i	34 28		Assamese
+98	Assamese	আটানব্বই	ninety eight	ɔ/a tʰ -/ɔ/a + a n ɔ b ɔ i	eight ninety	a tʰ + a n ɔ b ɔ i	23 28		Assamese
+99	Assamese	নিৰানব্বই	ninety nine	n i r + a n ɔ b ɔ i	nine ninety	n i r + a n ɔ b ɔ i	10 28		Assamese
