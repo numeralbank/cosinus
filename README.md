@@ -246,7 +246,7 @@ $ sqlite3 cosinus.sqlite < flat.sql > cosinus.csv
 - **Invalid lexemes:** 0
 - **Tokens:** 73,881
 - **Segments:** 234 (3 BIPA errors, 3 CLTS sound class errors, 227 CLTS modified)
-- **Inventory size (avg):** 23.44
+- **Inventory size (avg):** 23.42
 
 # Contributors
 
