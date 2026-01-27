@@ -67,18 +67,6 @@ ID	NUMBER	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	MORPHEMES	COGIDS	SOURCE	NOTE
 66	66	PaungNyuan_Khalai	sixty six	ly kʰə zok kə kʰə zok	l y + kʰ ə + z o k + k ə + kʰ ə + z o k	l y + kʰ ə + z o k + k ə + kʰ ə + z o k	tens PFX2 six and PFX2 six	55 51 6 54 51 6	vandam2026paungnyuan	
 67	67	PaungNyuan_Khalai	sixty seven	ly kʰə zok kə kʰə ɲek	l y + kʰ ə + z o k + k ə + kʰ ə + ɲ e k	l y + kʰ ə + z o k + k ə + kʰ ə + ɲ e k	tens PFX2 six and PFX2 seven	55 51 6 54 51 7	vandam2026paungnyuan	
 68	68	PaungNyuan_Khalai	sixty eight	ly kʰə zok kə tʰə wat	l y + kʰ ə + z o k + k ə + tʰ ə + w a t	l y + kʰ ə + z o k + k ə + tʰ ə + w a t	tens PFX2 six and PFX3 eight	55 51 6 54 52 8	vandam2026paungnyuan	
-<<<<<<< Updated upstream
-69	69	PaungNyuan_Khalai	sixty nine	ly kʰə ɲek man kʰuan poŋ	l y + kʰ ə + ɲ e/ɛ k + m a n + kʰ u a n + p o ŋ	l y + kʰ ə + ɲ e/ɛ k + m a n + kʰ u a n + p o ŋ	tens PFX2 seven approach PFX4 nine	55 51 7 53 99 9	vandam2026paungnyuan
-70	70	PaungNyuan_Khalai	seventy	ly kʰə ɲek	l y + kʰ ə + ɲ e/ɛ k	l y + kʰ ə + ɲ e/ɛ k	tens PFX2 seven	55 51 7	nawsawu2016makyam;vandam2026paungnyuan
-71	71	PaungNyuan_Khalai	seventy one	ly kʰə ɲek kə kʰuat	l y + kʰ ə + ɲ e/ɛ k + k ə + kʰ u a t	l y + kʰ ə + ɲ e/ɛ k + k ə + kʰ u a t	tens PFX2 seven and one	55 51 7 54 1	vandam2026paungnyuan
-72	72	PaungNyuan_Khalai	seventy two	ly kʰə ɲek kə nat	l y + kʰ ə + ɲ e/ɛ k + k ə + n a t	l y + kʰ ə + ɲ e/ɛ k + k ə + n a t	tens PFX2 seven and two	55 51 7 54 2	vandam2026paungnyuan
-73	73	PaungNyuan_Khalai	seventy three	ly kʰə ɲek kə θam	l y + kʰ ə + ɲ e/ɛ k + k ə + θ a m	l y + kʰ ə + ɲ e/ɛ k + k ə + θ a m	tens PFX2 seven and three	55 51 7 54 3	vandam2026paungnyuan
-74	74	PaungNyuan_Khalai	seventy four	ly kʰə ɲek kə pʰə li	l y + kʰ ə + ɲ e/ɛ k + k ə + pʰ ə + l i	l y + kʰ ə + ɲ e/ɛ k + k ə + pʰ ə + l i	tens PFX2 seven and PFX1 four	55 51 7 54 50 4	vandam2026paungnyuan
-75	75	PaungNyuan_Khalai	seventy five	ly kʰə ɲek kə pʰə ŋa	l y + kʰ ə + ɲ e/ɛ k + k ə + pʰ ə + ŋ a	l y + kʰ ə + ɲ e/ɛ k + k ə + pʰ ə + ŋ a	tens PFX2 seven and PFX1 five	55 51 7 54 50 5	vandam2026paungnyuan
-76	76	PaungNyuan_Khalai	seventy six	ly kʰə ɲek kə kʰə zok	l y + kʰ ə + ɲ e/ɛ k + k ə + kʰ ə + z o k	l y + kʰ ə + ɲ e/ɛ k + k ə + kʰ ə + z o k	tens PFX2 seven and PFX2 six	55 51 7 54 51 6	vandam2026paungnyuan
-77	77	PaungNyuan_Khalai	seventy seven	ly kʰə ɲek kə kʰə ɲɛk	l y + kʰ ə + ɲ e/ɛ k + k ə + kʰ ə + ɲ ɛ k	l y + kʰ ə + ɲ e/ɛ k + k ə + kʰ ə + ɲ ɛ k	tens PFX2 seven and PFX2 seven	55 51 7 54 51 7	vandam2026paungnyuan
-78	78	PaungNyuan_Khalai	seventy eight	ly kʰə ɲek kə tʰə wat	l y + kʰ ə + ɲ e/ɛ k + k ə + tʰ ə + w a t	l y + kʰ ə + ɲ e/ɛ k + k ə + tʰ ə + w a t	tens PFX2 seven and PFX3 eight	55 51 7 54 52 8	vandam2026paungnyuan
-=======
 69	69	PaungNyuan_Khalai	sixty nine	ly kʰə ɲek man kʰuan poŋ	l y + kʰ ə + ɲ e k + m a n + kʰ u a n + p o ŋ	l y + kʰ ə + ɲ e k + m a n + kʰ u a n + p o ŋ	tensPFX2 seven approach PFX4 nine	5551 7 53 99 9	vandam2026paungnyuan	
 70	70	PaungNyuan_Khalai	seventy	ly kʰə ɲek	l y + kʰ ə + ɲ e k	l y + kʰ ə + ɲ e k	tensPFX2 seven	5551 7	nawsawu2016makyam;vandam2026paungnyuan	
 71	71	PaungNyuan_Khalai	seventy one	ly kʰə ɲek kə kʰuat	l y + kʰ ə + ɲ e k + k ə + kʰ u a t	l y + kʰ ə + ɲ e k + k ə + kʰ u a t	tensPFX2 seven and one	5551 7 54 1	vandam2026paungnyuan	
@@ -89,7 +77,6 @@ ID	NUMBER	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	MORPHEMES	COGIDS	SOURCE	NOTE
 76	76	PaungNyuan_Khalai	seventy six	ly kʰə ɲek kə kʰə zok	l y + kʰ ə + ɲ e k + k ə + kʰ ə + z o k	l y + kʰ ə + ɲ e k + k ə + kʰ ə + z o k	tensPFX2 seven and PFX2 six	5551 7 54 51 6	vandam2026paungnyuan	
 77	77	PaungNyuan_Khalai	seventy seven	ly kʰə ɲek kə kʰə ɲek	l y + kʰ ə + ɲ e k + k ə + kʰ ə + ɲ e k	l y + kʰ ə + ɲ e k + k ə + kʰ ə + ɲ e k	tensPFX2 seven and PFX2 seven	5551 7 54 51 7	vandam2026paungnyuan	
 78	78	PaungNyuan_Khalai	seventy eight	ly kʰə ɲek kə tʰə wat	l y + kʰ ə + ɲ e k + k ə + tʰ ə + w a t	l y + kʰ ə + ɲ e k + k ə + tʰ ə + w a t	tensPFX2 seven and PFX3 eight	5551 7 54 52 8	vandam2026paungnyuan	
->>>>>>> Stashed changes
 79	79	PaungNyuan_Khalai	seventy nine	ly tʰə wat man kʰuan poŋ	l y + tʰ ə + w a t + m a n + kʰ u a n + p o ŋ	l y + tʰ ə + w a t + m a n + kʰ u a n + p o ŋ	tens PFX3 eight approach PFX4 nine	55 52 8 53 99 9	vandam2026paungnyuan	
 80	80	PaungNyuan_Khalai	eighty	ly tʰə wat	l y + tʰ ə + w a t	l y + tʰ ə + w a t	tens PFX3 eight	55 52 8	nawsawu2016makyam;vandam2026paungnyuan	
 81	81	PaungNyuan_Khalai	eighty one	ly tʰə wat kə kʰuat	l y + tʰ ə + w a t + k ə + kʰ u a t	l y + tʰ ə + w a t + k ə + kʰ u a t	tens PFX3 eight and one	55 52 8 54 1	vandam2026paungnyuan	
@@ -100,19 +87,6 @@ ID	NUMBER	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	MORPHEMES	COGIDS	SOURCE	NOTE
 86	86	PaungNyuan_Khalai	eighty six	ly tʰə wat kə kʰə zok	l y + tʰ ə + w a t + k ə + kʰ ə + z o k	l y + tʰ ə + w a t + k ə + kʰ ə + z o k	tens PFX3 eight and PFX2 six	55 52 8 54 51 6	vandam2026paungnyuan	
 87	87	PaungNyuan_Khalai	eighty seven	ly tʰə wat kə kʰə ɲek	l y + tʰ ə + w a t + k ə + kʰ ə + ɲ e k	l y + tʰ ə + w a t + k ə + kʰ ə + ɲ e k	tens PFX3 eight and PFX2 seven	55 52 8 54 51 7	vandam2026paungnyuan	
 88	88	PaungNyuan_Khalai	eighty eight	ly tʰə wat kə tʰə wat	l y + tʰ ə + w a t + k ə + tʰ ə + w a t	l y + tʰ ə + w a t + k ə + tʰ ə + w a t	tens PFX3 eight and PFX3 eight	55 52 8 54 52 8	vandam2026paungnyuan	
-<<<<<<< Updated upstream
-89	89	PaungNyuan_Khalai	eighty nine	zə kʰuat man kʰuam poŋ	z ə + kʰ u a t + m a n + kʰ u a m/n + p o ŋ	z ə + kʰ u a t + m a n + kʰ u a m + p o ŋ	PFX5 one approach PFX4 nine	66 1 53 99 9	vandam2026paungnyuan
-90	90	PaungNyuan_Khalai	ninety	zə kʰuat	z ə + kʰ u a t	z ə + kʰ u a t	PFX5 one	66 1	vandam2026paungnyuan	Original source give 99 for 90. This has been confirmed with speakers.
-91	91	PaungNyuan_Khalai	ninety one	zə kʰuat kə kʰuat	z ə + kʰ u a t + k ə + kʰ u a t	z ə + kʰ u a t + k ə + kʰ u a t	PFX5 one and one	66 1 54 1	vandam2026paungnyuan
-92	92	PaungNyuan_Khalai	ninety two	zə kʰuat kə nat	z ə + kʰ u a t + k ə + n a t	z ə + kʰ u a t + k ə + n a t	PFX5 one and nat	66 1 54 67	vandam2026paungnyuan
-93	93	PaungNyuan_Khalai	ninety three	zə kʰuat kə θam	z ə + kʰ u a t + k ə + θ a m	z ə + kʰ u a t + k ə + θ a m	PFX5 one and three	66 1 54 3	vandam2026paungnyuan
-94	94	PaungNyuan_Khalai	ninety four	zə kʰuat kə pʰə li	z ə + kʰ u a t + k ə + pʰ ə + l i	z ə + kʰ u a t + k ə + pʰ ə + l i	PFX5 one and PFX1 four	66 1 54 50 4	vandam2026paungnyuan
-95	95	PaungNyuan_Khalai	ninety five	zə kʰuat kə pʰə ŋa	z ə + kʰ u a t + k ə + pʰ ə + ŋ a	z ə + kʰ u a t + k ə + pʰ ə + ŋ a	PFX5 one and PFX1 five	66 1 54 50 5	vandam2026paungnyuan
-96	96	PaungNyuan_Khalai	ninety six	zə kʰuat kə kʰə zok	z ə + kʰ u a t + k ə + kʰ ə + z o k	z ə + kʰ u a t + k ə + kʰ ə + z o k	PFX5 one and PFX2 six	66 1 54 51 6	vandam2026paungnyuan
-97	97	PaungNyuan_Khalai	ninety seven	zə kʰuat kə kʰə ɲɛk	z ə + kʰ u a t + k ə + kʰ ə + ɲ ɛ k	z ə + kʰ u a t + k ə + kʰ ə + ɲ ɛ k	PFX5 one and PFX2 seven	66 1 54 51 7	vandam2026paungnyuan
-98	98	PaungNyuan_Khalai	ninety eight	zə kʰuat kə tʰə wat	z ə + kʰ u a t + k ə + tʰ ə + w a t	z ə + kʰ u a t + k ə + tʰ ə + w a t	PFX5 one and PFX3 eight	66 1 54 52 8	vandam2026paungnyuan
-99	99	PaungNyuan_Khalai	ninety nine	zy man kʰuam poŋ	z y + m a n + kʰ u a m/n + p o ŋ	z y + m a n + kʰ u a m + p o ŋ	hundred approach PFX4 nine	100 53 99 9	vandam2026paungnyuan
-=======
 89	89	PaungNyuan_Khalai	eighty nine	zə kʰuat man kʰuan poŋ	z ə + kʰ u a t + m a n + kʰ u a n + p o ŋ	z ə + kʰ u a t + m a n + kʰ u a n + p o ŋ	PFX5 one approach PFX4 nine	PFX5 1 53 99 9	vandam2026paungnyuan	
 90	90	PaungNyuan_Khalai	ninety	zə kʰuat	z ə + kʰ u a t	z ə + kʰ u a t	PFX5 one	PFX5 1	vandam2026paungnyuan	Original source give 99 for 90. This has been confirmed with speakers.
 91	91	PaungNyuan_Khalai	ninety one	zə kʰuat kə kʰuat	z ə + kʰ u a t + k ə + kʰ u a t	z ə + kʰ u a t + k ə + kʰ u a t	PFX5 one and one	PFX5 1 54 1	vandam2026paungnyuan	
@@ -124,4 +98,3 @@ ID	NUMBER	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	MORPHEMES	COGIDS	SOURCE	NOTE
 97	97	PaungNyuan_Khalai	ninety seven	zə kʰuat kə kʰə ɲek	z ə + kʰ u a t + k ə + kʰ ə + ɲ e k	z ə + kʰ u a t + k ə + kʰ ə + ɲ e k	PFX5 one and PFX2 seven	PFX5 1 54 51 7	vandam2026paungnyuan	
 98	98	PaungNyuan_Khalai	ninety eight	zə kʰuat kə tʰə wat	z ə + kʰ u a t + k ə + tʰ ə + w a t	z ə + kʰ u a t + k ə + tʰ ə + w a t	PFX5 one and PFX3 eight	PFX5 1 54 52 8	vandam2026paungnyuan	
 99	99	PaungNyuan_Khalai	ninety nine	zy man kʰuan poŋ	z y + m a n + kʰ u a n + p o ŋ	z y + m a n + kʰ u a n + p o ŋ	hundred approach PFX4 nine	hundred 53 99 9	vandam2026paungnyuan	
->>>>>>> Stashed changes
