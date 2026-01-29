@@ -11,7 +11,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 10	Geez	five	ኀምስቱ	xæmɨstu	x æ m ɨ/- s + t + u	five suff_gender suff_nom_sg1	x æ m ɨ/- s + t + u	5 12 11		Lambdin1978Geez
 11	Geez	five	ኀምስ	xæms	x æ m s	five	x æ m s	5		Lambdin1978Geez
 12	Geez	six	ስድስቱ	sɨdɨstu	s ɨ d ɨ/- s -/u + t + u	six suff_gender suff_nom_sg1	s ɨ d ɨ/- s -/u + t + u	6 12 11		Lambdin1978Geez
-13	Geez	six	ስሱ	sɨssu	s ɨ s/d s u	six	s ɨ s/d s u	6	/u/ part of the numeral, not case marker	Lambdin1978Geez
+13	Geez	six	ስሱ	sɨssu	s ɨ -/d sː/s u	six	s ɨ -/d sː/s u	6	/u/ part of the numeral, not case marker	Lambdin1978Geez
 14	Geez	seven	ሰብዐቱ	sæbʕætu	s æ b ʕ æ/u + t + u	seven suff_gender suff_nom_sg1	s æ b ʕ æ/u + t + u	7 12 11		Lambdin1978Geez
 15	Geez	seven	ሰባዕቱ	sæbaʕtu	s æ b a/- ʕ -/u + t + u	seven suff_gender suff_nom_sg1	s æ b a/- ʕ -/u + t + u	7 12 11		Lambdin1978Geez
 16	Geez	seven	ሰብዑ	sæbʕu	s æ b ʕ u	seven	s æ b ʕ u	7	/u/ part of the numeral, not case marker	Lambdin1978Geez
@@ -36,7 +36,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 35	Geez	fifteen	ዐሠርቱ ወኀምስቱ	ʕæʃærtuwæxæmɨstu	ʕ æ ʃ æ/- r + t + u + w æ + x æ m ɨ/- s + t + u	ten suff_gender suff_nom_sg1 and five suff_gender suff_nom_sg1	ʕ æ ʃ æ/- r + t + u + w æ + x æ m ɨ/- s + t + u	10 12 11 14 5 12 11		Lambdin1978Geez
 36	Geez	fifteen	ዐሥሩ ወኀምስ	ʕæʃruwæxæms	ʕ æ ʃ r + w æ + x æ m s	ten and five	ʕ æ ʃ r + w æ + x æ m s	10 14 5		Lambdin1978Geez
 37	Geez	sixteen	ዐሠርቱ ወስድስቱ	ʕæʃærtuwæsɨdɨstu	ʕ æ ʃ æ/- r + t + u + w æ + s ɨ d ɨ/- s -/u + t + u	ten suff_gender suff_nom_sg1 and six suff_gender suff_nom_sg1	ʕ æ ʃ æ/- r + t + u + w æ + s ɨ d ɨ/- s -/u + t + u	10 12 11 14 6 12 11		Lambdin1978Geez
-38	Geez	sixteen	ዐሥሩ ወስሱ	ʕæʃruwæsɨssu	ʕ æ ʃ r + w æ + s ɨ s/d s u	ten and six	ʕ æ ʃ r + w æ + s ɨ s/d s u	10 14 6		Lambdin1978Geez
+38	Geez	sixteen	ዐሥሩ ወስሱ	ʕæʃruwæsɨssu	ʕ æ ʃ r + w æ + s ɨ -/d sː/s u	ten and six	ʕ æ ʃ r + w æ + s ɨ -/d sː/s u	10 14 6		Lambdin1978Geez
 39	Geez	seventeen	ዐሠርቱ ወሰብዓቱ	ʕæʃærtuwæsæbʕætu	ʕ æ ʃ æ/- r + t + u + w æ + s æ b ʕ æ/u + t + u	ten suff_gender suff_nom_sg1 and seven suff_gender suff_nom_sg1	ʕ æ ʃ æ/- r + t + u + w æ + s æ b ʕ æ/u + t + u	10 12 11 14 7 12 11		Lambdin1978Geez
 40	Geez	seventeen	ዐሥሩ ወሰብዑ	ʕæʃruwæsæbʕu	ʕ æ ʃ r + w æ + s æ b ʕ u	ten and seven	ʕ æ ʃ r + w æ + s æ b ʕ u	10 14 7		Lambdin1978Geez
 41	Geez	eighteen	ዐሠርቱ ወስመንቱ	ʕæʃærtuwæsæmantu	ʕ æ ʃ æ/- r + t + u + w æ + s æ m a n -/i + t + u	ten suff_gender suff_nom_sg1 and eight suff_gender suff_nom_sg1	ʕ æ ʃ æ/- r + t + u + w æ + s æ m a n -/i + t + u	10 12 11 14 8 12 11		Lambdin1978Geez
@@ -55,7 +55,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 54	Geez	twenty five	ዕሠራ ወኀምስቱ	ʕɨʃrawæxæmɨstu	ʕ ɨ/æ ʃ r + a + w æ + x æ m ɨ/- s + t + u	ten ty and five suff_gender suff_nom_sg1	ʕ ɨ/æ ʃ r + a + w æ + x æ m ɨ/- s + t + u	10 15 14 5 12 11		Lambdin1978Geez
 55	Geez	twenty five	ዕሠራ ወኀምስ	ʕɨʃrawæxæms	ʕ ɨ/æ ʃ r + a + w æ + x æ m s	ten ty and five	ʕ ɨ/æ ʃ r + a + w æ + x æ m s	10 15 14 5		Lambdin1978Geez
 56	Geez	twenty six	ዕሠራ ወስድስቱ	ʕɨʃrawæsɨdɨstu	ʕ ɨ/æ ʃ r + a + w æ + s ɨ d ɨ/- s -/u + t + u	ten ty and six suff_gender suff_nom_sg1	ʕ ɨ/æ ʃ r + a + w æ + s ɨ d ɨ/- s -/u + t + u	10 15 14 6 12 11		Lambdin1978Geez
-57	Geez	twenty six	ዕሠራ ወስሱ	ʕɨʃrawæsɨssu	ʕ ɨ/æ ʃ r + a + w æ + s ɨ s/d s u	ten ty and six	ʕ ɨ/æ ʃ r + a + w æ + s ɨ s/d s u	10 15 14 6		Lambdin1978Geez
+57	Geez	twenty six	ዕሠራ ወስሱ	ʕɨʃrawæsɨssu	ʕ ɨ/æ ʃ r + a + w æ + s ɨ -/d sː/s u	ten ty and six	ʕ ɨ/æ ʃ r + a + w æ + s ɨ -/d sː/s u	10 15 14 6		Lambdin1978Geez
 58	Geez	twenty seven	ዕሠራ ወሰብዓቱ	ʕɨʃrawæsæbæʕatu	ʕ ɨ/æ ʃ r + a + w æ + s æ b ʕ æ/u + t + u	ten ty and seven suff_gender suff_nom_sg1	ʕ ɨ/æ ʃ r + a + w æ + s æ b ʕ æ/u + t + u	10 15 14 7 12 11		Lambdin1978Geez
 59	Geez	twenty seven	ዕሠራ ወሰብዑ	ʕɨʃrawæsæbʕu	ʕ ɨ/æ ʃ r + a + w æ + s æ b ʕ u	ten ty and seven	ʕ ɨ/æ ʃ r + a + w æ + s æ b ʕ u	10 15 14 7		Lambdin1978Geez
 60	Geez	twenty eight	ዕሠራ ወስመንቱ	ʕɨʃrawæsæmæntu	ʕ ɨ/æ ʃ r + a + w æ + s æ m a n -/i + t + u	ten ty and eight suff_gender suff_nom_sg1	ʕ ɨ/æ ʃ r + a + w æ + s æ m a n -/i + t + u	10 15 14 8 12 11		Lambdin1978Geez
@@ -74,7 +74,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 73	Geez	thirty five	ሠላሳ ወኀምስቱ	ʃælasawæxæmɨstu	ʃ æ l a s + a + w æ + x æ m ɨ/- s + t + u	three ty and five suff_gender suff_nom_sg1	ʃ æ l a s + a + w æ + x æ m ɨ/- s + t + u	3 15 14 5 12 11		Lambdin1978Geez
 74	Geez	thirty five	ሠላሳ ወኀምስ	ʃælasawæxæms	ʃ æ l a s + a + w æ + x æ m s	three ty and five	ʃ æ l a s + a + w æ + x æ m s	3 15 14 5		Lambdin1978Geez
 75	Geez	thirty six	ሠላሳ ወስድስቱ	ʃælasawæsɨdɨstu	ʃ æ l a s + a + w æ + s ɨ d ɨ/- s -/u + t + u	three ty and six suff_gender suff_nom_sg1	ʃ æ l a s + a + w æ + s ɨ d ɨ/- s -/u + t + u	3 15 14 6 12 11		Lambdin1978Geez
-76	Geez	thirty six	ሠላሳ ወስሱ	ʃælasawæsɨssu	ʃ æ l a s + a + w æ + s ɨ s/d s u	three ty and six	ʃ æ l a s + a + w æ + s ɨ s/d s u	3 15 14 6		Lambdin1978Geez
+76	Geez	thirty six	ሠላሳ ወስሱ	ʃælasawæsɨssu	ʃ æ l a s + a + w æ + s ɨ -/d sː/s u	three ty and six	ʃ æ l a s + a + w æ + s ɨ -/d sː/s u	3 15 14 6		Lambdin1978Geez
 77	Geez	thirty seven	ሠላሳ ወሰብዓቱ	ʃælasawæsæbʕatu	ʃ æ l a s + a + w æ + s æ b ʕ æ/u + t + u	three ty and seven suff_gender suff_nom_sg1	ʃ æ l a s + a + w æ + s æ b ʕ æ/u + t + u	3 15 14 7 12 11		Lambdin1978Geez
 78	Geez	thirty seven	ሠላሳ ወሰብዑ	ʃælasawæsæbʕu	ʃ æ l a s + a + w æ + s æ b ʕ u	three ty and seven	ʃ æ l a s + a + w æ + s æ b ʕ u	3 15 14 7		Lambdin1978Geez
 79	Geez	thirty eight	ሠላሳ ወሰመንቱ	ʃælasawæsæmæntu	ʃ æ l a s + a + w æ + s æ m a n -/i + t + u	three ty and eight suff_gender suff_nom_sg1	ʃ æ l a s + a + w æ + s æ m a n -/i + t + u	3 15 14 8 12 11		Lambdin1978Geez
@@ -93,7 +93,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 92	Geez	forty five	አርብዓ ወኀምስቱ	ʔærbɨʕawæxæmɨstu	ʔ æ r b ɨ/a ʕ + a + w æ + x æ m ɨ/- s + t + u	four ty and five suff_gender suff_nom_sg1	ʔ æ r b ɨ/a ʕ + a + w æ + x æ m ɨ/- s + t + u	4 15 14 5 12 11		Lambdin1978Geez
 93	Geez	forty five	አርብዓ ወኀምስ	ʔærbɨʕawæxæms	ʔ æ r b ɨ/a ʕ + a + w æ + x æ m s	four ty and five	ʔ æ r b ɨ/a ʕ + a + w æ + x æ m s	4 15 14 5		Lambdin1978Geez
 94	Geez	forty six	አርብዓ ወስድስቱ	ʔærbɨʕawæsɨdɨstu	ʔ æ r b ɨ/a ʕ + a + w æ + s ɨ d ɨ/- s -/u + t + u	four ty and six suff_gender suff_nom_sg1	ʔ æ r b ɨ/a ʕ + a + w æ + s ɨ d ɨ/- s -/u + t + u	4 15 14 6 12 11		Lambdin1978Geez
-95	Geez	forty six	አርብዓ ወስሱ	ʔærbɨʕawæsɨssu	ʔ æ r b ɨ/a ʕ + a + w æ + s ɨ s/d s u	four ty and six	ʔ æ r b ɨ/a ʕ + a + w æ + s ɨ s/d s u	4 15 14 6		Lambdin1978Geez
+95	Geez	forty six	አርብዓ ወስሱ	ʔærbɨʕawæsɨssu	ʔ æ r b ɨ/a ʕ + a + w æ + s ɨ -/d sː/s u	four ty and six	ʔ æ r b ɨ/a ʕ + a + w æ + s ɨ -/d sː/s u	4 15 14 6		Lambdin1978Geez
 96	Geez	forty seven	አርብዓ ወሰብዓቱ	ʔærbɨʕawæsæbʕatu	ʔ æ r b ɨ/a ʕ + a + w æ + s æ b ʕ æ/u + t + u	four ty and seven suff_gender suff_nom_sg1	ʔ æ r b ɨ/a ʕ + a + w æ + s æ b ʕ æ/u + t + u	4 15 14 7 12 11		Lambdin1978Geez
 97	Geez	forty seven	አርብዓ ወሰብዑ	ʔærbɨʕawæsæbʕu	ʔ æ r b ɨ/a ʕ + a + w æ + s æ b ʕ u	four ty and seven	ʔ æ r b ɨ/a ʕ + a + w æ + s æ b ʕ u	4 15 14 7		Lambdin1978Geez
 98	Geez	forty eight	አርብዓ ወስመንቱ	ʔærbɨʕawæsɨmæntu	ʔ æ r b ɨ/a ʕ + a + w æ + s æ m a n -/i + t + u	four ty and eight suff_gender suff_nom_sg1	ʔ æ r b ɨ/a ʕ + a + w æ + s æ m a n -/i + t + u	4 15 14 8 12 11		Lambdin1978Geez
@@ -112,32 +112,32 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 111	Geez	fifty five	ኀምሳ ወኀምስቱ	xæmsawæxæmɨstu	x æ m s + a + w æ + x æ m ɨ/- s + t + u	five ty and five suff_gender suff_nom_sg1	x æ m s + a + w æ + x æ m ɨ/- s + t + u	5 15 14 5 12 11		Lambdin1978Geez
 112	Geez	fifty five	ኀምሳ ወኀምስ	xæmsawæxæms	x æ m s + a + w æ + x æ m s	five ty and five	x æ m s + a + w æ + x æ m s	5 15 14 5		Lambdin1978Geez
 113	Geez	fifty six	ኀምሳ ወስድስቱ	xæmsawæsɨdɨstu	x æ m s + a + w æ + s ɨ d ɨ/- s -/u + t + u	five ty and six suff_gender suff_nom_sg1	x æ m s + a + w æ + s ɨ d ɨ/- s -/u + t + u	5 15 14 6 12 11		Lambdin1978Geez
-114	Geez	fifty six	ኀምሳ ወስሱ	xæmsawæsɨssu	x æ m s + a + w æ + s ɨ s/d s u	five ty and six	x æ m s + a + w æ + s ɨ s/d s u	5 15 14 6		Lambdin1978Geez
+114	Geez	fifty six	ኀምሳ ወስሱ	xæmsawæsɨssu	x æ m s + a + w æ + s ɨ -/d sː/s u	five ty and six	x æ m s + a + w æ + s ɨ -/d sː/s u	5 15 14 6		Lambdin1978Geez
 115	Geez	fifty seven	ኀምሳ ወሰብዓቱ	xæmsawæsæbʕatu	x æ m s + a + w æ + s æ b ʕ æ/u + t + u	five ty and seven suff_gender suff_nom_sg1	x æ m s + a + w æ + s æ b ʕ æ/u + t + u	5 15 14 7 12 11		Lambdin1978Geez
 116	Geez	fifty seven	ኀምሳ ወሰብዑ	xæmsawæsæbʕu	x æ m s + a + w æ + s æ b ʕ u	five ty and seven	x æ m s + a + w æ + s æ b ʕ u	5 15 14 7		Lambdin1978Geez
 117	Geez	fifty eight	ኀምሳ ወስመንቱ	xæmsawæsɨmæntu	x æ m s + a + w æ + s æ m a n -/i + t + u	five ty and eight suff_gender suff_nom_sg1	x æ m s + a + w æ + s æ m a n -/i + t + u	5 15 14 8 12 11		Lambdin1978Geez
 118	Geez	fifty eight	ኀምሳ ወሰማኒ	xæmsawæsæmani	x æ m s + a + w æ + s æ m a n i	five ty and eight	x æ m s + a + w æ + s æ m a n i	5 15 14 8		Lambdin1978Geez
 119	Geez	fifty nine	ኀምሳ ወትሰዓቱ	xæmsawætɨsæʕatu	x æ m s + a + w æ + t ɨ s ʕ æ/u + t + u	five ty and nine suff_gender suff_nom_sg1	x æ m s + a + w æ + t ɨ s ʕ æ/u + t + u	5 15 14 9 12 11		Lambdin1978Geez
 120	Geez	fifty nine	ኀምሳ ወትስዑ	xæmsawætɨsʕu	x æ m s + a + w æ + t ɨ s ʕ u	five ty and nine	x æ m s + a + w æ + t ɨ s ʕ u	5 15 14 9		Lambdin1978Geez
-121	Geez	sixty	ስሳ	sɨssa	s ɨ s/d s -/u + a	six ty	s ɨ s/d s -/u + a	6 15		Lambdin1978Geez
-122	Geez	sixty one	ስሳ ወአሐዱ	sɨssawæʔæħædu	s ɨ s/d s -/u + a + w æ + ʔ æ ħ æ d + u	six ty and one suff_nom_sg1	s ɨ s/d s -/u + a + w æ + ʔ æ ħ æ d + u	6 15 14 1 11		Lambdin1978Geez
-123	Geez	sixty one	ስሳ ወአሐቲ	sɨssawæʔæħætti	s ɨ s/d s -/u + a + w æ + ʔ æ ħ æ t/d + t + i	six ty and one suff_gender suff_nom_sg2	s ɨ s/d s -/u + a + w æ + ʔ æ ħ æ t/d + t + i	6 15 14 1 12 13		Lambdin1978Geez
-124	Geez	sixty two	ስሳ ወክልኤቱ	sɨssawækɨlʔetu	s ɨ s/d s -/u + a + w æ + k ɨ l ʔ e t/- + u	six ty and two suff_nom_sg1	s ɨ s/d s -/u + a + w æ + k ɨ l ʔ e t/- + u	6 15 14 2 11		Lambdin1978Geez
-125	Geez	sixty two	ስሳ ወክልኤቲ	sɨssawækɨlʔeti	s ɨ s/d s -/u + a + w æ + k ɨ l ʔ e t/- + i	six ty and two suff_nom_sg2	s ɨ s/d s -/u + a + w æ + k ɨ l ʔ e t/- + i	6 15 14 2 13		Lambdin1978Geez
-126	Geez	sixty three	ስሳ ወሠለስቱ	sɨssawæʃælæstu	s ɨ s/d s -/u + a + w æ + ʃ æ l æ/a s + t + u	six ty and three suff_gender suff_nom_sg1	s ɨ s/d s -/u + a + w æ + ʃ æ l æ/a s + t + u	6 15 14 3 12 11		Lambdin1978Geez
-127	Geez	sixty three	ስሳ ወሠላስ	sɨssawæʃælas	s ɨ s/d s -/u + a + w æ + ʃ æ l a s	six ty and three	s ɨ s/d s -/u + a + w æ + ʃ æ l a s	6 15 14 3		Lambdin1978Geez
-128	Geez	sixty four	ስሳ ወአርባዕቱ	sɨssawæʔærbaʕtu	s ɨ s/d s -/u + a + w æ + ʔ æ r b a ʕ + t + u	six ty and four suff_gender suff_nom_sg1	s ɨ s/d s -/u + a + w æ + ʔ æ r b a ʕ + t + u	6 15 14 4 12 11		Lambdin1978Geez
-129	Geez	sixty four	ስሳ ወአርባዕ	sɨssawæʔærbaʕ	s ɨ s/d s -/u + a + w æ + ʔ æ r b a ʕ	six ty and four	s ɨ s/d s -/u + a + w æ + ʔ æ r b a ʕ	6 15 14 4		Lambdin1978Geez
-130	Geez	sixty five	ስሳ ወኀምስቱ	sɨssawæxæmɨstu	s ɨ s/d s -/u + a + w æ + x æ m ɨ/- s + t + u	six ty and five suff_gender suff_nom_sg1	s ɨ s/d s -/u + a + w æ + x æ m ɨ/- s + t + u	6 15 14 5 12 11		Lambdin1978Geez
-131	Geez	sixty five	ስሳ ወኀምስ	sɨssawæxæms	s ɨ s/d s -/u + a + w æ + x æ m s	six ty and five	s ɨ s/d s -/u + a + w æ + x æ m s	6 15 14 5		Lambdin1978Geez
-132	Geez	sixty six	ስሳ ወስድስቱ	sɨssawæsɨdɨstu	s ɨ s/d s -/u + a + w æ + s ɨ d ɨ/- s -/u + t + u	six ty and six suff_gender suff_nom_sg1	s ɨ s/d s -/u + a + w æ + s ɨ d ɨ/- s -/u + t + u	6 15 14 6 12 11		Lambdin1978Geez
-133	Geez	sixty six	ስሳ ወስሱ	sɨssawæsɨssu	s ɨ s/d s -/u + a + w æ + s ɨ s/d s u	six ty and six	s ɨ s/d s -/u + a + w æ + s ɨ s/d s u	6 15 14 6		Lambdin1978Geez
-134	Geez	sixty seven	ስሳ ወሰብዓቱ	sɨssawæsæbʕatu	s ɨ s/d s -/u + a + w æ + s æ b ʕ æ/u + t + u	six ty and seven suff_gender suff_nom_sg1	s ɨ s/d s -/u + a + w æ + s æ b ʕ æ/u + t + u	6 15 14 7 12 11		Lambdin1978Geez
-135	Geez	sixty seven	ስሳ ወሰብዑ	sɨssawæsæbʕu	s ɨ s/d s -/u + a + w æ + s æ b ʕ u	six ty and seven	s ɨ s/d s -/u + a + w æ + s æ b ʕ u	6 15 14 7		Lambdin1978Geez
-136	Geez	sixty eight	ስሳ ወስመንቱ	sɨssawæsɨmæntu	s ɨ s/d s -/u + a + w æ + s æ m a n -/i + t + u	six ty and eight suff_gender suff_nom_sg1	s ɨ s/d s -/u + a + w æ + s æ m a n -/i + t + u	6 15 14 8 12 11		Lambdin1978Geez
-137	Geez	sixty eight	ስሳ ወሰማኒ	sɨssawæsæmani	s ɨ s/d s -/u + a + w æ + s æ m a n i	six ty and eight	s ɨ s/d s -/u + a + w æ + s æ m a n i	6 15 14 8		Lambdin1978Geez
-138	Geez	sixty nine	ስሳ ወትሰዓቱ	sɨssawætɨsæʕatu	s ɨ s/d s -/u + a + w æ + t ɨ s ʕ æ/u + t + u	six ty and nine suff_gender suff_nom_sg1	s ɨ s/d s -/u + a + w æ + t ɨ s ʕ æ/u + t + u	6 15 14 9 12 11		Lambdin1978Geez
-139	Geez	sixty nine	ስሳ ወትስዑ	sɨssawætɨsʕu	s ɨ s/d s -/u + a + w æ + t ɨ s ʕ u	six ty and nine	s ɨ s/d s -/u + a + w æ + t ɨ s ʕ u	6 15 14 9		Lambdin1978Geez
+121	Geez	sixty	ስሳ	sɨssa	s ɨ -/d sː/s -/u + a	six ty	s ɨ -/d sː/s -/u + a	6 15		Lambdin1978Geez
+122	Geez	sixty one	ስሳ ወአሐዱ	sɨssawæʔæħædu	s ɨ -/d sː/s -/u + a + w æ + ʔ æ ħ æ d + u	six ty and one suff_nom_sg1	s ɨ -/d sː/s -/u + a + w æ + ʔ æ ħ æ d + u	6 15 14 1 11		Lambdin1978Geez
+123	Geez	sixty one	ስሳ ወአሐቲ	sɨssawæʔæħætti	s ɨ -/d sː/s -/u + a + w æ + ʔ æ ħ æ t/d + t + i	six ty and one suff_gender suff_nom_sg2	s ɨ -/d sː/s -/u + a + w æ + ʔ æ ħ æ t/d + t + i	6 15 14 1 12 13		Lambdin1978Geez
+124	Geez	sixty two	ስሳ ወክልኤቱ	sɨssawækɨlʔetu	s ɨ -/d sː/s -/u + a + w æ + k ɨ l ʔ e t/- + u	six ty and two suff_nom_sg1	s ɨ -/d sː/s -/u + a + w æ + k ɨ l ʔ e t/- + u	6 15 14 2 11		Lambdin1978Geez
+125	Geez	sixty two	ስሳ ወክልኤቲ	sɨssawækɨlʔeti	s ɨ -/d sː/s -/u + a + w æ + k ɨ l ʔ e t/- + i	six ty and two suff_nom_sg2	s ɨ -/d sː/s -/u + a + w æ + k ɨ l ʔ e t/- + i	6 15 14 2 13		Lambdin1978Geez
+126	Geez	sixty three	ስሳ ወሠለስቱ	sɨssawæʃælæstu	s ɨ -/d sː/s -/u + a + w æ + ʃ æ l æ/a s + t + u	six ty and three suff_gender suff_nom_sg1	s ɨ -/d sː/s -/u + a + w æ + ʃ æ l æ/a s + t + u	6 15 14 3 12 11		Lambdin1978Geez
+127	Geez	sixty three	ስሳ ወሠላስ	sɨssawæʃælas	s ɨ -/d sː/s -/u + a + w æ + ʃ æ l a s	six ty and three	s ɨ -/d sː/s -/u + a + w æ + ʃ æ l a s	6 15 14 3		Lambdin1978Geez
+128	Geez	sixty four	ስሳ ወአርባዕቱ	sɨssawæʔærbaʕtu	s ɨ -/d sː/s -/u + a + w æ + ʔ æ r b a ʕ + t + u	six ty and four suff_gender suff_nom_sg1	s ɨ -/d sː/s -/u + a + w æ + ʔ æ r b a ʕ + t + u	6 15 14 4 12 11		Lambdin1978Geez
+129	Geez	sixty four	ስሳ ወአርባዕ	sɨssawæʔærbaʕ	s ɨ -/d sː/s -/u + a + w æ + ʔ æ r b a ʕ	six ty and four	s ɨ -/d sː/s -/u + a + w æ + ʔ æ r b a ʕ	6 15 14 4		Lambdin1978Geez
+130	Geez	sixty five	ስሳ ወኀምስቱ	sɨssawæxæmɨstu	s ɨ -/d sː/s -/u + a + w æ + x æ m ɨ/- s + t + u	six ty and five suff_gender suff_nom_sg1	s ɨ -/d sː/s -/u + a + w æ + x æ m ɨ/- s + t + u	6 15 14 5 12 11		Lambdin1978Geez
+131	Geez	sixty five	ስሳ ወኀምስ	sɨssawæxæms	s ɨ -/d sː/s -/u + a + w æ + x æ m s	six ty and five	s ɨ -/d sː/s -/u + a + w æ + x æ m s	6 15 14 5		Lambdin1978Geez
+132	Geez	sixty six	ስሳ ወስድስቱ	sɨssawæsɨdɨstu	s ɨ -/d sː/s -/u + a + w æ + s ɨ d ɨ/- s -/u + t + u	six ty and six suff_gender suff_nom_sg1	s ɨ -/d sː/s -/u + a + w æ + s ɨ d ɨ/- s -/u + t + u	6 15 14 6 12 11		Lambdin1978Geez
+133	Geez	sixty six	ስሳ ወስሱ	sɨssawæsɨssu	s ɨ -/d sː/s -/u + a + w æ + s ɨ -/d sː/s u	six ty and six	s ɨ -/d sː/s -/u + a + w æ + s ɨ -/d sː/s u	6 15 14 6		Lambdin1978Geez
+134	Geez	sixty seven	ስሳ ወሰብዓቱ	sɨssawæsæbʕatu	s ɨ -/d sː/s -/u + a + w æ + s æ b ʕ æ/u + t + u	six ty and seven suff_gender suff_nom_sg1	s ɨ -/d sː/s -/u + a + w æ + s æ b ʕ æ/u + t + u	6 15 14 7 12 11		Lambdin1978Geez
+135	Geez	sixty seven	ስሳ ወሰብዑ	sɨssawæsæbʕu	s ɨ -/d sː/s -/u + a + w æ + s æ b ʕ u	six ty and seven	s ɨ -/d sː/s -/u + a + w æ + s æ b ʕ u	6 15 14 7		Lambdin1978Geez
+136	Geez	sixty eight	ስሳ ወስመንቱ	sɨssawæsɨmæntu	s ɨ -/d sː/s -/u + a + w æ + s æ m a n -/i + t + u	six ty and eight suff_gender suff_nom_sg1	s ɨ -/d sː/s -/u + a + w æ + s æ m a n -/i + t + u	6 15 14 8 12 11		Lambdin1978Geez
+137	Geez	sixty eight	ስሳ ወሰማኒ	sɨssawæsæmani	s ɨ -/d sː/s -/u + a + w æ + s æ m a n i	six ty and eight	s ɨ -/d sː/s -/u + a + w æ + s æ m a n i	6 15 14 8		Lambdin1978Geez
+138	Geez	sixty nine	ስሳ ወትሰዓቱ	sɨssawætɨsæʕatu	s ɨ -/d sː/s -/u + a + w æ + t ɨ s ʕ æ/u + t + u	six ty and nine suff_gender suff_nom_sg1	s ɨ -/d sː/s -/u + a + w æ + t ɨ s ʕ æ/u + t + u	6 15 14 9 12 11		Lambdin1978Geez
+139	Geez	sixty nine	ስሳ ወትስዑ	sɨssawætɨsʕu	s ɨ -/d sː/s -/u + a + w æ + t ɨ s ʕ u	six ty and nine	s ɨ -/d sː/s -/u + a + w æ + t ɨ s ʕ u	6 15 14 9		Lambdin1978Geez
 140	Geez	seventy	ሰብዓ	sæbʕa	s æ b ʕ -/u + a	seven ty	s æ b ʕ -/u + a	7 15		Lambdin1978Geez
 141	Geez	seventy one	ሰብዓ ወአሐዱ	sæbʕawæʔæħædu	s æ b ʕ -/u + a + w æ + ʔ æ ħ æ d + u	seven ty and one suff_nom_sg1	s æ b ʕ -/u + a + w æ + ʔ æ ħ æ d + u	7 15 14 1 11		Lambdin1978Geez
 142	Geez	seventy one	ሰብዓ ወአሐቲ	sæbʕawæʔæħætti	s æ b ʕ -/u + a + w æ + ʔ æ ħ æ t/d + t + i	seven ty and one suff_gender suff_nom_sg2	s æ b ʕ -/u + a + w æ + ʔ æ ħ æ t/d + t + i	7 15 14 1 12 13		Lambdin1978Geez
@@ -150,7 +150,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 149	Geez	seventy five	ሰብዓ ወኀምስቱ	sæbʕawæxæmɨstu	s æ b ʕ -/u + a + w æ + x æ m ɨ/- s + t + u	seven ty and five suff_gender suff_nom_sg1	s æ b ʕ -/u + a + w æ + x æ m ɨ/- s + t + u	7 15 14 5 12 11		Lambdin1978Geez
 150	Geez	seventy five	ሰብዓ ወኀምስ	sæbʕawæxæms	s æ b ʕ -/u + a + w æ + x æ m s	seven ty and five	s æ b ʕ -/u + a + w æ + x æ m s	7 15 14 5		Lambdin1978Geez
 151	Geez	seventy six	ሰብዓ ወስድስቱ	sæbʕawæsɨdɨstu	s æ b ʕ -/u + a + w æ + s ɨ d ɨ/- s -/u + t + u	seven ty and six suff_gender suff_nom_sg1	s æ b ʕ -/u + a + w æ + s ɨ d ɨ/- s -/u + t + u	7 15 14 6 12 11		Lambdin1978Geez
-152	Geez	seventy six	ሰብዓ ወስሱ	sæbʕawæsɨssu	s æ b ʕ -/u + a + w æ + s ɨ s/d s u	seven ty and six	s æ b ʕ -/u + a + w æ + s ɨ s/d s u	7 15 14 6		Lambdin1978Geez
+152	Geez	seventy six	ሰብዓ ወስሱ	sæbʕawæsɨssu	s æ b ʕ -/u + a + w æ + s ɨ -/d sː/s u	seven ty and six	s æ b ʕ -/u + a + w æ + s ɨ -/d sː/s u	7 15 14 6		Lambdin1978Geez
 153	Geez	seventy seven	ሰብዓ ወሰብዓቱ	sæbʕawæsæbʕatu	s æ b ʕ -/u + a + w æ + s æ b ʕ æ/u + t + u	seven ty and seven suff_gender suff_nom_sg1	s æ b ʕ -/u + a + w æ + s æ b ʕ æ/u + t + u	7 15 14 7 12 11		Lambdin1978Geez
 154	Geez	seventy seven	ሰብዓ ወሰብዑ	sæbʕawæsæbʕu	s æ b ʕ -/u + a + w æ + s æ b ʕ u	seven ty and seven	s æ b ʕ -/u + a + w æ + s æ b ʕ u	7 15 14 7		Lambdin1978Geez
 155	Geez	seventy eight	ሰብዓ ወስመንቱ	sæbʕawæsɨmæntu	s æ b ʕ -/u + a + w æ + s æ m a n -/i + t + u	seven ty and eight suff_gender suff_nom_sg1	s æ b ʕ -/u + a + w æ + s æ m a n -/i + t + u	7 15 14 8 12 11		Lambdin1978Geez
@@ -169,7 +169,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 168	Geez	eighty five	ሰማንያ ወኀምስቱ	sæmanjawæxæmɨstu	s æ m a n j/i + a + w æ + x æ m ɨ/- s + t + u	eight ty and five suff_gender suff_nom_sg1	s æ m a n j/i + a + w æ + x æ m ɨ/- s + t + u	8 15 14 5 12 11		Lambdin1978Geez
 169	Geez	eighty five	ሰማንያ ወኀምስ	sæmanjawæxæms	s æ m a n j/i + a + w æ + x æ m s	eight ty and five	s æ m a n j/i + a + w æ + x æ m s	8 15 14 5		Lambdin1978Geez
 170	Geez	eighty six	ሰማንያ ወስድስቱ	sæmanjawæsɨdɨstu	s æ m a n j/i + a + w æ + s ɨ d ɨ/- s -/u + t + u	eight ty and six suff_gender suff_nom_sg1	s æ m a n j/i + a + w æ + s ɨ d ɨ/- s -/u + t + u	8 15 14 6 12 11		Lambdin1978Geez
-171	Geez	eighty six	ሰማንያ ወስሱ	sæmanjawæsɨssu	s æ m a n j/i + a + w æ + s ɨ s/d s u	eight ty and six	s æ m a n j/i + a + w æ + s ɨ s/d s u	8 15 14 6		Lambdin1978Geez
+171	Geez	eighty six	ሰማንያ ወስሱ	sæmanjawæsɨssu	s æ m a n j/i + a + w æ + s ɨ -/d sː/s u	eight ty and six	s æ m a n j/i + a + w æ + s ɨ -/d sː/s u	8 15 14 6		Lambdin1978Geez
 172	Geez	eighty seven	ሰማንያ ወሰብዓቱ	sæmanjawæsæbʕatu	s æ m a n j/i + a + w æ + s æ b ʕ æ/u + t + u	eight ty and seven suff_gender suff_nom_sg1	s æ m a n j/i + a + w æ + s æ b ʕ æ/u + t + u	8 15 14 7 12 11		Lambdin1978Geez
 173	Geez	eighty seven	ሰማንያ ወሰብዑ	sæmanjawæsæbʕu	s æ m a n j/i + a + w æ + s æ b ʕ u	eight ty and seven	s æ m a n j/i + a + w æ + s æ b ʕ u	8 15 14 7		Lambdin1978Geez
 174	Geez	eighty eight	ሰማንያ ወስመንቱ	sæmanjawæsɨmæntu	s æ m a n j/i + a + w æ + s æ m a n -/i + t + u	eight ty and eight suff_gender suff_nom_sg1	s æ m a n j/i + a + w æ + s æ m a n -/i + t + u	8 15 14 8 12 11		Lambdin1978Geez
@@ -188,7 +188,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 187	Geez	ninety five	ተስዓ ወኀምስቱ	tæsʕawæxæmɨstu	t æ/ɨ s ʕ -/u + a + w æ + x æ m ɨ/- s + t + u	nine ty and five suff_gender suff_nom_sg1	t æ/ɨ s ʕ -/u + a + w æ + x æ m ɨ/- s + t + u	9 15 14 5 12 11		Lambdin1978Geez
 188	Geez	ninety five	ተስዓ ወኀምስ	tæsʕawæxæms	t æ/ɨ s ʕ -/u + a + w æ + x æ m s	nine ty and five	t æ/ɨ s ʕ -/u + a + w æ + x æ m s	9 15 14 5		Lambdin1978Geez
 189	Geez	ninety six	ተስዓ ወስድስቱ	tæsʕawæsɨdɨstu	t æ/ɨ s ʕ -/u + a + w æ + s ɨ d ɨ/- s -/u + t + u	nine ty and six suff_gender suff_nom_sg1	t æ/ɨ s ʕ -/u + a + w æ + s ɨ d ɨ/- s -/u + t + u	9 15 14 6 12 11		Lambdin1978Geez
-190	Geez	ninety six	ተስዓ ወስሱ	tæsʕawæsɨssu	t æ/ɨ s ʕ -/u + a + w æ + s ɨ s/d s u	nine ty and six	t æ/ɨ s ʕ -/u + a + w æ + s ɨ s/d s u	9 15 14 6		Lambdin1978Geez
+190	Geez	ninety six	ተስዓ ወስሱ	tæsʕawæsɨssu	t æ/ɨ s ʕ -/u + a + w æ + s ɨ -/d sː/s u	nine ty and six	t æ/ɨ s ʕ -/u + a + w æ + s ɨ -/d sː/s u	9 15 14 6		Lambdin1978Geez
 191	Geez	ninety seven	ተስዓ ወሰብዓቱ	tæsʕawæsæbʕatu	t æ/ɨ s ʕ -/u + a + w æ + s æ b ʕ æ/u + t + u	nine ty and seven suff_gender suff_nom_sg1	t æ/ɨ s ʕ -/u + a + w æ + s æ b ʕ æ/u + t + u	9 15 14 7 12 11		Lambdin1978Geez
 192	Geez	ninety seven	ተስዓ ወሰብዑ	tæsʕawæsæbʕu	t æ/ɨ s ʕ -/u + a + w æ + s æ b ʕ u	nine ty and seven	t æ/ɨ s ʕ -/u + a + w æ + s æ b ʕ u	9 15 14 7		Lambdin1978Geez
 193	Geez	ninety eight	ተስዓ ወስመንቱ	tæsʕawæsɨmæntu	t æ/ɨ s ʕ -/u + a + w æ + s æ m a n -/i + t + u	nine ty and eight suff_gender suff_nom_sg1	t æ/ɨ s ʕ -/u + a + w æ + s æ m a n -/i + t + u	9 15 14 8 12 11		Lambdin1978Geez

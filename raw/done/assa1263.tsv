@@ -14,17 +14,17 @@ ID	DOCULECT	VALUE	FORM	CONCEPT	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 13	Assamese	তেৰ	tɛrɔ	thirteen	t ɛ/e + r ɔ	three ten4	t ɛ + r ɔ	53 22		Assamese
 14	Assamese	চৈধ্য	sɔiddʰɔ	fourteen	s ɔ/o i/u + d dʰ ɔ	four2 ten2	s ɔ i + d dʰ ɔ	25 5		Assamese
 15	Assamese	পোন্ধৰ	pɔndʰɔrɔ	fifteen	p ɔ n dʰ + ɔ/- r ɔ	five3 ten4	p ɔ n dʰ + ɔ r ɔ	55 22		Assamese
-16	Assamese	ষোল্ল	xɔllɔ	sixteen	x ɔ + l l ɔ	six5 ten3	x ɔ + l l ɔ	2 49		Assamese
+16	Assamese	ষোল্ল	xɔllɔ	sixteen	x ɔ + lː ɔ	six5 ten3	x ɔ + lː ɔ	2 49		Assamese
 17	Assamese	সোতৰ	xɔtɔrɔ	seventeen	x ɔ/a t + ɔ/- r ɔ	seven ten4	x ɔ t + ɔ r ɔ	23 22		Assamese
 18	Assamese	ওঁঠৰ	ɔtʰɔrɔ	eighteen	ɔ/a tʰ + ɔ/- r ɔ	eight ten4	ɔ tʰ + ɔ r ɔ	48 22		Assamese
-19	Assamese	ঊনৈছ	unnih	nineteen	u n n + i h	minus2 twenty4	u n n + i h	38 17		Assamese
+19	Assamese	ঊনৈছ	unnih	nineteen	u nː + i h	minus2 twenty4	u nː + i h	38 17		Assamese
 20	Assamese	বিছ	bis	twenty	b i s	twenty	b i s	9		Assamese
 21	Assamese	একৈছ	ekois	twenty one	e k o + i s	one2 twenty5	e k o + i s	7 36		Assamese
 22	Assamese	বাইছ	bais	twenty two	b a + i s	two twenty5	b a + i s	37 36		Assamese
 23	Assamese	তেইছ	teis	twenty three	t e + i s	three twenty5	t e + i s	53 36		Assamese
-24	Assamese	চৌব্বিছ	soubbis	twenty four	s o u + b/- b i s	four2 twenty	s o u + b b i s	25 9		Assamese
+24	Assamese	চৌব্বিছ	soubbis	twenty four	s o u + bː/b i s	four2 twenty	s o u + b b i s	25 9		Assamese
 25	Assamese	পঁচিছ	pɔsis	twenty five	p ɔ -/j -/a + s i s	five2 twenty2	p ɔ + s i s	15 24		Assamese
-26	Assamese	ছাব্বিছ	sabbis	twenty six	s a -/i + b/- b i s	six twenty	s a + b b i s	40 9		Assamese
+26	Assamese	ছাব্বিছ	sabbis	twenty six	s a -/i + bː/b i s	six twenty	s a + b b i s	40 9		Assamese
 27	Assamese	সাতাইছ	xatais	twenty seven	x a t a + i s	seven2 twenty5	x a t a + i s	46 36		Assamese
 28	Assamese	আঁঠাইছ	atʰais	twenty eight	a tʰ a/- + i s	eight twenty5	a tʰ a + i s	48 36		Assamese
 29	Assamese	উনত্ৰিছ	untɹis	twenty nine	u n + t ɹ i s	minus thirty	u n + t ɹ i s	41 31		Assamese
@@ -37,16 +37,16 @@ ID	DOCULECT	VALUE	FORM	CONCEPT	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 36	Assamese	ছয়ত্ৰিছ	saintɹis	thirty six	s a i n + t ɹ i s	six2 thirty	s a i n + t ɹ i s	35 31		Assamese
 37	Assamese	সাতত্ৰিছ	xatɔtɹis	thirty seven	x a t ɔ/a + t ɹ i s	seven2 thirty	x a t ɔ + t ɹ i s	46 31		Assamese
 38	Assamese	আঠত্ৰিছ	atʰɔtɹis	thirty eight	a tʰ ɔ/- + t ɹ i s	eight thirty	a tʰ ɔ + t ɹ i s	48 31		Assamese
-39	Assamese	ঊনচল্লিছ	unsɔllis	thirty nine	u n + s ɔ l l i s	minus forty3	u n + s ɔ l l i s	41 50		Assamese
-40	Assamese	চল্লিছ	sɔllis	forty	s ɔ l l i s	forty3	s ɔ l l i s	50		Assamese
-41	Assamese	একচল্লিশ	ɛk sɔllis	forty one	ɛ k + s ɔ l l i s	one forty3	ɛ k + s ɔ l l i s	43 50		Assamese
-42	Assamese	বিয়াল্লিশ	bij allis	forty two	b i/a + j a l l i s	two forty2	b i + j a l l i s	37 54		Assamese
-43	Assamese	তেতাল্লিশ	tet allis	forty three	t e + t a l l i s	three forty4	t e + t a l l i s	53 51		Assamese
-44	Assamese	চুয়াল্লিশ	su allis	forty four	s -/o u + a l l i s	four2 forty	s u + a l l i s	25 4		Assamese
-45	Assamese	পঁয়তাল্লিশ	pɔ̃ja tallis	forty five	p ɔ̃/ɔ j a + t a l l i s	five2 forty4	p ɔ̃ j a + t a l l i s	15 51		Assamese
-46	Assamese	ছিয়াল্লিশ	sij allis	forty six	s i -/j + j a l l i s	six3 forty2	s i + j a l l i s	28 54		Assamese
-47	Assamese	সাতচল্লিশ	xat sɔllis	forty seven	x a t + s ɔ l l i s	seven forty3	x a t + s ɔ l l i s	23 50		Assamese
-48	Assamese	আটচল্লিশ	atʰ sɔllis	forty eight	a tʰ + s ɔ l l i s	eight forty3	a tʰ + s ɔ l l i s	48 50		Assamese
+39	Assamese	ঊনচল্লিছ	unsɔllis	thirty nine	u n + s ɔ lː i s	minus forty3	u n + s ɔ lː i s	41 50		Assamese
+40	Assamese	চল্লিছ	sɔllis	forty	s ɔ lː i s	forty3	s ɔ lː i s	50		Assamese
+41	Assamese	একচল্লিশ	ɛk sɔllis	forty one	ɛ k + s ɔ lː i s	one forty3	ɛ k + s ɔ lː i s	43 50		Assamese
+42	Assamese	বিয়াল্লিশ	bij allis	forty two	b i/a + j a lː i s	two forty2	b i + j a lː i s	37 54		Assamese
+43	Assamese	তেতাল্লিশ	tet allis	forty three	t e + t a lː i s	three forty4	t e + t a lː i s	53 51		Assamese
+44	Assamese	চুয়াল্লিশ	su allis	forty four	s -/o u + a lː i s	four2 forty	s u + a lː i s	25 4		Assamese
+45	Assamese	পঁয়তাল্লিশ	pɔ̃ja tallis	forty five	p ɔ̃/ɔ j a + t a lː i s	five2 forty4	p ɔ̃ j a + t a lː i s	15 51		Assamese
+46	Assamese	ছিয়াল্লিশ	sij allis	forty six	s i -/j + j a lː i s	six3 forty2	s i + j a lː i s	28 54		Assamese
+47	Assamese	সাতচল্লিশ	xat sɔllis	forty seven	x a t + s ɔ lː i s	seven forty3	x a t + s ɔ lː i s	23 50		Assamese
+48	Assamese	আটচল্লিশ	atʰ sɔllis	forty eight	a tʰ + s ɔ lː i s	eight forty3	a tʰ + s ɔ lː i s	48 50		Assamese
 49	Assamese	ঊনপঞ্চাশ	un pɔntʃaʃ	forty nine	u n + p ɔ n tʃ a ʃ	minus fifty	u n + p ɔ n tʃ a ʃ	41 32		Assamese
 50	Assamese	পঞ্চাশ	pɔntʃaʃ	fifty	p ɔ n tʃ a ʃ	fifty	p ɔ n tʃ a ʃ	32		Assamese
 51	Assamese	একাৱন্ন	ɛk abɔnɔ	fifty one	ɛ/e k a/o + b ɔ n ɔ	one2 fifty2	ɛ k a + b ɔ n ɔ	7 39		Assamese

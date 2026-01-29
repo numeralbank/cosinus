@@ -49,24 +49,24 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 48	Dhivehi	forty eight	aṣāḷīs	a ʂ + aː ɭ iː s	eight4 forty2	a ʂ + aː ɭ iː s	4 11		GnanadesikanDhivehi2017
 49	Dhivehi	forty nine	onafansās	o n a + f a n s aː s	minus fifty	o n a + f a n s aː s	19 6		GnanadesikanDhivehi2017
 50	Dhivehi	fifty	fansās	f a n s aː s	fifty	f a n s aː s	6		GnanadesikanDhivehi2017
-51	Dhivehi	fifty one	ekāvanna	e k aː + ʋ a n n a	one3 fifty2	e k aː + ʋ a n n a	26 7		GnanadesikanDhivehi2017
-52	Dhivehi	fifty two	bāvanna	b aː + ʋ a n n a	two2 fifty2	b aː + ʋ a n n a	52 7		GnanadesikanDhivehi2017
-53	Dhivehi	fifty three	tēvanna	t eː + ʋ a n n a	three2 fifty2	t eː + ʋ a n n a	46 7		GnanadesikanDhivehi2017
-54	Dhivehi	fifty four	sauravanna	s a u r a + ʋ a n n a	four2 fifty2	s a u r a + ʋ a n n a	15 7		GnanadesikanDhivehi2017
-55	Dhivehi	fifty five	fansavanna	f a n s a + ʋ a n n a	five2 fifty2	f a n s a + ʋ a n n a	9 7		GnanadesikanDhivehi2017
-56	Dhivehi	fifty six	savanna	s a + ʋ a n n a	six4 fifty2	s a + ʋ a n n a	38 7		GnanadesikanDhivehi2017
-57	Dhivehi	fifty seven	satuvanna	s a t u + ʋ a n n a	seven2 fifty2	s a t u + ʋ a n n a	30 7		GnanadesikanDhivehi2017
-58	Dhivehi	fifty eight	aṣuvanna	a ʂ u + ʋ a n n a	eight2 fifty2	a ʂ u + ʋ a n n a	2 7		GnanadesikanDhivehi2017
-59	Dhivehi	fifty nine	onahaṭṭi	o n a + h a ʈ ʈ i	minus sixty	o n a + h a ʈ ʈ i	19 39		GnanadesikanDhivehi2017
-60	Dhivehi	sixty	haṭṭi	h a ʈ ʈ i	sixty	h a ʈ ʈ i	39		GnanadesikanDhivehi2017
-61	Dhivehi	sixty one	ekāhaṭṭī	e k aː + h a ʈ ʈ i	one3 sixty	e k aː + h a ʈ ʈ i	26 39	Gnanadesikan (p. 107) marks long vowel on romanized form but not (to my knowledge) the non-romanized orthography; vowel is probably short	GnanadesikanDhivehi2017
-62	Dhivehi	sixty two	bāhaṭṭi	b aː + h a ʈ ʈ i	two2 sixty	b aː + h a ʈ ʈ i	52 39		GnanadesikanDhivehi2017
-63	Dhivehi	sixty three	tēhaṭṭi	t eː + h a ʈ ʈ i	three2 sixty	t eː + h a ʈ ʈ i	46 39		GnanadesikanDhivehi2017
-64	Dhivehi	sixty four	saurahaṭṭi	s a u r a + h a ʈ ʈ i	four2 sixty	s a u r a + h a ʈ ʈ i	15 39		GnanadesikanDhivehi2017
-65	Dhivehi	sixty five	fansahaṭṭi	f a n s a + h a ʈ ʈ i	five2 sixty	f a n s a + h a ʈ ʈ i	9 39		GnanadesikanDhivehi2017
-66	Dhivehi	sixty six	sahaṭṭi	s a + h a ʈ ʈ i	six4 sixty	s a + h a ʈ ʈ i	38 39		GnanadesikanDhivehi2017
-67	Dhivehi	sixty seven	satuhaṭṭi	s a t u + h a ʈ ʈ i	seven2 sixty	s a t u + h a ʈ ʈ i	30 39		GnanadesikanDhivehi2017
-68	Dhivehi	sixty eight	aṣuhaṭṭi	a ʂ u + h a ʈ ʈ i	eight2 sixty	a ʂ u + h a ʈ ʈ i	2 39		GnanadesikanDhivehi2017
+51	Dhivehi	fifty one	ekāvanna	e k aː + ʋ a nː a	one3 fifty2	e k aː + ʋ a nː a	26 7		GnanadesikanDhivehi2017
+52	Dhivehi	fifty two	bāvanna	b aː + ʋ a nː a	two2 fifty2	b aː + ʋ a nː a	52 7		GnanadesikanDhivehi2017
+53	Dhivehi	fifty three	tēvanna	t eː + ʋ a nː a	three2 fifty2	t eː + ʋ a nː a	46 7		GnanadesikanDhivehi2017
+54	Dhivehi	fifty four	sauravanna	s a u r a + ʋ a nː a	four2 fifty2	s a u r a + ʋ a nː a	15 7		GnanadesikanDhivehi2017
+55	Dhivehi	fifty five	fansavanna	f a n s a + ʋ a nː a	five2 fifty2	f a n s a + ʋ a nː a	9 7		GnanadesikanDhivehi2017
+56	Dhivehi	fifty six	savanna	s a + ʋ a nː a	six4 fifty2	s a + ʋ a nː a	38 7		GnanadesikanDhivehi2017
+57	Dhivehi	fifty seven	satuvanna	s a t u + ʋ a nː a	seven2 fifty2	s a t u + ʋ a nː a	30 7		GnanadesikanDhivehi2017
+58	Dhivehi	fifty eight	aṣuvanna	a ʂ u + ʋ a nː a	eight2 fifty2	a ʂ u + ʋ a nː a	2 7		GnanadesikanDhivehi2017
+59	Dhivehi	fifty nine	onahaṭṭi	o n a + h a ʈː i	minus sixty	o n a + h a ʈː i	19 39		GnanadesikanDhivehi2017
+60	Dhivehi	sixty	haṭṭi	h a ʈː i	sixty	h a ʈː i	39		GnanadesikanDhivehi2017
+61	Dhivehi	sixty one	ekāhaṭṭī	e k aː + h a ʈː i	one3 sixty	e k aː + h a ʈː i	26 39	Gnanadesikan (p. 107) marks long vowel on romanized form but not (to my knowledge) the non-romanized orthography; vowel is probably short	GnanadesikanDhivehi2017
+62	Dhivehi	sixty two	bāhaṭṭi	b aː + h a ʈː i	two2 sixty	b aː + h a ʈː i	52 39		GnanadesikanDhivehi2017
+63	Dhivehi	sixty three	tēhaṭṭi	t eː + h a ʈː i	three2 sixty	t eː + h a ʈː i	46 39		GnanadesikanDhivehi2017
+64	Dhivehi	sixty four	saurahaṭṭi	s a u r a + h a ʈː i	four2 sixty	s a u r a + h a ʈː i	15 39		GnanadesikanDhivehi2017
+65	Dhivehi	sixty five	fansahaṭṭi	f a n s a + h a ʈː i	five2 sixty	f a n s a + h a ʈː i	9 39		GnanadesikanDhivehi2017
+66	Dhivehi	sixty six	sahaṭṭi	s a + h a ʈː i	six4 sixty	s a + h a ʈː i	38 39		GnanadesikanDhivehi2017
+67	Dhivehi	sixty seven	satuhaṭṭi	s a t u + h a ʈː i	seven2 sixty	s a t u + h a ʈː i	30 39		GnanadesikanDhivehi2017
+68	Dhivehi	sixty eight	aṣuhaṭṭi	a ʂ u + h a ʈː i	eight2 sixty	a ʂ u + h a ʈː i	2 39		GnanadesikanDhivehi2017
 69	Dhivehi	sixty nine	onahat̊tari	o n a + h a t̊ t a r i	minus seventy	o n a + h a t̊ t a r i	19 34		GnanadesikanDhivehi2017
 70	Dhivehi	seventy	hat̊tari	h a t̊ t a r i	seventy	h a t̊ t a r i	34		GnanadesikanDhivehi2017
 71	Dhivehi	seventy one	ekāhat̊tari	e k aː + h a t̊ t a r i	one3 seventy	e k aː + h a t̊ t a r i	26 34		GnanadesikanDhivehi2017
@@ -97,4 +97,4 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 96	Dhivehi	ninety six	sayānavai	s a + j/- aː n a ʋ a i	six4 ninety3	s a + j aː n a ʋ a i	38 23		GnanadesikanDhivehi2017
 97	Dhivehi	ninety seven	satānavai	s a t + aː n a ʋ a i	seven4 ninety3	s a t + aː n a ʋ a i	32 23		GnanadesikanDhivehi2017
 98	Dhivehi	ninety eight	aṣānavai	a ʂ + aː n a ʋ a i	eight4 ninety3	a ʂ + aː n a ʋ a i	4 23		GnanadesikanDhivehi2017
-99	Dhivehi	ninety nine	onasatta	o n a + s a t t a	minus hundred	o n a + s a t t a	19 18		GnanadesikanDhivehi2017
+99	Dhivehi	ninety nine	onasatta	o n a + s a tː a	minus hundred	o n a + s a tː a	19 18		GnanadesikanDhivehi2017

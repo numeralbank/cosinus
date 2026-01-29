@@ -2,7 +2,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 1	Pashto	one	yaw	j a w	one	j a w	11	Based on E variant in source. N.B.: many other descriptions of the numeral system show hardly any allomorphy across digit forms, so we err on the side of lumping putatively phonologically predictable allomorphs together	FoxTwist2014
 2	Pashto	two	dwa	d w a	two	d w a	25		FoxTwist2014
 3	Pashto	three	dre	d r e	three	d r e	22		FoxTwist2014
-4	Pashto	four	ʦəlór	ʦ ə l o r	four	ʦ ə l o r	6		FoxTwist2014
+4	Pashto	four	tsəlór	ts ə l o r	four	ts ə l o r	6		FoxTwist2014
 5	Pashto	five	pinzə́	p i n z ə	five	p i n z ə	4		FoxTwist2014
 6	Pashto	six	špəg	ʃ p ə g	six	ʃ p ə g	16		FoxTwist2014
 7	Pashto	seven	uwə́	u w ə	seven	u w ə	14		FoxTwist2014
@@ -12,7 +12,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 11	Pashto	eleven	yəwə́-las	j ə w ə + l a s	one2 ten	j ə w ə + l a s	12 19		FoxTwist2014
 12	Pashto	twelve	dwə́-las	d w ə/a + l a s	two ten	d w ə + l a s	25 19		FoxTwist2014
 13	Pashto	thirteen	dyā́r-las	d j aː r + l a s	three2 ten	d j aː r + l a s	23 19		FoxTwist2014
-14	Pashto	fourteen	ʦwár-las	ʦ w a r + l a s	four2 ten	ʦ w a r + l a s	7 19		FoxTwist2014
+14	Pashto	fourteen	tswár-las	ts w a r + l a s	four2 ten	ts w a r + l a s	7 19		FoxTwist2014
 15	Pashto	fifteen	pinzə́-las	p i n z ə + l a s	five ten	p i n z ə + l a s	4 19		FoxTwist2014
 16	Pashto	sixteen	špā́-ṛas	ʃ p aː + ɽ a s	six2 ten2	ʃ p aː + ɽ a s	17 20		FoxTwist2014
 17	Pashto	seventeen	owə́-las	o/u w ə + l a s	seven ten	o w ə + l a s	14 19		FoxTwist2014
@@ -22,7 +22,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 21	Pashto	twenty one	yə́-wiš	j ə/a -/w + w i ʃ	one twenty	j ə + w i ʃ	11 24		FoxTwist2014
 22	Pashto	twenty two	dwə́-wiš	d w ə/a + w i ʃ	two twenty	d w ə + w i ʃ	25 24		FoxTwist2014
 23	Pashto	twenty three	dre-wiš	d r e + w i ʃ	three twenty	d r e + w i ʃ	22 24		FoxTwist2014
-24	Pashto	twenty four	ʦəlór-wiš	ʦ ə l o r + w i ʃ	four twenty	ʦ ə l o r + w i ʃ	6 24		FoxTwist2014
+24	Pashto	twenty four	tsəlór-wiš	ts ə l o r + w i ʃ	four twenty	ts ə l o r + w i ʃ	6 24		FoxTwist2014
 25	Pashto	twenty five	pinzə́-wiš	p i n z ə + w i ʃ	five twenty	p i n z ə + w i ʃ	4 24		FoxTwist2014
 26	Pashto	twenty six	špəg-wiš	ʃ p ə g + w i ʃ	six twenty	ʃ p ə g + w i ʃ	16 24		FoxTwist2014
 27	Pashto	twenty seven	uwə́-wiš	u w ə + w i ʃ	seven twenty	u w ə + w i ʃ	14 24		FoxTwist2014
@@ -32,37 +32,37 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 31	Pashto	thirty one	yaw-derš	j a w + d e r ʃ	one thirty	j a w + d e r ʃ	11 21		FoxTwist2014
 32	Pashto	thirty two	dwa-derš	d w a + d e r ʃ	two thirty	d w a + d e r ʃ	25 21		FoxTwist2014
 33	Pashto	thirty three	dre-derš	d r e + d e r ʃ	three thirty	d r e + d e r ʃ	22 21		FoxTwist2014
-34	Pashto	thirty four	ʦəlór-derš	ʦ ə l o r + d e r ʃ	four thirty	ʦ ə l o r + d e r ʃ	6 21		FoxTwist2014
+34	Pashto	thirty four	tsəlór-derš	ts ə l o r + d e r ʃ	four thirty	ts ə l o r + d e r ʃ	6 21		FoxTwist2014
 35	Pashto	thirty five	pinzə́-derš	p i n z ə + d e r ʃ	five thirty	p i n z ə + d e r ʃ	4 21		FoxTwist2014
 36	Pashto	thirty six	špəg-derš	ʃ p ə g + d e r ʃ	six thirty	ʃ p ə g + d e r ʃ	16 21		FoxTwist2014
 37	Pashto	thirty seven	uwə́-derš	u w ə + d e r ʃ	seven thirty	u w ə + d e r ʃ	14 21	In source as wə-derš; orthography <اوهدېرش> indicates an initial vowel (p. 140)	FoxTwist2014
 38	Pashto	thirty eight	atə-derš	a t ə + d e r ʃ	eight thirty	a t ə + d e r ʃ	1 21		FoxTwist2014
 39	Pashto	thirty nine	nəhə-derš	n ə h ə + d e r ʃ	nine thirty	n ə h ə + d e r ʃ	8 21		FoxTwist2014
-40	Pashto	forty 	ʦalwext	ʦ a l w e x t	forty	ʦ a l w e x t	5		FoxTwist2014
-41	Pashto	forty one	yaw-ʦalwext	j a w + ʦ a l w e x t	one forty	j a w + ʦ a l w e x t	11 5		FoxTwist2014
-42	Pashto	forty two	dwa-ʦalwext	d w a + ʦ a l w e x t	two forty	d w a + ʦ a l w e x t	25 5		FoxTwist2014
-43	Pashto	forty three	dre-ʦalwext	d r e + ʦ a l w e x t	three forty	d r e + ʦ a l w e x t	22 5		FoxTwist2014
-44	Pashto	forty four	ʦəlór-ʦalwext	ʦ ə l o r + ʦ a l w e x t	four forty	ʦ ə l o r + ʦ a l w e x t	6 5		FoxTwist2014
-45	Pashto	forty five	pinzə́-ʦalwext	p i n z ə + ʦ a l w e x t	five forty	p i n z ə + ʦ a l w e x t	4 5		FoxTwist2014
-46	Pashto	forty six	špəg-ʦalwext	ʃ p ə g + ʦ a l w e x t	six forty	ʃ p ə g + ʦ a l w e x t	16 5		FoxTwist2014
-47	Pashto	forty seven	uwə́-ʦalwext	u w ə + ʦ a l w e x t	seven forty	u w ə + ʦ a l w e x t	14 5		FoxTwist2014
-48	Pashto	forty eight	atə́-ʦalwext	a t ə + ʦ a l w e x t	eight forty	a t ə + ʦ a l w e x t	1 5		FoxTwist2014
-49	Pashto	forty nine	nəhə-ʦalwext	n ə h ə + ʦ a l w e x t	nine forty	n ə h ə + ʦ a l w e x t	8 5		FoxTwist2014
-50	Pashto	fifty 	panʣos	p a n ʣ o s	fifty	p a n ʣ o s	3		FoxTwist2014
-51	Pashto	fifty one	yaw-panʣos	j a w + p a n ʣ o s	one fifty	j a w + p a n ʣ o s	11 3		FoxTwist2014
-52	Pashto	fifty two	dwa-panʣos	d w a + p a n ʣ o s	two fifty	d w a + p a n ʣ o s	25 3		FoxTwist2014
-53	Pashto	fifty three	dre-panʣos	d r e + p a n ʣ o s	three fifty	d r e + p a n ʣ o s	22 3		FoxTwist2014
-54	Pashto	fifty four	ʦəlór-panʣos	ʦ ə l o r + p a n ʣ o s	four fifty	ʦ ə l o r + p a n ʣ o s	6 3		FoxTwist2014
-55	Pashto	fifty five	pinzə́-panʣos	p i n z ə + p a n ʣ o s	five fifty	p i n z ə + p a n ʣ o s	4 3		FoxTwist2014
-56	Pashto	fifty six	špəg-panʣos	ʃ p ə g + p a n ʣ o s	six fifty	ʃ p ə g + p a n ʣ o s	16 3		FoxTwist2014
-57	Pashto	fifty seven	uwə́-panʣos	u w ə + p a n ʣ o s	seven fifty	u w ə + p a n ʣ o s	14 3		FoxTwist2014
-58	Pashto	fifty eight	atə́-panʣos	a t ə + p a n ʣ o s	eight fifty	a t ə + p a n ʣ o s	1 3		FoxTwist2014
-59	Pashto	fifty nine	nə́hə-panʣos	n ə h ə + p a n ʣ o s	nine fifty	n ə h ə + p a n ʣ o s	8 3		FoxTwist2014
+40	Pashto	forty 	tsalwext	ts a l w e x t	forty	ts a l w e x t	5		FoxTwist2014
+41	Pashto	forty one	yaw-tsalwext	j a w + ts a l w e x t	one forty	j a w + ts a l w e x t	11 5		FoxTwist2014
+42	Pashto	forty two	dwa-tsalwext	d w a + ts a l w e x t	two forty	d w a + ts a l w e x t	25 5		FoxTwist2014
+43	Pashto	forty three	dre-tsalwext	d r e + ts a l w e x t	three forty	d r e + ts a l w e x t	22 5		FoxTwist2014
+44	Pashto	forty four	tsəlór-tsalwext	ts ə l o r + ts a l w e x t	four forty	ts ə l o r + ts a l w e x t	6 5		FoxTwist2014
+45	Pashto	forty five	pinzə́-tsalwext	p i n z ə + ts a l w e x t	five forty	p i n z ə + ts a l w e x t	4 5		FoxTwist2014
+46	Pashto	forty six	špəg-tsalwext	ʃ p ə g + ts a l w e x t	six forty	ʃ p ə g + ts a l w e x t	16 5		FoxTwist2014
+47	Pashto	forty seven	uwə́-tsalwext	u w ə + ts a l w e x t	seven forty	u w ə + ts a l w e x t	14 5		FoxTwist2014
+48	Pashto	forty eight	atə́-tsalwext	a t ə + ts a l w e x t	eight forty	a t ə + ts a l w e x t	1 5		FoxTwist2014
+49	Pashto	forty nine	nəhə-tsalwext	n ə h ə + ts a l w e x t	nine forty	n ə h ə + ts a l w e x t	8 5		FoxTwist2014
+50	Pashto	fifty 	pandzos	p a n dz o s	fifty	p a n dz o s	3		FoxTwist2014
+51	Pashto	fifty one	yaw-pandzos	j a w + p a n dz o s	one fifty	j a w + p a n dz o s	11 3		FoxTwist2014
+52	Pashto	fifty two	dwa-pandzos	d w a + p a n dz o s	two fifty	d w a + p a n dz o s	25 3		FoxTwist2014
+53	Pashto	fifty three	dre-pandzos	d r e + p a n dz o s	three fifty	d r e + p a n dz o s	22 3		FoxTwist2014
+54	Pashto	fifty four	tsəlór-pandzos	ts ə l o r + p a n dz o s	four fifty	ts ə l o r + p a n dz o s	6 3		FoxTwist2014
+55	Pashto	fifty five	pinzə́-pandzos	p i n z ə + p a n dz o s	five fifty	p i n z ə + p a n dz o s	4 3		FoxTwist2014
+56	Pashto	fifty six	špəg-pandzos	ʃ p ə g + p a n dz o s	six fifty	ʃ p ə g + p a n dz o s	16 3		FoxTwist2014
+57	Pashto	fifty seven	uwə́-pandzos	u w ə + p a n dz o s	seven fifty	u w ə + p a n dz o s	14 3		FoxTwist2014
+58	Pashto	fifty eight	atə́-pandzos	a t ə + p a n dz o s	eight fifty	a t ə + p a n dz o s	1 3		FoxTwist2014
+59	Pashto	fifty nine	nə́hə-pandzos	n ə h ə + p a n dz o s	nine fifty	n ə h ə + p a n dz o s	8 3		FoxTwist2014
 60	Pashto	sixty 	špetə	ʃ p e t ə	sixty	ʃ p e t ə	18		FoxTwist2014
 61	Pashto	sixty one	yaw-špetə	j a w + ʃ p e t ə	one sixty	j a w + ʃ p e t ə	11 18		FoxTwist2014
 62	Pashto	sixty two	dwa-špetə	d w a + ʃ p e t ə	two sixty	d w a + ʃ p e t ə	25 18		FoxTwist2014
 63	Pashto	sixty three	dre-špetə	d r e + ʃ p e t ə	three sixty	d r e + ʃ p e t ə	22 18		FoxTwist2014
-64	Pashto	sixty four	ʦəlór-špetə	ʦ ə l o r + ʃ p e t ə	four sixty	ʦ ə l o r + ʃ p e t ə	6 18		FoxTwist2014
+64	Pashto	sixty four	tsəlór-špetə	ts ə l o r + ʃ p e t ə	four sixty	ts ə l o r + ʃ p e t ə	6 18		FoxTwist2014
 65	Pashto	sixty five	pinzə́-špetə	p i n z ə + ʃ p e t ə	five sixty	p i n z ə + ʃ p e t ə	4 18		FoxTwist2014
 66	Pashto	sixty six	špəg-špetə	ʃ p ə g + ʃ p e t ə	six sixty	ʃ p ə g + ʃ p e t ə	16 18		FoxTwist2014
 67	Pashto	sixty seven	uwə́-špetə	u w ə + ʃ p e t ə	seven sixty	u w ə + ʃ p e t ə	14 18		FoxTwist2014
@@ -72,7 +72,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 71	Pashto	seventy one	yaw-awyā	j a w + a w j aː	one seventy	j a w + a w j aː	11 15		FoxTwist2014
 72	Pashto	seventy two	dwa-awyā	d w a + a w j aː	two seventy	d w a + a w j aː	25 15		FoxTwist2014
 73	Pashto	seventy three	dre-awyā	d r e + a w j aː	three seventy	d r e + a w j aː	22 15		FoxTwist2014
-74	Pashto	seventy four	ʦəlór-awyā	ʦ ə l o r + a w j aː	four seventy	ʦ ə l o r + a w j aː	6 15		FoxTwist2014
+74	Pashto	seventy four	tsəlór-awyā	ts ə l o r + a w j aː	four seventy	ts ə l o r + a w j aː	6 15		FoxTwist2014
 75	Pashto	seventy five	pinzə́-awyā	p i n z ə + a w j aː	five seventy	p i n z ə + a w j aː	4 15		FoxTwist2014
 76	Pashto	seventy six	špəg-awyā	ʃ p ə g + a w j aː	six seventy	ʃ p ə g + a w j aː	16 15		FoxTwist2014
 77	Pashto	seventy seven	uwə́-awyā	u w ə + a w j aː	seven seventy	u w ə + a w j aː	14 15		FoxTwist2014
@@ -82,7 +82,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 81	Pashto	eighty one	yaw-atyā	j a w + a t j aː	one eighty	j a w + a t j aː	11 2		FoxTwist2014
 82	Pashto	eighty two	dwa-atyā	d w a + a t j aː	two eighty	d w a + a t j aː	25 2		FoxTwist2014
 83	Pashto	eighty three	dre-atyā	d r e + a t j aː	three eighty	d r e + a t j aː	22 2		FoxTwist2014
-84	Pashto	eighty four	ʦəlór-atyā	ʦ ə l o r + a t j aː	four eighty	ʦ ə l o r + a t j aː	6 2		FoxTwist2014
+84	Pashto	eighty four	tsəlór-atyā	ts ə l o r + a t j aː	four eighty	ts ə l o r + a t j aː	6 2		FoxTwist2014
 85	Pashto	eighty five	pinzə́-atyā	p i n z ə + a t j aː	five eighty	p i n z ə + a t j aː	4 2		FoxTwist2014
 86	Pashto	eighty six	špəg-atyā	ʃ p ə g + a t j aː	six eighty	ʃ p ə g + a t j aː	16 2		FoxTwist2014
 87	Pashto	eighty seven	uwə́-atyā	u w ə + a t j aː	seven eighty	u w ə + a t j aː	14 2		FoxTwist2014
@@ -92,7 +92,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 91	Pashto	ninety one	yaw-nəwi	j a w + n ə w i	one ninety	j a w + n ə w i	11 10		FoxTwist2014
 92	Pashto	ninety two	dwa-nəwi	d w a + n ə w i	two ninety	d w a + n ə w i	25 10		FoxTwist2014
 93	Pashto	ninety three	dre-nəwi	d r e + n ə w i	three ninety	d r e + n ə w i	22 10		FoxTwist2014
-94	Pashto	ninety four	ʦəlór-nəwi	ʦ ə l o r + n ə w i	four ninety	ʦ ə l o r + n ə w i	6 10		FoxTwist2014
+94	Pashto	ninety four	tsəlór-nəwi	ts ə l o r + n ə w i	four ninety	ts ə l o r + n ə w i	6 10		FoxTwist2014
 95	Pashto	ninety five	pinzə́-nəwi	p i n z ə + n ə w i	five ninety	p i n z ə + n ə w i	4 10		FoxTwist2014
 96	Pashto	ninety six	špəg-nəwi	ʃ p ə g + n ə w i	six ninety	ʃ p ə g + n ə w i	16 10		FoxTwist2014
 97	Pashto	ninety seven	uwə́-nəwi	u w ə + n ə w i	seven ninety	u w ə + n ə w i	14 10		FoxTwist2014

@@ -235,8 +235,8 @@ $ sqlite3 cosinus.sqlite < flat.sql > cosinus.csv
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-green.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-green.svg "CLTS SoundClass: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 52 (linked to 52 different Glottocodes)
 - **Concepts:** 99 (linked to 99 different Concepticon concept sets)
@@ -244,9 +244,9 @@ $ sqlite3 cosinus.sqlite < flat.sql > cosinus.csv
 - **Sources:** 81
 - **Synonymy:** 1.12
 - **Invalid lexemes:** 0
-- **Tokens:** 75,228
-- **Segments:** 240 (3 BIPA errors, 3 CLTS sound class errors, 233 CLTS modified)
-- **Inventory size (avg):** 23.67
+- **Tokens:** 74,616
+- **Segments:** 249 (1 BIPA errors, 1 CLTS sound class errors, 243 CLTS modified)
+- **Inventory size (avg):** 24.15
 
 # Contributors
 

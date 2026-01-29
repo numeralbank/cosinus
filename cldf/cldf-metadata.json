@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/cosinus/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-204-gf92f0c3",
+            "dc:created": "v1.1-205-g8c9e590",
             "dc:title": "Repository"
         },
         {

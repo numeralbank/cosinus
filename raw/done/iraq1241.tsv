@@ -1,100 +1,100 @@
 ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 1	Iraqw	one	wak	w a k	one	w a k	6	Mous 1993 states that 1-9 all have high tone, but the later dictionary does not mark high tone on ONE and SEVEN	Mous1993
-2	Iraqw	two	tsár	ʦ’ á r	two	ʦ’ á r	12		Mous1993
+2	Iraqw	two	tsár	ts’ á r	two	ts’ á r	12		Mous1993
 3	Iraqw	three	tám	t á m	three	t á m	11		Mous1993
-4	Iraqw	four	tsiyáhh	ʦ’ i y á ħ	four	ʦ’ i y á ħ	4		Mous1993
-5	Iraqw	five	koo’án	k o o ʔ á n	five	k o o ʔ á n	3		Mous1993
-6	Iraqw	six	lahhóo’	l a ħ ó o ʔ	six	l a ħ ó o ʔ	8		Mous1993
-7	Iraqw	seven	faanqw	f a a n qʷ	seven	f a a n qʷ	7		Mous1993
-8	Iraqw	eight	dakáat	d a k á a t	eight	d a k á a t	2		Mous1993
-9	Iraqw	nine	gwaléel	gʷ a l é e l	nine	gʷ a l é e l	5		Mous1993
+4	Iraqw	four	tsiyáhh	ts’ i y á ħ	four	ts’ i y á ħ	4		Mous1993
+5	Iraqw	five	koo’án	k oː ʔ á n	five	k oː ʔ á n	3		Mous1993
+6	Iraqw	six	lahhóo’	l a ħ óː ʔ	six	l a ħ óː ʔ	8		Mous1993
+7	Iraqw	seven	faanqw	f aː n qʷ	seven	f aː n qʷ	7		Mous1993
+8	Iraqw	eight	dakáat	d a k áː t	eight	d a k áː t	2		Mous1993
+9	Iraqw	nine	gwaléel	gʷ a l éː l	nine	gʷ a l éː l	5		Mous1993
 10	Iraqw	ten	mibangw	m i b a ŋ w	ten	m i b a ŋ w	9		Mous1993
-11	Iraqw	eleven	mibangw nee wak 	m i b a ŋ w + n e e + w a k	ten and one	m i b a ŋ w + n e e + w a k	9 1 6		Mous1993
-12	Iraqw	twelve	mibangw nee tsár 	m i b a ŋ w + n e e + ʦ’ á r	ten and two	m i b a ŋ w + n e e + ʦ’ á r	9 1 12		Mous1993
-13	Iraqw	thirteen	mibangw nee tám 	m i b a ŋ w + n e e + t á m	ten and three	m i b a ŋ w + n e e + t á m	9 1 11		Mous1993
-14	Iraqw	fourteen	mibangw nee tsiyáhh 	m i b a ŋ w + n e e + ʦ’ i y á ħ	ten and four	m i b a ŋ w + n e e + ʦ’ i y á ħ	9 1 4		Mous1993
-15	Iraqw	fifteen	mibangw nee koo’án 	m i b a ŋ w + n e e + k o o ʔ á n	ten and five	m i b a ŋ w + n e e + k o o ʔ á n	9 1 3		Mous1993
-16	Iraqw	sixteen	mibangw nee lahhóo’ 	m i b a ŋ w + n e e + l a ħ ó o ʔ	ten and six	m i b a ŋ w + n e e + l a ħ ó o ʔ	9 1 8		Mous1993
-17	Iraqw	seventeen	mibangw nee faanqw 	m i b a ŋ w + n e e + f a a n qʷ	ten and seven	m i b a ŋ w + n e e + f a a n qʷ	9 1 7		Mous1993
-18	Iraqw	eighteen	mibangw nee dakáat 	m i b a ŋ w + n e e + d a k á a t	ten and eight	m i b a ŋ w + n e e + d a k á a t	9 1 2		Mous1993
-19	Iraqw	nineteen	mibangw nee gwaléel 	m i b a ŋ w + n e e + gʷ a l é e l	ten and nine	m i b a ŋ w + n e e + gʷ a l é e l	9 1 5		Mous1993
-20	Iraqw	twenty	mibeeri tsár	m i b e e r i + ʦ’ á r	ten2 two	m i b e e r i + ʦ’ á r	10 12		Mous1993
-21	Iraqw	twenty one	mibeeri tsár nee wak	m i b e e r i + ʦ’ á r + n e e + w a k	ten2 two and one	m i b e e r i + ʦ’ á r + n e e + w a k	10 12 1 6		Mous1993
-22	Iraqw	twenty two	mibeeri tsár nee tsár	m i b e e r i + ʦ’ á r + n e e + ʦ’ á r	ten2 two and two	m i b e e r i + ʦ’ á r + n e e + ʦ’ á r	10 12 1 12		Mous1993
-23	Iraqw	twenty three	mibeeri tsár nee tám	m i b e e r i + ʦ’ á r + n e e + t á m	ten2 two and three	m i b e e r i + ʦ’ á r + n e e + t á m	10 12 1 11		Mous1993
-24	Iraqw	twenty four	mibeeri tsár nee tsiyáhh	m i b e e r i + ʦ’ á r + n e e + ʦ’ i y á ħ	ten2 two and four	m i b e e r i + ʦ’ á r + n e e + ʦ’ i y á ħ	10 12 1 4		Mous1993
-25	Iraqw	twenty five	mibeeri tsár nee koo’án	m i b e e r i + ʦ’ á r + n e e + k o o ʔ á n	ten2 two and five	m i b e e r i + ʦ’ á r + n e e + k o o ʔ á n	10 12 1 3		Mous1993
-26	Iraqw	twenty six	mibeeri tsár nee lahhóo’	m i b e e r i + ʦ’ á r + n e e + l a ħ ó o ʔ	ten2 two and six	m i b e e r i + ʦ’ á r + n e e + l a ħ ó o ʔ	10 12 1 8		Mous1993
-27	Iraqw	twenty seven	mibeeri tsár nee faanqw	m i b e e r i + ʦ’ á r + n e e + f a a n qʷ	ten2 two and seven	m i b e e r i + ʦ’ á r + n e e + f a a n qʷ	10 12 1 7		Mous1993
-28	Iraqw	twenty eight	mibeeri tsár nee dakáat	m i b e e r i + ʦ’ á r + n e e + d a k á a t	ten2 two and eight	m i b e e r i + ʦ’ á r + n e e + d a k á a t	10 12 1 2		Mous1993
-29	Iraqw	twenty nine	mibeeri tsár nee gwaléel	m i b e e r i + ʦ’ á r + n e e + gʷ a l é e l	ten2 two and nine	m i b e e r i + ʦ’ á r + n e e + gʷ a l é e l	10 12 1 5		Mous1993
-30	Iraqw	thirty 	mibeeri tám	m i b e e r i + t á m	ten2 three	m i b e e r i + t á m	10 11		Mous1993
-31	Iraqw	thirty one	mibeeri tám nee wak	m i b e e r i + t á m + n e e + w a k	ten2 three and one	m i b e e r i + t á m + n e e + w a k	10 11 1 6		Mous1993
-32	Iraqw	thirty two	mibeeri tám nee tsár	m i b e e r i + t á m + n e e + ʦ’ á r	ten2 three and two	m i b e e r i + t á m + n e e + ʦ’ á r	10 11 1 12		Mous1993
-33	Iraqw	thirty three	mibeeri tám nee tám	m i b e e r i + t á m + n e e + t á m	ten2 three and three	m i b e e r i + t á m + n e e + t á m	10 11 1 11		Mous1993
-34	Iraqw	thirty four	mibeeri tám nee tsiyáhh	m i b e e r i + t á m + n e e + ʦ’ i y á ħ	ten2 three and four	m i b e e r i + t á m + n e e + ʦ’ i y á ħ	10 11 1 4		Mous1993
-35	Iraqw	thirty five	mibeeri tám nee koo’án	m i b e e r i + t á m + n e e + k o o ʔ á n	ten2 three and five	m i b e e r i + t á m + n e e + k o o ʔ á n	10 11 1 3		Mous1993
-36	Iraqw	thirty six	mibeeri tám nee lahhóo’	m i b e e r i + t á m + n e e + l a ħ ó o ʔ	ten2 three and six	m i b e e r i + t á m + n e e + l a ħ ó o ʔ	10 11 1 8		Mous1993
-37	Iraqw	thirty seven	mibeeri tám nee faanqw	m i b e e r i + t á m + n e e + f a a n qʷ	ten2 three and seven	m i b e e r i + t á m + n e e + f a a n qʷ	10 11 1 7		Mous1993
-38	Iraqw	thirty eight	mibeeri tám nee dakáat	m i b e e r i + t á m + n e e + d a k á a t	ten2 three and eight	m i b e e r i + t á m + n e e + d a k á a t	10 11 1 2		Mous1993
-39	Iraqw	thirty nine	mibeeri tám nee gwaléel	m i b e e r i + t á m + n e e + gʷ a l é e l	ten2 three and nine	m i b e e r i + t á m + n e e + gʷ a l é e l	10 11 1 5		Mous1993
-40	Iraqw	forty 	mibeeri tsiyáhh	m i b e e r i + ʦ’ i y á ħ	ten2 four	m i b e e r i + ʦ’ i y á ħ	10 4		Mous1993
-41	Iraqw	forty one	mibeeri tsiyáhh nee wak	m i b e e r i + ʦ’ i y á ħ + n e e + w a k	ten2 four and one	m i b e e r i + ʦ’ i y á ħ + n e e + w a k	10 4 1 6		Mous1993
-42	Iraqw	forty two	mibeeri tsiyáhh nee tsár	m i b e e r i + ʦ’ i y á ħ + n e e + ʦ’ á r	ten2 four and two	m i b e e r i + ʦ’ i y á ħ + n e e + ʦ’ á r	10 4 1 12		Mous1993
-43	Iraqw	forty three	mibeeri tsiyáhh nee tám	m i b e e r i + ʦ’ i y á ħ + n e e + t á m	ten2 four and three	m i b e e r i + ʦ’ i y á ħ + n e e + t á m	10 4 1 11		Mous1993
-44	Iraqw	forty four	mibeeri tsiyáhh nee tsiyáhh	m i b e e r i + ʦ’ i y á ħ + n e e + ʦ’ i y á ħ	ten2 four and four	m i b e e r i + ʦ’ i y á ħ + n e e + ʦ’ i y á ħ	10 4 1 4		Mous1993
-45	Iraqw	forty five	mibeeri tsiyáhh nee koo’án	m i b e e r i + ʦ’ i y á ħ + n e e + k o o ʔ á n	ten2 four and five	m i b e e r i + ʦ’ i y á ħ + n e e + k o o ʔ á n	10 4 1 3		Mous1993
-46	Iraqw	forty six	mibeeri tsiyáhh nee lahhóo’	m i b e e r i + ʦ’ i y á ħ + n e e + l a ħ ó o ʔ	ten2 four and six	m i b e e r i + ʦ’ i y á ħ + n e e + l a ħ ó o ʔ	10 4 1 8		Mous1993
-47	Iraqw	forty seven	mibeeri tsiyáhh nee faanqw	m i b e e r i + ʦ’ i y á ħ + n e e + f a a n qʷ	ten2 four and seven	m i b e e r i + ʦ’ i y á ħ + n e e + f a a n qʷ	10 4 1 7		Mous1993
-48	Iraqw	forty eight	mibeeri tsiyáhh nee dakáat	m i b e e r i + ʦ’ i y á ħ + n e e + d a k á a t	ten2 four and eight	m i b e e r i + ʦ’ i y á ħ + n e e + d a k á a t	10 4 1 2		Mous1993
-49	Iraqw	forty nine	mibeeri koo’án nee gwaléel	m i b e e r i + k o o ʔ á n + n e e + gʷ a l é e l	ten2 five and nine	m i b e e r i + k o o ʔ á n + n e e + gʷ a l é e l	10 3 1 5		Mous1993
-50	Iraqw	fifty 	mibeeri koo’án	m i b e e r i + k o o ʔ á n	ten2 five	m i b e e r i + k o o ʔ á n	10 3		Mous1993
-51	Iraqw	fifty one	mibeeri koo’án nee wak	m i b e e r i + k o o ʔ á n + n e e + w a k	ten2 five and one	m i b e e r i + k o o ʔ á n + n e e + w a k	10 3 1 6		Mous1993
-52	Iraqw	fifty two	mibeeri koo’án nee tsár	m i b e e r i + k o o ʔ á n + n e e + ʦ’ á r	ten2 five and two	m i b e e r i + k o o ʔ á n + n e e + ʦ’ á r	10 3 1 12		Mous1993
-53	Iraqw	fifty three	mibeeri koo’án nee tám	m i b e e r i + k o o ʔ á n + n e e + t á m	ten2 five and three	m i b e e r i + k o o ʔ á n + n e e + t á m	10 3 1 11		Mous1993
-54	Iraqw	fifty four	mibeeri koo’án nee tsiyáhh	m i b e e r i + k o o ʔ á n + n e e + ʦ’ i y á ħ	ten2 five and four	m i b e e r i + k o o ʔ á n + n e e + ʦ’ i y á ħ	10 3 1 4		Mous1993
-55	Iraqw	fifty five	mibeeri koo’án nee koo’án	m i b e e r i + k o o ʔ á n + n e e + k o o ʔ á n	ten2 five and five	m i b e e r i + k o o ʔ á n + n e e + k o o ʔ á n	10 3 1 3		Mous1993
-56	Iraqw	fifty six	mibeeri koo’án nee lahhóo’	m i b e e r i + k o o ʔ á n + n e e + l a ħ ó o ʔ	ten2 five and six	m i b e e r i + k o o ʔ á n + n e e + l a ħ ó o ʔ	10 3 1 8		Mous1993
-57	Iraqw	fifty seven	mibeeri koo’án nee faanqw	m i b e e r i + k o o ʔ á n + n e e + f a a n qʷ	ten2 five and seven	m i b e e r i + k o o ʔ á n + n e e + f a a n qʷ	10 3 1 7		Mous1993
-58	Iraqw	fifty eight	mibeeri koo’án nee dakáat	m i b e e r i + k o o ʔ á n + n e e + d a k á a t	ten2 five and eight	m i b e e r i + k o o ʔ á n + n e e + d a k á a t	10 3 1 2		Mous1993
-59	Iraqw	fifty nine	mibeeri lahhóo’ nee gwaléel	m i b e e r i + l a ħ ó o ʔ + n e e + gʷ a l é e l	ten2 six and nine	m i b e e r i + l a ħ ó o ʔ + n e e + gʷ a l é e l	10 8 1 5		Mous1993
-60	Iraqw	sixty 	mibeeri lahhóo’	m i b e e r i + l a ħ ó o ʔ	ten2 six	m i b e e r i + l a ħ ó o ʔ	10 8		Mous1993
-61	Iraqw	sixty one	mibeeri lahhóo’ nee wak	m i b e e r i + l a ħ ó o ʔ + n e e + w a k	ten2 six and one	m i b e e r i + l a ħ ó o ʔ + n e e + w a k	10 8 1 6		Mous1993
-62	Iraqw	sixty two	mibeeri lahhóo’ nee tsár	m i b e e r i + l a ħ ó o ʔ + n e e + ʦ’ á r	ten2 six and two	m i b e e r i + l a ħ ó o ʔ + n e e + ʦ’ á r	10 8 1 12		Mous1993
-63	Iraqw	sixty three	mibeeri lahhóo’ nee tám	m i b e e r i + l a ħ ó o ʔ + n e e + t á m	ten2 six and three	m i b e e r i + l a ħ ó o ʔ + n e e + t á m	10 8 1 11		Mous1993
-64	Iraqw	sixty four	mibeeri lahhóo’ nee tsiyáhh	m i b e e r i + l a ħ ó o ʔ + n e e + ʦ’ i y á ħ	ten2 six and four	m i b e e r i + l a ħ ó o ʔ + n e e + ʦ’ i y á ħ	10 8 1 4		Mous1993
-65	Iraqw	sixty five	mibeeri lahhóo’ nee koo’án	m i b e e r i + l a ħ ó o ʔ + n e e + k o o ʔ á n	ten2 six and five	m i b e e r i + l a ħ ó o ʔ + n e e + k o o ʔ á n	10 8 1 3		Mous1993
-66	Iraqw	sixty six	mibeeri lahhóo’ nee lahhóo’	m i b e e r i + l a ħ ó o ʔ + n e e + l a ħ ó o ʔ	ten2 six and six	m i b e e r i + l a ħ ó o ʔ + n e e + l a ħ ó o ʔ	10 8 1 8		Mous1993
-67	Iraqw	sixty seven	mibeeri lahhóo’ nee faanqw	m i b e e r i + l a ħ ó o ʔ + n e e + f a a n qʷ	ten2 six and seven	m i b e e r i + l a ħ ó o ʔ + n e e + f a a n qʷ	10 8 1 7		Mous1993
-68	Iraqw	sixty eight	mibeeri lahhóo’ nee dakáat	m i b e e r i + l a ħ ó o ʔ + n e e + d a k á a t	ten2 six and eight	m i b e e r i + l a ħ ó o ʔ + n e e + d a k á a t	10 8 1 2		Mous1993
-69	Iraqw	sixty nine	mibeeri faanqw nee gwaléel	m i b e e r i + f a a n qʷ + n e e + gʷ a l é e l	ten2 seven and nine	m i b e e r i + f a a n qʷ + n e e + gʷ a l é e l	10 7 1 5		Mous1993
-70	Iraqw	seventy 	mibeeri faanqw	m i b e e r i + f a a n qʷ	ten2 seven	m i b e e r i + f a a n qʷ	10 7		Mous1993
-71	Iraqw	seventy one	mibeeri faanqw nee wak	m i b e e r i + f a a n qʷ + n e e + w a k	ten2 seven and one	m i b e e r i + f a a n qʷ + n e e + w a k	10 7 1 6		Mous1993
-72	Iraqw	seventy two	mibeeri faanqw nee tsár	m i b e e r i + f a a n qʷ + n e e + ʦ’ á r	ten2 seven and two	m i b e e r i + f a a n qʷ + n e e + ʦ’ á r	10 7 1 12		Mous1993
-73	Iraqw	seventy three	mibeeri faanqw nee tám	m i b e e r i + f a a n qʷ + n e e + t á m	ten2 seven and three	m i b e e r i + f a a n qʷ + n e e + t á m	10 7 1 11		Mous1993
-74	Iraqw	seventy four	mibeeri faanqw nee tsiyáhh	m i b e e r i + f a a n qʷ + n e e + ʦ’ i y á ħ	ten2 seven and four	m i b e e r i + f a a n qʷ + n e e + ʦ’ i y á ħ	10 7 1 4		Mous1993
-75	Iraqw	seventy five	mibeeri faanqw nee koo’án	m i b e e r i + f a a n qʷ + n e e + k o o ʔ á n	ten2 seven and five	m i b e e r i + f a a n qʷ + n e e + k o o ʔ á n	10 7 1 3		Mous1993
-76	Iraqw	seventy six	mibeeri faanqw nee lahhóo’	m i b e e r i + f a a n qʷ + n e e + l a ħ ó o ʔ	ten2 seven and six	m i b e e r i + f a a n qʷ + n e e + l a ħ ó o ʔ	10 7 1 8		Mous1993
-77	Iraqw	seventy seven	mibeeri faanqw nee faanqw	m i b e e r i + f a a n qʷ + n e e + f a a n qʷ	ten2 seven and seven	m i b e e r i + f a a n qʷ + n e e + f a a n qʷ	10 7 1 7		Mous1993
-78	Iraqw	seventy eight	mibeeri faanqw nee dakáat	m i b e e r i + f a a n qʷ + n e e + d a k á a t	ten2 seven and eight	m i b e e r i + f a a n qʷ + n e e + d a k á a t	10 7 1 2		Mous1993
-79	Iraqw	seventy nine	mibeeri dakáat nee gwaléel	m i b e e r i + d a k á a t + n e e + gʷ a l é e l	ten2 eight and nine	m i b e e r i + d a k á a t + n e e + gʷ a l é e l	10 2 1 5		Mous1993
-80	Iraqw	eighty 	mibeeri dakáat	m i b e e r i + d a k á a t	ten2 eight	m i b e e r i + d a k á a t	10 2		Mous1993
-81	Iraqw	eighty one	mibeeri dakáat nee wak	m i b e e r i + d a k á a t + n e e + w a k	ten2 eight and one	m i b e e r i + d a k á a t + n e e + w a k	10 2 1 6		Mous1993
-82	Iraqw	eighty two	mibeeri dakáat nee tsár	m i b e e r i + d a k á a t + n e e + ʦ’ á r	ten2 eight and two	m i b e e r i + d a k á a t + n e e + ʦ’ á r	10 2 1 12		Mous1993
-83	Iraqw	eighty three	mibeeri dakáat nee tám	m i b e e r i + d a k á a t + n e e + t á m	ten2 eight and three	m i b e e r i + d a k á a t + n e e + t á m	10 2 1 11		Mous1993
-84	Iraqw	eighty four	mibeeri dakáat nee tsiyáhh	m i b e e r i + d a k á a t + n e e + ʦ’ i y á ħ	ten2 eight and four	m i b e e r i + d a k á a t + n e e + ʦ’ i y á ħ	10 2 1 4		Mous1993
-85	Iraqw	eighty five	mibeeri dakáat nee koo’án	m i b e e r i + d a k á a t + n e e + k o o ʔ á n	ten2 eight and five	m i b e e r i + d a k á a t + n e e + k o o ʔ á n	10 2 1 3		Mous1993
-86	Iraqw	eighty six	mibeeri dakáat nee lahhóo’	m i b e e r i + d a k á a t + n e e + l a ħ ó o ʔ	ten2 eight and six	m i b e e r i + d a k á a t + n e e + l a ħ ó o ʔ	10 2 1 8		Mous1993
-87	Iraqw	eighty seven	mibeeri dakáat nee faanqw	m i b e e r i + d a k á a t + n e e + f a a n qʷ	ten2 eight and seven	m i b e e r i + d a k á a t + n e e + f a a n qʷ	10 2 1 7		Mous1993
-88	Iraqw	eighty eight	mibeeri dakáat nee dakáat	m i b e e r i + d a k á a t + n e e + d a k á a t	ten2 eight and eight	m i b e e r i + d a k á a t + n e e + d a k á a t	10 2 1 2		Mous1993
-89	Iraqw	eighty nine	mibeeri gwaléel nee gwaléel	m i b e e r i + gʷ a l é e l + n e e + gʷ a l é e l	ten2 nine and nine	m i b e e r i + gʷ a l é e l + n e e + gʷ a l é e l	10 5 1 5		Mous1993
-90	Iraqw	ninety 	mibeeri gwaléel	m i b e e r i + gʷ a l é e l	ten2 nine	m i b e e r i + gʷ a l é e l	10 5		Mous1993
-91	Iraqw	ninety one	mibeeri gwaléel nee wak	m i b e e r i + gʷ a l é e l + n e e + w a k	ten2 nine and one	m i b e e r i + gʷ a l é e l + n e e + w a k	10 5 1 6		Mous1993
-92	Iraqw	ninety two	mibeeri gwaléel nee tsár	m i b e e r i + gʷ a l é e l + n e e + ʦ’ á r	ten2 nine and two	m i b e e r i + gʷ a l é e l + n e e + ʦ’ á r	10 5 1 12		Mous1993
-93	Iraqw	ninety three	mibeeri gwaléel nee tám	m i b e e r i + gʷ a l é e l + n e e + t á m	ten2 nine and three	m i b e e r i + gʷ a l é e l + n e e + t á m	10 5 1 11		Mous1993
-94	Iraqw	ninety four	mibeeri gwaléel nee tsiyáhh	m i b e e r i + gʷ a l é e l + n e e + ʦ’ i y á ħ	ten2 nine and four	m i b e e r i + gʷ a l é e l + n e e + ʦ’ i y á ħ	10 5 1 4		Mous1993
-95	Iraqw	ninety five	mibeeri gwaléel nee koo’án	m i b e e r i + gʷ a l é e l + n e e + k o o ʔ á n	ten2 nine and five	m i b e e r i + gʷ a l é e l + n e e + k o o ʔ á n	10 5 1 3		Mous1993
-96	Iraqw	ninety six	mibeeri gwaléel nee lahhóo’	m i b e e r i + gʷ a l é e l + n e e + l a ħ ó o ʔ	ten2 nine and six	m i b e e r i + gʷ a l é e l + n e e + l a ħ ó o ʔ	10 5 1 8		Mous1993
-97	Iraqw	ninety seven	mibeeri gwaléel nee faanqw	m i b e e r i + gʷ a l é e l + n e e + f a a n qʷ	ten2 nine and seven	m i b e e r i + gʷ a l é e l + n e e + f a a n qʷ	10 5 1 7		Mous1993
-98	Iraqw	ninety eight	mibeeri gwaléel nee dakáat	m i b e e r i + gʷ a l é e l + n e e + d a k á a t	ten2 nine and eight	m i b e e r i + gʷ a l é e l + n e e + d a k á a t	10 5 1 2		Mous1993
-99	Iraqw	ninety nine	mibeeri gwaléel nee gwaléel	m i b e e r i + gʷ a l é e l + n e e + gʷ a l é e l	ten2 nine and nine	m i b e e r i + gʷ a l é e l + n e e + gʷ a l é e l	10 5 1 5		Mous1993
+11	Iraqw	eleven	mibangw nee wak 	m i b a ŋ w + n eː + w a k	ten and one	m i b a ŋ w + n eː + w a k	9 1 6		Mous1993
+12	Iraqw	twelve	mibangw nee tsár 	m i b a ŋ w + n eː + ts’ á r	ten and two	m i b a ŋ w + n eː + ts’ á r	9 1 12		Mous1993
+13	Iraqw	thirteen	mibangw nee tám 	m i b a ŋ w + n eː + t á m	ten and three	m i b a ŋ w + n eː + t á m	9 1 11		Mous1993
+14	Iraqw	fourteen	mibangw nee tsiyáhh 	m i b a ŋ w + n eː + ts’ i y á ħ	ten and four	m i b a ŋ w + n eː + ts’ i y á ħ	9 1 4		Mous1993
+15	Iraqw	fifteen	mibangw nee koo’án 	m i b a ŋ w + n eː + k oː ʔ á n	ten and five	m i b a ŋ w + n eː + k oː ʔ á n	9 1 3		Mous1993
+16	Iraqw	sixteen	mibangw nee lahhóo’ 	m i b a ŋ w + n eː + l a ħ óː ʔ	ten and six	m i b a ŋ w + n eː + l a ħ óː ʔ	9 1 8		Mous1993
+17	Iraqw	seventeen	mibangw nee faanqw 	m i b a ŋ w + n eː + f aː n qʷ	ten and seven	m i b a ŋ w + n eː + f aː n qʷ	9 1 7		Mous1993
+18	Iraqw	eighteen	mibangw nee dakáat 	m i b a ŋ w + n eː + d a k áː t	ten and eight	m i b a ŋ w + n eː + d a k áː t	9 1 2		Mous1993
+19	Iraqw	nineteen	mibangw nee gwaléel 	m i b a ŋ w + n eː + gʷ a l éː l	ten and nine	m i b a ŋ w + n eː + gʷ a l éː l	9 1 5		Mous1993
+20	Iraqw	twenty	mibeeri tsár	m i b eː r i + ts’ á r	ten2 two	m i b eː r i + ts’ á r	10 12		Mous1993
+21	Iraqw	twenty one	mibeeri tsár nee wak	m i b eː r i + ts’ á r + n eː + w a k	ten2 two and one	m i b eː r i + ts’ á r + n eː + w a k	10 12 1 6		Mous1993
+22	Iraqw	twenty two	mibeeri tsár nee tsár	m i b eː r i + ts’ á r + n eː + ts’ á r	ten2 two and two	m i b eː r i + ts’ á r + n eː + ts’ á r	10 12 1 12		Mous1993
+23	Iraqw	twenty three	mibeeri tsár nee tám	m i b eː r i + ts’ á r + n eː + t á m	ten2 two and three	m i b eː r i + ts’ á r + n eː + t á m	10 12 1 11		Mous1993
+24	Iraqw	twenty four	mibeeri tsár nee tsiyáhh	m i b eː r i + ts’ á r + n eː + ts’ i y á ħ	ten2 two and four	m i b eː r i + ts’ á r + n eː + ts’ i y á ħ	10 12 1 4		Mous1993
+25	Iraqw	twenty five	mibeeri tsár nee koo’án	m i b eː r i + ts’ á r + n eː + k oː ʔ á n	ten2 two and five	m i b eː r i + ts’ á r + n eː + k oː ʔ á n	10 12 1 3		Mous1993
+26	Iraqw	twenty six	mibeeri tsár nee lahhóo’	m i b eː r i + ts’ á r + n eː + l a ħ óː ʔ	ten2 two and six	m i b eː r i + ts’ á r + n eː + l a ħ óː ʔ	10 12 1 8		Mous1993
+27	Iraqw	twenty seven	mibeeri tsár nee faanqw	m i b eː r i + ts’ á r + n eː + f aː n qʷ	ten2 two and seven	m i b eː r i + ts’ á r + n eː + f aː n qʷ	10 12 1 7		Mous1993
+28	Iraqw	twenty eight	mibeeri tsár nee dakáat	m i b eː r i + ts’ á r + n eː + d a k áː t	ten2 two and eight	m i b eː r i + ts’ á r + n eː + d a k áː t	10 12 1 2		Mous1993
+29	Iraqw	twenty nine	mibeeri tsár nee gwaléel	m i b eː r i + ts’ á r + n eː + gʷ a l éː l	ten2 two and nine	m i b eː r i + ts’ á r + n eː + gʷ a l éː l	10 12 1 5		Mous1993
+30	Iraqw	thirty 	mibeeri tám	m i b eː r i + t á m	ten2 three	m i b eː r i + t á m	10 11		Mous1993
+31	Iraqw	thirty one	mibeeri tám nee wak	m i b eː r i + t á m + n eː + w a k	ten2 three and one	m i b eː r i + t á m + n eː + w a k	10 11 1 6		Mous1993
+32	Iraqw	thirty two	mibeeri tám nee tsár	m i b eː r i + t á m + n eː + ts’ á r	ten2 three and two	m i b eː r i + t á m + n eː + ts’ á r	10 11 1 12		Mous1993
+33	Iraqw	thirty three	mibeeri tám nee tám	m i b eː r i + t á m + n eː + t á m	ten2 three and three	m i b eː r i + t á m + n eː + t á m	10 11 1 11		Mous1993
+34	Iraqw	thirty four	mibeeri tám nee tsiyáhh	m i b eː r i + t á m + n eː + ts’ i y á ħ	ten2 three and four	m i b eː r i + t á m + n eː + ts’ i y á ħ	10 11 1 4		Mous1993
+35	Iraqw	thirty five	mibeeri tám nee koo’án	m i b eː r i + t á m + n eː + k oː ʔ á n	ten2 three and five	m i b eː r i + t á m + n eː + k oː ʔ á n	10 11 1 3		Mous1993
+36	Iraqw	thirty six	mibeeri tám nee lahhóo’	m i b eː r i + t á m + n eː + l a ħ óː ʔ	ten2 three and six	m i b eː r i + t á m + n eː + l a ħ óː ʔ	10 11 1 8		Mous1993
+37	Iraqw	thirty seven	mibeeri tám nee faanqw	m i b eː r i + t á m + n eː + f aː n qʷ	ten2 three and seven	m i b eː r i + t á m + n eː + f aː n qʷ	10 11 1 7		Mous1993
+38	Iraqw	thirty eight	mibeeri tám nee dakáat	m i b eː r i + t á m + n eː + d a k áː t	ten2 three and eight	m i b eː r i + t á m + n eː + d a k áː t	10 11 1 2		Mous1993
+39	Iraqw	thirty nine	mibeeri tám nee gwaléel	m i b eː r i + t á m + n eː + gʷ a l éː l	ten2 three and nine	m i b eː r i + t á m + n eː + gʷ a l éː l	10 11 1 5		Mous1993
+40	Iraqw	forty 	mibeeri tsiyáhh	m i b eː r i + ts’ i y á ħ	ten2 four	m i b eː r i + ts’ i y á ħ	10 4		Mous1993
+41	Iraqw	forty one	mibeeri tsiyáhh nee wak	m i b eː r i + ts’ i y á ħ + n eː + w a k	ten2 four and one	m i b eː r i + ts’ i y á ħ + n eː + w a k	10 4 1 6		Mous1993
+42	Iraqw	forty two	mibeeri tsiyáhh nee tsár	m i b eː r i + ts’ i y á ħ + n eː + ts’ á r	ten2 four and two	m i b eː r i + ts’ i y á ħ + n eː + ts’ á r	10 4 1 12		Mous1993
+43	Iraqw	forty three	mibeeri tsiyáhh nee tám	m i b eː r i + ts’ i y á ħ + n eː + t á m	ten2 four and three	m i b eː r i + ts’ i y á ħ + n eː + t á m	10 4 1 11		Mous1993
+44	Iraqw	forty four	mibeeri tsiyáhh nee tsiyáhh	m i b eː r i + ts’ i y á ħ + n eː + ts’ i y á ħ	ten2 four and four	m i b eː r i + ts’ i y á ħ + n eː + ts’ i y á ħ	10 4 1 4		Mous1993
+45	Iraqw	forty five	mibeeri tsiyáhh nee koo’án	m i b eː r i + ts’ i y á ħ + n eː + k oː ʔ á n	ten2 four and five	m i b eː r i + ts’ i y á ħ + n eː + k oː ʔ á n	10 4 1 3		Mous1993
+46	Iraqw	forty six	mibeeri tsiyáhh nee lahhóo’	m i b eː r i + ts’ i y á ħ + n eː + l a ħ óː ʔ	ten2 four and six	m i b eː r i + ts’ i y á ħ + n eː + l a ħ óː ʔ	10 4 1 8		Mous1993
+47	Iraqw	forty seven	mibeeri tsiyáhh nee faanqw	m i b eː r i + ts’ i y á ħ + n eː + f aː n qʷ	ten2 four and seven	m i b eː r i + ts’ i y á ħ + n eː + f aː n qʷ	10 4 1 7		Mous1993
+48	Iraqw	forty eight	mibeeri tsiyáhh nee dakáat	m i b eː r i + ts’ i y á ħ + n eː + d a k áː t	ten2 four and eight	m i b eː r i + ts’ i y á ħ + n eː + d a k áː t	10 4 1 2		Mous1993
+49	Iraqw	forty nine	mibeeri koo’án nee gwaléel	m i b eː r i + k oː ʔ á n + n eː + gʷ a l éː l	ten2 five and nine	m i b eː r i + k oː ʔ á n + n eː + gʷ a l éː l	10 3 1 5		Mous1993
+50	Iraqw	fifty 	mibeeri koo’án	m i b eː r i + k oː ʔ á n	ten2 five	m i b eː r i + k oː ʔ á n	10 3		Mous1993
+51	Iraqw	fifty one	mibeeri koo’án nee wak	m i b eː r i + k oː ʔ á n + n eː + w a k	ten2 five and one	m i b eː r i + k oː ʔ á n + n eː + w a k	10 3 1 6		Mous1993
+52	Iraqw	fifty two	mibeeri koo’án nee tsár	m i b eː r i + k oː ʔ á n + n eː + ts’ á r	ten2 five and two	m i b eː r i + k oː ʔ á n + n eː + ts’ á r	10 3 1 12		Mous1993
+53	Iraqw	fifty three	mibeeri koo’án nee tám	m i b eː r i + k oː ʔ á n + n eː + t á m	ten2 five and three	m i b eː r i + k oː ʔ á n + n eː + t á m	10 3 1 11		Mous1993
+54	Iraqw	fifty four	mibeeri koo’án nee tsiyáhh	m i b eː r i + k oː ʔ á n + n eː + ts’ i y á ħ	ten2 five and four	m i b eː r i + k oː ʔ á n + n eː + ts’ i y á ħ	10 3 1 4		Mous1993
+55	Iraqw	fifty five	mibeeri koo’án nee koo’án	m i b eː r i + k oː ʔ á n + n eː + k oː ʔ á n	ten2 five and five	m i b eː r i + k oː ʔ á n + n eː + k oː ʔ á n	10 3 1 3		Mous1993
+56	Iraqw	fifty six	mibeeri koo’án nee lahhóo’	m i b eː r i + k oː ʔ á n + n eː + l a ħ óː ʔ	ten2 five and six	m i b eː r i + k oː ʔ á n + n eː + l a ħ óː ʔ	10 3 1 8		Mous1993
+57	Iraqw	fifty seven	mibeeri koo’án nee faanqw	m i b eː r i + k oː ʔ á n + n eː + f aː n qʷ	ten2 five and seven	m i b eː r i + k oː ʔ á n + n eː + f aː n qʷ	10 3 1 7		Mous1993
+58	Iraqw	fifty eight	mibeeri koo’án nee dakáat	m i b eː r i + k oː ʔ á n + n eː + d a k áː t	ten2 five and eight	m i b eː r i + k oː ʔ á n + n eː + d a k áː t	10 3 1 2		Mous1993
+59	Iraqw	fifty nine	mibeeri lahhóo’ nee gwaléel	m i b eː r i + l a ħ óː ʔ + n eː + gʷ a l éː l	ten2 six and nine	m i b eː r i + l a ħ óː ʔ + n eː + gʷ a l éː l	10 8 1 5		Mous1993
+60	Iraqw	sixty 	mibeeri lahhóo’	m i b eː r i + l a ħ óː ʔ	ten2 six	m i b eː r i + l a ħ óː ʔ	10 8		Mous1993
+61	Iraqw	sixty one	mibeeri lahhóo’ nee wak	m i b eː r i + l a ħ óː ʔ + n eː + w a k	ten2 six and one	m i b eː r i + l a ħ óː ʔ + n eː + w a k	10 8 1 6		Mous1993
+62	Iraqw	sixty two	mibeeri lahhóo’ nee tsár	m i b eː r i + l a ħ óː ʔ + n eː + ts’ á r	ten2 six and two	m i b eː r i + l a ħ óː ʔ + n eː + ts’ á r	10 8 1 12		Mous1993
+63	Iraqw	sixty three	mibeeri lahhóo’ nee tám	m i b eː r i + l a ħ óː ʔ + n eː + t á m	ten2 six and three	m i b eː r i + l a ħ óː ʔ + n eː + t á m	10 8 1 11		Mous1993
+64	Iraqw	sixty four	mibeeri lahhóo’ nee tsiyáhh	m i b eː r i + l a ħ óː ʔ + n eː + ts’ i y á ħ	ten2 six and four	m i b eː r i + l a ħ óː ʔ + n eː + ts’ i y á ħ	10 8 1 4		Mous1993
+65	Iraqw	sixty five	mibeeri lahhóo’ nee koo’án	m i b eː r i + l a ħ óː ʔ + n eː + k oː ʔ á n	ten2 six and five	m i b eː r i + l a ħ óː ʔ + n eː + k oː ʔ á n	10 8 1 3		Mous1993
+66	Iraqw	sixty six	mibeeri lahhóo’ nee lahhóo’	m i b eː r i + l a ħ óː ʔ + n eː + l a ħ óː ʔ	ten2 six and six	m i b eː r i + l a ħ óː ʔ + n eː + l a ħ óː ʔ	10 8 1 8		Mous1993
+67	Iraqw	sixty seven	mibeeri lahhóo’ nee faanqw	m i b eː r i + l a ħ óː ʔ + n eː + f aː n qʷ	ten2 six and seven	m i b eː r i + l a ħ óː ʔ + n eː + f aː n qʷ	10 8 1 7		Mous1993
+68	Iraqw	sixty eight	mibeeri lahhóo’ nee dakáat	m i b eː r i + l a ħ óː ʔ + n eː + d a k áː t	ten2 six and eight	m i b eː r i + l a ħ óː ʔ + n eː + d a k áː t	10 8 1 2		Mous1993
+69	Iraqw	sixty nine	mibeeri faanqw nee gwaléel	m i b eː r i + f aː n qʷ + n eː + gʷ a l éː l	ten2 seven and nine	m i b eː r i + f aː n qʷ + n eː + gʷ a l éː l	10 7 1 5		Mous1993
+70	Iraqw	seventy 	mibeeri faanqw	m i b eː r i + f aː n qʷ	ten2 seven	m i b eː r i + f aː n qʷ	10 7		Mous1993
+71	Iraqw	seventy one	mibeeri faanqw nee wak	m i b eː r i + f aː n qʷ + n eː + w a k	ten2 seven and one	m i b eː r i + f aː n qʷ + n eː + w a k	10 7 1 6		Mous1993
+72	Iraqw	seventy two	mibeeri faanqw nee tsár	m i b eː r i + f aː n qʷ + n eː + ts’ á r	ten2 seven and two	m i b eː r i + f aː n qʷ + n eː + ts’ á r	10 7 1 12		Mous1993
+73	Iraqw	seventy three	mibeeri faanqw nee tám	m i b eː r i + f aː n qʷ + n eː + t á m	ten2 seven and three	m i b eː r i + f aː n qʷ + n eː + t á m	10 7 1 11		Mous1993
+74	Iraqw	seventy four	mibeeri faanqw nee tsiyáhh	m i b eː r i + f aː n qʷ + n eː + ts’ i y á ħ	ten2 seven and four	m i b eː r i + f aː n qʷ + n eː + ts’ i y á ħ	10 7 1 4		Mous1993
+75	Iraqw	seventy five	mibeeri faanqw nee koo’án	m i b eː r i + f aː n qʷ + n eː + k oː ʔ á n	ten2 seven and five	m i b eː r i + f aː n qʷ + n eː + k oː ʔ á n	10 7 1 3		Mous1993
+76	Iraqw	seventy six	mibeeri faanqw nee lahhóo’	m i b eː r i + f aː n qʷ + n eː + l a ħ óː ʔ	ten2 seven and six	m i b eː r i + f aː n qʷ + n eː + l a ħ óː ʔ	10 7 1 8		Mous1993
+77	Iraqw	seventy seven	mibeeri faanqw nee faanqw	m i b eː r i + f aː n qʷ + n eː + f aː n qʷ	ten2 seven and seven	m i b eː r i + f aː n qʷ + n eː + f aː n qʷ	10 7 1 7		Mous1993
+78	Iraqw	seventy eight	mibeeri faanqw nee dakáat	m i b eː r i + f aː n qʷ + n eː + d a k áː t	ten2 seven and eight	m i b eː r i + f aː n qʷ + n eː + d a k áː t	10 7 1 2		Mous1993
+79	Iraqw	seventy nine	mibeeri dakáat nee gwaléel	m i b eː r i + d a k áː t + n eː + gʷ a l éː l	ten2 eight and nine	m i b eː r i + d a k áː t + n eː + gʷ a l éː l	10 2 1 5		Mous1993
+80	Iraqw	eighty 	mibeeri dakáat	m i b eː r i + d a k áː t	ten2 eight	m i b eː r i + d a k áː t	10 2		Mous1993
+81	Iraqw	eighty one	mibeeri dakáat nee wak	m i b eː r i + d a k áː t + n eː + w a k	ten2 eight and one	m i b eː r i + d a k áː t + n eː + w a k	10 2 1 6		Mous1993
+82	Iraqw	eighty two	mibeeri dakáat nee tsár	m i b eː r i + d a k áː t + n eː + ts’ á r	ten2 eight and two	m i b eː r i + d a k áː t + n eː + ts’ á r	10 2 1 12		Mous1993
+83	Iraqw	eighty three	mibeeri dakáat nee tám	m i b eː r i + d a k áː t + n eː + t á m	ten2 eight and three	m i b eː r i + d a k áː t + n eː + t á m	10 2 1 11		Mous1993
+84	Iraqw	eighty four	mibeeri dakáat nee tsiyáhh	m i b eː r i + d a k áː t + n eː + ts’ i y á ħ	ten2 eight and four	m i b eː r i + d a k áː t + n eː + ts’ i y á ħ	10 2 1 4		Mous1993
+85	Iraqw	eighty five	mibeeri dakáat nee koo’án	m i b eː r i + d a k áː t + n eː + k oː ʔ á n	ten2 eight and five	m i b eː r i + d a k áː t + n eː + k oː ʔ á n	10 2 1 3		Mous1993
+86	Iraqw	eighty six	mibeeri dakáat nee lahhóo’	m i b eː r i + d a k áː t + n eː + l a ħ óː ʔ	ten2 eight and six	m i b eː r i + d a k áː t + n eː + l a ħ óː ʔ	10 2 1 8		Mous1993
+87	Iraqw	eighty seven	mibeeri dakáat nee faanqw	m i b eː r i + d a k áː t + n eː + f aː n qʷ	ten2 eight and seven	m i b eː r i + d a k áː t + n eː + f aː n qʷ	10 2 1 7		Mous1993
+88	Iraqw	eighty eight	mibeeri dakáat nee dakáat	m i b eː r i + d a k áː t + n eː + d a k áː t	ten2 eight and eight	m i b eː r i + d a k áː t + n eː + d a k áː t	10 2 1 2		Mous1993
+89	Iraqw	eighty nine	mibeeri gwaléel nee gwaléel	m i b eː r i + gʷ a l éː l + n eː + gʷ a l éː l	ten2 nine and nine	m i b eː r i + gʷ a l éː l + n eː + gʷ a l éː l	10 5 1 5		Mous1993
+90	Iraqw	ninety 	mibeeri gwaléel	m i b eː r i + gʷ a l éː l	ten2 nine	m i b eː r i + gʷ a l éː l	10 5		Mous1993
+91	Iraqw	ninety one	mibeeri gwaléel nee wak	m i b eː r i + gʷ a l éː l + n eː + w a k	ten2 nine and one	m i b eː r i + gʷ a l éː l + n eː + w a k	10 5 1 6		Mous1993
+92	Iraqw	ninety two	mibeeri gwaléel nee tsár	m i b eː r i + gʷ a l éː l + n eː + ts’ á r	ten2 nine and two	m i b eː r i + gʷ a l éː l + n eː + ts’ á r	10 5 1 12		Mous1993
+93	Iraqw	ninety three	mibeeri gwaléel nee tám	m i b eː r i + gʷ a l éː l + n eː + t á m	ten2 nine and three	m i b eː r i + gʷ a l éː l + n eː + t á m	10 5 1 11		Mous1993
+94	Iraqw	ninety four	mibeeri gwaléel nee tsiyáhh	m i b eː r i + gʷ a l éː l + n eː + ts’ i y á ħ	ten2 nine and four	m i b eː r i + gʷ a l éː l + n eː + ts’ i y á ħ	10 5 1 4		Mous1993
+95	Iraqw	ninety five	mibeeri gwaléel nee koo’án	m i b eː r i + gʷ a l éː l + n eː + k oː ʔ á n	ten2 nine and five	m i b eː r i + gʷ a l éː l + n eː + k oː ʔ á n	10 5 1 3		Mous1993
+96	Iraqw	ninety six	mibeeri gwaléel nee lahhóo’	m i b eː r i + gʷ a l éː l + n eː + l a ħ óː ʔ	ten2 nine and six	m i b eː r i + gʷ a l éː l + n eː + l a ħ óː ʔ	10 5 1 8		Mous1993
+97	Iraqw	ninety seven	mibeeri gwaléel nee faanqw	m i b eː r i + gʷ a l éː l + n eː + f aː n qʷ	ten2 nine and seven	m i b eː r i + gʷ a l éː l + n eː + f aː n qʷ	10 5 1 7		Mous1993
+98	Iraqw	ninety eight	mibeeri gwaléel nee dakáat	m i b eː r i + gʷ a l éː l + n eː + d a k áː t	ten2 nine and eight	m i b eː r i + gʷ a l éː l + n eː + d a k áː t	10 5 1 2		Mous1993
+99	Iraqw	ninety nine	mibeeri gwaléel nee gwaléel	m i b eː r i + gʷ a l éː l + n eː + gʷ a l éː l	ten2 nine and nine	m i b eː r i + gʷ a l éː l + n eː + gʷ a l éː l	10 5 1 5		Mous1993

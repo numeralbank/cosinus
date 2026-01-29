@@ -1,114 +1,114 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 1	Amharic	one	አንዶ	and	a n d	one	a n d	1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 2	Amharic	one	አንዲት	andit	a n d + i t	one suff_fem	a n d + i t	1 11	only the number one has a feminine counterpart	Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-3	Amharic	two	ሁለት	hulətt	h u l ə t t	two	h u l ə t t	2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+3	Amharic	two	ሁለት	hulətt	h u l ə tː	two	h u l ə tː	2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 4	Amharic	three	ሶስት	sost	s o s t	three	s o s t	3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-5	Amharic	four	አራት	aratt	a r a t t	four	a r a t t	4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-6	Amharic	five	አምስት	ammɨst	a m m ɨ s t	five	a m m ɨ s t	5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-7	Amharic	six	ስድስት	səddəst	s ɨ d d ɨ s t	six	s ɨ d d ɨ s t	6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-8	Amharic	seven	ሰባት	səbatt	s ə b a t t	seven	s ə b a t t	7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-9	Amharic	eight	ስምንት	sɨmmɨnt	s ɨ m m ɨ n t	eight	s ɨ m m ɨ n t	8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-10	Amharic	nine	ዘጠኝ	zətʼəɲɲ	z ə tʼ ə ɲ ɲ	nine	z ə tʼ ə ɲ ɲ	9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-11	Amharic	ten	አስር	assɨr	a s s ɨ r	ten	a s s ɨ r	10		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-12	Amharic	eleven	አስራ አንድ	asraand	a s -/s -/ɨ r + a + a n d	ten ty one	a s -/s -/ɨ r + a + a n d	10 12 1	"asra" can be derived from "assɨr" with the -ty morpheme added	Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-13	Amharic	eleven	አስራ አንዲት	asraandit	a s -/s -/ɨ r + a + a n d + i t	ten ty one suff_fem	a s -/s -/ɨ r + a + a n d + i t	10 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-14	Amharic	eleven	አስራንዲት	asrand	a s -/s -/ɨ r + a + -/a n d	ten ty one	a s -/s -/ɨ r + a + -/a n d	10 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-15	Amharic	eleven	አስራንድ	asrandit	a s -/s -/ɨ r + a + -/a n d + i t	ten ty one suff_fem	a s -/s -/ɨ r + a + -/a n d + i t	10 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-16	Amharic	twelve	አስራ ሁለት	asrahulətt	a s -/s -/ɨ r + a + h u l ə t t	ten ty two	a s -/s -/ɨ r + a + h u l ə t t	10 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-17	Amharic	thirteen	አስራ ሶስት	asrasost	a s -/s -/ɨ r + a + s o s t	ten ty three	a s -/s -/ɨ r + a + s o s t	10 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-18	Amharic	fourteen	አስራ አራት	asraaratt	a s -/s -/ɨ r + a + a r a t t	ten ty four	a s -/s -/ɨ r + a + a r a t t	10 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-19	Amharic	fourteen	አስራራት	asraratt	a s -/s -/ɨ r + a + -/a r a t t	ten ty four	a s -/s -/ɨ r + a + -/a r a t t	10 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-20	Amharic	fifteen	አስራ አምስት	asraammɨst	a s -/s -/ɨ r + a + a m m ɨ s t	ten ty five	a s -/s -/ɨ r + a + a m m ɨ s t	10 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-21	Amharic	fifteen	አስራምስት	asrammɨst	a s -/s -/ɨ r + a + -/a m m ɨ s t	ten ty five	a s -/s -/ɨ r + a + -/a m m ɨ s t	10 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-22	Amharic	sixteen	አስራ ስድስት	asrasɨddɨst	a s -/s -/ɨ r + a + s ɨ d d ɨ s t	ten ty six	a s -/s -/ɨ r + a + s ɨ d d ɨ s t	10 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-23	Amharic	seventeen	አስራ ሰባት	asrasəbatt	a s -/s -/ɨ r + a + s ə b a t t	ten ty seven	a s -/s -/ɨ r + a + s ə b a t t	10 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-24	Amharic	eighteen	አስራ ስምንት	asrasɨmmɨnt	a s -/s -/ɨ r + a + s ɨ m m ɨ n t	ten ty eight	a s -/s -/ɨ r + a + s ɨ m m ɨ n t	10 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-25	Amharic	nineteen	አስራ ዘጠኝ	asrazətʼəɲɲ	a s -/s -/ɨ r + a + z ə tʼ ə ɲ ɲ	ten ty nine	a s -/s -/ɨ r + a + z ə tʼ ə ɲ ɲ	10 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-26	Amharic	twenty	ሀያ	haya	h a y + a	twenty ty	h a y + a	20 12	the number twenty to ninety cannot be derived from 1-9 by regular morphology and phonological rules. grammar books claim otherwise, but they base their derivation not synchronically but diachronically. 20-90 are much more conservative in their phonology than 1-9, and closer to Ge'ez. Therefore I decided to gloss them as "twenty ty" rather than "two ty" (the /a/, "ty" morpheme is still affixed to them)	Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+5	Amharic	four	አራት	aratt	a r a tː	four	a r a tː	4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+6	Amharic	five	አምስት	ammɨst	a mː ɨ s t	five	a mː ɨ s t	5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+7	Amharic	six	ስድስት	səddəst	s ɨ dː ɨ s t	six	s ɨ dː ɨ s t	6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+8	Amharic	seven	ሰባት	səbatt	s ə b a tː	seven	s ə b a tː	7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+9	Amharic	eight	ስምንት	sɨmmɨnt	s ɨ mː ɨ n t	eight	s ɨ mː ɨ n t	8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+10	Amharic	nine	ዘጠኝ	zətʼəɲɲ	z ə tʼ ə ɲː	nine	z ə tʼ ə ɲː	9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+11	Amharic	ten	አስር	assɨr	a sː ɨ r	ten	a sː ɨ r	10		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+12	Amharic	eleven	አስራ አንድ	asraand	a s/sː -/ɨ r + a + a n d	ten ty one	a s/sː -/ɨ r + a + a n d	10 12 1	"asra" can be derived from "assɨr" with the -ty morpheme added	Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+13	Amharic	eleven	አስራ አንዲት	asraandit	a s/sː -/ɨ r + a + a n d + i t	ten ty one suff_fem	a s/sː -/ɨ r + a + a n d + i t	10 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+14	Amharic	eleven	አስራንዲት	asrand	a s/sː -/ɨ r + a + -/a n d	ten ty one	a s/sː -/ɨ r + a + -/a n d	10 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+15	Amharic	eleven	አስራንድ	asrandit	a s/sː -/ɨ r + a + -/a n d + i t	ten ty one suff_fem	a s/sː -/ɨ r + a + -/a n d + i t	10 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+16	Amharic	twelve	አስራ ሁለት	asrahulətt	a s/sː -/ɨ r + a + h u l ə tː	ten ty two	a s/sː -/ɨ r + a + h u l ə tː	10 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+17	Amharic	thirteen	አስራ ሶስት	asrasost	a s/sː -/ɨ r + a + s o s t	ten ty three	a s/sː -/ɨ r + a + s o s t	10 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+18	Amharic	fourteen	አስራ አራት	asraaratt	a s/sː -/ɨ r + a + a r a tː	ten ty four	a s/sː -/ɨ r + a + a r a tː	10 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+19	Amharic	fourteen	አስራራት	asraratt	a s/sː -/ɨ r + a + -/a r a tː	ten ty four	a s/sː -/ɨ r + a + -/a r a tː	10 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+20	Amharic	fifteen	አስራ አምስት	asraammɨst	a s/sː -/ɨ r + a + a mː ɨ s t	ten ty five	a s/sː -/ɨ r + a + a mː ɨ s t	10 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+21	Amharic	fifteen	አስራምስት	asrammɨst	a s/sː -/ɨ r + a + -/a mː ɨ s t	ten ty five	a s/sː -/ɨ r + a + -/a mː ɨ s t	10 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+22	Amharic	sixteen	አስራ ስድስት	asrasɨddɨst	a s/sː -/ɨ r + a + s ɨ dː ɨ s t	ten ty six	a s/sː -/ɨ r + a + s ɨ dː ɨ s t	10 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+23	Amharic	seventeen	አስራ ሰባት	asrasəbatt	a s/sː -/ɨ r + a + s ə b a tː	ten ty seven	a s/sː -/ɨ r + a + s ə b a tː	10 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+24	Amharic	eighteen	አስራ ስምንት	asrasɨmmɨnt	a s/sː -/ɨ r + a + s ɨ mː ɨ n t	ten ty eight	a s/sː -/ɨ r + a + s ɨ mː ɨ n t	10 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+25	Amharic	nineteen	አስራ ዘጠኝ	asrazətʼəɲɲ	a s/sː -/ɨ r + a + z ə tʼ ə ɲː	ten ty nine	a s/sː -/ɨ r + a + z ə tʼ ə ɲː	10 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+26	Amharic	twenty	ሀያ	haya	h a y + a	twenty ty	h a y + a	20 12	the number twenty to ninety cannot be derived from 1-9 by regular morphology and phonological rules. grammar books claim otherwise, butːhey base their derivation not synchronically but diachronically. 20-90 are much more conservative in their phonology than 1-9, and closer to Ge'ez. Therefore I decided to gloss them as "twenty ty" rather than "two ty" (the /a/, "ty" morpheme is still affixed to them)	Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 27	Amharic	twenty one	ሀያ አንዶ	hayaand	h a y + a + a n d	twenty ty one	h a y + a + a n d	20 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 28	Amharic	twenty one	ሀያ አንዲት	hayaandit	h a y + a + a n d + i t	twenty ty one suff_fem	h a y + a + a n d + i t	20 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-29	Amharic	twenty two	ሀያ ሁለት	hayahulətt	h a y + a + h u l ə t t	twenty ty two	h a y + a + h u l ə t t	20 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+29	Amharic	twenty two	ሀያ ሁለት	hayahulətt	h a y + a + h u l ə tː	twenty ty two	h a y + a + h u l ə tː	20 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 30	Amharic	twenty three	ሀያ ሶስት	hayasost	h a y + a + s o s t	twenty ty three	h a y + a + s o s t	20 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-31	Amharic	twenty four	ሀያ አራት	hayaaratt	h a y + a + a r a t t	twenty ty four	h a y + a + a r a t t	20 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-32	Amharic	twenty five	ሀያ አምስት	hayaammɨst	h a y + a + a m m ɨ s t	twenty ty five	h a y + a + a m m ɨ s t	20 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-33	Amharic	twenty six	ሀያ ስድስት	hayasəddəst	h a y + a + s ɨ d d ɨ s t	twenty ty six	h a y + a + s ɨ d d ɨ s t	20 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-34	Amharic	twenty seven	ሀያ ሰባት	hayasəbatt	h a y + a + s ə b a t t	twenty ty seven	h a y + a + s ə b a t t	20 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-35	Amharic	twenty eight	ሀያ ስምንት	hayasɨmmɨnt	h a y + a + s ɨ m m ɨ n t	twenty ty eight	h a y + a + s ɨ m m ɨ n t	20 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-36	Amharic	twenty nine	ሀያ ዘጠኝ	hayazətʼəɲɲ	h a y + a + z ə tʼ ə ɲ ɲ	twenty ty nine	h a y + a + z ə tʼ ə ɲ ɲ	20 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+31	Amharic	twenty four	ሀያ አራት	hayaaratt	h a y + a + a r a tː	twenty ty four	h a y + a + a r a tː	20 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+32	Amharic	twenty five	ሀያ አምስት	hayaammɨst	h a y + a + a mː ɨ s t	twenty ty five	h a y + a + a mː ɨ s t	20 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+33	Amharic	twenty six	ሀያ ስድስት	hayasəddəst	h a y + a + s ɨ dː ɨ s t	twenty ty six	h a y + a + s ɨ dː ɨ s t	20 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+34	Amharic	twenty seven	ሀያ ሰባት	hayasəbatt	h a y + a + s ə b a tː	twenty ty seven	h a y + a + s ə b a tː	20 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+35	Amharic	twenty eight	ሀያ ስምንት	hayasɨmmɨnt	h a y + a + s ɨ mː ɨ n t	twenty ty eight	h a y + a + s ɨ mː ɨ n t	20 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+36	Amharic	twenty nine	ሀያ ዘጠኝ	hayazətʼəɲɲ	h a y + a + z ə tʼ ə ɲː	twenty ty nine	h a y + a + z ə tʼ ə ɲː	20 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 37	Amharic	thirty	ሰላሳ	səlasa	s ə l a s + a	thirty ty	s ə l a s + a	30 12		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 38	Amharic	thirty one	ሰላሳ አንዶ	səlasaand	s ə l a s + a + a n d	thirty ty one	s ə l a s + a + a n d	30 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 39	Amharic	thirty one	ሰላሳ አንዲት	səlasaandit	s ə l a s + a + a n d + i t	thirty ty one suff_fem	s ə l a s + a + a n d + i t	30 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-40	Amharic	thirty two	ሰላሳ ሁለት	səlasahulətt	s ə l a s + a + h u l ə t t	thirty ty two	s ə l a s + a + h u l ə t t	30 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+40	Amharic	thirty two	ሰላሳ ሁለት	səlasahulətt	s ə l a s + a + h u l ə tː	thirty ty two	s ə l a s + a + h u l ə tː	30 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 41	Amharic	thirty three	ሰላሳ ሶስት	səlasasost	s ə l a s + a + s o s t	thirty ty three	s ə l a s + a + s o s t	30 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-42	Amharic	thirty four	ሰላሳ አራት	səlasaaratt	s ə l a s + a + a r a t t	thirty ty four	s ə l a s + a + a r a t t	30 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-43	Amharic	thirty five	ሰላሳ አምስት	səlasaammɨst	s ə l a s + a + a m m ɨ s t	thirty ty five	s ə l a s + a + a m m ɨ s t	30 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-44	Amharic	thirty six	ሰላሳ ስድስት	səlasasəddəst	s ə l a s + a + s ɨ d d ɨ s t	thirty ty six	s ə l a s + a + s ɨ d d ɨ s t	30 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-45	Amharic	thirty seven	ሰላሳ ሰባት	səlasasəbatt	s ə l a s + a + s ə b a t t	thirty ty seven	s ə l a s + a + s ə b a t t	30 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-46	Amharic	thirty eight	ሰላሳ ስምንት	səlasasɨmmɨnt	s ə l a s + a + s ɨ m m ɨ n t	thirty ty eight	s ə l a s + a + s ɨ m m ɨ n t	30 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-47	Amharic	thirty nine	አርባ ዘጠኝ	səlasazətʼəɲɲ	s ə l a s + a + z ə tʼ ə ɲ ɲ	thirty ty nine	s ə l a s + a + z ə tʼ ə ɲ ɲ	30 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+42	Amharic	thirty four	ሰላሳ አራት	səlasaaratt	s ə l a s + a + a r a tː	thirty ty four	s ə l a s + a + a r a tː	30 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+43	Amharic	thirty five	ሰላሳ አምስት	səlasaammɨst	s ə l a s + a + a mː ɨ s t	thirty ty five	s ə l a s + a + a mː ɨ s t	30 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+44	Amharic	thirty six	ሰላሳ ስድስት	səlasasəddəst	s ə l a s + a + s ɨ dː ɨ s t	thirty ty six	s ə l a s + a + s ɨ dː ɨ s t	30 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+45	Amharic	thirty seven	ሰላሳ ሰባት	səlasasəbatt	s ə l a s + a + s ə b a tː	thirty ty seven	s ə l a s + a + s ə b a tː	30 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+46	Amharic	thirty eight	ሰላሳ ስምንት	səlasasɨmmɨnt	s ə l a s + a + s ɨ mː ɨ n t	thirty ty eight	s ə l a s + a + s ɨ mː ɨ n t	30 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+47	Amharic	thirty nine	አርባ ዘጠኝ	səlasazətʼəɲɲ	s ə l a s + a + z ə tʼ ə ɲː	thirty ty nine	s ə l a s + a + z ə tʼ ə ɲː	30 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 48	Amharic	forty	አርባ	arba	a r b + a	forty ty	a r b + a	40 12		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 49	Amharic	forty one	አርባ አንዶ	arbaand	a r b + a + a n d	forty ty one	a r b + a + a n d	40 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 50	Amharic	forty one	አርባ አንዲት	arbaandit	a r b + a + a n d + i t	forty ty one suff_fem	a r b + a + a n d + i t	40 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-51	Amharic	forty two	አርባ ሁለት	arbahulətt	a r b + a + h u l ə t t	forty ty two	a r b + a + h u l ə t t	40 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+51	Amharic	forty two	አርባ ሁለት	arbahulətt	a r b + a + h u l ə tː	forty ty two	a r b + a + h u l ə tː	40 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 52	Amharic	forty three	አርባ ሶስት	arbasost	a r b + a + s o s t	forty ty three	a r b + a + s o s t	40 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-53	Amharic	forty four	አርባ አራት	arbaaratt	a r b + a + a r a t t	forty ty four	a r b + a + a r a t t	40 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-54	Amharic	forty five	አርባ አምስት	arbaammɨst	a r b + a + a m m ɨ s t	forty ty five	a r b + a + a m m ɨ s t	40 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-55	Amharic	forty six	አርባ ስድስት	arbasəddəst	a r b + a + s ɨ d d ɨ s t	forty ty six	a r b + a + s ɨ d d ɨ s t	40 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-56	Amharic	forty seven	አርባ ሰባት	arbasəbatt	a r b + a + s ə b a t t	forty ty seven	a r b + a + s ə b a t t	40 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-57	Amharic	forty eight	አርባ ስምንት	arbasɨmmɨnt	a r b + a + s ɨ m m ɨ n t	forty ty eight	a r b + a + s ɨ m m ɨ n t	40 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-58	Amharic	forty nine	አርባ ዘጠኝ	arbazətʼəɲɲ	a r b + a + z ə tʼ ə ɲ ɲ	forty ty nine	a r b + a + z ə tʼ ə ɲ ɲ	40 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+53	Amharic	forty four	አርባ አራት	arbaaratt	a r b + a + a r a tː	forty ty four	a r b + a + a r a tː	40 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+54	Amharic	forty five	አርባ አምስት	arbaammɨst	a r b + a + a mː ɨ s t	forty ty five	a r b + a + a mː ɨ s t	40 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+55	Amharic	forty six	አርባ ስድስት	arbasəddəst	a r b + a + s ɨ dː ɨ s t	forty ty six	a r b + a + s ɨ dː ɨ s t	40 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+56	Amharic	forty seven	አርባ ሰባት	arbasəbatt	a r b + a + s ə b a tː	forty ty seven	a r b + a + s ə b a tː	40 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+57	Amharic	forty eight	አርባ ስምንት	arbasɨmmɨnt	a r b + a + s ɨ mː ɨ n t	forty ty eight	a r b + a + s ɨ mː ɨ n t	40 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+58	Amharic	forty nine	አርባ ዘጠኝ	arbazətʼəɲɲ	a r b + a + z ə tʼ ə ɲː	forty ty nine	a r b + a + z ə tʼ ə ɲː	40 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 59	Amharic	fifty	ሀምሳ	hamsa	h a m s + a	fifty ty	h a m s + a	50 12		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 60	Amharic	fifty one	ሀምሳ አንዶ	hamsaand	h a m s + a + a n d	fifty ty one	h a m s + a + a n d	50 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 61	Amharic	fifty one	ሀምሳ አንዲት	hamsaandit	h a m s + a + a n d + i t	fifty ty one suff_fem	h a m s + a + a n d + i t	50 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-62	Amharic	fifty two	ሀምሳ ሁለት	hamsahulətt	h a m s + a + h u l ə t t	fifty ty two	h a m s + a + h u l ə t t	50 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+62	Amharic	fifty two	ሀምሳ ሁለት	hamsahulətt	h a m s + a + h u l ə tː	fifty ty two	h a m s + a + h u l ə tː	50 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 63	Amharic	fifty three	ሀምሳ ሶስት	hamsasost	h a m s + a + s o s t	fifty ty three	h a m s + a + s o s t	50 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-64	Amharic	fifty four	ሀምሳ አራት	hamsaaratt	h a m s + a + a r a t t	fifty ty four	h a m s + a + a r a t t	50 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-65	Amharic	fifty five	ሀምሳ አምስት	hamsaammɨst	h a m s + a + a m m ɨ s t	fifty ty five	h a m s + a + a m m ɨ s t	50 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-66	Amharic	fifty six	ሀምሳ ስድስት	hamsasəddəst	h a m s + a + s ɨ d d ɨ s t	fifty ty six	h a m s + a + s ɨ d d ɨ s t	50 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-67	Amharic	fifty seven	ሀምሳ ሰባት	hamsasəbatt	h a m s + a + s ə b a t t	fifty ty seven	h a m s + a + s ə b a t t	50 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-68	Amharic	fifty eight	ሀምሳ ስምንት	hamsasɨmmɨnt	h a m s + a + s ɨ m m ɨ n t	fifty ty eight	h a m s + a + s ɨ m m ɨ n t	50 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-69	Amharic	fifty nine	ሀምሳ ዘጠኝ	hamsazətʼəɲɲ	h a m s + a + z ə tʼ ə ɲ ɲ	fifty ty nine	h a m s + a + z ə tʼ ə ɲ ɲ	50 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+64	Amharic	fifty four	ሀምሳ አራት	hamsaaratt	h a m s + a + a r a tː	fifty ty four	h a m s + a + a r a tː	50 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+65	Amharic	fifty five	ሀምሳ አምስት	hamsaammɨst	h a m s + a + a mː ɨ s t	fifty ty five	h a m s + a + a mː ɨ s t	50 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+66	Amharic	fifty six	ሀምሳ ስድስት	hamsasəddəst	h a m s + a + s ɨ dː ɨ s t	fifty ty six	h a m s + a + s ɨ dː ɨ s t	50 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+67	Amharic	fifty seven	ሀምሳ ሰባት	hamsasəbatt	h a m s + a + s ə b a tː	fifty ty seven	h a m s + a + s ə b a tː	50 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+68	Amharic	fifty eight	ሀምሳ ስምንት	hamsasɨmmɨnt	h a m s + a + s ɨ mː ɨ n t	fifty ty eight	h a m s + a + s ɨ mː ɨ n t	50 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+69	Amharic	fifty nine	ሀምሳ ዘጠኝ	hamsazətʼəɲɲ	h a m s + a + z ə tʼ ə ɲː	fifty ty nine	h a m s + a + z ə tʼ ə ɲː	50 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 70	Amharic	sixty	ስልሳ	sɨlsa	s ɨ l s + a	sixty ty	s ɨ l s + a	60 12		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 71	Amharic	sixty one	ስልሳ አንዶ	sɨlsaand	s ɨ l s + a + a n d	sixty ty one	s ɨ l s + a + a n d	60 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 72	Amharic	sixty one	ስልሳ አንዲት	sɨlsaandit	s ɨ l s + a + a n d + i t	sixty ty one suff_fem	s ɨ l s + a + a n d + i t	60 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-73	Amharic	sixty two	ስልሳ ሁለት	sɨlsahulətt	s ɨ l s + a + h u l ə t t	sixty ty two	s ɨ l s + a + h u l ə t t	60 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+73	Amharic	sixty two	ስልሳ ሁለት	sɨlsahulətt	s ɨ l s + a + h u l ə tː	sixty ty two	s ɨ l s + a + h u l ə tː	60 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 74	Amharic	sixty three	ስልሳ ሶስት	sɨlsasost	s ɨ l s + a + s o s t	sixty ty three	s ɨ l s + a + s o s t	60 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-75	Amharic	sixty four	ስልሳ አራት	sɨlsaaratt	s ɨ l s + a + a r a t t	sixty ty four	s ɨ l s + a + a r a t t	60 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-76	Amharic	sixty five	ስልሳ አምስት	sɨlsaammɨst	s ɨ l s + a + a m m ɨ s t	sixty ty five	s ɨ l s + a + a m m ɨ s t	60 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-77	Amharic	sixty six	ስልሳ ስድስት	sɨlsasəddəst	s ɨ l s + a + s ɨ d d ɨ s t	sixty ty six	s ɨ l s + a + s ɨ d d ɨ s t	60 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-78	Amharic	sixty seven	ስልሳ ሰባት	sɨlsasəbatt	s ɨ l s + a + s ə b a t t	sixty ty seven	s ɨ l s + a + s ə b a t t	60 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-79	Amharic	sixty eight	ስልሳ ስምንት	sɨlsasɨmmɨnt	s ɨ l s + a + s ɨ m m ɨ n t	sixty ty eight	s ɨ l s + a + s ɨ m m ɨ n t	60 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-80	Amharic	sixty nine	ስልሳ ዘጠኝ	sɨlsazətʼəɲɲ	s ɨ l s + a + z ə tʼ ə ɲ ɲ	sixty ty nine	s ɨ l s + a + z ə tʼ ə ɲ ɲ	60 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+75	Amharic	sixty four	ስልሳ አራት	sɨlsaaratt	s ɨ l s + a + a r a tː	sixty ty four	s ɨ l s + a + a r a tː	60 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+76	Amharic	sixty five	ስልሳ አምስት	sɨlsaammɨst	s ɨ l s + a + a mː ɨ s t	sixty ty five	s ɨ l s + a + a mː ɨ s t	60 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+77	Amharic	sixty six	ስልሳ ስድስት	sɨlsasəddəst	s ɨ l s + a + s ɨ dː ɨ s t	sixty ty six	s ɨ l s + a + s ɨ dː ɨ s t	60 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+78	Amharic	sixty seven	ስልሳ ሰባት	sɨlsasəbatt	s ɨ l s + a + s ə b a tː	sixty ty seven	s ɨ l s + a + s ə b a tː	60 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+79	Amharic	sixty eight	ስልሳ ስምንት	sɨlsasɨmmɨnt	s ɨ l s + a + s ɨ mː ɨ n t	sixty ty eight	s ɨ l s + a + s ɨ mː ɨ n t	60 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+80	Amharic	sixty nine	ስልሳ ዘጠኝ	sɨlsazətʼəɲɲ	s ɨ l s + a + z ə tʼ ə ɲː	sixty ty nine	s ɨ l s + a + z ə tʼ ə ɲː	60 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 81	Amharic	seventy	ሰባ	səba	s ə b + a	seventy ty	s ə b + a	70 12		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 82	Amharic	seventy one	ሰባ አንዶ	səbaand	s ə b + a + a n d	seventy ty one	s ə b + a + a n d	70 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 83	Amharic	seventy one	ሰባ አንዲት	səbaandit	s ə b + a + a n d + i t	seventy ty one suff_fem	s ə b + a + a n d + i t	70 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-84	Amharic	seventy two	ሰባ ሁለት	səbahulətt	s ə b + a + h u l ə t t	seventy ty two	s ə b + a + h u l ə t t	70 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+84	Amharic	seventy two	ሰባ ሁለት	səbahulətt	s ə b + a + h u l ə tː	seventy ty two	s ə b + a + h u l ə tː	70 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 85	Amharic	seventy three	ሰባ ሶስት	səbasost	s ə b + a + s o s t	seventy ty three	s ə b + a + s o s t	70 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-86	Amharic	seventy four	ሰባ አራት	səbaaratt	s ə b + a + a r a t t	seventy ty four	s ə b + a + a r a t t	70 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-87	Amharic	seventy five	ሰባ አምስት	səbaammɨst	s ə b + a + a m m ɨ s t	seventy ty five	s ə b + a + a m m ɨ s t	70 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-88	Amharic	seventy six	ሰባ ስድስት	səbasəddəst	s ə b + a + s ɨ d d ɨ s t	seventy ty six	s ə b + a + s ɨ d d ɨ s t	70 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-89	Amharic	seventy seven	ሰባ ሰባት	səbasəbatt	s ə b + a + s ə b a t t	seventy ty seven	s ə b + a + s ə b a t t	70 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-90	Amharic	seventy eight	ሰባ ስምንት	səbasɨmmɨnt	s ə b + a + s ɨ m m ɨ n t	seventy ty eight	s ə b + a + s ɨ m m ɨ n t	70 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-91	Amharic	seventy nine	ሰባ ዘጠኝ	səbazətʼəɲɲ	s ə b + a + z ə tʼ ə ɲ ɲ	seventy ty nine	s ə b + a + z ə tʼ ə ɲ ɲ	70 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+86	Amharic	seventy four	ሰባ አራት	səbaaratt	s ə b + a + a r a tː	seventy ty four	s ə b + a + a r a tː	70 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+87	Amharic	seventy five	ሰባ አምስት	səbaammɨst	s ə b + a + a mː ɨ s t	seventy ty five	s ə b + a + a mː ɨ s t	70 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+88	Amharic	seventy six	ሰባ ስድስት	səbasəddəst	s ə b + a + s ɨ dː ɨ s t	seventy ty six	s ə b + a + s ɨ dː ɨ s t	70 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+89	Amharic	seventy seven	ሰባ ሰባት	səbasəbatt	s ə b + a + s ə b a tː	seventy ty seven	s ə b + a + s ə b a tː	70 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+90	Amharic	seventy eight	ሰባ ስምንት	səbasɨmmɨnt	s ə b + a + s ɨ mː ɨ n t	seventy ty eight	s ə b + a + s ɨ mː ɨ n t	70 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+91	Amharic	seventy nine	ሰባ ዘጠኝ	səbazətʼəɲɲ	s ə b + a + z ə tʼ ə ɲː	seventy ty nine	s ə b + a + z ə tʼ ə ɲː	70 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 92	Amharic	eighty	ሰማንያ	səmaɲa	s ə m a ɲ + a	eighty ty	s ə m a ɲ + a	80 12		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 93	Amharic	eighty one	ሰማንያ አንዶ	səmaɲaand	s ə m a ɲ + a + a n d	eighty ty one	s ə m a ɲ + a + a n d	80 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 94	Amharic	eighty one	ሰማንያ አንዲት	səmaɲaandit	s ə m a ɲ + a + a n d + i t	eighty ty one suff_fem	s ə m a ɲ + a + a n d + i t	80 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-95	Amharic	eighty two	ሰማንያ ሁለት	səmaɲahulətt	s ə m a ɲ + a + h u l ə t t	eighty ty two	s ə m a ɲ + a + h u l ə t t	80 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+95	Amharic	eighty two	ሰማንያ ሁለት	səmaɲahulətt	s ə m a ɲ + a + h u l ə tː	eighty ty two	s ə m a ɲ + a + h u l ə tː	80 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
 96	Amharic	eighty three	ሰማንያ ሶስት	səmaɲasost	s ə m a ɲ + a + s o s t	eighty ty three	s ə m a ɲ + a + s o s t	80 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-97	Amharic	eighty four	ሰማንያ አራት	səmaɲaaratt	s ə m a ɲ + a + a r a t t	eighty ty four	s ə m a ɲ + a + a r a t t	80 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-98	Amharic	eighty five	ሰማንያ አምስት	səmaɲaammɨst	s ə m a ɲ + a + a m m ɨ s t	eighty ty five	s ə m a ɲ + a + a m m ɨ s t	80 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-99	Amharic	eighty six	ሰማንያ ስድስት	səmaɲasəddəst	s ə m a ɲ + a + s ɨ d d ɨ s t	eighty ty six	s ə m a ɲ + a + s ɨ d d ɨ s t	80 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-100	Amharic	eighty seven	ሰማንያ ሰባት	səmaɲasəbatt	s ə m a ɲ + a + s ə b a t t	eighty ty seven	s ə m a ɲ + a + s ə b a t t	80 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-101	Amharic	eighty eight	ሰማንያ ስምንት	səmaɲasɨmmɨnt	s ə m a ɲ + a + s ɨ m m ɨ n t	eighty ty eight	s ə m a ɲ + a + s ɨ m m ɨ n t	80 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-102	Amharic	eighty nine	ሰማንያ ዘጠኝ	səmaɲazətʼəɲɲ	s ə m a ɲ + a + z ə tʼ ə ɲ ɲ	eighty ty nine	s ə m a ɲ + a + z ə tʼ ə ɲ ɲ	80 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-103	Amharic	ninety	ዘጠና	zətʼena	z ə tʼ e/ə n/ɲ -/ɲ + a	nine ty	z ə tʼ e/ə n/ɲ -/ɲ + a	9 12	nine and ninty are both loans from the same source, and can be derived from each other	Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-104	Amharic	ninety one	ዘጠና አንዶ	zətʼenaand	z ə tʼ e/ə n/ɲ -/ɲ + a + a n d	nine ty one	z ə tʼ e/ə n/ɲ -/ɲ + a + a n d	9 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-105	Amharic	ninety one	ዘጠና አንዲት	zətʼenaandit	z ə tʼ e/ə n/ɲ -/ɲ + a + a n d + i t	nine ty one suff_fem	z ə tʼ e/ə n/ɲ -/ɲ + a + a n d + i t	9 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-106	Amharic	ninety two	ዘጠና ሁለት	zətʼenahulətt	z ə tʼ e/ə n/ɲ -/ɲ + a + h u l ə t t	nine ty two	z ə tʼ e/ə n/ɲ -/ɲ + a + h u l ə t t	9 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-107	Amharic	ninety three	ዘጠና ሶስት	zətʼenasost	z ə tʼ e/ə n/ɲ -/ɲ + a + s o s t	nine ty three	z ə tʼ e/ə n/ɲ -/ɲ + a + s o s t	9 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-108	Amharic	ninety four	ዘጠና አራት	zətʼenaaratt	z ə tʼ e/ə n/ɲ -/ɲ + a + a r a t t	nine ty four	z ə tʼ e/ə n/ɲ -/ɲ + a + a r a t t	9 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-109	Amharic	ninety five	ዘጠና አምስት	zətʼenaammɨst	z ə tʼ e/ə n/ɲ -/ɲ + a + a m m ɨ s t	nine ty five	z ə tʼ e/ə n/ɲ -/ɲ + a + a m m ɨ s t	9 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-110	Amharic	ninety six	ዘጠና ስድስት	zətʼenasəddəst	z ə tʼ e/ə n/ɲ -/ɲ + a + s ɨ d d ɨ s t	nine ty six	z ə tʼ e/ə n/ɲ -/ɲ + a + s ɨ d d ɨ s t	9 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-111	Amharic	ninety seven	ዘጠና ሰባት	zətʼenasəbatt	z ə tʼ e/ə n/ɲ -/ɲ + a + s ə b a t t	nine ty seven	z ə tʼ e/ə n/ɲ -/ɲ + a + s ə b a t t	9 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-112	Amharic	ninety eight	ዘጠና ስምንት	zətʼenasɨmmɨnt	z ə tʼ e/ə n/ɲ -/ɲ + a + s ɨ m m ɨ n t	nine ty eight	z ə tʼ e/ə n/ɲ -/ɲ + a + s ɨ m m ɨ n t	9 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
-113	Amharic	ninety nine	ዘጠና ዘጠኝ	zətʼenazətʼəɲɲ	z ə tʼ e/ə n/ɲ -/ɲ + a + z ə tʼ ə ɲ ɲ	nine ty nine	z ə tʼ e/ə n/ɲ -/ɲ + a + z ə tʼ ə ɲ ɲ	9 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+97	Amharic	eighty four	ሰማንያ አራት	səmaɲaaratt	s ə m a ɲ + a + a r a tː	eighty ty four	s ə m a ɲ + a + a r a tː	80 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+98	Amharic	eighty five	ሰማንያ አምስት	səmaɲaammɨst	s ə m a ɲ + a + a mː ɨ s t	eighty ty five	s ə m a ɲ + a + a mː ɨ s t	80 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+99	Amharic	eighty six	ሰማንያ ስድስት	səmaɲasəddəst	s ə m a ɲ + a + s ɨ dː ɨ s t	eighty ty six	s ə m a ɲ + a + s ɨ dː ɨ s t	80 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+100	Amharic	eighty seven	ሰማንያ ሰባት	səmaɲasəbatt	s ə m a ɲ + a + s ə b a tː	eighty ty seven	s ə m a ɲ + a + s ə b a tː	80 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+101	Amharic	eighty eight	ሰማንያ ስምንት	səmaɲasɨmmɨnt	s ə m a ɲ + a + s ɨ mː ɨ n t	eighty ty eight	s ə m a ɲ + a + s ɨ mː ɨ n t	80 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+102	Amharic	eighty nine	ሰማንያ ዘጠኝ	səmaɲazətʼəɲɲ	s ə m a ɲ + a + z ə tʼ ə ɲː	eighty ty nine	s ə m a ɲ + a + z ə tʼ ə ɲː	80 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+103	Amharic	ninety	ዘጠና	zətʼena	z ə tʼ e/ə n/ɲː + a	nine ty	z ə tʼ e/ə n/ɲː + a	9 12	nine and ninty are both loans from the same source, and can be derived from each other	Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+104	Amharic	ninety one	ዘጠና አንዶ	zətʼenaand	z ə tʼ e/ə n/ɲː + a + a n d	nine ty one	z ə tʼ e/ə n/ɲː + a + a n d	9 12 1		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+105	Amharic	ninety one	ዘጠና አንዲት	zətʼenaandit	z ə tʼ e/ə n/ɲː + a + a n d + i t	nine ty one suff_fem	z ə tʼ e/ə n/ɲː + a + a n d + i t	9 12 1 11		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+106	Amharic	ninety two	ዘጠና ሁለት	zətʼenahulətt	z ə tʼ e/ə n/ɲː + a + h u l ə tː	nine ty two	z ə tʼ e/ə n/ɲː + a + h u l ə tː	9 12 2		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+107	Amharic	ninety three	ዘጠና ሶስት	zətʼenasost	z ə tʼ e/ə n/ɲː + a + s o s t	nine ty three	z ə tʼ e/ə n/ɲː + a + s o s t	9 12 3		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+108	Amharic	ninety four	ዘጠና አራት	zətʼenaaratt	z ə tʼ e/ə n/ɲː + a + a r a tː	nine ty four	z ə tʼ e/ə n/ɲː + a + a r a tː	9 12 4		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+109	Amharic	ninety five	ዘጠና አምስት	zətʼenaammɨst	z ə tʼ e/ə n/ɲː + a + a mː ɨ s t	nine ty five	z ə tʼ e/ə n/ɲː + a + a mː ɨ s t	9 12 5		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+110	Amharic	ninety six	ዘጠና ስድስት	zətʼenasəddəst	z ə tʼ e/ə n/ɲː + a + s ɨ dː ɨ s t	nine ty six	z ə tʼ e/ə n/ɲː + a + s ɨ dː ɨ s t	9 12 6		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+111	Amharic	ninety seven	ዘጠና ሰባት	zətʼenasəbatt	z ə tʼ e/ə n/ɲː + a + s ə b a tː	nine ty seven	z ə tʼ e/ə n/ɲː + a + s ə b a tː	9 12 7		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+112	Amharic	ninety eight	ዘጠና ስምንት	zətʼenasɨmmɨnt	z ə tʼ e/ə n/ɲː + a + s ɨ mː ɨ n t	nine ty eight	z ə tʼ e/ə n/ɲː + a + s ɨ mː ɨ n t	9 12 8		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic
+113	Amharic	ninety nine	ዘጠና ዘጠኝ	zətʼenazətʼəɲɲ	z ə tʼ e/ə n/ɲː + a + z ə tʼ ə ɲː	nine ty nine	z ə tʼ e/ə n/ɲː + a + z ə tʼ ə ɲː	9 12 9		Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic

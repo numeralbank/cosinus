@@ -1,6 +1,6 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 1	Tigre	one	ʾoro	ʔoro	ʔ o r o	one1	ʔ o r o	1		Elias2014Tigre
-2	Tigre	one	ḥatta	ħatta	ħ a t t a	one2	ħ a t t a	2		Elias2014Tigre
+2	Tigre	one	ḥatta	ħatta	ħ a tː a	one2	ħ a tː a	2		Elias2014Tigre
 3	Tigre	two	kəlʾot	kɨlʔot	k ɨ l ʔ -/e + o t	two suff_gender	k ɨ l ʔ -/e + o t	3 12		Elias2014Tigre
 4	Tigre	two	kəlʾe	kɨlʔe	k ɨ l ʔ e	two	k ɨ l ʔ e	3		Elias2014Tigre
 5	Tigre	three	salas	salas	s a l a s	three	s a l a s	4		Elias2014Tigre
@@ -12,7 +12,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 11	Tigre	nine	səʿ	sɨʕ	s ɨ ʕ	nine	s ɨ ʕ	10		Elias2014Tigre
 12	Tigre	ten	ʿasər	ʕasɨr	ʕ a s ɨ r	ten	ʕ a s ɨ r	11		Elias2014Tigre
 13	Tigre	eleven	ʿasər wa-ʾoro	ʕasɨr wa-ʔoro	ʕ a s ɨ r + w a + ʔ o r o	ten and one1	ʕ a s ɨ r + w a + ʔ o r o	11 13 1		Elias2014Tigre
-14	Tigre	eleven	ʿasər wa-ḥatta	ʕasɨr wa-ħatta	ʕ a s ɨ r + w a + ħ a t t a	ten and one2	ʕ a s ɨ r + w a + ħ a t t a	11 13 2		Elias2014Tigre
+14	Tigre	eleven	ʿasər wa-ḥatta	ʕasɨr wa-ħatta	ʕ a s ɨ r + w a + ħ a tː a	ten and one2	ʕ a s ɨ r + w a + ħ a tː a	11 13 2		Elias2014Tigre
 15	Tigre	twelve	ʿasər wa-kəlʾot	ʕasɨr wa-kɨlʔot	ʕ a s ɨ r + w a + k ɨ l ʔ -/e + o t	ten and two suff_gender	ʕ a s ɨ r + w a + k ɨ l ʔ -/e + o t	11 13 3 12		Elias2014Tigre
 16	Tigre	twelve	ʿasər wa-kəlʾe	ʕasɨr wa-kɨlʔe	ʕ a s ɨ r + w a + k ɨ l ʔ e	ten and two	ʕ a s ɨ r + w a + k ɨ l ʔ e	11 13 3		Elias2014Tigre
 17	Tigre	thirteen	ʿasər wa-salas	ʕasɨr wa-salas	ʕ a s ɨ r + w a + s a l a s	ten and three	ʕ a s ɨ r + w a + s a l a s	11 13 4		Elias2014Tigre
@@ -24,7 +24,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 23	Tigre	nineteen	ʿasər wa-səʿ	ʕasɨr wa-sɨʕ	ʕ a s ɨ r + w a + s ɨ ʕ	ten and nine	ʕ a s ɨ r + w a + s ɨ ʕ	11 13 10		Elias2014Tigre
 24	Tigre	twenty	ʿəšrin	ʕɨʃrin	ʕ ɨ ʃ r + i n	twenty ty	ʕ ɨ ʃ r + i n	20 14	the tens 20-90 are loans from arabic. while some of them could be derived from the units, I preferred to mark them as separated morphemes	Elias2014Tigre
 25	Tigre	twenty one	ʿəšrin wa-ʾoro	ʕɨʃrin wa-ʔoro	ʕ ɨ ʃ r + i n + w a + ʔ o r o	twenty ty and one1	ʕ ɨ ʃ r + i n + w a + ʔ o r o	20 14 13 1		Elias2014Tigre
-26	Tigre	twenty one	ʿəšrin wa-ḥatta	ʕɨʃrin wa-ħatta	ʕ ɨ ʃ r + i n + w a + ħ a t t a	twenty ty and one2	ʕ ɨ ʃ r + i n + w a + ħ a t t a	20 14 13 2		Elias2014Tigre
+26	Tigre	twenty one	ʿəšrin wa-ḥatta	ʕɨʃrin wa-ħatta	ʕ ɨ ʃ r + i n + w a + ħ a tː a	twenty ty and one2	ʕ ɨ ʃ r + i n + w a + ħ a tː a	20 14 13 2		Elias2014Tigre
 27	Tigre	twenty two	ʿəšrin wa-kəlʾot	ʕɨʃrin wa-kɨlʔot	ʕ ɨ ʃ r + i n + w a + k ɨ l ʔ -/e + o t	twenty ty and two suff_gender	ʕ ɨ ʃ r + i n + w a + k ɨ l ʔ -/e + o t	20 14 13 3 12		Elias2014Tigre
 28	Tigre	twenty two	ʿəšrin wa-kəlʾe	ʕɨʃrin wa-kɨlʔe	ʕ ɨ ʃ r + i n + w a + k ɨ l ʔ e	twenty ty and two	ʕ ɨ ʃ r + i n + w a + k ɨ l ʔ e	20 14 13 3		Elias2014Tigre
 29	Tigre	twenty three	ʿəšrin wa-salas	ʕɨʃrin wa-salas	ʕ ɨ ʃ r + i n + w a + s a l a s	twenty ty and three	ʕ ɨ ʃ r + i n + w a + s a l a s	20 14 13 4		Elias2014Tigre
@@ -36,7 +36,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 35	Tigre	twenty nine	ʿəšrin wa-səʿ	ʕɨʃrin wa-sɨʕ	ʕ ɨ ʃ r + i n + w a + s ɨ ʕ	twenty ty and nine	ʕ ɨ ʃ r + i n + w a + s ɨ ʕ	20 14 13 10		Elias2014Tigre
 36	Tigre	thirty	talatin	talatin	t a l a t + i n	thirty ty	t a l a t + i n	30 14		Elias2014Tigre
 37	Tigre	thirty one	talatin wa-ʾoro	talatin wa-ʔoro	t a l a t + i n + w a + ʔ o r o	thirty ty and one1	t a l a t + i n + w a + ʔ o r o	30 14 13 1		Elias2014Tigre
-38	Tigre	thirty one	talatin wa-ḥatta	talatin wa-ħatta	t a l a t + i n + w a + ħ a t t a	thirty ty and one2	t a l a t + i n + w a + ħ a t t a	30 14 13 2		Elias2014Tigre
+38	Tigre	thirty one	talatin wa-ḥatta	talatin wa-ħatta	t a l a t + i n + w a + ħ a tː a	thirty ty and one2	t a l a t + i n + w a + ħ a tː a	30 14 13 2		Elias2014Tigre
 39	Tigre	thirty two	talatin wa-kəlʾot	talatin wa-kɨlʔot	t a l a t + i n + w a + k ɨ l ʔ -/e + o t	thirty ty and two suff_gender	t a l a t + i n + w a + k ɨ l ʔ -/e + o t	30 14 13 3 12		Elias2014Tigre
 40	Tigre	thirty two	talatin wa-kəlʾe	talatin wa-kɨlʔe	t a l a t + i n + w a + k ɨ l ʔ e	thirty ty and two	t a l a t + i n + w a + k ɨ l ʔ e	30 14 13 3		Elias2014Tigre
 41	Tigre	thirty three	talatin wa-salas	talatin wa-salas	t a l a t + i n + w a + s a l a s	thirty ty and three	t a l a t + i n + w a + s a l a s	30 14 13 4		Elias2014Tigre
@@ -48,7 +48,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 47	Tigre	thirty nine	talatin wa-səʿ	talatin wa-sɨʕ	t a l a t + i n + w a + s ɨ ʕ	thirty ty and nine	t a l a t + i n + w a + s ɨ ʕ	30 14 13 10		Elias2014Tigre
 48	Tigre	forty	ʾarbəʿin	ʔarbɨʕin	ʔ a r b ɨ ʕ + i n	forty ty	ʔ a r b ɨ ʕ + i n	40 14		Elias2014Tigre
 49	Tigre	forty one	ʾarbəʿin wa-ʾoro	ʔarbɨʕin wa-ʔoro	ʔ a r b ɨ ʕ + i n + w a + ʔ o r o	forty ty and one1	ʔ a r b ɨ ʕ + i n + w a + ʔ o r o	40 14 13 1		Elias2014Tigre
-50	Tigre	forty one	ʾarbəʿin wa-ḥatta	ʔarbɨʕin wa-ħatta	ʔ a r b ɨ ʕ + i n + w a + ħ a t t a	forty ty and one2	ʔ a r b ɨ ʕ + i n + w a + ħ a t t a	40 14 13 2		Elias2014Tigre
+50	Tigre	forty one	ʾarbəʿin wa-ḥatta	ʔarbɨʕin wa-ħatta	ʔ a r b ɨ ʕ + i n + w a + ħ a tː a	forty ty and one2	ʔ a r b ɨ ʕ + i n + w a + ħ a tː a	40 14 13 2		Elias2014Tigre
 51	Tigre	forty two	ʾarbəʿin wa-kəlʾot	ʔarbɨʕin wa-kɨlʔot	ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ -/e + o t	forty ty and two suff_gender	ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ -/e + o t	40 14 13 3 12		Elias2014Tigre
 52	Tigre	forty two	ʾarbəʿin wa-kəlʾe	ʔarbɨʕin wa-kɨlʔe	ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ e	forty ty and two	ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ e	40 14 13 3		Elias2014Tigre
 53	Tigre	forty three	ʾarbəʿin wa-salas	ʔarbɨʕin wa-salas	ʔ a r b ɨ ʕ + i n + w a + s a l a s	forty ty and three	ʔ a r b ɨ ʕ + i n + w a + s a l a s	40 14 13 4		Elias2014Tigre
@@ -60,7 +60,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 59	Tigre	forty nine	ʾarbəʿin wa-səʿ	ʔarbɨʕin wa-sɨʕ	ʔ a r b ɨ ʕ + i n + w a + s ɨ ʕ	forty ty and nine	ʔ a r b ɨ ʕ + i n + w a + s ɨ ʕ	40 14 13 10		Elias2014Tigre
 60	Tigre	fifty	ḥamsin	ħamsin	ħ a m s + i n	fifty ty	ħ a m s + i n	50 14		Elias2014Tigre
 61	Tigre	fifty one	ḥamsin wa-ʾoro	ħamsin wa-ʔoro	ħ a m s + i n + w a + ʔ o r o	fifty ty and one1	ħ a m s + i n + w a + ʔ o r o	50 14 13 1		Elias2014Tigre
-62	Tigre	fifty one	ḥamsin wa-ḥatta	ħamsin wa-ħatta	ħ a m s + i n + w a + ħ a t t a	fifty ty and one2	ħ a m s + i n + w a + ħ a t t a	50 14 13 2		Elias2014Tigre
+62	Tigre	fifty one	ḥamsin wa-ḥatta	ħamsin wa-ħatta	ħ a m s + i n + w a + ħ a tː a	fifty ty and one2	ħ a m s + i n + w a + ħ a tː a	50 14 13 2		Elias2014Tigre
 63	Tigre	fifty two	ḥamsin wa-kəlʾot	ħamsin wa-kɨlʔot	ħ a m s + i n + w a + k ɨ l ʔ -/e + o t	fifty ty and two suff_gender	ħ a m s + i n + w a + k ɨ l ʔ -/e + o t	50 14 13 3 12		Elias2014Tigre
 64	Tigre	fifty two	ḥamsin wa-kəlʾe	ħamsin wa-kɨlʔe	ħ a m s + i n + w a + k ɨ l ʔ e	fifty ty and two	ħ a m s + i n + w a + k ɨ l ʔ e	50 14 13 3		Elias2014Tigre
 65	Tigre	fifty three	ḥamsin wa-salas	ħamsin wa-salas	ħ a m s + i n + w a + s a l a s	fifty ty and three	ħ a m s + i n + w a + s a l a s	50 14 13 4		Elias2014Tigre
@@ -70,21 +70,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 69	Tigre	fifty seven	ḥamsin wa-sabəʿ	ħamsin wa-sabɨʕ	ħ a m s + i n + w a + s a b ɨ ʕ	fifty ty and seven	ħ a m s + i n + w a + s a b ɨ ʕ	50 14 13 8		Elias2014Tigre
 70	Tigre	fifty eight	ḥamsin wa-samān	ħamsin wa-samaːn	ħ a m s + i n + w a + s a m aː n	fifty ty and eight	ħ a m s + i n + w a + s a m aː n	50 14 13 9		Elias2014Tigre
 71	Tigre	fifty nine	ḥamsin wa-səʿ	ħamsin wa-sɨʕ	ħ a m s + i n + w a + s ɨ ʕ	fifty ty and nine	ħ a m s + i n + w a + s ɨ ʕ	50 14 13 10		Elias2014Tigre
-72	Tigre	sixty	səttin	sɨttin	s ɨ t t + i n	sixty ty	s ɨ t t + i n	60 14		Elias2014Tigre
-73	Tigre	sixty one	səttin wa-ʾoro	sɨttin wa-ʔoro	s ɨ t t + i n + w a + ʔ o r o	sixty ty and one1	s ɨ t t + i n + w a + ʔ o r o	60 14 13 1		Elias2014Tigre
-74	Tigre	sixty one	səttin wa-ḥatta	sɨttin wa-ħatta	s ɨ t t + i n + w a + ħ a t t a	sixty ty and one2	s ɨ t t + i n + w a + ħ a t t a	60 14 13 2		Elias2014Tigre
-75	Tigre	sixty two	səttin wa-kəlʾot	sɨttin wa-kɨlʔot	s ɨ t t + i n + w a + k ɨ l ʔ -/e + o t	sixty ty and two suff_gender	s ɨ t t + i n + w a + k ɨ l ʔ -/e + o t	60 14 13 3 12		Elias2014Tigre
-76	Tigre	sixty two	səttin wa-kəlʾe	sɨttin wa-kɨlʔe	s ɨ t t + i n + w a + k ɨ l ʔ e	sixty ty and two	s ɨ t t + i n + w a + k ɨ l ʔ e	60 14 13 3		Elias2014Tigre
-77	Tigre	sixty three	səttin wa-salas	sɨttin wa-salas	s ɨ t t + i n + w a + s a l a s	sixty ty and three	s ɨ t t + i n + w a + s a l a s	60 14 13 4		Elias2014Tigre
-78	Tigre	sixty four	səttin wa-ʾarbaʿ	sɨttin wa-ʔarbaʕ	s ɨ t t + i n + w a + ʔ a r b a ʕ	sixty ty and four	s ɨ t t + i n + w a + ʔ a r b a ʕ	60 14 13 5		Elias2014Tigre
-79	Tigre	sixty five	səttin wa-ḥaməs	sɨttin wa-ħamɨs	s ɨ t t + i n + w a + ħ a m ɨ s	sixty ty and five	s ɨ t t + i n + w a + ħ a m ɨ s	60 14 13 6		Elias2014Tigre
-80	Tigre	sixty six	səttin wa-səs	sɨttin wa-sɨs	s ɨ t t + i n + w a + s ɨ s	sixty ty and six	s ɨ t t + i n + w a + s ɨ s	60 14 13 7		Elias2014Tigre
-81	Tigre	sixty seven	səttin wa-sabəʿ	sɨttin wa-sabɨʕ	s ɨ t t + i n + w a + s a b ɨ ʕ	sixty ty and seven	s ɨ t t + i n + w a + s a b ɨ ʕ	60 14 13 8		Elias2014Tigre
-82	Tigre	sixty eight	səttin wa-samān	sɨttin wa-samaːn	s ɨ t t + i n + w a + s a m aː n	sixty ty and eight	s ɨ t t + i n + w a + s a m aː n	60 14 13 9		Elias2014Tigre
-83	Tigre	sixty nine	səttin wa-səʿ	sɨttin wa-sɨʕ	s ɨ t t + i n + w a + s ɨ ʕ	sixty ty and nine	s ɨ t t + i n + w a + s ɨ ʕ	60 14 13 10		Elias2014Tigre
+72	Tigre	sixty	səttin	sɨttin	s ɨ tː + i n	sixty ty	s ɨ tː + i n	60 14		Elias2014Tigre
+73	Tigre	sixty one	səttin wa-ʾoro	sɨttin wa-ʔoro	s ɨ tː + i n + w a + ʔ o r o	sixty ty and one1	s ɨ tː + i n + w a + ʔ o r o	60 14 13 1		Elias2014Tigre
+74	Tigre	sixty one	səttin wa-ḥatta	sɨttin wa-ħatta	s ɨ tː + i n + w a + ħ a tː a	sixty ty and one2	s ɨ tː + i n + w a + ħ a tː a	60 14 13 2		Elias2014Tigre
+75	Tigre	sixty two	səttin wa-kəlʾot	sɨttin wa-kɨlʔot	s ɨ tː + i n + w a + k ɨ l ʔ -/e + o t	sixty ty and two suff_gender	s ɨ tː + i n + w a + k ɨ l ʔ -/e + o t	60 14 13 3 12		Elias2014Tigre
+76	Tigre	sixty two	səttin wa-kəlʾe	sɨttin wa-kɨlʔe	s ɨ tː + i n + w a + k ɨ l ʔ e	sixty ty and two	s ɨ tː + i n + w a + k ɨ l ʔ e	60 14 13 3		Elias2014Tigre
+77	Tigre	sixty three	səttin wa-salas	sɨttin wa-salas	s ɨ tː + i n + w a + s a l a s	sixty ty and three	s ɨ tː + i n + w a + s a l a s	60 14 13 4		Elias2014Tigre
+78	Tigre	sixty four	səttin wa-ʾarbaʿ	sɨttin wa-ʔarbaʕ	s ɨ tː + i n + w a + ʔ a r b a ʕ	sixty ty and four	s ɨ tː + i n + w a + ʔ a r b a ʕ	60 14 13 5		Elias2014Tigre
+79	Tigre	sixty five	səttin wa-ḥaməs	sɨttin wa-ħamɨs	s ɨ tː + i n + w a + ħ a m ɨ s	sixty ty and five	s ɨ tː + i n + w a + ħ a m ɨ s	60 14 13 6		Elias2014Tigre
+80	Tigre	sixty six	səttin wa-səs	sɨttin wa-sɨs	s ɨ tː + i n + w a + s ɨ s	sixty ty and six	s ɨ tː + i n + w a + s ɨ s	60 14 13 7		Elias2014Tigre
+81	Tigre	sixty seven	səttin wa-sabəʿ	sɨttin wa-sabɨʕ	s ɨ tː + i n + w a + s a b ɨ ʕ	sixty ty and seven	s ɨ tː + i n + w a + s a b ɨ ʕ	60 14 13 8		Elias2014Tigre
+82	Tigre	sixty eight	səttin wa-samān	sɨttin wa-samaːn	s ɨ tː + i n + w a + s a m aː n	sixty ty and eight	s ɨ tː + i n + w a + s a m aː n	60 14 13 9		Elias2014Tigre
+83	Tigre	sixty nine	səttin wa-səʿ	sɨttin wa-sɨʕ	s ɨ tː + i n + w a + s ɨ ʕ	sixty ty and nine	s ɨ tː + i n + w a + s ɨ ʕ	60 14 13 10		Elias2014Tigre
 84	Tigre	seventy	sabʿin	sabʕin	s a b ʕ + i n	seventy ty	s a b ʕ + i n	70 14		Elias2014Tigre
 85	Tigre	seventy one	sabʿin wa-ʾoro	sabʕin wa-ʔoro	s a b ʕ + i n + w a + ʔ o r o	seventy ty and one1	s a b ʕ + i n + w a + ʔ o r o	70 14 13 1		Elias2014Tigre
-86	Tigre	seventy one	sabʿin wa-ḥatta	sabʕin wa-ħatta	s a b ʕ + i n + w a + ħ a t t a	seventy ty and one2	s a b ʕ + i n + w a + ħ a t t a	70 14 13 2		Elias2014Tigre
+86	Tigre	seventy one	sabʿin wa-ḥatta	sabʕin wa-ħatta	s a b ʕ + i n + w a + ħ a tː a	seventy ty and one2	s a b ʕ + i n + w a + ħ a tː a	70 14 13 2		Elias2014Tigre
 87	Tigre	seventy two	sabʿin wa-kəlʾot	sabʕin wa-kɨlʔot	s a b ʕ + i n + w a + k ɨ l ʔ -/e + o t	seventy ty and two suff_gender	s a b ʕ + i n + w a + k ɨ l ʔ -/e + o t	70 14 13 3 12		Elias2014Tigre
 88	Tigre	seventy two	sabʿin wa-kəlʾe	sabʕin wa-kɨlʔe	s a b ʕ + i n + w a + k ɨ l ʔ e	seventy ty and two	s a b ʕ + i n + w a + k ɨ l ʔ e	70 14 13 3		Elias2014Tigre
 89	Tigre	seventy three	sabʿin wa-salas	sabʕin wa-salas	s a b ʕ + i n + w a + s a l a s	seventy ty and three	s a b ʕ + i n + w a + s a l a s	70 14 13 4		Elias2014Tigre
@@ -96,7 +96,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 95	Tigre	seventy nine	sabʿin wa-səʿ	sabʕin wa-sɨʕ	s a b ʕ + i n + w a + s ɨ ʕ	seventy ty and nine	s a b ʕ + i n + w a + s ɨ ʕ	70 14 13 10		Elias2014Tigre
 96	Tigre	eighty	tamānin	tamaːnin	t a m aː n + i n	eighty ty	t a m aː n + i n	80 14		Elias2014Tigre
 97	Tigre	eighty one	tamānin wa-ʾoro	tamaːnin wa-ʔoro	t a m aː n + i n + w a + ʔ o r o	eighty ty and one1	t a m aː n + i n + w a + ʔ o r o	80 14 13 1		Elias2014Tigre
-98	Tigre	eighty one	tamānin wa-ḥatta	tamaːnin wa-ħatta	t a m aː n + i n + w a + ħ a t t a	eighty ty and one2	t a m aː n + i n + w a + ħ a t t a	80 14 13 2		Elias2014Tigre
+98	Tigre	eighty one	tamānin wa-ḥatta	tamaːnin wa-ħatta	t a m aː n + i n + w a + ħ a tː a	eighty ty and one2	t a m aː n + i n + w a + ħ a tː a	80 14 13 2		Elias2014Tigre
 99	Tigre	eighty two	tamānin wa-kəlʾot	tamaːnin wa-kɨlʔot	t a m aː n + i n + w a + k ɨ l ʔ -/e + o t	eighty ty and two suff_gender	t a m aː n + i n + w a + k ɨ l ʔ -/e + o t	80 14 13 3 12		Elias2014Tigre
 100	Tigre	eighty two	tamānin wa-kəlʾe	tamaːnin wa-kɨlʔe	t a m aː n + i n + w a + k ɨ l ʔ e	eighty ty and two	t a m aː n + i n + w a + k ɨ l ʔ e	80 14 13 3		Elias2014Tigre
 101	Tigre	eighty three	tamānin wa-salas	tamaːnin wa-salas	t a m aː n + i n + w a + s a l a s	eighty ty and three	t a m aː n + i n + w a + s a l a s	80 14 13 4		Elias2014Tigre
@@ -108,7 +108,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 107	Tigre	eighty nine	tamānin wa-səʿ	tamaːnin wa-sɨʕ	t a m aː n + i n + w a + s ɨ ʕ	eighty ty and nine	t a m aː n + i n + w a + s ɨ ʕ	80 14 13 10		Elias2014Tigre
 108	Tigre	ninety	təsʿin	tɨsʕin	t ɨ s ʕ + i n	ninety ty	t ɨ s ʕ + i n	90 14		Elias2014Tigre
 109	Tigre	ninety one	təsʿin wa-ʾoro	tɨsʕin wa-ʔoro	t ɨ s ʕ + i n + w a + ʔ o r o	ninety ty and one1	t ɨ s ʕ + i n + w a + ʔ o r o	90 14 13 1		Elias2014Tigre
-110	Tigre	ninety one	təsʿin wa-ḥatta	tɨsʕin wa-ħatta	t ɨ s ʕ + i n + w a + ħ a t t a	ninety ty and one2	t ɨ s ʕ + i n + w a + ħ a t t a	90 14 13 2		Elias2014Tigre
+110	Tigre	ninety one	təsʿin wa-ḥatta	tɨsʕin wa-ħatta	t ɨ s ʕ + i n + w a + ħ a tː a	ninety ty and one2	t ɨ s ʕ + i n + w a + ħ a tː a	90 14 13 2		Elias2014Tigre
 111	Tigre	ninety two	təsʿin wa-kəlʾot	tɨsʕin wa-kɨlʔot	t ɨ s ʕ + i n + w a + k ɨ l ʔ -/e + o t	ninety ty and two suff_gender	t ɨ s ʕ + i n + w a + k ɨ l ʔ -/e + o t	90 14 13 3 12		Elias2014Tigre
 112	Tigre	ninety two	təsʿin wa-kəlʾe	tɨsʕin wa-kɨlʔe	t ɨ s ʕ + i n + w a + k ɨ l ʔ e	ninety ty and two	t ɨ s ʕ + i n + w a + k ɨ l ʔ e	90 14 13 3		Elias2014Tigre
 113	Tigre	ninety three	təsʿin wa-salas	tɨsʕin wa-salas	t ɨ s ʕ + i n + w a + s a l a s	ninety ty and three	t ɨ s ʕ + i n + w a + s a l a s	90 14 13 4		Elias2014Tigre
