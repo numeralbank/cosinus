@@ -211,6 +211,105 @@ Amharic-ninetysix-1,,Amharic,ninetysix,zətʼenasəddəst,zətʼenasəddəst,z �
 Amharic-ninetyseven-1,,Amharic,ninetyseven,zətʼenasəbatt,zətʼenasəbatt,z ə tʼ e n + a + s ə b a t t,,Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic,,,,,nine ty seven,9 12 7,z ə tʼ e n + a + s ə b a t t,z ə tʼ ə ɲ ɲ + a + s ə b a t t,z ə tʼ e/ə n/ɲ -/ɲ + a + s ə b a t t
 Amharic-ninetyeight-1,,Amharic,ninetyeight,zətʼenasɨmmɨnt,zətʼenasɨmmɨnt,z ə tʼ e n + a + s ɨ m m ɨ n t,,Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic,,,,,nine ty eight,9 12 8,z ə tʼ e n + a + s ɨ m m ɨ n t,z ə tʼ ə ɲ ɲ + a + s ɨ m m ɨ n t,z ə tʼ e/ə n/ɲ -/ɲ + a + s ɨ m m ɨ n t
 Amharic-ninetynine-1,,Amharic,ninetynine,zətʼenazətʼəɲɲ,zətʼenazətʼəɲɲ,z ə tʼ e n + a + z ə tʼ ə ɲ ɲ,,Leslau2000Amharic;Leslau1995Amharic;Dillmann1907Amharic,,,,,nine ty nine,9 12 9,z ə tʼ e n + a + z ə tʼ ə ɲ ɲ,z ə tʼ ə ɲ ɲ + a + z ə tʼ ə ɲ ɲ,z ə tʼ e/ə n/ɲ -/ɲ + a + z ə tʼ ə ɲ ɲ
+Assamese-one-1,,Assamese,one,ɛk,ɛk,ɛ k,,Assamese,,,,,one,43,ɛ k,ɛ k,ɛ k
+Assamese-two-1,,Assamese,two,dui,dui,d u i,,Assamese,,,,,two3,52,d u i,d u i,d u i
+Assamese-three-1,,Assamese,three,tini,tini,t i n i,,Assamese,,,,,three3,44,t i n i,t i n i,t i n i
+Assamese-four-1,,Assamese,four,sari,sari,s a r i,,Assamese,,,,,four,18,s a r i,s a r i,s a r i
+Assamese-five-1,,Assamese,five,pãs,pãs,p ã s,,Assamese,,,,,five,34,p ã s,p ã s,p ã s
+Assamese-six-1,,Assamese,six,sai,sai,s a i,,Assamese,,,,,six,40,s a i,s a i,s a i
+Assamese-seven-1,,Assamese,seven,xat,xat,x a t,,Assamese,,,,,seven,23,x a t,x a t,x a t
+Assamese-eight-1,,Assamese,eight,atʰ,atʰ,a tʰ,,Assamese,,,,,eight,48,a tʰ,a tʰ,a tʰ
+Assamese-nine-1,,Assamese,nine,nɔ,nɔ,n ɔ,,Assamese,,,,,nine2,45,n ɔ,n ɔ,n ɔ
+Assamese-ten-1,,Assamese,ten,dɔɦ,dɔɦ,d ɔ ɦ,,Assamese,,,,,ten,8,d ɔ ɦ,d ɔ ɦ,d ɔ ɦ
+Assamese-eleven-1,,Assamese,eleven,ɛk ɹɔ,ɛk ɹɔ,ɛ k + ɹ ɔ,,Assamese,,,,,one ten4,43 22,ɛ k + ɹ ɔ,ɛ k + r ɔ,ɛ k + ɹ/r ɔ
+Assamese-twelve-1,,Assamese,twelve,barɔ,barɔ,b a + r ɔ,,Assamese,,,,,two ten4,37 22,b a + r ɔ,b a + r ɔ,b a + r ɔ
+Assamese-thirteen-1,,Assamese,thirteen,tɛrɔ,tɛrɔ,t ɛ + r ɔ,,Assamese,,,,,three ten4,53 22,t ɛ + r ɔ,t e + r ɔ,t ɛ/e + r ɔ
+Assamese-fourteen-1,,Assamese,fourteen,sɔiddʰɔ,sɔiddʰɔ,s ɔ i + d dʰ ɔ,,Assamese,,,,,four2 ten2,25 5,s ɔ i + d dʰ ɔ,s o u + d dʰ ɔ,s ɔ/o i/u + d dʰ ɔ
+Assamese-fifteen-1,,Assamese,fifteen,pɔndʰɔrɔ,pɔndʰɔrɔ,p ɔ n dʰ + ɔ r ɔ,,Assamese,,,,,five3 ten4,55 22,p ɔ n dʰ + ɔ r ɔ,p ɔ n dʰ + r ɔ,p ɔ n dʰ + ɔ/- r ɔ
+Assamese-sixteen-1,,Assamese,sixteen,xɔllɔ,xɔllɔ,x ɔ + l l ɔ,,Assamese,,,,,six5 ten3,2 49,x ɔ + l l ɔ,x ɔ + l l ɔ,x ɔ + l l ɔ
+Assamese-seventeen-1,,Assamese,seventeen,xɔtɔrɔ,xɔtɔrɔ,x ɔ t + ɔ r ɔ,,Assamese,,,,,seven ten4,23 22,x ɔ t + ɔ r ɔ,x a t + r ɔ,x ɔ/a t + ɔ/- r ɔ
+Assamese-eighteen-1,,Assamese,eighteen,ɔtʰɔrɔ,ɔtʰɔrɔ,ɔ tʰ + ɔ r ɔ,,Assamese,,,,,eight ten4,48 22,ɔ tʰ + ɔ r ɔ,a tʰ + r ɔ,ɔ/a tʰ + ɔ/- r ɔ
+Assamese-nineteen-1,,Assamese,nineteen,unnih,unnih,u n n + i h,,Assamese,,,,,minus2 twenty4,38 17,u n n + i h,u n n + i h,u n n + i h
+Assamese-twenty-1,,Assamese,twenty,bis,bis,b i s,,Assamese,,,,,twenty,9,b i s,b i s,b i s
+Assamese-twentyone-1,,Assamese,twentyone,ekois,ekois,e k o + i s,,Assamese,,,,,one2 twenty5,7 36,e k o + i s,e k o + i s,e k o + i s
+Assamese-twentytwo-1,,Assamese,twentytwo,bais,bais,b a + i s,,Assamese,,,,,two twenty5,37 36,b a + i s,b a + i s,b a + i s
+Assamese-twentythree-1,,Assamese,twentythree,teis,teis,t e + i s,,Assamese,,,,,three twenty5,53 36,t e + i s,t e + i s,t e + i s
+Assamese-twentyfour-1,,Assamese,twentyfour,soubbis,soubbis,s o u + b b i s,,Assamese,,,,,four2 twenty,25 9,s o u + b b i s,s o u + b i s,s o u + b/- b i s
+Assamese-twentyfive-1,,Assamese,twentyfive,pɔsis,pɔsis,p ɔ + s i s,,Assamese,,,,,five2 twenty2,15 24,p ɔ + s i s,p ɔ j a + s i s,p ɔ -/j -/a + s i s
+Assamese-twentysix-1,,Assamese,twentysix,sabbis,sabbis,s a + b b i s,,Assamese,,,,,six twenty,40 9,s a + b b i s,s a i + b i s,s a -/i + b/- b i s
+Assamese-twentyseven-1,,Assamese,twentyseven,xatais,xatais,x a t a + i s,,Assamese,,,,,seven2 twenty5,46 36,x a t a + i s,x a t a + i s,x a t a + i s
+Assamese-twentyeight-1,,Assamese,twentyeight,atʰais,atʰais,a tʰ a + i s,,Assamese,,,,,eight twenty5,48 36,a tʰ a + i s,a tʰ + i s,a tʰ a/- + i s
+Assamese-twentynine-1,,Assamese,twentynine,untɹis,untɹis,u n + t ɹ i s,,Assamese,,,,,minus thirty,41 31,u n + t ɹ i s,u n + t ɹ i s,u n + t ɹ i s
+Assamese-thirty-1,,Assamese,thirty,tɹis,tɹis,t ɹ i s,,Assamese,,,,,thirty,31,t ɹ i s,t ɹ i s,t ɹ i s
+Assamese-thirtyone-1,,Assamese,thirtyone,ɛk tɹis,ɛk tɹis,ɛ k + t ɹ i s,,Assamese,,,,,one thirty,43 31,ɛ k + t ɹ i s,ɛ k + t ɹ i s,ɛ k + t ɹ i s
+Assamese-thirtytwo-1,,Assamese,thirtytwo,bɔtɹis,bɔtɹis,b ɔ + t ɹ i s,,Assamese,,,,,two2 thirty,33 31,b ɔ + t ɹ i s,b ɔ + t ɹ i s,b ɔ + t ɹ i s
+Assamese-thirtythree-1,,Assamese,thirtythree,tɛtɹis,tɛtɹis,t ɛ + t ɹ i s,,Assamese,,,,,three thirty,53 31,t ɛ + t ɹ i s,t e + t ɹ i s,t ɛ/e + t ɹ i s
+Assamese-thirtyfour-1,,Assamese,thirtyfour,soutɹis,soutɹis,s o u + t ɹ i s,,Assamese,,,,,four2 thirty,25 31,s o u + t ɹ i s,s o u + t ɹ i s,s o u + t ɹ i s
+Assamese-thirtyfive-1,,Assamese,thirtyfive,pɔitɹis,pɔitɹis,p ɔ i + t ɹ i s,,Assamese,,,,,five2 thirty,15 31,p ɔ i + t ɹ i s,p ɔ j a + t ɹ i s,p ɔ i/j -/a + t ɹ i s
+Assamese-thirtysix-1,,Assamese,thirtysix,saintɹis,saintɹis,s a i n + t ɹ i s,,Assamese,,,,,six2 thirty,35 31,s a i n + t ɹ i s,s a i n + t ɹ i s,s a i n + t ɹ i s
+Assamese-thirtyseven-1,,Assamese,thirtyseven,xatɔtɹis,xatɔtɹis,x a t ɔ + t ɹ i s,,Assamese,,,,,seven2 thirty,46 31,x a t ɔ + t ɹ i s,x a t a + t ɹ i s,x a t ɔ/a + t ɹ i s
+Assamese-thirtyeight-1,,Assamese,thirtyeight,atʰɔtɹis,atʰɔtɹis,a tʰ ɔ + t ɹ i s,,Assamese,,,,,eight thirty,48 31,a tʰ ɔ + t ɹ i s,a tʰ + t ɹ i s,a tʰ ɔ/- + t ɹ i s
+Assamese-thirtynine-1,,Assamese,thirtynine,unsɔllis,unsɔllis,u n + s ɔ l l i s,,Assamese,,,,,minus forty3,41 50,u n + s ɔ l l i s,u n + s ɔ l l i s,u n + s ɔ l l i s
+Assamese-forty-1,,Assamese,forty,sɔllis,sɔllis,s ɔ l l i s,,Assamese,,,,,forty3,50,s ɔ l l i s,s ɔ l l i s,s ɔ l l i s
+Assamese-fortyone-1,,Assamese,fortyone,ɛk sɔllis,ɛk sɔllis,ɛ k + s ɔ l l i s,,Assamese,,,,,one forty3,43 50,ɛ k + s ɔ l l i s,ɛ k + s ɔ l l i s,ɛ k + s ɔ l l i s
+Assamese-fortytwo-1,,Assamese,fortytwo,bij allis,bij allis,b i + j a l l i s,,Assamese,,,,,two forty2,37 54,b i + j a l l i s,b a + j a l l i s,b i/a + j a l l i s
+Assamese-fortythree-1,,Assamese,fortythree,tet allis,tet allis,t e + t a l l i s,,Assamese,,,,,three forty4,53 51,t e + t a l l i s,t e + t a l l i s,t e + t a l l i s
+Assamese-fortyfour-1,,Assamese,fortyfour,su allis,su allis,s u + a l l i s,,Assamese,,,,,four2 forty,25 4,s u + a l l i s,s o u + a l l i s,s -/o u + a l l i s
+Assamese-fortyfive-1,,Assamese,fortyfive,pɔ̃ja tallis,pɔ̃ja tallis,p ɔ̃ j a + t a l l i s,,Assamese,,,,,five2 forty4,15 51,p ɔ̃ j a + t a l l i s,p ɔ j a + t a l l i s,p ɔ̃/ɔ j a + t a l l i s
+Assamese-fortysix-1,,Assamese,fortysix,sij allis,sij allis,s i + j a l l i s,,Assamese,,,,,six3 forty2,28 54,s i + j a l l i s,s i j + j a l l i s,s i -/j + j a l l i s
+Assamese-fortyseven-1,,Assamese,fortyseven,xat sɔllis,xat sɔllis,x a t + s ɔ l l i s,,Assamese,,,,,seven forty3,23 50,x a t + s ɔ l l i s,x a t + s ɔ l l i s,x a t + s ɔ l l i s
+Assamese-fortyeight-1,,Assamese,fortyeight,atʰ sɔllis,atʰ sɔllis,a tʰ + s ɔ l l i s,,Assamese,,,,,eight forty3,48 50,a tʰ + s ɔ l l i s,a tʰ + s ɔ l l i s,a tʰ + s ɔ l l i s
+Assamese-fortynine-1,,Assamese,fortynine,un pɔntʃaʃ,un pɔntʃaʃ,u n + p ɔ n tʃ a ʃ,,Assamese,,,,,minus fifty,41 32,u n + p ɔ n tʃ a ʃ,u n + p ɔ n tʃ a ʃ,u n + p ɔ n tʃ a ʃ
+Assamese-fifty-1,,Assamese,fifty,pɔntʃaʃ,pɔntʃaʃ,p ɔ n tʃ a ʃ,,Assamese,,,,,fifty,32,p ɔ n tʃ a ʃ,p ɔ n tʃ a ʃ,p ɔ n tʃ a ʃ
+Assamese-fiftyone-1,,Assamese,fiftyone,ɛk abɔnɔ,ɛk abɔnɔ,ɛ k a + b ɔ n ɔ,,Assamese,,,,,one2 fifty2,7 39,ɛ k a + b ɔ n ɔ,e k o + b ɔ n ɔ,ɛ/e k a/o + b ɔ n ɔ
+Assamese-fiftytwo-1,,Assamese,fiftytwo,bah anɔ,bah anɔ,b a h + a n ɔ,,Assamese,,,,,two fifty4,37 27,b a h + a n ɔ,b a + a n ɔ,b a h/- + a n ɔ
+Assamese-fiftythree-1,,Assamese,fiftythree,tip anɔ,tip anɔ,t i + p a n ɔ,,Assamese,,,,,three2 fifty3,20 26,t i + p a n ɔ,t i j + p a n ɔ,t i -/j + p a n ɔ
+Assamese-fiftyfour-1,,Assamese,fiftyfour,su anɔ,su anɔ,s u + a n ɔ,,Assamese,,,,,four2 fifty4,25 27,s u + a n ɔ,s o u + a n ɔ,s -/o u + a n ɔ
+Assamese-fiftyfive-1,,Assamese,fiftyfive,pɔntʃ anɔ,pɔntʃ anɔ,p ɔ n tʃ + a n ɔ,,Assamese,,,,,five4 fifty4,6 27,p ɔ n tʃ + a n ɔ,p ɔ n tʃ + a n ɔ,p ɔ n tʃ + a n ɔ
+Assamese-fiftysix-1,,Assamese,fiftysix,tʃap anɔ,tʃap anɔ,tʃ a + p a n ɔ,,Assamese,,,,,six4 fifty3,10 26,tʃ a + p a n ɔ,tʃ a + p a n ɔ,tʃ a + p a n ɔ
+Assamese-fiftyseven-1,,Assamese,fiftyseven,xat anɔ,xat anɔ,x a t + a n ɔ,,Assamese,,,,,seven fifty4,23 27,x a t + a n ɔ,x a t + a n ɔ,x a t + a n ɔ
+Assamese-fiftyeight-1,,Assamese,fiftyeight,atʰ  anɔ,atʰ  anɔ,a tʰ + a n ɔ,,Assamese,,,,,eight fifty4,48 27,a tʰ + a n ɔ,a tʰ + a n ɔ,a tʰ + a n ɔ
+Assamese-fiftynine-1,,Assamese,fiftynine,un xatʰi,un xatʰi,u n + x a tʰ i,,Assamese,,,,,minus sixty2,41 16,u n + x a tʰ i,u n + x a tʰ i,u n + x a tʰ i
+Assamese-sixty-1,,Assamese,sixty,xatʰi,xatʰi,x a tʰ i,,Assamese,,,,,sixty2,16,x a tʰ i,x a tʰ i,x a tʰ i
+Assamese-sixtyone-1,,Assamese,sixtyone,ɛk axtʰi,ɛk axtʰi,ɛ k + a x tʰ i,,Assamese,,,,,one sixty,43 42,ɛ k + a x tʰ i,ɛ k + a x tʰ i,ɛ k + a x tʰ i
+Assamese-sixtytwo-1,,Assamese,sixtytwo,b axtʰi,b axtʰi,b a + x tʰ i,,Assamese,,,,,two sixty3,37 11,b a + x tʰ i,b a + x tʰ i,b a + x tʰ i
+Assamese-sixtythree-1,,Assamese,sixtythree,te xtʰi,te xtʰi,t e + x tʰ i,,Assamese,,,,,three sixty3,53 11,t e + x tʰ i,t e + x tʰ i,t e + x tʰ i
+Assamese-sixtyfour-1,,Assamese,sixtyfour,sɔ xtʰi,sɔ xtʰi,s ɔ + x tʰ i,,Assamese,,,,,four2 sixty3,25 11,s ɔ + x tʰ i,s o u + x tʰ i,s ɔ/o -/u + x tʰ i
+Assamese-sixtyfive-1,,Assamese,sixtyfive,pɔ̃ja xtʰi,pɔ̃ja xtʰi,p ɔ̃ j + a x tʰ i,,Assamese,,,,,five2 sixty,15 42,p ɔ̃ j + a x tʰ i,p ɔ j a + a x tʰ i,p ɔ̃/ɔ j -/a + a x tʰ i
+Assamese-sixtysix-1,,Assamese,sixtysix,tʃe xtʰi,tʃe xtʰi,tʃ e + x tʰ i,,Assamese,,,,,six4 sixty3,10 11,tʃ e + x tʰ i,tʃ a + x tʰ i,tʃ e/a + x tʰ i
+Assamese-sixtyseven-1,,Assamese,sixtyseven,xat xtʰi,xat xtʰi,x a t + x tʰ i,,Assamese,,,,,seven sixty3,23 11,x a t + x tʰ i,x a t + x tʰ i,x a t + x tʰ i
+Assamese-sixtyeight-1,,Assamese,sixtyeight,atʰ xtʰi,atʰ xtʰi,a tʰ + x tʰ i,,Assamese,,,,,eight sixty3,48 11,a tʰ + x tʰ i,a tʰ + x tʰ i,a tʰ + x tʰ i
+Assamese-sixtynine-1,,Assamese,sixtynine,un xɔtɔr,un xɔtɔr,u n + x ɔ t ɔ r,,Assamese,,,,,minus seventy2,41 3,u n + x ɔ t ɔ r,u n + x ɔ t ɔ r,u n + x ɔ t ɔ r
+Assamese-seventy-1,,Assamese,seventy,xɔtɔr,xɔtɔr,x ɔ t ɔ r,,Assamese,,,,,seventy2,3,x ɔ t ɔ r,x ɔ t ɔ r,x ɔ t ɔ r
+Assamese-seventyone-1,,Assamese,seventyone,ɛk atɔr,ɛk atɔr,ɛ k + a t ɔ r,,Assamese,,,,,one seventy,43 21,ɛ k + a t ɔ r,ɛ k + a t ɔ r,ɛ k + a t ɔ r
+Assamese-seventytwo-1,,Assamese,seventytwo,bah atɔr,bah atɔr,b a h + a t ɔ r,,Assamese,,,,,two seventy,37 21,b a h + a t ɔ r,b a + a t ɔ r,b a h/- + a t ɔ r
+Assamese-seventythree-1,,Assamese,seventythree,tij atɔr,tij atɔr,t i j + a t ɔ r,,Assamese,,,,,three2 seventy,20 21,t i j + a t ɔ r,t i j + a t ɔ r,t i j + a t ɔ r
+Assamese-seventyfour-1,,Assamese,seventyfour,su atɔr,su atɔr,s u + a t ɔ r,,Assamese,,,,,four2 seventy,25 21,s u + a t ɔ r,s o u + a t ɔ r,s -/o u + a t ɔ r
+Assamese-seventyfive-1,,Assamese,seventyfive,pɔ̃tʃ atɔr,pɔ̃tʃ atɔr,p ɔ̃ tʃ + a t ɔ r,,Assamese,,,,,five4 seventy,6 21,p ɔ̃ tʃ + a t ɔ r,p ɔ n tʃ + a t ɔ r,p ɔ̃/ɔ -/n tʃ + a t ɔ r
+Assamese-seventysix-1,,Assamese,seventysix,sij atɔr,sij atɔr,s i j + a t ɔ r,,Assamese,,,,,six3 seventy,28 21,s i j + a t ɔ r,s i j + a t ɔ r,s i j + a t ɔ r
+Assamese-seventyseven-1,,Assamese,seventyseven,xat atɔr,xat atɔr,x a t + a t ɔ r,,Assamese,,,,,seven seventy,23 21,x a t + a t ɔ r,x a t + a t ɔ r,x a t + a t ɔ r
+Assamese-seventyeight-1,,Assamese,seventyeight,atʰ atɔr,atʰ atɔr,a tʰ + a t ɔ r,,Assamese,,,,,eight seventy,48 21,a tʰ + a t ɔ r,a tʰ + a t ɔ r,a tʰ + a t ɔ r
+Assamese-seventynine-1,,Assamese,seventynine,un axi,un axi,u n + a x i,,Assamese,,,,,minus eighty,41 29,u n + a x i,u n + a x i,u n + a x i
+Assamese-eighty-1,,Assamese,eighty,axi,axi,a x i,,Assamese,,,,,eighty,29,a x i,a x i,a x i
+Assamese-eightyone-1,,Assamese,eightyone,ɛk axi,ɛk axi,ɛ k + a x i,,Assamese,,,,,one eighty,43 29,ɛ k + a x i,ɛ k + a x i,ɛ k + a x i
+Assamese-eightytwo-1,,Assamese,eightytwo,bir axi,bir axi,b i + r a x i,,Assamese,,,,,two eighty2,37 1,b i + r a x i,b a + r a x i,b i/a + r a x i
+Assamese-eightythree-1,,Assamese,eightythree,tir axi,tir axi,t i + r a x i,,Assamese,,,,,three2 eighty2,20 1,t i + r a x i,t i j + r a x i,t i -/j + r a x i
+Assamese-eightyfour-1,,Assamese,eightyfour,sɔu̯r axi,sɔu̯r axi,s ɔu̯ + r a x i,,Assamese,,,,,four2 eighty2,25 1,s ɔu̯ + r a x i,s o u + r a x i,s ɔu̯/o -/u + r a x i
+Assamese-eightyfive-1,,Assamese,eightyfive,pɔ̃tʃ axi,pɔ̃tʃ axi,p ɔ̃ tʃ + a x i,,Assamese,,,,,five4 eighty,6 29,p ɔ̃ tʃ + a x i,p ɔ n tʃ + a x i,p ɔ̃/ɔ -/n tʃ + a x i
+Assamese-eightysix-1,,Assamese,eightysix,sij axi,sij axi,s i j + a x i,,Assamese,,,,,six3 eighty,28 29,s i j + a x i,s i j + a x i,s i j + a x i
+Assamese-eightyseven-1,,Assamese,eightyseven,xat axi,xat axi,x a t + a x i,,Assamese,,,,,seven eighty,23 29,x a t + a x i,x a t + a x i,x a t + a x i
+Assamese-eightyeight-1,,Assamese,eightyeight,atʰ axi,atʰ axi,a tʰ + a x i,,Assamese,,,,,eight eighty,48 29,a tʰ + a x i,a tʰ + a x i,a tʰ + a x i
+Assamese-eightynine-1,,Assamese,eightynine,un nɔbɔi,un nɔbɔi,u n + n ɔ b ɔ i,,Assamese,,,,,minus ninety2,41 13,u n + n ɔ b ɔ i,u n + n ɔ b ɔ i,u n + n ɔ b ɔ i
+Assamese-ninety-1,,Assamese,ninety,nɔbɔi,nɔbɔi,n ɔ b ɔ i,,Assamese,,,,,ninety2,13,n ɔ b ɔ i,n ɔ b ɔ i,n ɔ b ɔ i
+Assamese-ninetyone-1,,Assamese,ninetyone,ɛk anɔbɔi,ɛk anɔbɔi,ɛ k + a n ɔ b ɔ i,,Assamese,,,,,one ninety,43 14,ɛ k + a n ɔ b ɔ i,ɛ k + a n ɔ b ɔ i,ɛ k + a n ɔ b ɔ i
+Assamese-ninetytwo-1,,Assamese,ninetytwo,bah anɔbɔi,bah anɔbɔi,b a h + a n ɔ b ɔ i,,Assamese,,,,,two ninety,37 14,b a h + a n ɔ b ɔ i,b a + a n ɔ b ɔ i,b a h/- + a n ɔ b ɔ i
+Assamese-ninetythree-1,,Assamese,ninetythree,tir anɔbɔi,tir anɔbɔi,t i r + a n ɔ b ɔ i,,Assamese,,,,,three4 ninety,47 14,t i r + a n ɔ b ɔ i,t i r + a n ɔ b ɔ i,t i r + a n ɔ b ɔ i
+Assamese-ninetyfour-1,,Assamese,ninetyfour,sɔu̯r anɔbɔi,sɔu̯r anɔbɔi,s ɔu̯ r + a n ɔ b ɔ i,,Assamese,,,,,four3 ninety,19 14,s ɔu̯ r + a n ɔ b ɔ i,s ɔu̯ r + a n ɔ b ɔ i,s ɔu̯ r + a n ɔ b ɔ i
+Assamese-ninetyfive-1,,Assamese,ninetyfive,pɔ̃tʃ anɔbɔi,pɔ̃tʃ anɔbɔi,p ɔ̃ tʃ + a n ɔ b ɔ i,,Assamese,,,,,five4 ninety,6 14,p ɔ̃ tʃ + a n ɔ b ɔ i,p ɔ n tʃ + a n ɔ b ɔ i,p ɔ̃/ɔ -/n tʃ + a n ɔ b ɔ i
+Assamese-ninetysix-1,,Assamese,ninetysix,sij anɔbɔi,sij anɔbɔi,s i j + a n ɔ b ɔ i,,Assamese,,,,,six3 ninety,28 14,s i j + a n ɔ b ɔ i,s i j + a n ɔ b ɔ i,s i j + a n ɔ b ɔ i
+Assamese-ninetyseven-1,,Assamese,ninetyseven,xat anɔbɔi,xat anɔbɔi,x a t + a n ɔ b ɔ i,,Assamese,,,,,seven ninety,23 14,x a t + a n ɔ b ɔ i,x a t + a n ɔ b ɔ i,x a t + a n ɔ b ɔ i
+Assamese-ninetyeight-1,,Assamese,ninetyeight,atʰ anɔbɔi,atʰ anɔbɔi,a tʰ + a n ɔ b ɔ i,,Assamese,,,,,eight ninety,48 14,a tʰ + a n ɔ b ɔ i,a tʰ + a n ɔ b ɔ i,a tʰ + a n ɔ b ɔ i
+Assamese-ninetynine-1,,Assamese,ninetynine,nir anɔbɔi,nir anɔbɔi,n i r + a n ɔ b ɔ i,,Assamese,,,,,nine ninety,12 14,n i r + a n ɔ b ɔ i,n i r + a n ɔ b ɔ i,n i r + a n ɔ b ɔ i
 Barwar_Neo-Aramaic-one-1,,Barwar_Neo-Aramaic,one,xa,xa,x a,"xad is the original form. The stop /d/ resurfaces before vowels, like in 11",Khan2008,,,,,one,1,x a,x a d,x a -/d
 Barwar_Neo-Aramaic-one-2,,Barwar_Neo-Aramaic,one,ða,ða,ð a,"it is an open question if the two forms of the units should be derived from each other or treated as different morphemes. In my opinion, only the numbers 4 and eight are transparently derived from each other, while all the rest are different enough to mark them as separate morphemes",Khan2008,,,,,one2,2,ð a,ð a,ð a
 Barwar_Neo-Aramaic-two-1,,Barwar_Neo-Aramaic,two,tre,tre,t r e,,Khan2008,,,,,two,3,t r e,t r e,t r e
@@ -2423,6 +2522,105 @@ Kalasha-ninetysix-1,,Kalasha,ninetysix,čawbišižedažeṣó,čawbišižedaže�
 Kalasha-ninetyseven-1,,Kalasha,ninetyseven,čawbišižedažesát,čawbišižedažesát,ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + s a t,,PetersenKalasha2015,,,,,four twenty and ten and seven,4 12 1 10 1 7,ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + s a t,ʧ a u + b i ʃ i + ʒ e + d a ʃ + ʒ e + s a t,ʧ a u + b i ʃ i + ʒ e + d a -/ʃ + ʒ e + s a t
 Kalasha-ninetyeight-1,,Kalasha,ninetyeight,čawbišižedažeáṣṭ,čawbišižedažeáṣṭ,ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + a ʂ ʈ,,PetersenKalasha2015,,,,,four twenty and ten and eight,4 12 1 10 1 2,ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + a ʂ ʈ,ʧ a u + b i ʃ i + ʒ e + d a ʃ + ʒ e + a ʂ ʈ,ʧ a u + b i ʃ i + ʒ e + d a -/ʃ + ʒ e + a ʂ ʈ
 Kalasha-ninetynine-1,,Kalasha,ninetynine,čawbišižedaženó,čawbišižedaženó,ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + n o,,PetersenKalasha2015,,,,,four twenty and ten and nine,4 12 1 10 1 5,ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + n o,ʧ a u + b i ʃ i + ʒ e + d a ʃ + ʒ e + n o,ʧ a u + b i ʃ i + ʒ e + d a -/ʃ + ʒ e + n o
+Kashmiri-one-1,,Kashmiri,one,əkʰ,əkʰ,ə kʰ,,SAND,,,,,one,19,ə kʰ,ə kʰ,ə kʰ
+Kashmiri-two-1,,Kashmiri,two,zə,zə,z ə,,SAND,,,,,two,1,z ə,z ə,z ə
+Kashmiri-three-1,,Kashmiri,three,tre,tre,t r e,,SAND,,,,,three,40,t r e,t r e,t r e
+Kashmiri-four-1,,Kashmiri,four,tʃor,tʃor,tʃ o r,,SAND,,,,,four,24,tʃ o r,tʃ o r,tʃ o r
+Kashmiri-five-1,,Kashmiri,five,pɑ̃tʃ,pɑ̃tʃ,p ɑ̃ tʃ,,SAND,,,,,five,23,p ɑ̃ tʃ,p ɑ̃ tʃ,p ɑ̃ tʃ
+Kashmiri-six-1,,Kashmiri,six,səje,səje,s ə j e,,SAND,,,,,six,29,s ə j e,s ə j e,s ə j e
+Kashmiri-seven-1,,Kashmiri,seven,sɑːtʰ,sɑːtʰ,s ɑː tʰ,,SAND,,,,,seven,21,s ɑː tʰ,s ɑː tʰ,s ɑː tʰ
+Kashmiri-eight-1,,Kashmiri,eight,uəʈʰ,uəʈʰ,u ə ʈʰ,,SAND,,,,,eight,39,u ə ʈʰ,u ə ʈʰ,u ə ʈʰ
+Kashmiri-nine-1,,Kashmiri,nine,nɔ,nɔ,n ɔ,,SAND,,,,,nine,15,n ɔ,n ɔ,n ɔ
+Kashmiri-ten-1,,Kashmiri,ten,dəh,dəh,d ə h,,SAND,,,,,ten,4,d ə h,d e h,d ə/e h
+Kashmiri-eleven-1,,Kashmiri,eleven,kəh,kəh,k ə h,,SAND,,,,,eleven,5,k ə h,k ə h,k ə h
+Kashmiri-twelve-1,,Kashmiri,twelve,bəh,bəh,b ə h,,SAND,,,,,twelve,25,b ə h,b ə h,b ə h
+Kashmiri-thirteen-1,,Kashmiri,thirteen,truʋɑ,truʋɑ,t r u + ʋ ɑ,,SAND,,,,,three4 ten4,3 44,t r u + ʋ ɑ,t r u + ʋ ɑ,t r u + ʋ ɑ
+Kashmiri-fourteen-1,,Kashmiri,fourteen,tʃjedeh,tʃjedeh,tʃ j e + d e h,,SAND,,,,,four5 ten,31 4,tʃ j e + d e h,tʃ j e + d e h,tʃ j e + d e h
+Kashmiri-fifteen-1,,Kashmiri,fifteen,pəndəh,pəndəh,p ə n + d ə h,,SAND,,,,,five2 ten,35 4,p ə n + d ə h,p ə n + d e h,p ə n + d ə/e h
+Kashmiri-sixteen-1,,Kashmiri,sixteen,surrɑ,surrɑ,s u r + r ɑ,,SAND,,,,,six3 ten3,16 28,s u r + r ɑ,s u + r ɑ,s u r/- + r ɑ
+Kashmiri-seventeen-1,,Kashmiri,seventeen,sədɑh,sədɑh,s ə + d ɑ h,,SAND,,,,,seven3 ten2,49 38,s ə + d ɑ h,s ə + d ɑ h,s ə + d ɑ h
+Kashmiri-eighteen-1,,Kashmiri,eighteen,ərdəh,ərdəh,ə r + d ə h,,SAND,,,,,eight2 ten,45 4,ə r + d ə h,ə r + d e h,ə r + d ə/e h
+Kashmiri-nineteen-1,,Kashmiri,nineteen,kunʋu,kunʋu,k u n + ʋ u,,SAND,,,,,minus twenty,20 7,k u n + ʋ u,k u n + ʋ u,k u n + ʋ u
+Kashmiri-twenty-1,,Kashmiri,twenty,ʋu,ʋu,ʋ u,,SAND,,,,,twenty,7,ʋ u,ʋ u,ʋ u
+Kashmiri-twentyone-1,,Kashmiri,twentyone,əkʰʋu,əkʰʋu,ə kʰ + ʋ u,,SAND,,,,,one twenty,19 7,ə kʰ + ʋ u,ə kʰ + ʋ u,ə kʰ + ʋ u
+Kashmiri-twentytwo-1,,Kashmiri,twentytwo,zutoʋu,zutoʋu,z u t o + ʋ u,,SAND,,,,,two4 twenty,50 7,z u t o + ʋ u,z u t o + ʋ u,z u t o + ʋ u
+Kashmiri-twentythree-1,,Kashmiri,twentythree,troʋu,troʋu,t r o + ʋ u,,SAND,,,,,three3 twenty,46 7,t r o + ʋ u,t r o + ʋ u,t r o + ʋ u
+Kashmiri-twentyfour-1,,Kashmiri,twentyfour,tʃoʋu,tʃoʋu,tʃ o + ʋ u,,SAND,,,,,four3 twenty,34 7,tʃ o + ʋ u,tʃ o + ʋ u,tʃ o + ʋ u
+Kashmiri-twentyfive-1,,Kashmiri,twentyfive,pəntʃəh,pəntʃəh,p ə n tʃ + ə h,,SAND,,,,,five3 twenty2,10 32,p ə n tʃ + ə h,p ə n tʃ + ə h,p ə n tʃ + ə h
+Kashmiri-twentysix-1,,Kashmiri,twentysix,sətʋu,sətʋu,s ə t + ʋ u,,SAND,,,,,six4 twenty,33 7,s ə t + ʋ u,s ə t + ʋ u,s ə t + ʋ u
+Kashmiri-twentyseven-1,,Kashmiri,twentyseven,sətʰoʋu,sətʰoʋu,s ə tʰ o + ʋ u,,SAND,,,,,seven4 twenty,11 7,s ə tʰ o + ʋ u,s ə tʰ o + ʋ u,s ə tʰ o + ʋ u
+Kashmiri-twentyeight-1,,Kashmiri,twentyeight,əʈʰoʋu,əʈʰoʋu,ə ʈʰ o + ʋ u,,SAND,,,,,eight3 twenty,22 7,ə ʈʰ o + ʋ u,ə ʈʰ o + ʋ u,ə ʈʰ o + ʋ u
+Kashmiri-twentynine-1,,Kashmiri,twentynine,kuntrəh,kuntrəh,k u n + t r ə h,,SAND,,,,,minus thirty,20 17,k u n + t r ə h,k u n + t r ə h,k u n + t r ə h
+Kashmiri-thirty-1,,Kashmiri,thirty,trəh,trəh,t r ə h,,SAND,,,,,thirty,17,t r ə h,t r ə h,t r ə h
+Kashmiri-thirtyone-1,,Kashmiri,thirtyone,əkʰtrəh,əkʰtrəh,ə kʰ + t r ə h,,SAND,,,,,one thirty,19 17,ə kʰ + t r ə h,ə kʰ + t r ə h,ə kʰ + t r ə h
+Kashmiri-thirtytwo-1,,Kashmiri,thirtytwo,dʋɑɪtrəh,dʋɑɪtrəh,d ʋ ɑ ɪ + t r ə h,,SAND,,,,,two2 thirty,12 17,d ʋ ɑ ɪ + t r ə h,d ʋ ɑ ɪ + t r ə h,d ʋ ɑ ɪ + t r ə h
+Kashmiri-thirtythree-1,,Kashmiri,thirtythree,teɪtrəh,teɪtrəh,t e ɪ + t r ə h,,SAND,,,,,three2 thirty,14 17,t e ɪ + t r ə h,t e ɪ + t r ə h,t e ɪ + t r ə h
+Kashmiri-thirtyfour-1,,Kashmiri,thirtyfour,tʃʋɑɪtrəh,tʃʋɑɪtrəh,tʃ ʋ ɑ ɪ + t r ə h,,SAND,,,,,four6 thirty,41 17,tʃ ʋ ɑ ɪ + t r ə h,tʃ ʋ ɑ ɪ + t r ə h,tʃ ʋ ɑ ɪ + t r ə h
+Kashmiri-thirtyfive-1,,Kashmiri,thirtyfive,pɑ̃tʃtrəh,pɑ̃tʃtrəh,p ɑ̃ tʃ + t r ə h,,SAND,,,,,five thirty,23 17,p ɑ̃ tʃ + t r ə h,p ɑ̃ tʃ + t r ə h,p ɑ̃ tʃ + t r ə h
+Kashmiri-thirtysix-1,,Kashmiri,thirtysix,seɪtrəh,seɪtrəh,s e ɪ + t r ə h,,SAND,,,,,six2 thirty,8 17,s e ɪ + t r ə h,s e ɪ + t r ə h,s e ɪ + t r ə h
+Kashmiri-thirtyseven-1,,Kashmiri,thirtyseven,səttrəh,səttrəh,s ə t + t r ə h,,SAND,,,,,seven thirty,21 17,s ə t + t r ə h,s ɑː tʰ + t r ə h,s ə/ɑː t/tʰ + t r ə h
+Kashmiri-thirtyeight-1,,Kashmiri,thirtyeight,ərtrəh,ərtrəh,ə r + t r ə h,,SAND,,,,,eight2 thirty,45 17,ə r + t r ə h,ə r + t r ə h,ə r + t r ə h
+Kashmiri-thirtynine-1,,Kashmiri,thirtynine,kuntəɟɪ,kuntəɟɪ,k u n + t ə ɟ ɪ,,SAND,,,,,minus forty2,20 26,k u n + t ə ɟ ɪ,k u n + t ə ɟ ɪ,k u n + t ə ɟ ɪ
+Kashmiri-forty-1,,Kashmiri,forty,tʃətəɟɪ,tʃətəɟɪ,tʃ ə t ə ɟ ɪ,,SAND,,,,,forty,27,tʃ ə t ə ɟ ɪ,tʃ ə t ə ɟ ɪ,tʃ ə t ə ɟ ɪ
+Kashmiri-fortyone-1,,Kashmiri,fortyone,əkʰtəɟɪ,əkʰtəɟɪ,ə kʰ + t ə ɟ ɪ,,SAND,,,,,one forty2,19 26,ə kʰ + t ə ɟ ɪ,ə kʰ + t ə ɟ ɪ,ə kʰ + t ə ɟ ɪ
+Kashmiri-fortytwo-1,,Kashmiri,fortytwo,dʋɑɪtəɟɪ,dʋɑɪtəɟɪ,d ʋ ɑ ɪ + t ə ɟ ɪ,,SAND,,,,,two2 forty2,12 26,d ʋ ɑ ɪ + t ə ɟ ɪ,d ʋ ɑ ɪ + t ə ɟ ɪ,d ʋ ɑ ɪ + t ə ɟ ɪ
+Kashmiri-fortythree-1,,Kashmiri,fortythree,teɪtəɟɪ,teɪtəɟɪ,t e ɪ + t ə ɟ ɪ,,SAND,,,,,three2 forty2,14 26,t e ɪ + t ə ɟ ɪ,t e ɪ + t ə ɟ ɪ,t e ɪ + t ə ɟ ɪ
+Kashmiri-fortyfour-1,,Kashmiri,fortyfour,sʋɑɪtəɟɪ,sʋɑɪtəɟɪ,s ʋ ɑ ɪ + t ə ɟ ɪ,,SAND,,,,,four2 forty2,36 26,s ʋ ɑ ɪ + t ə ɟ ɪ,s ʋ ɑ ɪ + t ə ɟ ɪ,s ʋ ɑ ɪ + t ə ɟ ɪ
+Kashmiri-fortyfive-1,,Kashmiri,fortyfive,pɑ̃tʃtəɟɪ,pɑ̃tʃtəɟɪ,p ɑ̃ tʃ + t ə ɟ ɪ,,SAND,,,,,five forty2,23 26,p ɑ̃ tʃ + t ə ɟ ɪ,p ɑ̃ tʃ + t ə ɟ ɪ,p ɑ̃ tʃ + t ə ɟ ɪ
+Kashmiri-fortysix-1,,Kashmiri,fortysix,seɪtəɟɪ,seɪtəɟɪ,s e ɪ + t ə ɟ ɪ,,SAND,,,,,six2 forty2,8 26,s e ɪ + t ə ɟ ɪ,s e ɪ + t ə ɟ ɪ,s e ɪ + t ə ɟ ɪ
+Kashmiri-fortyseven-1,,Kashmiri,fortyseven,sɑttəɟɪ,sɑttəɟɪ,s ɑ t + t ə ɟ ɪ,,SAND,,,,,seven2 forty2,37 26,s ɑ t + t ə ɟ ɪ,s ɑ t + t ə ɟ ɪ,s ɑ t + t ə ɟ ɪ
+Kashmiri-fortyeight-1,,Kashmiri,fortyeight,ərtəɟɪ,ərtəɟɪ,ə r + t ə ɟ ɪ,,SAND,,,,,eight2 forty2,45 26,ə r + t ə ɟ ɪ,ə r + t ə ɟ ɪ,ə r + t ə ɟ ɪ
+Kashmiri-fortynine-1,,Kashmiri,fortynine,kunʋənzəh,kunʋənzəh,k u n + ʋ ə n z ə h,,SAND,,,,,minus fifty2,20 30,k u n + ʋ ə n z ə h,k u n + ʋ ə n z ə h,k u n + ʋ ə n z ə h
+Kashmiri-fifty-1,,Kashmiri,fifty,pə̃təh,pə̃təh,p ə̃ t ə h,,SAND,,,,,fifty,47,p ə̃ t ə h,p ə̃ t ə h,p ə̃ t ə h
+Kashmiri-fiftyone-1,,Kashmiri,fiftyone,əkʰʋənzəh,əkʰʋənzəh,ə kʰ + ʋ ə n z ə h,,SAND,,,,,one fifty2,19 30,ə kʰ + ʋ ə n z ə h,ə kʰ + ʋ ə n z ə h,ə kʰ + ʋ ə n z ə h
+Kashmiri-fiftytwo-1,,Kashmiri,fiftytwo,duʋənzəh,duʋənzəh,d u + ʋ ə n z ə h,,SAND,,,,,two3 fifty2,18 30,d u + ʋ ə n z ə h,d u + ʋ ə n z ə h,d u + ʋ ə n z ə h
+Kashmiri-fiftythree-1,,Kashmiri,fiftythree,truʋənzəh,truʋənzəh,t r u + ʋ ə n z ə h,,SAND,,,,,three4 fifty2,3 30,t r u + ʋ ə n z ə h,t r u + ʋ ə n z ə h,t r u + ʋ ə n z ə h
+Kashmiri-fiftyfour-1,,Kashmiri,fiftyfour,tʃuʋənzəh,tʃuʋənzəh,tʃ u + ʋ ə n z ə h,,SAND,,,,,four4 fifty2,2 30,tʃ u + ʋ ə n z ə h,tʃ u + ʋ ə n z ə h,tʃ u + ʋ ə n z ə h
+Kashmiri-fiftyfive-1,,Kashmiri,fiftyfive,pɑ̃tʃʋənzəh,pɑ̃tʃʋənzəh,p ɑ̃ tʃ + ʋ ə n z ə h,,SAND,,,,,five fifty2,23 30,p ɑ̃ tʃ + ʋ ə n z ə h,p ɑ̃ tʃ + ʋ ə n z ə h,p ɑ̃ tʃ + ʋ ə n z ə h
+Kashmiri-fiftysix-1,,Kashmiri,fiftysix,suʋənzəh,suʋənzəh,s u + ʋ ə n z ə h,,SAND,,,,,six3 fifty2,16 30,s u + ʋ ə n z ə h,s u + ʋ ə n z ə h,s u + ʋ ə n z ə h
+Kashmiri-fiftyseven-1,,Kashmiri,fiftyseven,sətʋənzəh,sətʋənzəh,s ə t + ʋ ə n z ə h,,SAND,,,,,seven fifty2,21 30,s ə t + ʋ ə n z ə h,s ɑː tʰ + ʋ ə n z ə h,s ə/ɑː t/tʰ + ʋ ə n z ə h
+Kashmiri-fiftyeight-1,,Kashmiri,fiftyeight,ərʋənzəh,ərʋənzəh,ə r + ʋ ə n z ə h,,SAND,,,,,eight2 fifty2,45 30,ə r + ʋ ə n z ə h,ə r + ʋ ə n z ə h,ə r + ʋ ə n z ə h
+Kashmiri-fiftynine-1,,Kashmiri,fiftynine,kunhəʈʰ,kunhəʈʰ,k u n + h ə ʈʰ,,SAND,,,,,minus sixty2,20 13,k u n + h ə ʈʰ,k u n + h ə ʈʰ,k u n + h ə ʈʰ
+Kashmiri-sixty-1,,Kashmiri,sixty,tʃeːʈʰ,tʃeːʈʰ,tʃ eː ʈʰ,,SAND,,,,,sixty,9,tʃ eː ʈʰ,tʃ eː ʈʰ,tʃ eː ʈʰ
+Kashmiri-sixtyone-1,,Kashmiri,sixtyone,əkʰhəʈʰ,əkʰhəʈʰ,ə kʰ + h ə ʈʰ,,SAND,,,,,one sixty2,19 13,ə kʰ + h ə ʈʰ,ə kʰ + h ə ʈʰ,ə kʰ + h ə ʈʰ
+Kashmiri-sixtytwo-1,,Kashmiri,sixtytwo,duhəʈʰ,duhəʈʰ,d u + h ə ʈʰ,,SAND,,,,,two3 sixty2,18 13,d u + h ə ʈʰ,d u + h ə ʈʰ,d u + h ə ʈʰ
+Kashmiri-sixtythree-1,,Kashmiri,sixtythree,truhəʈʰ,truhəʈʰ,t r u + h ə ʈʰ,,SAND,,,,,three4 sixty2,3 13,t r u + h ə ʈʰ,t r u + h ə ʈʰ,t r u + h ə ʈʰ
+Kashmiri-sixtyfour-1,,Kashmiri,sixtyfour,tʃuhəʈʰ,tʃuhəʈʰ,tʃ u + h ə ʈʰ,,SAND,,,,,four4 sixty2,2 13,tʃ u + h ə ʈʰ,tʃ u + h ə ʈʰ,tʃ u + h ə ʈʰ
+Kashmiri-sixtyfive-1,,Kashmiri,sixtyfive,pɑ̃tʃhəʈʰ,pɑ̃tʃhəʈʰ,p ɑ̃ tʃ + h ə ʈʰ,,SAND,,,,,five sixty2,23 13,p ɑ̃ tʃ + h ə ʈʰ,p ɑ̃ tʃ + h ə ʈʰ,p ɑ̃ tʃ + h ə ʈʰ
+Kashmiri-sixtysix-1,,Kashmiri,sixtysix,suhəʈʰ,suhəʈʰ,s u + h ə ʈʰ,,SAND,,,,,six3 sixty2,16 13,s u + h ə ʈʰ,s u + h ə ʈʰ,s u + h ə ʈʰ
+Kashmiri-sixtyseven-1,,Kashmiri,sixtyseven,səthəʈʰ,səthəʈʰ,s ə t + h ə ʈʰ,,SAND,,,,,seven sixty2,21 13,s ə t + h ə ʈʰ,s ɑː tʰ + h ə ʈʰ,s ə/ɑː t/tʰ + h ə ʈʰ
+Kashmiri-sixtyeight-1,,Kashmiri,sixtyeight,ərhəʈʰ,ərhəʈʰ,ə r + h ə ʈʰ,,SAND,,,,,eight2 sixty2,45 13,ə r + h ə ʈʰ,ə r + h ə ʈʰ,ə r + h ə ʈʰ
+Kashmiri-sixtynine-1,,Kashmiri,sixtynine,kunsətətʰ,kunsətətʰ,k u n + s ə t ə tʰ,,SAND,,,,,minus seventy,20 43,k u n + s ə t ə tʰ,k u n + s ə t ə tʰ,k u n + s ə t ə tʰ
+Kashmiri-seventy-1,,Kashmiri,seventy,sətətʰ,sətətʰ,s ə t ə tʰ,,SAND,,,,,seventy,43,s ə t ə tʰ,s ə t ə tʰ,s ə t ə tʰ
+Kashmiri-seventyone-1,,Kashmiri,seventyone,əkʰsətətʰ,əkʰsətətʰ,ə kʰ + s ə t ə tʰ,,SAND,,,,,one seventy,19 43,ə kʰ + s ə t ə tʰ,ə kʰ + s ə t ə tʰ,ə kʰ + s ə t ə tʰ
+Kashmiri-seventytwo-1,,Kashmiri,seventytwo,dusətətʰ,dusətətʰ,d u + s ə t ə tʰ,,SAND,,,,,two3 seventy,18 43,d u + s ə t ə tʰ,d u + s ə t ə tʰ,d u + s ə t ə tʰ
+Kashmiri-seventythree-1,,Kashmiri,seventythree,trusətətʰ,trusətətʰ,t r u + s ə t ə tʰ,,SAND,,,,,three4 seventy,3 43,t r u + s ə t ə tʰ,t r u + s ə t ə tʰ,t r u + s ə t ə tʰ
+Kashmiri-seventyfour-1,,Kashmiri,seventyfour,tʃusətətʰ,tʃusətətʰ,tʃ u + s ə t ə tʰ,,SAND,,,,,four4 seventy,2 43,tʃ u + s ə t ə tʰ,tʃ u + s ə t ə tʰ,tʃ u + s ə t ə tʰ
+Kashmiri-seventyfive-1,,Kashmiri,seventyfive,pɑ̃tʃsətətʰ,pɑ̃tʃsətətʰ,p ɑ̃ tʃ + s ə t ə tʰ,,SAND,,,,,five seventy,23 43,p ɑ̃ tʃ + s ə t ə tʰ,p ɑ̃ tʃ + s ə t ə tʰ,p ɑ̃ tʃ + s ə t ə tʰ
+Kashmiri-seventysix-1,,Kashmiri,seventysix,susətətʰ,susətətʰ,s u + s ə t ə tʰ,,SAND,,,,,six3 seventy,16 43,s u + s ə t ə tʰ,s u + s ə t ə tʰ,s u + s ə t ə tʰ
+Kashmiri-seventyseven-1,,Kashmiri,seventyseven,sɑtsətətʰ,sɑtsətətʰ,s ɑ t + s ə t ə tʰ,,SAND,,,,,seven2 seventy,37 43,s ɑ t + s ə t ə tʰ,s ɑ t + s ə t ə tʰ,s ɑ t + s ə t ə tʰ
+Kashmiri-seventyeight-1,,Kashmiri,seventyeight,ərsətətʰ,ərsətətʰ,ə r + s ə t ə tʰ,,SAND,,,,,eight2 seventy,45 43,ə r + s ə t ə tʰ,ə r + s ə t ə tʰ,ə r + s ə t ə tʰ
+Kashmiri-seventynine-1,,Kashmiri,seventynine,kusɪːtʰə,kusɪːtʰə,k u + s ɪː tʰ ə,,SAND,,,,,minus2 eighty,51 42,k u + s ɪː tʰ ə,k u + s ɪː tʰ ə,k u + s ɪː tʰ ə
+Kashmiri-eighty-1,,Kashmiri,eighty,sɪːtʰə,sɪːtʰə,s ɪː tʰ ə,,SAND,,,,,eighty,42,s ɪː tʰ ə,s ɪː tʰ ə,s ɪː tʰ ə
+Kashmiri-eightyone-1,,Kashmiri,eightyone,əkʰsɪːtʰə,əkʰsɪːtʰə,ə kʰ + s ɪː tʰ ə,,SAND,,,,,one eighty,19 42,ə kʰ + s ɪː tʰ ə,ə kʰ + s ɪː tʰ ə,ə kʰ + s ɪː tʰ ə
+Kashmiri-eightytwo-1,,Kashmiri,eightytwo,dusɪːtʰə,dusɪːtʰə,d u + s ɪː tʰ ə,,SAND,,,,,two3 eighty,18 42,d u + s ɪː tʰ ə,d u + s ɪː tʰ ə,d u + s ɪː tʰ ə
+Kashmiri-eightythree-1,,Kashmiri,eightythree,trusɪːtʰə,trusɪːtʰə,t r u + s ɪː tʰ ə,,SAND,,,,,three4 eighty,3 42,t r u + s ɪː tʰ ə,t r u + s ɪː tʰ ə,t r u + s ɪː tʰ ə
+Kashmiri-eightyfour-1,,Kashmiri,eightyfour,tʃusɪːtʰə,tʃusɪːtʰə,tʃ u + s ɪː tʰ ə,,SAND,,,,,four4 eighty,2 42,tʃ u + s ɪː tʰ ə,tʃ u + s ɪː tʰ ə,tʃ u + s ɪː tʰ ə
+Kashmiri-eightyfive-1,,Kashmiri,eightyfive,pɑ̃tʃsɪːtʰə,pɑ̃tʃsɪːtʰə,p ɑ̃ tʃ + s ɪː tʰ ə,,SAND,,,,,five eighty,23 42,p ɑ̃ tʃ + s ɪː tʰ ə,p ɑ̃ tʃ + s ɪː tʰ ə,p ɑ̃ tʃ + s ɪː tʰ ə
+Kashmiri-eightysix-1,,Kashmiri,eightysix,susɪːtʰə,susɪːtʰə,s u + s ɪː tʰ ə,,SAND,,,,,six3 eighty,16 42,s u + s ɪː tʰ ə,s u + s ɪː tʰ ə,s u + s ɪː tʰ ə
+Kashmiri-eightyseven-1,,Kashmiri,eightyseven,sətsɪːtʰə,sətsɪːtʰə,s ə t + s ɪː tʰ ə,,SAND,,,,,seven eighty,21 42,s ə t + s ɪː tʰ ə,s ɑː tʰ + s ɪː tʰ ə,s ə/ɑː t/tʰ + s ɪː tʰ ə
+Kashmiri-eightyeight-1,,Kashmiri,eightyeight,ərsɪːtʰə,ərsɪːtʰə,ə r + s ɪː tʰ ə,,SAND,,,,,eight2 eighty,45 42,ə r + s ɪː tʰ ə,ə r + s ɪː tʰ ə,ə r + s ɪː tʰ ə
+Kashmiri-eightynine-1,,Kashmiri,eightynine,kunnəmətʰ,kunnəmətʰ,k u n + n ə m ə tʰ,,SAND,,,,,minus ninety2,20 6,k u n + n ə m ə tʰ,k u n + n ə m ə tʰ,k u n + n ə m ə tʰ
+Kashmiri-ninety-1,,Kashmiri,ninety,nəmətʰ,nəmətʰ,n ə m ə tʰ,,SAND,,,,,ninety2,6,n ə m ə tʰ,n ə m ə tʰ,n ə m ə tʰ
+Kashmiri-ninetyone-1,,Kashmiri,ninetyone,əkʰnəmətʰ,əkʰnəmətʰ,ə kʰ + n ə m ə tʰ,,SAND,,,,,one ninety2,19 6,ə kʰ + n ə m ə tʰ,ə kʰ + n ə m ə tʰ,ə kʰ + n ə m ə tʰ
+Kashmiri-ninetytwo-1,,Kashmiri,ninetytwo,dunəmətʰ,dunəmətʰ,d u + n ə m ə tʰ,,SAND,,,,,two3 ninety2,18 6,d u + n ə m ə tʰ,d u + n ə m ə tʰ,d u + n ə m ə tʰ
+Kashmiri-ninetythree-1,,Kashmiri,ninetythree,trunəmətʰ,trunəmətʰ,t r u + n ə m ə tʰ,,SAND,,,,,three4 ninety2,3 6,t r u + n ə m ə tʰ,t r u + n ə m ə tʰ,t r u + n ə m ə tʰ
+Kashmiri-ninetyfour-1,,Kashmiri,ninetyfour,tʃunəmətʰ,tʃunəmətʰ,tʃ u + n ə m ə tʰ,,SAND,,,,,four4 ninety2,2 6,tʃ u + n ə m ə tʰ,tʃ u + n ə m ə tʰ,tʃ u + n ə m ə tʰ
+Kashmiri-ninetyfive-1,,Kashmiri,ninetyfive,pɑ̃tʃnəmətʰ,pɑ̃tʃnəmətʰ,p ɑ̃ tʃ + n ə m ə tʰ,,SAND,,,,,five ninety2,23 6,p ɑ̃ tʃ + n ə m ə tʰ,p ɑ̃ tʃ + n ə m ə tʰ,p ɑ̃ tʃ + n ə m ə tʰ
+Kashmiri-ninetysix-1,,Kashmiri,ninetysix,sunəmətʰ,sunəmətʰ,s u + n ə m ə tʰ,,SAND,,,,,six3 ninety2,16 6,s u + n ə m ə tʰ,s u + n ə m ə tʰ,s u + n ə m ə tʰ
+Kashmiri-ninetyseven-1,,Kashmiri,ninetyseven,sətnəmətʰ,sətnəmətʰ,s ə t + n ə m ə tʰ,,SAND,,,,,seven ninety2,21 6,s ə t + n ə m ə tʰ,s ɑː tʰ + n ə m ə tʰ,s ə/ɑː t/tʰ + n ə m ə tʰ
+Kashmiri-ninetyeight-1,,Kashmiri,ninetyeight,ərnəmətʰ,ərnəmətʰ,ə r + n ə m ə tʰ,,SAND,,,,,eight2 ninety2,45 6,ə r + n ə m ə tʰ,ə r + n ə m ə tʰ,ə r + n ə m ə tʰ
+Kashmiri-ninetynine-1,,Kashmiri,ninetynine,nəmnəmətʰ,nəmnəmətʰ,n ə m + n ə m ə tʰ,,SAND,,,,,nine2 ninety2,48 6,n ə m + n ə m ə tʰ,n ə m + n ə m ə tʰ,n ə m + n ə m ə tʰ
 Kumzari-one-1,,Kumzari,one,yak,yak,j a k,,WalAnonby2015,,,,,one,12,j a k,j a k,j a k
 Kumzari-two-1,,Kumzari,two,dō,dō,d oː,,WalAnonby2015,,,,,two,25,d oː,d oː,d oː
 Kumzari-three-1,,Kumzari,three,sō,sō,s oː,,WalAnonby2015,,,,,three,21,s oː,s oː,s oː

@@ -47,14 +47,14 @@ ID	DOCULECT	VALUE	FORM	CONCEPT	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 46	Assamese	ছিয়াল্লিশ	sij allis	forty six	s i -/j + j a l l i s	six3 forty2	s i + j a l l i s	28 54		Assamese
 47	Assamese	সাতচল্লিশ	xat sɔllis	forty seven	x a t + s ɔ l l i s	seven forty3	x a t + s ɔ l l i s	23 50		Assamese
 48	Assamese	আটচল্লিশ	atʰ sɔllis	forty eight	a tʰ + s ɔ l l i s	eight forty3	a tʰ + s ɔ l l i s	48 50		Assamese
-49	Assamese	ঊনপঞ্চাশ	un pɔntʃaʃ	forty nine	u n + p ɔ n t ʃ a ʃ	minus fifty	u n + p ɔ n t ʃ a ʃ	41 32		Assamese
-50	Assamese	পঞ্চাশ	pɔntʃaʃ	fifty	p ɔ n t ʃ a ʃ	fifty	p ɔ n t ʃ a ʃ	32		Assamese
+49	Assamese	ঊনপঞ্চাশ	un pɔntʃaʃ	forty nine	u n + p ɔ n tʃ a ʃ	minus fifty	u n + p ɔ n tʃ a ʃ	41 32		Assamese
+50	Assamese	পঞ্চাশ	pɔntʃaʃ	fifty	p ɔ n tʃ a ʃ	fifty	p ɔ n tʃ a ʃ	32		Assamese
 51	Assamese	একাৱন্ন	ɛk abɔnɔ	fifty one	ɛ/e k a/o + b ɔ n ɔ	one2 fifty2	ɛ k a + b ɔ n ɔ	7 39		Assamese
 52	Assamese	বাহান্ন	bah anɔ	fifty two	b a h/- + a n ɔ	two fifty4	b a h + a n ɔ	37 27		Assamese
 53	Assamese	তিপ্পান্ন	tip anɔ	fifty three	t i -/j + p a n ɔ	three2 fifty3	t i + p a n ɔ	20 26		Assamese
 54	Assamese	চুয়ান্ন	su anɔ	fifty four	s -/o u + a n ɔ	four2 fifty4	s u + a n ɔ	25 27		Assamese
-55	Assamese	পঞ্চান্ন	pɔntʃ anɔ	fifty five	p ɔ n t ʃ + a n ɔ	five4 fifty4	p ɔ n t ʃ + a n ɔ	6 27		Assamese
-56	Assamese	ছাপ্পান্ন	tʃap anɔ	fifty six	t ʃ a + p a n ɔ	six4 fifty3	t ʃ a + p a n ɔ	10 26		Assamese
+55	Assamese	পঞ্চান্ন	pɔntʃ anɔ	fifty five	p ɔ n tʃ + a n ɔ	five4 fifty4	p ɔ n tʃ + a n ɔ	6 27		Assamese
+56	Assamese	ছাপ্পান্ন	tʃap anɔ	fifty six	tʃ a + p a n ɔ	six4 fifty3	tʃ a + p a n ɔ	10 26		Assamese
 57	Assamese	সাতান্ন	xat anɔ	fifty seven	x a t + a n ɔ	seven fifty4	x a t + a n ɔ	23 27		Assamese
 58	Assamese	আটান্ন	atʰ  anɔ	fifty eight	a tʰ + a n ɔ	eight fifty4	a tʰ + a n ɔ	48 27		Assamese
 59	Assamese	ঊনষাঠি	un xatʰi	fifty nine	u n + x a tʰ i	minus sixty2	u n + x a tʰ i	41 16		Assamese
@@ -64,7 +64,7 @@ ID	DOCULECT	VALUE	FORM	CONCEPT	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 63	Assamese	তেষ্ঠি	te xtʰi	sixty three	t e + x tʰ i	three sixty3	t e + x tʰ i	53 11		Assamese
 64	Assamese	চৌষ্ঠি	sɔ xtʰi	sixty four	s ɔ/o -/u + x tʰ i	four2 sixty3	s ɔ + x tʰ i	25 11		Assamese
 65	Assamese	পঁয়ষ্ঠি	pɔ̃ja xtʰi	sixty five	p ɔ̃/ɔ j -/a + a x tʰ i	five2 sixty	p ɔ̃ j + a x tʰ i	15 42		Assamese
-66	Assamese	ছেষ্ঠি	tʃe xtʰi	sixty six	t ʃ e/a + x tʰ i	six4 sixty3	t ʃ e + x tʰ i	10 11		Assamese
+66	Assamese	ছেষ্ঠি	tʃe xtʰi	sixty six	tʃ e/a + x tʰ i	six4 sixty3	tʃ e + x tʰ i	10 11		Assamese
 67	Assamese	সাতষ্ঠি	xat xtʰi	sixty seven	x a t + x tʰ i	seven sixty3	x a t + x tʰ i	23 11		Assamese
 68	Assamese	আটষ্ঠি	atʰ xtʰi	sixty eight	a tʰ + x tʰ i	eight sixty3	a tʰ + x tʰ i	48 11		Assamese
 69	Assamese	ঊনসত্তৰ	un xɔtɔr	sixty nine	u n + x ɔ t ɔ r	minus seventy2	u n + x ɔ t ɔ r	41 3		Assamese
@@ -73,7 +73,7 @@ ID	DOCULECT	VALUE	FORM	CONCEPT	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 72	Assamese	বাহাত্তৰ	bah atɔr	seventy two	b a h/- + a t ɔ r	two seventy	b a h + a t ɔ r	37 21		Assamese
 73	Assamese	তিয়াত্তৰ	tij atɔr	seventy three	t i j + a t ɔ r	three2 seventy	t i j + a t ɔ r	20 21		Assamese
 74	Assamese	চুয়াত্তৰ	su atɔr	seventy four	s -/o u + a t ɔ r	four2 seventy	s u + a t ɔ r	25 21		Assamese
-75	Assamese	পঁচাত্তৰ	pɔ̃tʃ atɔr	seventy five	p ɔ̃/ɔ -/n t ʃ + a t ɔ r	five4 seventy	p ɔ̃ t ʃ + a t ɔ r	6 21		Assamese
+75	Assamese	পঁচাত্তৰ	pɔ̃tʃ atɔr	seventy five	p ɔ̃/ɔ -/n tʃ + a t ɔ r	five4 seventy	p ɔ̃ tʃ + a t ɔ r	6 21		Assamese
 76	Assamese	ছিয়াত্তৰ	sij atɔr	seventy six	s i j + a t ɔ r	six3 seventy	s i j + a t ɔ r	28 21		Assamese
 77	Assamese	সাতাত্তৰ	xat atɔr	seventy seven	x a t + a t ɔ r	seven seventy	x a t + a t ɔ r	23 21		Assamese
 78	Assamese	আটাত্তৰ	atʰ atɔr	seventy eight	a tʰ + a t ɔ r	eight seventy	a tʰ + a t ɔ r	48 21		Assamese
@@ -82,8 +82,8 @@ ID	DOCULECT	VALUE	FORM	CONCEPT	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 81	Assamese	একাশি	ɛk axi	eighty one	ɛ k + a x i	one eighty	ɛ k + a x i	43 29		Assamese
 82	Assamese	বিৰাশি	bir axi	eighty two	b i/a + r a x i	two eighty2	b i + r a x i	37 1		Assamese
 83	Assamese	তিৰাশি	tir axi	eighty three	t i -/j + r a x i	three2 eighty2	t i + r a x i	20 1		Assamese
-84	Assamese	চৌৰাশি	sɔu̯r axi	eighty four	s ɔ/o u̯/u + r a x i	four2 eighty2	s ɔ u̯ + r a x i	25 1		Assamese
-85	Assamese	পঁচাশি	pɔ̃tʃ axi	eighty five	p ɔ̃/ɔ -/n t ʃ + a x i	five4 eighty	p ɔ̃ t ʃ + a x i	6 29		Assamese
+84	Assamese	চৌৰাশি	sɔu̯r axi	eighty four	s ɔu̯/o -/u + r a x i	four2 eighty2	s ɔu̯/o -/u + r a x i	25 1		Assamese
+85	Assamese	পঁচাশি	pɔ̃tʃ axi	eighty five	p ɔ̃/ɔ -/n tʃ + a x i	five4 eighty	p ɔ̃ tʃ + a x i	6 29		Assamese
 86	Assamese	ছিয়াশি	sij axi	eighty six	s i j + a x i	six3 eighty	s i j + a x i	28 29		Assamese
 87	Assamese	সাতাশি	xat axi	eighty seven	x a t + a x i	seven eighty	x a t + a x i	23 29		Assamese
 88	Assamese	আটাশি	atʰ axi	eighty eight	a tʰ + a x i	eight eighty	a tʰ + a x i	48 29		Assamese
@@ -92,8 +92,8 @@ ID	DOCULECT	VALUE	FORM	CONCEPT	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 91	Assamese	একানব্বই	ɛk anɔbɔi	ninety one	ɛ k + a n ɔ b ɔ i	one ninety	ɛ k + a n ɔ b ɔ i	43 14		Assamese
 92	Assamese	বাহানব্বই	bah anɔbɔi	ninety two	b a h/- + a n ɔ b ɔ i	two ninety	b a h + a n ɔ b ɔ i	37 14		Assamese
 93	Assamese	তিৰানব্বই	tir anɔbɔi	ninety three	t i r + a n ɔ b ɔ i	three4 ninety	t i r + a n ɔ b ɔ i	47 14		Assamese
-94	Assamese	চৌৰানব্বই	sɔu̯r anɔbɔi	ninety four	s ɔ u̯ r + a n ɔ b ɔ i	four3 ninety	s ɔ u̯ r + a n ɔ b ɔ i	19 14		Assamese
-95	Assamese	পঁচানব্বই	pɔ̃tʃ anɔbɔi	ninety five	p ɔ̃/ɔ -/n t ʃ + a n ɔ b ɔ i	five4 ninety	p ɔ̃ t ʃ + a n ɔ b ɔ i	6 14		Assamese
+94	Assamese	চৌৰানব্বই	sɔu̯r anɔbɔi	ninety four	s ɔu̯ r + a n ɔ b ɔ i	four3 ninety	s ɔu̯ r + a n ɔ b ɔ i	19 14		Assamese
+95	Assamese	পঁচানব্বই	pɔ̃tʃ anɔbɔi	ninety five	p ɔ̃/ɔ -/n tʃ + a n ɔ b ɔ i	five4 ninety	p ɔ̃ tʃ + a n ɔ b ɔ i	6 14		Assamese
 96	Assamese	ছিয়ানব্বই	sij anɔbɔi	ninety six	s i j + a n ɔ b ɔ i	six3 ninety	s i j + a n ɔ b ɔ i	28 14		Assamese
 97	Assamese	সাতানব্বই	xat anɔbɔi	ninety seven	x a t + a n ɔ b ɔ i	seven ninety	x a t + a n ɔ b ɔ i	23 14		Assamese
 98	Assamese	আটানব্বই	atʰ anɔbɔi	ninety eight	a tʰ + a n ɔ b ɔ i	eight ninety	a tʰ + a n ɔ b ɔ i	48 14		Assamese

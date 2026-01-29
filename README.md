@@ -238,15 +238,15 @@ $ sqlite3 cosinus.sqlite < flat.sql > cosinus.csv
 ![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-green.svg "BIPA: 99%")
 ![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-green.svg "CLTS SoundClass: 99%")
 
-- **Varieties:** 50 (linked to 50 different Glottocodes)
+- **Varieties:** 52 (linked to 52 different Glottocodes)
 - **Concepts:** 99 (linked to 99 different Concepticon concept sets)
-- **Lexemes:** 5,553
-- **Sources:** 79
+- **Lexemes:** 5,751
+- **Sources:** 81
 - **Synonymy:** 1.12
 - **Invalid lexemes:** 0
-- **Tokens:** 73,881
-- **Segments:** 234 (3 BIPA errors, 3 CLTS sound class errors, 227 CLTS modified)
-- **Inventory size (avg):** 23.42
+- **Tokens:** 75,228
+- **Segments:** 240 (3 BIPA errors, 3 CLTS sound class errors, 233 CLTS modified)
+- **Inventory size (avg):** 23.67
 
 # Contributors
 

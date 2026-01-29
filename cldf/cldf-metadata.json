@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/cosinus/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-197-g11448bf",
+            "dc:created": "v1.1-204-gf92f0c3",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 5553,
+            "dc:extent": 5751,
             "tableSchema": {
                 "columns": [
                     {
@@ -183,7 +183,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 50,
+            "dc:extent": 52,
             "tableSchema": {
                 "columns": [
                     {
