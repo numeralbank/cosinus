@@ -1,0 +1,100 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
+1	Kashmiri	one	əkʰ	ə kʰ	one	ə kʰ	19		SAND
+2	Kashmiri	two	zə	z ə	two	z ə	1		SAND
+3	Kashmiri	three	tre	t r e	three	t r e	40		SAND
+4	Kashmiri	four	tʃor	t ʃ o r	four	t ʃ o r	24		SAND
+5	Kashmiri	five	pɑ̃tʃ	p ɑ̃ t ʃ	five	p ɑ̃ t ʃ	23		SAND
+6	Kashmiri	six	səje	s ə j e	six	s ə j e	29		SAND
+7	Kashmiri	seven	sɑːtʰ	s ɑː tʰ	seven	s ɑː tʰ	21		SAND
+8	Kashmiri	eight	uəʈʰ	u ə ʈʰ	eight	u ə ʈʰ	39		SAND
+9	Kashmiri	nine	nɔ	n ɔ	nine	n ɔ	15		SAND
+10	Kashmiri	ten	dəh	d ə/e h	ten	d ə h	4		SAND
+11	Kashmiri	eleven	kəh	k ə h	eleven	k ə h	5		SAND
+12	Kashmiri	twelve	bəh	b ə h	twelve	b ə h	25		SAND
+13	Kashmiri	thirteen	truʋɑ	t r u + ʋ ɑ	three4 ten4	t r u + ʋ ɑ	3 44		SAND
+14	Kashmiri	fourteen	tʃjedeh	t ʃ j e + d e h	four5 ten	t ʃ j e + d e h	31 4		SAND
+15	Kashmiri	fifteen	pəndəh	p ə n + d ə/e h	five2 ten	p ə n + d ə h	35 4		SAND
+16	Kashmiri	sixteen	surrɑ	s u r/- + r ɑ	six3 ten3	s u r + r ɑ	16 28		SAND
+17	Kashmiri	seventeen	sədɑh	s ə + d ɑ h	seven3 ten2	s ə + d ɑ h	49 38		SAND
+18	Kashmiri	eighteen	ərdəh	ə r + d ə/e h	eight2 ten	ə r + d ə h	45 4		SAND
+19	Kashmiri	nineteen	kunʋu	k u n + ʋ u	minus twenty	k u n + ʋ u	20 7		SAND
+20	Kashmiri	twenty	ʋu	ʋ u	twenty	ʋ u	7		SAND
+21	Kashmiri	twenty one	əkʰʋu	ə kʰ + ʋ u	one twenty	ə kʰ + ʋ u	19 7		SAND
+22	Kashmiri	twenty two	zutoʋu	z u t o + ʋ u	two4 twenty	z u t o + ʋ u	50 7		SAND
+23	Kashmiri	twenty three	troʋu	t r o + ʋ u	three3 twenty	t r o + ʋ u	46 7		SAND
+24	Kashmiri	twenty four	tʃoʋu	t ʃ o + ʋ u	four3 twenty	t ʃ o + ʋ u	34 7		SAND
+25	Kashmiri	twenty five	pəntʃəh	p ə n t ʃ + ə h	five3 twenty2	p ə n t ʃ + ə h	10 32		SAND
+26	Kashmiri	twenty six	sətʋu	s ə t + ʋ u	six4 twenty	s ə t + ʋ u	33 7		SAND
+27	Kashmiri	twenty seven	sətʰoʋu	s ə tʰ o + ʋ u	seven4 twenty	s ə tʰ o + ʋ u	11 7		SAND
+28	Kashmiri	twenty eight	əʈʰoʋu	ə ʈʰ o + ʋ u	eight3 twenty	ə ʈʰ o + ʋ u	22 7		SAND
+29	Kashmiri	twenty nine	kuntrəh	k u n + t r ə h	minus thirty	k u n + t r ə h	20 17		SAND
+30	Kashmiri	thirty 	trəh	t r ə h	thirty	t r ə h	17		SAND
+31	Kashmiri	thirty one	əkʰtrəh	ə kʰ + t r ə h	one thirty	ə kʰ + t r ə h	19 17		SAND
+32	Kashmiri	thirty two	dʋɑɪtrəh	d ʋ ɑ ɪ + t r ə h	two2 thirty	d ʋ ɑ ɪ + t r ə h	12 17		SAND
+33	Kashmiri	thirty three	teɪtrəh	t e ɪ + t r ə h	three2 thirty	t e ɪ + t r ə h	14 17		SAND
+34	Kashmiri	thirty four	tʃʋɑɪtrəh	t ʃ ʋ ɑ ɪ + t r ə h	four6 thirty	t ʃ ʋ ɑ ɪ + t r ə h	41 17		SAND
+35	Kashmiri	thirty five	pɑ̃tʃtrəh	p ɑ̃ t ʃ + t r ə h	five thirty	p ɑ̃ t ʃ + t r ə h	23 17		SAND
+36	Kashmiri	thirty six	seɪtrəh	s e ɪ + t r ə h	six2 thirty	s e ɪ + t r ə h	8 17		SAND
+37	Kashmiri	thirty seven	səttrəh	s ə/ɑː t/tʰ + t r ə h	seven thirty	s ə t + t r ə h	21 17		SAND
+38	Kashmiri	thirty eight	ərtrəh	ə r + t r ə h	eight2 thirty	ə r + t r ə h	45 17		SAND
+39	Kashmiri	thirty nine	kuntəɟɪ	k u n + t ə ɟ ɪ	minus forty2	k u n + t ə ɟ ɪ	20 26		SAND
+40	Kashmiri	forty 	tʃətəɟɪ	t ʃ ə t ə ɟ ɪ	forty	t ʃ ə t ə ɟ ɪ	27		SAND
+41	Kashmiri	forty one	əkʰtəɟɪ	ə kʰ + t ə ɟ ɪ	one forty2	ə kʰ + t ə ɟ ɪ	19 26		SAND
+42	Kashmiri	forty two	dʋɑɪtəɟɪ	d ʋ ɑ ɪ + t ə ɟ ɪ	two2 forty2	d ʋ ɑ ɪ + t ə ɟ ɪ	12 26		SAND
+43	Kashmiri	forty three	teɪtəɟɪ	t e ɪ + t ə ɟ ɪ	three2 forty2	t e ɪ + t ə ɟ ɪ	14 26		SAND
+44	Kashmiri	forty four	sʋɑɪtəɟɪ	s ʋ ɑ ɪ + t ə ɟ ɪ	four2 forty2	s ʋ ɑ ɪ + t ə ɟ ɪ	36 26		SAND
+45	Kashmiri	forty five	pɑ̃tʃtəɟɪ	p ɑ̃ t ʃ + t ə ɟ ɪ	five forty2	p ɑ̃ t ʃ + t ə ɟ ɪ	23 26		SAND
+46	Kashmiri	forty six	seɪtəɟɪ	s e ɪ + t ə ɟ ɪ	six2 forty2	s e ɪ + t ə ɟ ɪ	8 26		SAND
+47	Kashmiri	forty seven	sɑttəɟɪ	s ɑ t + t ə ɟ ɪ	seven2 forty2	s ɑ t + t ə ɟ ɪ	37 26		SAND
+48	Kashmiri	forty eight	ərtəɟɪ	ə r + t ə ɟ ɪ	eight2 forty2	ə r + t ə ɟ ɪ	45 26		SAND
+49	Kashmiri	forty nine	kunʋənzəh	k u n + ʋ ə n z ə h	minus fifty2	k u n + ʋ ə n z ə h	20 30		SAND
+50	Kashmiri	fifty 	pə̃təh	p ə̃ t ə h	fifty	p ə̃ t ə h	47		SAND
+51	Kashmiri	fifty one	əkʰʋənzəh	ə kʰ + ʋ ə n z ə h	one fifty2	ə kʰ + ʋ ə n z ə h	19 30		SAND
+52	Kashmiri	fifty two	duʋənzəh	d u + ʋ ə n z ə h	two3 fifty2	d u + ʋ ə n z ə h	18 30		SAND
+53	Kashmiri	fifty three	truʋənzəh	t r u + ʋ ə n z ə h	three4 fifty2	t r u + ʋ ə n z ə h	3 30		SAND
+54	Kashmiri	fifty four	tʃuʋənzəh	t ʃ u + ʋ ə n z ə h	four4 fifty2	t ʃ u + ʋ ə n z ə h	2 30		SAND
+55	Kashmiri	fifty five	pɑ̃tʃʋənzəh	p ɑ̃ t ʃ + ʋ ə n z ə h	five fifty2	p ɑ̃ t ʃ + ʋ ə n z ə h	23 30		SAND
+56	Kashmiri	fifty six	suʋənzəh	s u + ʋ ə n z ə h	six3 fifty2	s u + ʋ ə n z ə h	16 30		SAND
+57	Kashmiri	fifty seven	sətʋənzəh	s ə/ɑː t/tʰ + ʋ ə n z ə h	seven fifty2	s ə t + ʋ ə n z ə h	21 30		SAND
+58	Kashmiri	fifty eight	ərʋənzəh	ə r + ʋ ə n z ə h	eight2 fifty2	ə r + ʋ ə n z ə h	45 30		SAND
+59	Kashmiri	fifty nine	kunhəʈʰ	k u n + h ə ʈʰ	minus sixty2	k u n + h ə ʈʰ	20 13		SAND
+60	Kashmiri	sixty 	tʃeːʈʰ	t ʃ eː ʈʰ	sixty	t ʃ eː ʈʰ	9		SAND
+61	Kashmiri	sixty one	əkʰhəʈʰ	ə kʰ + h ə ʈʰ	one sixty2	ə kʰ + h ə ʈʰ	19 13		SAND
+62	Kashmiri	sixty two	duhəʈʰ	d u + h ə ʈʰ	two3 sixty2	d u + h ə ʈʰ	18 13		SAND
+63	Kashmiri	sixty three	truhəʈʰ	t r u + h ə ʈʰ	three4 sixty2	t r u + h ə ʈʰ	3 13		SAND
+64	Kashmiri	sixty four	tʃuhəʈʰ	t ʃ u + h ə ʈʰ	four4 sixty2	t ʃ u + h ə ʈʰ	2 13		SAND
+65	Kashmiri	sixty five	pɑ̃tʃhəʈʰ	p ɑ̃ t ʃ + h ə ʈʰ	five sixty2	p ɑ̃ t ʃ + h ə ʈʰ	23 13		SAND
+66	Kashmiri	sixty six	suhəʈʰ	s u + h ə ʈʰ	six3 sixty2	s u + h ə ʈʰ	16 13		SAND
+67	Kashmiri	sixty seven	səthəʈʰ	s ə/ɑː t/tʰ + h ə ʈʰ	seven sixty2	s ə t + h ə ʈʰ	21 13		SAND
+68	Kashmiri	sixty eight	ərhəʈʰ	ə r + h ə ʈʰ	eight2 sixty2	ə r + h ə ʈʰ	45 13		SAND
+69	Kashmiri	sixty nine	kunsətətʰ	k u n + s ə t ə tʰ	minus seventy	k u n + s ə t ə tʰ	20 43		SAND
+70	Kashmiri	seventy 	sətətʰ	s ə t ə tʰ	seventy	s ə t ə tʰ	43		SAND
+71	Kashmiri	seventy one	əkʰsətətʰ	ə kʰ + s ə t ə tʰ	one seventy	ə kʰ + s ə t ə tʰ	19 43		SAND
+72	Kashmiri	seventy two	dusətətʰ	d u + s ə t ə tʰ	two3 seventy	d u + s ə t ə tʰ	18 43		SAND
+73	Kashmiri	seventy three	trusətətʰ	t r u + s ə t ə tʰ	three4 seventy	t r u + s ə t ə tʰ	3 43		SAND
+74	Kashmiri	seventy four	tʃusətətʰ	t ʃ u + s ə t ə tʰ	four4 seventy	t ʃ u + s ə t ə tʰ	2 43		SAND
+75	Kashmiri	seventy five	pɑ̃tʃsətətʰ	p ɑ̃ t ʃ + s ə t ə tʰ	five seventy	p ɑ̃ t ʃ + s ə t ə tʰ	23 43		SAND
+76	Kashmiri	seventy six	susətətʰ	s u + s ə t ə tʰ	six3 seventy	s u + s ə t ə tʰ	16 43		SAND
+77	Kashmiri	seventy seven	sɑtsətətʰ	s ɑ t + s ə t ə tʰ	seven2 seventy	s ɑ t + s ə t ə tʰ	37 43		SAND
+78	Kashmiri	seventy eight	ərsətətʰ	ə r + s ə t ə tʰ	eight2 seventy	ə r + s ə t ə tʰ	45 43		SAND
+79	Kashmiri	seventy nine	kusɪːtʰə	k u + s ɪː tʰ ə	minus2 eighty	k u + s ɪː tʰ ə	51 42		SAND
+80	Kashmiri	eighty 	sɪːtʰə	s ɪː tʰ ə	eighty	s ɪː tʰ ə	42		SAND
+81	Kashmiri	eighty one	əkʰsɪːtʰə	ə kʰ + s ɪː tʰ ə	one eighty	ə kʰ + s ɪː tʰ ə	19 42		SAND
+82	Kashmiri	eighty two	dusɪːtʰə	d u + s ɪː tʰ ə	two3 eighty	d u + s ɪː tʰ ə	18 42		SAND
+83	Kashmiri	eighty three	trusɪːtʰə	t r u + s ɪː tʰ ə	three4 eighty	t r u + s ɪː tʰ ə	3 42		SAND
+84	Kashmiri	eighty four	tʃusɪːtʰə	t ʃ u + s ɪː tʰ ə	four4 eighty	t ʃ u + s ɪː tʰ ə	2 42		SAND
+85	Kashmiri	eighty five	pɑ̃tʃsɪːtʰə	p ɑ̃ t ʃ + s ɪː tʰ ə	five eighty	p ɑ̃ t ʃ + s ɪː tʰ ə	23 42		SAND
+86	Kashmiri	eighty six	susɪːtʰə	s u + s ɪː tʰ ə	six3 eighty	s u + s ɪː tʰ ə	16 42		SAND
+87	Kashmiri	eighty seven	sətsɪːtʰə	s ə/ɑː t/tʰ + s ɪː tʰ ə	seven eighty	s ə t + s ɪː tʰ ə	21 42		SAND
+88	Kashmiri	eighty eight	ərsɪːtʰə	ə r + s ɪː tʰ ə	eight2 eighty	ə r + s ɪː tʰ ə	45 42		SAND
+89	Kashmiri	eighty nine	kunnəmətʰ	k u n + n ə m ə tʰ	minus ninety2	k u n + n ə m ə tʰ	20 6		SAND
+90	Kashmiri	ninety 	nəmətʰ	n ə m ə tʰ	ninety2	n ə m ə tʰ	6		SAND
+91	Kashmiri	ninety one	əkʰnəmətʰ	ə kʰ + n ə m ə tʰ	one ninety2	ə kʰ + n ə m ə tʰ	19 6		SAND
+92	Kashmiri	ninety two	dunəmətʰ	d u + n ə m ə tʰ	two3 ninety2	d u + n ə m ə tʰ	18 6		SAND
+93	Kashmiri	ninety three	trunəmətʰ	t r u + n ə m ə tʰ	three4 ninety2	t r u + n ə m ə tʰ	3 6		SAND
+94	Kashmiri	ninety four	tʃunəmətʰ	t ʃ u + n ə m ə tʰ	four4 ninety2	t ʃ u + n ə m ə tʰ	2 6		SAND
+95	Kashmiri	ninety five	pɑ̃tʃnəmətʰ	p ɑ̃ t ʃ + n ə m ə tʰ	five ninety2	p ɑ̃ t ʃ + n ə m ə tʰ	23 6		SAND
+96	Kashmiri	ninety six	sunəmətʰ	s u + n ə m ə tʰ	six3 ninety2	s u + n ə m ə tʰ	16 6		SAND
+97	Kashmiri	ninety seven	sətnəmətʰ	s ə/ɑː t/tʰ + n ə m ə tʰ	seven ninety2	s ə t + n ə m ə tʰ	21 6		SAND
+98	Kashmiri	ninety eight	ərnəmətʰ	ə r + n ə m ə tʰ	eight2 ninety2	ə r + n ə m ə tʰ	45 6		SAND
+99	Kashmiri	ninety nine	nəmnəmətʰ	n ə m + n ə m ə tʰ	nine2 ninety2	n ə m + n ə m ə tʰ	48 6		SAND
