@@ -46,7 +46,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 36	Plains_Cree	thirty six	nistomitanaw ayiwāk nikotwāsik	n i s t u + m i t a n a w + a j i w aː k + n i k o t w aː s i k	three -ty plus six		3 13 12 6		Okimasis2018
 37	Plains_Cree	thirty seven	nistomitanaw ayiwāk tēpakohp	n i s t u + m i t a n a w + a j i w aː k + t eː p a k u h p	three -ty plus seven		3 13 12 7		Okimasis2018
 38	Plains_Cree	thirty eight	nistomitanaw ayiwāk ayēnānēw	n i s t u + m i t a n a w + a j i w aː k + a j eː n aː n eː w	three -ty plus eight		3 13 12 8		Okimasis2018
-39	Plains_Cree	forty	kēkāc-nēmitanaw	k eː k aː ts + n eː -/w -/u + m i t a n a w	nearly four -ty		9 4 13		Okimasis2018
+39	Plains_Cree	thirty nine	kēkāc-nēmitanaw	k eː k aː ts + n eː -/w -/u + m i t a n a w	nearly four -ty		9 4 13		Okimasis2018
 40	Plains_Cree	forty	nēmitanaw	n eː -/w -/u + m i t a n a w	four -ty		4 13		Okimasis2018
 41	Plains_Cree	forty one	nēmitanaw ayiwāk pēyak	n eː -/w -/u + m i t a n a w + a j i w aː k + p eː j a k	four -ty plus one		4 13 12 1		Okimasis2018
 42	Plains_Cree	forty two	nēmitanaw ayiwāk nīso	n eː -/w -/u + m i t a n a w + a j i w aː k + n iː s u	four -ty plus two		4 13 12 2		Okimasis2018
@@ -56,7 +56,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 46	Plains_Cree	forty six	nēmitanaw ayiwāk nikotwāsik	n eː -/w -/u + m i t a n a w + a j i w aː k + n i k o t w aː s i k	four -ty plus six		4 13 12 6		Okimasis2018
 47	Plains_Cree	forty seven	nēmitanaw ayiwāk tēpakohp	n eː -/w -/u + m i t a n a w + a j i w aː k + t eː p a k u h p	four -ty plus seven		4 13 12 7		Okimasis2018
 48	Plains_Cree	forty eight	nēmitanaw ayiwāk ayēnānēw	n eː -/w -/u + m i t a n a w + a j i w aː k + a j eː n aː n eː w	four -ty plus eight		4 13 12 8		Okimasis2018
-49	Plains_Cree	fifty	kēkāc-niyānanomitanaw	k eː k aː ts + n i j aː n a n + u/- m i t a n a w	nearly five -ty		9 5 13		Okimasis2018
+49	Plains_Cree	forty nine	kēkāc-niyānanomitanaw	k eː k aː ts + n i j aː n a n + u/- m i t a n a w	nearly five -ty		9 5 13		Okimasis2018
 50	Plains_Cree	fifty	niyānanomitanaw	n i j aː n a n + u/- m i t a n a w	five -ty		5 13		Okimasis2018
 51	Plains_Cree	fifty one	niyānanomitanaw ayiwāk pēyak	n i j aː n a n + u/- m i t a n a w + a j i w aː k + p eː j a k	five -ty plus one		5 13 12 1		Okimasis2018
 52	Plains_Cree	fifty two	niyānanomitanaw ayiwāk nīso	n i j aː n a n + u/- m i t a n a w + a j i w aː k + n iː s u	five -ty plus two		5 13 12 2		Okimasis2018
@@ -66,7 +66,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 56	Plains_Cree	fifty six	niyānanomitanaw ayiwāk nikotwāsik	n i j aː n a n + u/- m i t a n a w + a j i w aː k + n i k o t w aː s i k	five -ty plus six		5 13 12 6		Okimasis2018
 57	Plains_Cree	fifty seven	niyānanomitanaw ayiwāk tēpakohp	n i j aː n a n + u/- m i t a n a w + a j i w aː k + t eː p a k u h p	five -ty plus seven		5 13 12 7		Okimasis2018
 58	Plains_Cree	fifty eight	niyānanomitanaw ayiwāk ayēnānēw	n i j aː n a n + u/- m i t a n a w + a j i w aː k + a j eː n aː n eː w	five -ty plus eight		5 13 12 8		Okimasis2018
-59	Plains_Cree	sixty	kēkāc-nikotwāsomitanaw	k eː k aː ts + n i k o t w aː s -/i -/k + u/- m i t a n a w	nearly six -ty		9 6 13		Okimasis2018
+59	Plains_Cree	fifty nine	kēkāc-nikotwāsomitanaw	k eː k aː ts + n i k o t w aː s -/i -/k + u/- m i t a n a w	nearly six -ty		9 6 13		Okimasis2018
 60	Plains_Cree	sixty	nikotwāsomitanaw	n i k o t w aː s -/i -/k + u/- m i t a n a w	six -ty		6 13		Okimasis2018
 61	Plains_Cree	sixty one	nikotwāsomitanaw ayiwāk pēyak	n i k o t w aː s -/i -/k + u/- m i t a n a w + a j i w aː k + p eː j a k	six -ty plus one		6 13 12 1		Okimasis2018
 62	Plains_Cree	sixty two	nikotwāsomitanaw ayiwāk nīso	n i k o t w aː s -/i -/k + u/- m i t a n a w + a j i w aː k + n iː s u	six -ty plus two		6 13 12 2		Okimasis2018
@@ -76,7 +76,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 66	Plains_Cree	sixty six	nikotwāsomitanaw ayiwāk nikotwāsik	n i k o t w aː s -/i -/k + u/- m i t a n a w + a j i w aː k + n i k o t w aː s i k	six -ty plus six		6 13 12 6		Okimasis2018
 67	Plains_Cree	sixty seven	nikotwāsomitanaw ayiwāk tēpakohp	n i k o t w aː s -/i -/k + u/- m i t a n a w + a j i w aː k + t eː p a k u h p	six -ty plus seven		6 13 12 7		Okimasis2018
 68	Plains_Cree	sixty eight	nikotwāsomitanaw ayiwāk ayēnānēw	n i k o t w aː s -/i -/k + u/- m i t a n a w + a j i w aː k + a j eː n aː n eː w	six -ty plus eight		6 13 12 8		Okimasis2018
-69	Plains_Cree	seventy	kēkāc-tēpakohpomitanaw	k eː k aː ts + t eː p a k u h p + u/- m i t a n a w	nearly seven -ty		9 7 13		Okimasis2018
+69	Plains_Cree	sixty nine	kēkāc-tēpakohpomitanaw	k eː k aː ts + t eː p a k u h p + u/- m i t a n a w	nearly seven -ty		9 7 13		Okimasis2018
 70	Plains_Cree	seventy	tēpakohpomitanaw	t eː p a k u h p + u/- m i t a n a w	seven -ty		7 13		Okimasis2018
 71	Plains_Cree	seventy one	tēpakohpomitanaw ayiwāk pēyak	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + p eː j a k	seven -ty plus one		7 13 12 1		Okimasis2018
 72	Plains_Cree	seventy two	tēpakohpomitanaw ayiwāk nīso	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + n iː s u	seven -ty plus two		7 13 12 2		Okimasis2018
@@ -86,7 +86,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 76	Plains_Cree	seventy six	tēpakohpomitanaw ayiwāk nikotwāsik	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + n i k o t w aː s i k	seven -ty plus six		7 13 12 6		Okimasis2018
 77	Plains_Cree	seventy seven	tēpakohpomitanaw ayiwāk tēpakohp	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + t eː p a k u h p	seven -ty plus seven		7 13 12 7		Okimasis2018
 78	Plains_Cree	seventy eight	tēpakohpomitanaw ayiwāk ayēnānēw	t eː p a k u h p + u/- m i t a n a w + a j i w aː k + a j eː n aː n eː w	seven -ty plus eight		7 13 12 8		Okimasis2018
-79	Plains_Cree	eighty	kēkāc-ayēnānēwomitanaw	k eː k aː ts + a j eː n aː n eː w + u/- m i t a n a w	nearly eight -ty		9 8 13		Okimasis2018
+79	Plains_Cree	seventy nine	kēkāc-ayēnānēwomitanaw	k eː k aː ts + a j eː n aː n eː w + u/- m i t a n a w	nearly eight -ty		9 8 13		Okimasis2018
 80	Plains_Cree	eighty	ayēnānēwomitanaw	a j eː n aː n eː w + u/- m i t a n a w	eight -ty		8 13		Okimasis2018
 81	Plains_Cree	eighty one	ayēnānēwomitanaw ayiwāk pēyak	a j eː n aː n eː w + u/- m i t a n a w + a j i w aː k + p eː j a k	eight -ty plus one		8 13 12 1		Okimasis2018
 82	Plains_Cree	eighty two	ayēnānēwomitanaw ayiwāk nīso	a j eː n aː n eː w + u/- m i t a n a w + a j i w aː k + n iː s u	eight -ty plus two		8 13 12 2		Okimasis2018
@@ -96,7 +96,7 @@ ID	DOCULECT	CONCEPT	FORM	TOKENS	MORPHEMES	ALIGNMENT	COGIDS	NOTE	SOURCE
 86	Plains_Cree	eighty six	ayēnānēwomitanaw ayiwāk nikotwāsik	a j eː n aː n eː w + u/- m i t a n a w + a j i w aː k + n i k o t w aː s i k	eight -ty plus six		8 13 12 6		Okimasis2018
 87	Plains_Cree	eighty seven	ayēnānēwomitanaw ayiwāk tēpakohp	a j eː n aː n eː w + u/- m i t a n a w + a j i w aː k + t eː p a k u h p	eight -ty plus seven		8 13 12 7		Okimasis2018
 88	Plains_Cree	eighty eight	ayēnānēwomitanaw ayiwāk ayēnānēw	a j eː n aː n eː w + u/- m i t a n a w + a j i w aː k + a j eː n aː n eː w	eight -ty plus eight		8 13 12 8		Okimasis2018
-89	Plains_Cree	ninety	kēkāc-kēkā-mitātahtomitanaw	k eː k aː ts + k eː k aː -/ts + m i t aː t a h t + u/- m i t a n a w	nearly nearly ten -ty		9 9 10 13		Okimasis2018
+89	Plains_Cree	eighty nine	kēkāc-kēkā-mitātahtomitanaw	k eː k aː ts + k eː k aː -/ts + m i t aː t a h t + u/- m i t a n a w	nearly nearly ten -ty		9 9 10 13		Okimasis2018
 90	Plains_Cree	ninety	kēkā-mitātahtomitanaw	k eː k aː -/ts + m i t aː t a h t + u/- m i t a n a w	nearly ten -ty		9 10 13		Okimasis2018
 91	Plains_Cree	ninety one	kēkā-mitātahtomitanaw ayiwāk pēyak	k eː k aː -/ts + m i t aː t a h t + u/- m i t a n a w + a j i w aː k + p eː j a k	nearly ten -ty plus one		9 10 13 12 1		Okimasis2018
 92	Plains_Cree	ninety two	kēkā-mitātahtomitanaw ayiwāk nīso	k eː k aː -/ts + m i t aː t a h t + u/- m i t a n a w + a j i w aː k + n iː s u	nearly ten -ty plus two		9 10 13 12 2		Okimasis2018
