@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Rubehn, A., C. Cathcart, C. Rzymski, K. Bocklage, L. Ciucci, A. Kučerová, C. Y. Meloni, D. Snee, K. P. van Dam, and J.-M. List (2026): CoSiNuS: Compositional Structures in Numeral Systems Across Languages. [Dataset, v.2.0]
+  > Rubehn, A., C. Cathcart, C. Rzymski, K. Bocklage, L. Ciucci, A. Kučerová, C. Y. Meloni, D. Snee, K. P. van Dam, and J.-M. List (2026): CoSiNuS: Compositional Structures in Numeral Systems Across Languages. [Dataset, v2.0]
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
