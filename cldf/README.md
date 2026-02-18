@@ -1,20 +1,26 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist CLDF Dataset presenting Rubehn et al.'s "Compositional Structures in Numeral Systems Across Languages" from 2025
+# Wordlist CLDF Dataset presenting Rubehn et al.'s "Compositional Structures in Numeral Systems Across Languages (CoSiNuS)" from 2026
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
 **Sources**: [sources.bib](./sources.bib)
 
-CLDF dataset providing annotated numeral systems.
+CLDF dataset providing annotated numeral systems. The dataset's current version (v.2.0) is supplement to the following study:
+
+> Cathcart, C., A. Rubehn, K. Bocklage, L. Ciucci, K. P. van Dam, A. Kučerová, J. Mažara, C. Y. Meloni, D. Snee, and J.-M. List (2026): How communicatively optimal are exact numeral systems? Once more on lexicon size and morphosyntactic complexity. Preprint, under review, not peer-reviewed.
+
+The creation of the dataset (v.1.0) was first described and analyzed in:
+
+>Rubehn, A., C. Rzymski, L. Ciucci, K. Bocklage, A. Kučerová, D. Snee, A. Stephen, K. P. van Dam, and J.-M. List (2025): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 29-42. https://doi.org/10.18653/v1/2025.sigtyp-1.4
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Rubehn, A., C. Rzymski, L. Ciucci, K. Bocklage, A. Kučerová, D. Snee, A. Stephen, K. P. van Dam, and J.-M. List (2025): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 29-42. https://doi.org/10.18653/v1/2025.sigtyp-1.4
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Rubehn, A., C. Cathcart, C. Rzymski, K. Bocklage, L. Ciucci, A. Kučerová, C. Y. Meloni, D. Snee, K. P. van Dam, and J.-M. List (2026): CoSiNuS: Compositional Structures in Numeral Systems Across Languages. [Dataset, v.2.0]
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/numeralbank/cosinus/
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/cosinus//tree/160218e">numeralbank/cosinus/ v1.1-207-g160218e</a></li><li><a href="https://github.com/glottolog/glottolog/tree/2dfc4be1ed">Glottolog v4.8-43-g2dfc4be1ed</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/07b860f0">Concepticon v3.2.0-12-g07b860f0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/6e60c1d">CLTS v2.2.0-11-g6e60c1d</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/cosinus//tree/ccd137e">numeralbank/cosinus/ v1.1-208-gccd137e</a></li><li><a href="https://github.com/glottolog/glottolog/tree/2dfc4be1ed">Glottolog v4.8-43-g2dfc4be1ed</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/07b860f0">Concepticon v3.2.0-12-g07b860f0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/6e60c1d">CLTS v2.2.0-11-g6e60c1d</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | cosinus
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

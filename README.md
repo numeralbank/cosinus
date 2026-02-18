@@ -1,4 +1,4 @@
-# CLDF Dataset presenting Rubehn et al.'s "Compositional Structures in Numeral Systems Across Languages" from 2025
+# CLDF Dataset presenting Rubehn et al.'s "Compositional Structures in Numeral Systems Across Languages (CoSiNuS)" from 2026
 
 [![CLDF validation](https://github.com/numeralbank/cosinus//workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/cosinus//actions?query=workflow%3ACLDF-validation)
 
@@ -6,19 +6,25 @@
 
 If you use these data please cite
 - the original source
-  > Rubehn, A., C. Rzymski, L. Ciucci, K. Bocklage, A. Kučerová, D. Snee, A. Stephen, K. P. van Dam, and J.-M. List (2025): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 29-42. https://doi.org/10.18653/v1/2025.sigtyp-1.4
+  > Rubehn, A., C. Cathcart, C. Rzymski, K. Bocklage, L. Ciucci, A. Kučerová, C. Y. Meloni, D. Snee, K. P. van Dam, and J.-M. List (2026): CoSiNuS: Compositional Structures in Numeral Systems Across Languages. [Dataset, v.2.0]
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
-CLDF dataset providing annotated numeral systems.
+CLDF dataset providing annotated numeral systems. The dataset's current version (v.2.0) is supplement to the following study:
+
+> Cathcart, C., A. Rubehn, K. Bocklage, L. Ciucci, K. P. van Dam, A. Kučerová, J. Mažara, C. Y. Meloni, D. Snee, and J.-M. List (2026): How communicatively optimal are exact numeral systems? Once more on lexicon size and morphosyntactic complexity. Preprint, under review, not peer-reviewed.
+
+The creation of the dataset (v.1.0) was first described and analyzed in:
+
+>Rubehn, A., C. Rzymski, L. Ciucci, K. Bocklage, A. Kučerová, D. Snee, A. Stephen, K. P. van Dam, and J.-M. List (2025): Annotating and Inferring Compositional Structures in Numeral Systems Across Languages. In: Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2025). 29-42. https://doi.org/10.18653/v1/2025.sigtyp-1.4
 
 This dataset is licensed under a CC-BY-4.0 license
 
 ## Notes
 
-# A Note on Browsing the Data with PyCLDF
+### A Note on Browsing the Data with PyCLDF
 
 If you have installed `pycldf` via `pip` in Python (using a fresh virtual environment), you can easily browse the data in the following way. The following code accesses all forms in the data. The individual data types are automatically imposed by `pycldf`. 
 
@@ -250,18 +256,18 @@ $ sqlite3 cosinus.sqlite < flat.sql > cosinus.csv
 
 # Contributors
 
-Name                  | GitHub user | Description                      | Role
----                   |-------------| ---                              | ---
-Arne Rubehn           | @arubehn    | data annotation, CLDF conversion | Author
-Christoph Rzymski     | @chrzyki    | CLDF conversion                  | Author
-Luca Ciucci           |             | data annotation                  | Author
-Katja Bocklage        |             | data annotation                  | Author
-Alžběta Kučerová      |             | data annotation                  | Author
-David Snee            |             | data annotation                  | Author
-Kellen Parker van Dam |             | data annotation                  | Author
-Chundra Cathcart      | @chundrac   | data annotation                  | Author
-Carlo Meloni          | @Cymelo92   | data annotation                  | Author
-Johann-Mattis List    | @lingulist  | CLDF conversion, data annotation | Author
+Name                  | GitHub user    | Description                      | Role
+---                   |----------------| ---                              | ---
+Arne Rubehn           | @arubehn       | data annotation, CLDF conversion | Author
+Christoph Rzymski     | @chrzyki       | CLDF conversion                  | Author
+Luca Ciucci           | @LCiucci       | data annotation                  | Author
+Katja Bocklage        | @katjabocklage | data annotation                  | Author
+Alžběta Kučerová      | @alzkuc        | data annotation                  | Author
+David Snee            | @DavidSnee     | data annotation                  | Author
+Kellen Parker van Dam | @patkaiist     | data annotation                  | Author
+Chundra Cathcart      | @chundrac      | data annotation                  | Author
+Carlo Meloni          | @Cymelo92      | data annotation                  | Author
+Johann-Mattis List    | @lingulist     | CLDF conversion, data annotation | Author
 
 
 

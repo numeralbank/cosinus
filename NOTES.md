@@ -1,4 +1,4 @@
-# A Note on Browsing the Data with PyCLDF
+### A Note on Browsing the Data with PyCLDF
 
 If you have installed `pycldf` via `pip` in Python (using a fresh virtual environment), you can easily browse the data in the following way. The following code accesses all forms in the data. The individual data types are automatically imposed by `pycldf`. 
 
